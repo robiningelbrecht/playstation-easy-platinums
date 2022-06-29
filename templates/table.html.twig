@@ -1,0 +1,28 @@
+<table>
+    <thead>
+    <tr>
+        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th></th>
+        <th>Approx. Time</th>
+        <th>Trophies</th>
+        <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-gold.png" alt="gold" width="20"/></th>
+        <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-silver.png" alt="silver" width="20"/></th>
+        <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-bronze.png" alt="bronze" width="20"/></th>
+        <th>Total points</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for row in rows %}
+        <tr>
+            <td><img src="{{ row.thumbnail }}" alt="{{ row.title }}" width="60"></td>
+            <td><a href="{{ row.uri }}">{{ row.title }}</a> <em>({{ row.platform }} - {{ row.region }})</em></td>
+            <td align="center">{{ row.approximateTime }}</td>
+            <td align="center">{{ row.trophiesTotal }}</td>
+            <td align="center">{{ row.trophiesGold }}</td>
+            <td align="center">{{ row.trophiesSilver }}</td>
+            <td align="center">{{ row.trophiesBronze }}</td>
+            <td align="center">{{ row.points }}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>

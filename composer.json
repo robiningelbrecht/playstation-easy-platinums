@@ -1,0 +1,26 @@
+{
+  "name": "robiningelbrecht/playstation-easy-platinums",
+  "description": "This repository is a collection of easy and quick obtainable PlayStation platinum trophies",
+  "keywords": [
+    "README",
+    "PlayStation"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Robin Ingelbrecht",
+      "email": "ingelbrecht_robin@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1",
+    "guzzlehttp/guzzle": "^7.4",
+    "adhocore/cli": "^0.9.1",
+    "twig/twig": "^3.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}

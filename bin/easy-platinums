@@ -1,0 +1,4 @@
+#!/usr/bin/php
+<?php
+
+require dirname(__DIR__) . '/easy-platinums.php';
