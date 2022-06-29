@@ -68,7 +68,7 @@ class TrophyFetcher
 
             $json[] = [
                 'id' => $id['value'],
-                'title' => $title['value'],
+                'title' => html_entity_decode($title['value']),
                 'region' => $region['value'],
                 'platform' => $platform['value'],
                 'thumbnail' => 'https://i.psnprofiles.com/games/' . $thumb['value'],
