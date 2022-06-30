@@ -7,15 +7,20 @@ use Twig\Loader\FilesystemLoader;
 
 class ReadMe
 {
-    private const README_FILE = 'README.md';
-    private const JSON_FILE = 'easy-platinums.json';
+    public const README_FILE = 'README.md';
+
+    public function __construct(
+        private FileContentsWrapper $fileContentsWrapper
+    )
+    {
+    }
 
     public function update(): void
     {
         if (!file_exists(self::README_FILE)) {
             throw new \RuntimeException('README.md not found');
         }
-        if (!file_exists(self::JSON_FILE)) {
+        if (!file_exists(TrophyFetcher::JSON_FILE)) {
             throw new \RuntimeException('easy-platinums.json not found. Run "fetch" first');
         }
 
@@ -24,15 +29,15 @@ class ReadMe
 
         $template = $twig->load('table.html.twig');
         $render = $template->render([
-            'rows'=> json_decode(file_get_contents(self::JSON_FILE))
+            'rows' => array_values(json_decode(file_get_contents(TrophyFetcher::JSON_FILE), true)),
         ]);
 
         $content = preg_replace(
             '/<!-- start easy-platinums -->([\s\S]*)<!-- end easy-platinums -->/imU',
             '<!-- start easy-platinums -->' . PHP_EOL . $render . PHP_EOL . '<!-- end easy-platinums -->',
-            file_get_contents(self::README_FILE)
+            $this->fileContentsWrapper->get(self::README_FILE)
         );
 
-        file_put_contents(self::README_FILE, $content);
+        $this->fileContentsWrapper->put(self::README_FILE, $content);
     }
 }

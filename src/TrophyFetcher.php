@@ -2,14 +2,17 @@
 
 namespace App;
 
+use Carbon\CarbonInterval;
 use GuzzleHttp\Client;
 
 class TrophyFetcher
 {
+    public const JSON_FILE = 'easy-platinums.json';
     private const PROFILE_NAME = 'Fluttezuhher';
 
     public function __construct(
-        private Client $client
+        private Client $client,
+        private FileContentsWrapper $fileContentsWrapper,
     )
     {
     }
@@ -21,7 +24,6 @@ class TrophyFetcher
         if (200 !== $response->getStatusCode()) {
             throw new \RuntimeException('Could not fetch games');
         }
-
         $content = json_decode($response->getBody()->getContents(), true);
 
         if (empty($content['html'])) {
@@ -30,58 +32,63 @@ class TrophyFetcher
 
         preg_match_all('/<tr.*?>(?<games>[\s\S]*)<\/tr>/imU', $content['html'], $rows);
 
-        $json = [];
+        $json = json_decode($this->fileContentsWrapper->get(self::JSON_FILE), true);
         foreach ($rows['games'] as $game) {
-            preg_match('/href=[\S]*"\/trophies\/(?<value>[0-9]*)-[\S]*"/im', $game, $id);
-            if (empty($id['value'])) {
+            $regexes = [
+                'id' => '/href=[\S]*"\/trophies\/(?<value>[0-9]*)-[\S]*"/im',
+                'platinumTime' => '/Platinum[\s]*in <b>(?<value>.*?)<\/b>/im',
+                'title' => '/<a class="title"[\s\S]*>(?<value>.*?)<\/a>/im',
+                'thumb' => '/<img src="https:\/\/i.psnprofiles.com\/games\/(?<value>[\S]*)" \/>/im',
+                'uri' => '/<a class="title" href="(?<value>[\S]*)\/' . self::PROFILE_NAME . '" rel="nofollow">/im',
+                'region' => '/<\/bullet>[\s]*(?<value>[\S]*)[\s]*<\/span>/imU',
+                'platform' => '/<span class="tag platform[\s\S]*">(?<value>[\S]*)<\/span>/imU',
+                'trophiesTotal' => '/All[\s]*<b>(?<value>[\d]+)<\/b> Trophies/imU',
+                'trophiesGold' => '/<span class="icon-sprite gold"><\/span><span>(?<value>[\d]+)<\/span>/imU',
+                'trophiesSilver' => '/<span class="icon-sprite silver"><\/span><span>(?<value>[\d]+)<\/span>/imU',
+                'trophiesBronze' => '/<span class="icon-sprite bronze"><\/span><span>(?<value>[\d]+)<\/span>/imU',
+            ];
+
+            $matches = [];
+            foreach ($regexes as $field => $regex) {
+                if (!preg_match($regex, $game, $match)) {
+                    continue;
+                }
+
+                $matches[$field] = $match['value'];
+            }
+
+            if (count($regexes) !== count($matches)) {
+                // Not all regexes were successful skip.
                 continue;
             }
 
-            preg_match('/Platinum[\s]*in <b>(?<value>.*?)<\/b>/im', $game, $platinumTime);
-            if (empty($platinumTime['value'])) {
+            if (array_key_exists($matches['id'], $json)) {
+                // Already fetched this game, skip.
                 continue;
             }
 
-            preg_match('/<a class="title"[\s\S]*>(?<value>.*?)<\/a>/im', $game, $title);
-            if (empty($title['value'])) {
+            $approxTime = ceil(abs(((new \DateTime($matches['platinumTime']))->getTimestamp() - (new \DateTime())->getTimestamp())) / 60);
+            if($approxTime > 60){
+                // Takes too much time to obtain platinum, skip.
                 continue;
             }
 
-            preg_match('/<img src="https:\/\/i.psnprofiles.com\/games\/(?<value>[\S]*)" \/>/im', $game, $thumb);
-            if (empty($thumb['value'])) {
-                continue;
-            }
-
-            preg_match('/<a class="title" href="(?<value>[\S]*)\/' . self::PROFILE_NAME . '" rel="nofollow">/im', $game, $uri);
-            if (empty($uri['value'])) {
-                continue;
-            }
-            preg_match('/<\/bullet>[\s]*(?<value>[\S]*)[\s]*<\/span>/imU', $game, $region);
-            if (empty($region['value'])) {
-                continue;
-            }
-
-            preg_match('/<span class="tag platform[\s\S]*">(?<value>[\S]*)<\/span>/imU', $game, $platform);
-            if (empty($platform['value'])) {
-                continue;
-            }
-
-            $json[] = [
-                'id' => $id['value'],
-                'title' => html_entity_decode($title['value']),
-                'region' => $region['value'],
-                'platform' => $platform['value'],
-                'thumbnail' => 'https://i.psnprofiles.com/games/' . $thumb['value'],
-                'uri' => 'https://psnprofiles.com' . $uri['value'],
-                'approximateTime' => '3 min',
-                'trophiesTotal' => 21,
-                'trophiesGold' => 10,
-                'trophiesSilver' => 2,
-                'trophiesBronze' => 10,
-                'points' => 1000,
+            $json[$matches['id']] = [
+                'id' => $matches['id'],
+                'title' => html_entity_decode($matches['title']),
+                'region' => $matches['region'],
+                'platform' => $matches['platform'],
+                'thumbnail' => 'https://i.psnprofiles.com/games/' . $matches['thumb'],
+                'uri' => 'https://psnprofiles.com' . $matches['uri'],
+                'approximateTime' => $approxTime. ' min',
+                'trophiesTotal' => $matches['trophiesTotal'],
+                'trophiesGold' => $matches['trophiesGold'],
+                'trophiesSilver' => $matches['trophiesSilver'],
+                'trophiesBronze' => $matches['trophiesBronze'],
+                'points' => ($matches['trophiesBronze'] * 15) + ($matches['trophiesSilver'] * 30) + ($matches['trophiesGold'] * 90) + 300,
             ];
         }
 
-        file_put_contents('easy-platinums.json', json_encode($json));
+        $this->fileContentsWrapper->put(self::JSON_FILE, json_encode($json));
     }
 }
