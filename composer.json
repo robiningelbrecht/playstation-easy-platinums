@@ -16,8 +16,7 @@
     "php": "^8.1",
     "guzzlehttp/guzzle": "^7.4",
     "adhocore/cli": "^0.9.1",
-    "twig/twig": "^3.4",
-    "nesbot/carbon": "^2.59"
+    "twig/twig": "^3.4"
   },
   "autoload": {
     "psr-4": {

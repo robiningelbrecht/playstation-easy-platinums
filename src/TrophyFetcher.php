@@ -2,13 +2,12 @@
 
 namespace App;
 
-use Carbon\CarbonInterval;
 use GuzzleHttp\Client;
 
 class TrophyFetcher
 {
     public const JSON_FILE = 'easy-platinums.json';
-    private const PROFILE_NAME = 'Fluttezuhher';
+    private const PROFILE_NAME = 'ikemenzi';
 
     public function __construct(
         private Client $client,
@@ -19,6 +18,11 @@ class TrophyFetcher
 
     public function doFetch(): void
     {
+        $page = 0;
+        do{
+
+            $page++;
+        }while($page < 130);
         $response = $this->client->get('https://psnprofiles.com/' . self::PROFILE_NAME . '?ajax=1&page=0');
 
         if (200 !== $response->getStatusCode()) {
@@ -67,11 +71,21 @@ class TrophyFetcher
                 continue;
             }
 
+            if (!in_array($matches['platform'], ['PS4', 'PS5'])) {
+                // Not interested in very old games, skip.
+                continue;
+            }
+
             $approxTime = ceil(abs(((new \DateTime($matches['platinumTime']))->getTimestamp() - (new \DateTime())->getTimestamp())) / 60);
-            if($approxTime > 60){
+            if ($approxTime > 60) {
                 // Takes too much time to obtain platinum, skip.
                 continue;
             }
+
+            // Download thumb.
+            $filename = $matches['id'] . '.' . pathinfo($matches['thumb'], PATHINFO_EXTENSION);
+            $content = $this->fileContentsWrapper->get('https://i.psnprofiles.com/games/' . $matches['thumb']);
+            $this->fileContentsWrapper->put('assets/thumbs/' . $filename, $content);
 
             $json[$matches['id']] = [
                 'id' => $matches['id'],
@@ -80,7 +94,7 @@ class TrophyFetcher
                 'platform' => $matches['platform'],
                 'thumbnail' => 'https://i.psnprofiles.com/games/' . $matches['thumb'],
                 'uri' => 'https://psnprofiles.com' . $matches['uri'],
-                'approximateTime' => $approxTime. ' min',
+                'approximateTime' => $approxTime . ' min',
                 'trophiesTotal' => $matches['trophiesTotal'],
                 'trophiesGold' => $matches['trophiesGold'],
                 'trophiesSilver' => $matches['trophiesSilver'],
