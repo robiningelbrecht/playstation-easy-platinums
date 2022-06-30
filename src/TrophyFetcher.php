@@ -18,11 +18,6 @@ class TrophyFetcher
 
     public function doFetch(): void
     {
-        $page = 0;
-        do{
-
-            $page++;
-        }while($page < 130);
         $response = $this->client->get('https://psnprofiles.com/' . self::PROFILE_NAME . '?ajax=1&page=0');
 
         if (200 !== $response->getStatusCode()) {
@@ -92,7 +87,7 @@ class TrophyFetcher
                 'title' => html_entity_decode($matches['title']),
                 'region' => $matches['region'],
                 'platform' => $matches['platform'],
-                'thumbnail' => 'https://i.psnprofiles.com/games/' . $matches['thumb'],
+                'thumbnail' => $filename,
                 'uri' => 'https://psnprofiles.com' . $matches['uri'],
                 'approximateTime' => $approxTime . ' min',
                 'trophiesTotal' => $matches['trophiesTotal'],
