@@ -1,6 +1,8 @@
 name: Easy platinums
 on:
   workflow_dispatch:
+  schedule:
+    - cron:  '30 5,17 * * *'
 jobs:
   update:
     name: Update README.md
