@@ -1,0 +1,34 @@
+name: Easy platinums
+on:
+  workflow_dispatch:
+jobs:
+  update:
+    name: Update README.md
+    runs-on: ubuntu-latest
+    steps:
+      # https://github.com/marketplace/actions/setup-php-action
+      - name: Setup PHP 8.1
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+
+      # https://github.com/marketplace/actions/checkout
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: composer install --prefer-dist
+
+      - name: Fetch new easy platinums
+        run: bin/easy-platinums fetch
+
+      - name: Update README.md
+        run: bin/easy-platinums update-readme
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'robiningelbrecht'
+          git config --global user.email 'robiningelbrecht@users.noreply.github.com'
+          git add .
+          git commit -m "Automated update of README.md"
+          git push
