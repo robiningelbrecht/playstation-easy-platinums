@@ -33,7 +33,7 @@ class ReadMe
         ]);
 
         $content = preg_replace(
-            '/<!-- start easy-platinums -->([\s\S]*)<!-- end easy-platinums -->/imU',
+            '/<!-- start easy-platinums -->([\s\S]*)<!-- end easy-platinums -->/im',
             '<!-- start easy-platinums -->' . PHP_EOL . $render . PHP_EOL . '<!-- end easy-platinums -->',
             $this->fileContentsWrapper->get(self::README_FILE)
         );
