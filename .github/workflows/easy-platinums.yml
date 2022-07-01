@@ -32,7 +32,7 @@ jobs:
         run: composer install --prefer-dist
 
       - name: Fetch new easy platinums
-        run: bin/easy-platinums fetch {{ github.event.inputs.profile-name }}
+        run: bin/easy-platinums fetch ${{ github.event.inputs.profile-name }}
 
       - name: Update README.md and pages
         run: bin/easy-platinums update
