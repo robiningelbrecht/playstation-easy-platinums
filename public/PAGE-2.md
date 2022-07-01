@@ -31,6 +31,126 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
     </thead>
     <tbody>
             <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16122.png" alt="Many Faces" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16122-many-faces">Many Faces</a> <kbd>PS5 • EU</kbd></td>
+            <td align="center">14 min</td>
+            <td align="center">15</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16207.png" alt="Slap the Rocks" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16207-slap-the-rocks">Slap the Rocks</a> <kbd>PS5 • AS</kbd></td>
+            <td align="center">9 min</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16209.png" alt="Slap the Rocks" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16209-slap-the-rocks">Slap the Rocks</a> <kbd>PS5 • NA</kbd></td>
+            <td align="center">9 min</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16208.png" alt="Slap the Rocks" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16208-slap-the-rocks">Slap the Rocks</a> <kbd>PS5 • EU</kbd></td>
+            <td align="center">9 min</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16218.png" alt="Slap the Rocks" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16218-slap-the-rocks">Slap the Rocks</a> <kbd>PS4 • AS</kbd></td>
+            <td align="center">9 min</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16217.png" alt="Slap the Rocks" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16217-slap-the-rocks">Slap the Rocks</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">9 min</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16215.png" alt="Slap the Rocks" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16215-slap-the-rocks">Slap the Rocks</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">11 min</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16231.png" alt="Energy Cycle" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16231-energy-cycle">Energy Cycle</a> <kbd>PS5 • JP</kbd></td>
+            <td align="center">6 min</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">6</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16232.png" alt="Energy Cycle" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16232-energy-cycle">Energy Cycle</a> <kbd>PS5 • AS</kbd></td>
+            <td align="center">6 min</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">6</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16230.png" alt="Energy Cycle" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16230-energy-cycle">Energy Cycle</a> <kbd>PS4 • JP</kbd></td>
+            <td align="center">8 min</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">6</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16186.png" alt="Dr. Oil" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16186-dr-oil">Dr. Oil</a> <kbd>PS4 • JP</kbd></td>
+            <td align="center">5 min</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16203.png" alt="Ultra Mission" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/16203-ultra-mission">Ultra Mission</a> <kbd>PS5 • AS</kbd></td>
+            <td align="center">7 min</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16057.png" alt="Ultra Mission" width="60"></td>
             <td><a href="https://psnprofiles.com/trophies/16057-ultra-mission">Ultra Mission</a> <kbd>PS5 • NA</kbd></td>
             <td align="center">11 min</td>
@@ -2409,126 +2529,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td align="center">6</td>
             <td align="center">3</td>
             <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15147.png" alt="Active Neurons" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/15147-active-neurons">Active Neurons</a> <kbd>PS5 • EU</kbd></td>
-            <td align="center">32 min</td>
-            <td align="center">19</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">3</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15418.png" alt="Zippy the Circle Challenge: Levels 11C, 12C, &amp; 13C" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/15418-zippy-the-circle-challenge-levels-11c-12c-13c">Zippy the Circle Challenge: Levels 11C, ...</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15413.png" alt="Zippy the Circle Challenge: Levels 11C, 12C, &amp; 13C" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/15413-zippy-the-circle-challenge-levels-11c-12c-13c">Zippy the Circle Challenge: Levels 11C, ...</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">3 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15360.png" alt="Valentine Candy Break 2 Head to Head" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/15360-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Head</a> <kbd>PS5 • EU</kbd></td>
-            <td align="center">12 min</td>
-            <td align="center">41</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">28</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15386.png" alt="Valentine Candy Break 2 Head to Head" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/15386-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Head</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">11 min</td>
-            <td align="center">41</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">28</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13564.png" alt="Horror Tales: The Wine" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13564-horror-tales-the-wine">Horror Tales: The Wine</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">51 min</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13560.png" alt="Horror Tales: The Wine" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13560-horror-tales-the-wine">Horror Tales: The Wine</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">60 min</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15410.png" alt="Nape Retroverse Collection" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/15410-nape-retroverse-collection">Nape Retroverse Collection</a> <kbd>PS5 • NA</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15411.png" alt="Nape Retroverse Collection" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/15411-nape-retroverse-collection">Nape Retroverse Collection</a> <kbd>PS5 • EU</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15412.png" alt="Nape Retroverse Collection" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/15412-nape-retroverse-collection">Nape Retroverse Collection</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15415.png" alt="Nape Retroverse Collection" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/15415-nape-retroverse-collection">Nape Retroverse Collection</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">4 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15315.png" alt="El Gancho" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/15315-el-gancho">El Gancho</a> <kbd>PS5 • EU</kbd></td>
-            <td align="center">26 min</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

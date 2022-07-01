@@ -31,6 +31,126 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
     </thead>
     <tbody>
             <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12666.png" alt="Kingdom of Arcadia" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12666-kingdom-of-arcadia">Kingdom of Arcadia</a> <kbd>PS5 • NA</kbd></td>
+            <td align="center">33 min</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12661.png" alt="Kingdom of Arcadia" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12661-kingdom-of-arcadia">Kingdom of Arcadia</a> <kbd>PS5 • EU</kbd></td>
+            <td align="center">40 min</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12714.png" alt="Kingdom of Arcadia" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12714-kingdom-of-arcadia">Kingdom of Arcadia</a> <kbd>PS5 • AS</kbd></td>
+            <td align="center">46 min</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12658.png" alt="Kingdom of Arcadia" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12658-kingdom-of-arcadia">Kingdom of Arcadia</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">42 min</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12664.png" alt="Kingdom of Arcadia" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12664-kingdom-of-arcadia">Kingdom of Arcadia</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">49 min</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12708.png" alt="Kingdom of Arcadia" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12708-kingdom-of-arcadia">Kingdom of Arcadia</a> <kbd>PS4 • JP</kbd></td>
+            <td align="center">51 min</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12612.png" alt="Newtonian Inversion" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12612-newtonian-inversion">Newtonian Inversion</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">33 min</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">6</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12614.png" alt="Newtonian Inversion" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12614-newtonian-inversion">Newtonian Inversion</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">27 min</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">6</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12426.png" alt="The Lost Cube" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12426-the-lost-cube">The Lost Cube</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">32 min</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12427.png" alt="The Lost Cube" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12427-the-lost-cube">The Lost Cube</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">36 min</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12310.png" alt="Retrace: Memories of Death" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12310-retrace-memories-of-death">Retrace: Memories of Death</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">37 min</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12311.png" alt="Retrace: Memories of Death" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/12311-retrace-memories-of-death">Retrace: Memories of Death</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">51 min</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12309.png" alt="Retrace: Memories of Death" width="60"></td>
             <td><a href="https://psnprofiles.com/trophies/12309-retrace-memories-of-death">Retrace: Memories of Death</a> <kbd>PS4 • AS</kbd></td>
             <td align="center">45 min</td>
@@ -2404,126 +2524,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11231.png" alt="Theme Park Simulator" width="60"></td>
             <td><a href="https://psnprofiles.com/trophies/11231-theme-park-simulator">Theme Park Simulator</a> <kbd>PS4 • EU</kbd></td>
             <td align="center">59 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11814.png" alt="Distraint 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11814-distraint-2">Distraint 2</a> <kbd>PS4 • AS</kbd></td>
-            <td align="center">58 min</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11903.png" alt="More Dark" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11903-more-dark">More Dark</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">11 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11904.png" alt="More Dark" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11904-more-dark">More Dark</a> <kbd>PS4 • AS</kbd></td>
-            <td align="center">13 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11902.png" alt="More Dark" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11902-more-dark">More Dark</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">20 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11883.png" alt="BFF or Die" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11883-bff-or-die">BFF or Die</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">14 min</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11884.png" alt="BFF or Die" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11884-bff-or-die">BFF or Die</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">21 min</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11891.png" alt="Super Korotama" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11891-super-korotama">Super Korotama</a> <kbd>PS4 • AS</kbd></td>
-            <td align="center">42 min</td>
-            <td align="center">24</td>
-            <td align="center">7</td>
-            <td align="center">10</td>
-            <td align="center">6</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11930.png" alt="Chickens On The Road" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11930-chickens-on-the-road">Chickens On The Road</a> <kbd>PS4 • AS</kbd></td>
-            <td align="center">5 min</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11931.png" alt="Chickens On The Road" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11931-chickens-on-the-road">Chickens On The Road</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">5 min</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11932.png" alt="Chickens On The Road" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11932-chickens-on-the-road">Chickens On The Road</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">5 min</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11281.png" alt="Even the Ocean" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11281-even-the-ocean">Even the Ocean</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">3 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11282.png" alt="Even the Ocean" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/11282-even-the-ocean">Even the Ocean</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">4 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>

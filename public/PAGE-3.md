@@ -31,6 +31,126 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
     </thead>
     <tbody>
             <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15147.png" alt="Active Neurons" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/15147-active-neurons">Active Neurons</a> <kbd>PS5 • EU</kbd></td>
+            <td align="center">32 min</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">6</td>
+            <td align="center">3</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15418.png" alt="Zippy the Circle Challenge: Levels 11C, 12C, &amp; 13C" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/15418-zippy-the-circle-challenge-levels-11c-12c-13c">Zippy the Circle Challenge: Levels 11C, ...</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">2 min</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15413.png" alt="Zippy the Circle Challenge: Levels 11C, 12C, &amp; 13C" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/15413-zippy-the-circle-challenge-levels-11c-12c-13c">Zippy the Circle Challenge: Levels 11C, ...</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">3 min</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15360.png" alt="Valentine Candy Break 2 Head to Head" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/15360-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Head</a> <kbd>PS5 • EU</kbd></td>
+            <td align="center">12 min</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15386.png" alt="Valentine Candy Break 2 Head to Head" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/15386-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Head</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">11 min</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13564.png" alt="Horror Tales: The Wine" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/13564-horror-tales-the-wine">Horror Tales: The Wine</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">51 min</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13560.png" alt="Horror Tales: The Wine" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/13560-horror-tales-the-wine">Horror Tales: The Wine</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">60 min</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15410.png" alt="Nape Retroverse Collection" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/15410-nape-retroverse-collection">Nape Retroverse Collection</a> <kbd>PS5 • NA</kbd></td>
+            <td align="center">2 min</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15411.png" alt="Nape Retroverse Collection" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/15411-nape-retroverse-collection">Nape Retroverse Collection</a> <kbd>PS5 • EU</kbd></td>
+            <td align="center">2 min</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15412.png" alt="Nape Retroverse Collection" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/15412-nape-retroverse-collection">Nape Retroverse Collection</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">2 min</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15415.png" alt="Nape Retroverse Collection" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/15415-nape-retroverse-collection">Nape Retroverse Collection</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">4 min</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15315.png" alt="El Gancho" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/15315-el-gancho">El Gancho</a> <kbd>PS5 • EU</kbd></td>
+            <td align="center">26 min</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15314.png" alt="El Gancho" width="60"></td>
             <td><a href="https://psnprofiles.com/trophies/15314-el-gancho">El Gancho</a> <kbd>PS5 • NA</kbd></td>
             <td align="center">30 min</td>
@@ -2409,126 +2529,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td align="center">7</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14848.png" alt="Memories of East Coast" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14848-memories-of-east-coast">Memories of East Coast</a> <kbd>PS5 • EU</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14847.png" alt="Memories of East Coast" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14847-memories-of-east-coast">Memories of East Coast</a> <kbd>PS5 • AS</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14868.png" alt="Memories of East Coast" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14868-memories-of-east-coast">Memories of East Coast</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14907.png" alt="Memories of East Coast" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14907-memories-of-east-coast">Memories of East Coast</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">3 min</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14913.png" alt="Memories of East Coast" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14913-memories-of-east-coast">Memories of East Coast</a> <kbd>PS4 • AS</kbd></td>
-            <td align="center">5 min</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14859.png" alt="6Souls" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14859-6souls">6Souls</a> <kbd>PS5 • EU</kbd></td>
-            <td align="center">15 min</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14860.png" alt="6Souls" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14860-6souls">6Souls</a> <kbd>PS5 • NA</kbd></td>
-            <td align="center">17 min</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14862.png" alt="6Souls" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14862-6souls">6Souls</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">19 min</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14861.png" alt="6Souls" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14861-6souls">6Souls</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">25 min</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14909.png" alt="A Year of Springs" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14909-a-year-of-springs">A Year of Springs</a> <kbd>PS5 • NA</kbd></td>
-            <td align="center">7 min</td>
-            <td align="center">22</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14911.png" alt="A Year of Springs" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14911-a-year-of-springs">A Year of Springs</a> <kbd>PS5 • EU</kbd></td>
-            <td align="center">7 min</td>
-            <td align="center">22</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14908.png" alt="A Year of Springs" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/14908-a-year-of-springs">A Year of Springs</a> <kbd>PS5 • JP</kbd></td>
-            <td align="center">7 min</td>
-            <td align="center">22</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

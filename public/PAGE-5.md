@@ -31,6 +31,126 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
     </thead>
     <tbody>
             <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14656.png" alt="Mastho is Together" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14656-mastho-is-together">Mastho is Together</a> <kbd>PS4 • AS</kbd></td>
+            <td align="center">4 min</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14405.png" alt="Reminiscence in the Night" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14405-reminiscence-in-the-night">Reminiscence in the Night</a> <kbd>PS5 • NA</kbd></td>
+            <td align="center">7 min</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14406.png" alt="Reminiscence in the Night" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14406-reminiscence-in-the-night">Reminiscence in the Night</a> <kbd>PS5 • EU</kbd></td>
+            <td align="center">5 min</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14408.png" alt="Reminiscence in the Night" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14408-reminiscence-in-the-night">Reminiscence in the Night</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">6 min</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14407.png" alt="Reminiscence in the Night" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14407-reminiscence-in-the-night">Reminiscence in the Night</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">7 min</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14472.png" alt="Nowhere Girl" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14472-nowhere-girl">Nowhere Girl</a> <kbd>PS5 • EU</kbd></td>
+            <td align="center">3 min</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14466.png" alt="Nowhere Girl" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14466-nowhere-girl">Nowhere Girl</a> <kbd>PS5 • NA</kbd></td>
+            <td align="center">4 min</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14464.png" alt="Nowhere Girl" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14464-nowhere-girl">Nowhere Girl</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">4 min</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14465.png" alt="Nowhere Girl" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14465-nowhere-girl">Nowhere Girl</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">4 min</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14642.png" alt="Finger Fitness" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14642-finger-fitness">Finger Fitness</a> <kbd>PS5 • EU</kbd></td>
+            <td align="center">4 min</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">1</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14641.png" alt="Finger Fitness" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14641-finger-fitness">Finger Fitness</a> <kbd>PS5 • NA</kbd></td>
+            <td align="center">4 min</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">1</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14640.png" alt="Finger Fitness" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/14640-finger-fitness">Finger Fitness</a> <kbd>PS5 • AS</kbd></td>
+            <td align="center">10 min</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">1</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14188.png" alt="Blaze and the Monster Machines: Axle City Racers" width="60"></td>
             <td><a href="https://psnprofiles.com/trophies/14188-blaze-and-the-monster-machines-axle-city-racers">Blaze and the Monster Machines: Axle Cit...</a> <kbd>PS4 • NA</kbd></td>
             <td align="center">45 min</td>
@@ -2409,126 +2529,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13601.png" alt="Dating Life: マイリー&amp;エミリー" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13601-dating-life-マイリーエミリー">Dating Life: マイリー&amp;エミリー</a> <kbd>PS4 • JP</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13597.png" alt="Dating Life: Miley X Emily" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13597-dating-life-miley-x-emily">Dating Life: Miley X Emily</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13600.png" alt="Dating Life: Miley X Emily" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13600-dating-life-miley-x-emily">Dating Life: Miley X Emily</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13419.png" alt="Track (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13419-track-challenge-mode-edition-breakthrough-gaming-arcade">Track (Challenge Mode Edition): Breakthr...</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">7 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13418.png" alt="Track (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13418-track-challenge-mode-edition-breakthrough-gaming-arcade">Track (Challenge Mode Edition): Breakthr...</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">4 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13568.png" alt="Bowling: Story Three (Jane Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13568-bowling-story-three-jane-version-project-summer-ice">Bowling: Story Three (Jane Version) - Pr...</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">1 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13567.png" alt="Bowling: Story Three (Jane Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13567-bowling-story-three-jane-version-project-summer-ice">Bowling: Story Three (Jane Version) - Pr...</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">1 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13622.png" alt="Bowling: Story Three (Pammy Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13622-bowling-story-three-pammy-version-project-summer-ice">Bowling: Story Three (Pammy Version) - P...</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">2 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12279.png" alt="貴方の仮面の外し方★リマスター版" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12279-貴方の仮面の外し方リマスター版">貴方の仮面の外し方★リマスター版</a> <kbd>PS4 • JP</kbd></td>
-            <td align="center">18 min</td>
-            <td align="center">25</td>
-            <td align="center">6</td>
-            <td align="center">16</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13149.png" alt="Farm Frenzy: Refreshed" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13149-farm-frenzy-refreshed">Farm Frenzy: Refreshed</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">32 min</td>
-            <td align="center">19</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">4</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13148.png" alt="Farm Frenzy: Refreshed" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13148-farm-frenzy-refreshed">Farm Frenzy: Refreshed</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">33 min</td>
-            <td align="center">19</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">4</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13488.png" alt="Scrap Garden" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13488-scrap-garden">Scrap Garden</a> <kbd>PS4 • NA</kbd></td>
-            <td align="center">53 min</td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>
