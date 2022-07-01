@@ -11,7 +11,7 @@ class FileWriter
     private const PAGE_SIZE = 250;
 
     public function __construct(
-        private FileContentsWrapper $fileContentsWrapper
+        private readonly FileContentsWrapper $fileContentsWrapper
     )
     {
     }
@@ -29,7 +29,7 @@ class FileWriter
         $twig = new Environment($loader);
         $template = $twig->load('table.html.twig');
 
-        $rows = json_decode(file_get_contents(TrophyFetcher::JSON_FILE), true);
+        $rows = json_decode($this->fileContentsWrapper->get(TrophyFetcher::JSON_FILE), true);
         // Sort rows by ID DESC. We're assuming that highest id is the newest game.
         krsort($rows, SORT_NUMERIC);
         // Remove duplicate rows. Apparently some games are returned multiple times.

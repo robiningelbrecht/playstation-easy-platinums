@@ -4,7 +4,7 @@ namespace App;
 
 class FileContentsWrapper
 {
-    public function get(string $filename): string
+    public function get(string $filename): string|false
     {
         return file_get_contents($filename);
     }
