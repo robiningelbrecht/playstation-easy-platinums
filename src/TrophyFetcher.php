@@ -78,6 +78,11 @@ class TrophyFetcher
                 continue;
             }
 
+            if ($approxTime == 0) {
+                // Something is wrong, skip.
+                continue;
+            }
+
             // Download thumb.
             $filename = $matches['id'] . '.' . pathinfo($matches['thumb'], PATHINFO_EXTENSION);
             $content = $this->fileContentsWrapper->get('https://i.psnprofiles.com/games/' . $matches['thumb']);

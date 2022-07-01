@@ -38,7 +38,7 @@ class FileWriter
         // Sort rows by ID DESC. We're assuming that highest id is the newest game.
         krsort($rows, SORT_NUMERIC);
         // Remove duplicate rows. Apparently some games are returned multiple times.
-        $this->removeDuplicateEntries($rows);
+        $this->removeDuplicateAndFaultyEntries($rows);
 
         $numberOfPages = ceil(count($rows) / self::PAGE_SIZE);
 
@@ -81,10 +81,15 @@ class FileWriter
         }
     }
 
-    private function removeDuplicateEntries(array &$rows): void
+    private function removeDuplicateAndFaultyEntries(array &$rows): void
     {
         $keys = [];
         foreach ($rows as $delta => $row) {
+            if($row['approximateTime'] === '0 min'){
+                unset($rows[$delta]);
+                continue;
+            }
+
             $key = $row['title'] . $row['platform'] . ($row['region'] ?? '');
             if (!in_array($key, $keys)) {
                 $keys[] = $key;
