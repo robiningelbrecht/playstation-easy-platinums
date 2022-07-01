@@ -38,7 +38,8 @@ jobs:
         run: |
           PROFILES=${{ github.event.inputs.profile-nam || env.DEFAULT_PROFILE_NAMES }}
           for profile in ${PROFILES//,/ } ; do 
-            bin/easy-platinums fetch ${{ profile }}
+            echo $profile
+            bin/easy-platinums fetch $profile
           done
 
       - name: Update README.md and pages
