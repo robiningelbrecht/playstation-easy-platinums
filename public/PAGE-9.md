@@ -31,6 +31,36 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
     </thead>
     <tbody>
             <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10363.png" alt="Reed" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/10363-reed">Reed</a> <kbd>PS4 • NA</kbd></td>
+            <td align="center">14 min</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10364.png" alt="Reed" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/10364-reed">Reed</a> <kbd>PS4 • EU</kbd></td>
+            <td align="center">16 min</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10378.png" alt="Reed" width="60"></td>
+            <td><a href="https://psnprofiles.com/trophies/10378-reed">Reed</a> <kbd>PS4 • AS</kbd></td>
+            <td align="center">19 min</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10276.png" alt="Reknum" width="60"></td>
             <td><a href="https://psnprofiles.com/trophies/10276-reknum">Reknum</a> <kbd>PS4 • AS</kbd></td>
             <td align="center">46 min</td>
