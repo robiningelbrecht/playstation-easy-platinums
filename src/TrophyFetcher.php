@@ -83,7 +83,7 @@ class TrophyFetcher
             $content = $this->fileContentsWrapper->get('https://i.psnprofiles.com/games/' . $matches['thumb']);
             $this->fileContentsWrapper->put('assets/thumbs/' . $filename, $content);
 
-            $newEntry = [$matches['id'] => [
+            $json[$matches['id']] = [
                 'id' => $matches['id'],
                 'title' => html_entity_decode($matches['title']),
                 'region' => $matches['region'],
@@ -96,10 +96,7 @@ class TrophyFetcher
                 'trophiesSilver' => $matches['trophiesSilver'],
                 'trophiesBronze' => $matches['trophiesBronze'],
                 'points' => ($matches['trophiesBronze'] * 15) + ($matches['trophiesSilver'] * 30) + ($matches['trophiesGold'] * 90) + 300,
-            ]];
-
-            // Prepend new entry to beginning of array.
-            $json = $newEntry + $json;
+            ];
         }
 
         $this->fileContentsWrapper->put(self::JSON_FILE, json_encode($json));

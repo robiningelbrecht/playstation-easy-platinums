@@ -8,7 +8,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 use Ahc\Cli\Application;
 use App\TrophyFetcher;
-use App\Writer;
+use App\FileWriter;
 use App\FileContentsWrapper;
 use GuzzleHttp\Client;
 
@@ -27,7 +27,7 @@ $app
     ->tap()
     ->command('update', 'Update list of games')
     ->action(function () {
-        (new Writer(new FileContentsWrapper()))->writePages();
+        (new FileWriter(new FileContentsWrapper()))->writePages();
     });
 
 $app->logo('

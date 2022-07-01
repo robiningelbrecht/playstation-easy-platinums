@@ -5,7 +5,7 @@ namespace App;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
 
-class Writer
+class FileWriter
 {
     public const README_FILE = 'README.md';
     private const PAGE_SIZE = 250;
@@ -30,6 +30,8 @@ class Writer
         $template = $twig->load('table.html.twig');
 
         $rows = json_decode(file_get_contents(TrophyFetcher::JSON_FILE), true);
+        // Sort rows by ID DESC. We're assuming that highest id is the newest game.
+        krsort($rows, SORT_NUMERIC);
         $numberOfPages = ceil(count($rows) / self::PAGE_SIZE);
 
         // Render the first page on the main README.md.
