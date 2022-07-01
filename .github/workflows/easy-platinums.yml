@@ -1,11 +1,21 @@
 name: Easy platinums
 on:
   workflow_dispatch:
+    inputs:
+      profile-name:
+        type: choice
+        description: PSN profile to use to determine easy platinums
+        required: true
+        default: 'ikemenzi'
+        options:
+          - ikemenzi
+          - Fluttezuhher
+          - chris_play1
   schedule:
     - cron:  '30 5,17 * * *'
 jobs:
   update:
-    name: Update README.md
+    name: Update list of easy platinums
     runs-on: ubuntu-latest
     steps:
       # https://github.com/marketplace/actions/setup-php-action
@@ -21,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: composer install --prefer-dist
 
-      - name: Fetch new easy platinums
+      - name: Fetch new easy platinums from profile {{ github.event.inputs.profile-name }}
         run: bin/easy-platinums fetch
 
       - name: Update README.md and pages
