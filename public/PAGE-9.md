@@ -31,71 +31,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
     </thead>
     <tbody>
             <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10306.png" alt="Just a Phrase by POWGI" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10306-just-a-phrase-by-powgi">Just a Phrase by POWGI</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">59 min</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">9</td>
-            <td align="center">26</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10303.png" alt="Just a Phrase by POWGI" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10303-just-a-phrase-by-powgi">Just a Phrase by POWGI</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">59 min</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">9</td>
-            <td align="center">26</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10298.png" alt="Reknum" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10298-reknum">Reknum</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">53 min</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10294.png" alt="Milo&#039;s Quest" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10294-milos-quest">Milo&#039;s Quest</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10292.png" alt="Milo&#039;s Quest" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10292-milos-quest">Milo&#039;s Quest</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10291.png" alt="Milo&#039;s Quest" width="60"></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/10291-milos-quest">Milo&#039;s Quest</a>
@@ -2163,19 +2098,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8388.png" alt="Hitman 2" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/8388-hitman-2">Hitman 2</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">0 min</td>
-            <td align="center"></td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">3</td>
-            <td align="center">345</td>
-        </tr>
-            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8377.png" alt="Shadow of Loot Box" width="60"></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/8377-shadow-of-loot-box">Shadow of Loot Box</a>
@@ -2540,19 +2462,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7523.png" alt="God of War" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/7523-god-of-war">God of War</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">0 min</td>
-            <td align="center"></td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">20</td>
-            <td align="center">960</td>
-        </tr>
-            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7507.png" alt="InkSplosion" width="60"></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/7507-inksplosion">InkSplosion</a>
@@ -2878,19 +2787,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td align="center">1305</td>
         </tr>
             <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/4441.png" alt="Trackmania Turbo" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/4441-trackmania-turbo">Trackmania Turbo</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">0 min</td>
-            <td align="center"></td>
-            <td align="center">0</td>
-            <td align="center">8</td>
-            <td align="center">21</td>
-            <td align="center">855</td>
-        </tr>
-            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/4134.png" alt="シュタインズ・ゲート ゼロ" width="60"></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/4134-シュタインズゲート-ゼロ">シュタインズ・ゲート ゼロ</a>
@@ -2915,19 +2811,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td align="center">0</td>
             <td align="center">10</td>
             <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/3705.png" alt="Journey" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/3705-journey">Journey</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">0 min</td>
-            <td align="center"></td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">300</td>
         </tr>
         </tbody>
 </table>

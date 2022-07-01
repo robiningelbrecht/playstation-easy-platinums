@@ -1409,19 +1409,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12518.png" alt="It Takes Two" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12518-it-takes-two">It Takes Two</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">0 min</td>
-            <td align="center"></td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">3</td>
-            <td align="center">435</td>
-        </tr>
-            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12509.png" alt="Castle of no Escape 2" width="60"></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/12509-castle-of-no-escape-2">Castle of no Escape 2</a>
@@ -1823,19 +1810,6 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td align="center">10</td>
             <td align="center">2</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12420.png" alt="Maquette" width="60"></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12420-maquette">Maquette</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">0 min</td>
-            <td align="center"></td>
-            <td align="center">2</td>
-            <td align="center">7</td>
-            <td align="center">2</td>
-            <td align="center">720</td>
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12418.png" alt="CASE: Animatronics" width="60"></td>
@@ -3279,6 +3253,32 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <td align="center">14</td>
             <td align="center">0</td>
             <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11930.png" alt="Chickens On The Road" width="60"></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11930-chickens-on-the-road">Chickens On The Road</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11927.png" alt="Donut Break Head to Head" width="60"></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11927-donut-break-head-to-head">Donut Break Head to Head</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">40</td>
+            <td align="center">4</td>
+            <td align="center">7</td>
+            <td align="center">28</td>
+            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>
