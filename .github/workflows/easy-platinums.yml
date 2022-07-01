@@ -37,7 +37,7 @@ jobs:
       - name: Fetch new easy platinums
         run: |
           PROFILES=${{ github.event.inputs.profile-name || env.DEFAULT_PROFILE_NAMES }}
-          for $profile in ${PROFILES//,/ } ; do 
+          for profile in ${PROFILES//,/ } ; do 
             echo "+ \"$profile\""
           done
           bin/easy-platinums fetch ${{ github.event.inputs.profile-name }}
