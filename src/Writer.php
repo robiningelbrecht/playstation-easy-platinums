@@ -5,9 +5,10 @@ namespace App;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
 
-class ReadMe
+class Writer
 {
     public const README_FILE = 'README.md';
+    private const PAGE_SIZE = 250;
 
     public function __construct(
         private FileContentsWrapper $fileContentsWrapper
@@ -15,7 +16,7 @@ class ReadMe
     {
     }
 
-    public function update(): void
+    public function writePages(): void
     {
         if (!file_exists(self::README_FILE)) {
             throw new \RuntimeException('README.md not found');
@@ -26,10 +27,16 @@ class ReadMe
 
         $loader = new FilesystemLoader(dirname(__DIR__) . '/templates');
         $twig = new Environment($loader);
-
         $template = $twig->load('table.html.twig');
+
+        $rows = json_decode(file_get_contents(TrophyFetcher::JSON_FILE), true);
+        $numberOfPages = ceil(count($rows) / self::PAGE_SIZE);
+
+        // Render the first page on the main README.md.
         $render = $template->render([
-            'rows' => array_values(json_decode(file_get_contents(TrophyFetcher::JSON_FILE), true)),
+            'currentPage' => 1,
+            'totalPages' => $numberOfPages,
+            'rows' => array_slice($rows, 0, self::PAGE_SIZE),
         ]);
 
         $content = preg_replace(
@@ -39,5 +46,17 @@ class ReadMe
         );
 
         $this->fileContentsWrapper->put(self::README_FILE, $content);
+
+        // Now render all pages in a separate folder.
+        for ($i = 0; $i < $numberOfPages; $i++) {
+            $content = $template->render([
+                'currentPage' => $i + 1,
+                'totalPages' => $numberOfPages,
+                'rows' => array_slice($rows, ($i * self::PAGE_SIZE), self::PAGE_SIZE),
+            ]);
+
+            $this->fileContentsWrapper->put('public/PAGE-'.($i + 1) . '.md', $content);
+        }
+
     }
 }

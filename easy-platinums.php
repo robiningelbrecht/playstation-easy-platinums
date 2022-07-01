@@ -8,7 +8,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 use Ahc\Cli\Application;
 use App\TrophyFetcher;
-use App\ReadMe;
+use App\Writer;
 use App\FileContentsWrapper;
 use GuzzleHttp\Client;
 
@@ -20,9 +20,9 @@ $app
         (new TrophyFetcher(new Client(), new FileContentsWrapper()))->doFetch();;
     })
     ->tap()
-    ->command('update-readme', 'Update readme based on json file')
+    ->command('update', 'Update list of games')
     ->action(function () {
-        (new ReadMe(new FileContentsWrapper()))->update();
+        (new Writer(new FileContentsWrapper()))->writePages();
     });
 
 $app->logo('

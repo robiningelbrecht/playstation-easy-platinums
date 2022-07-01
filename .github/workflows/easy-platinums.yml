@@ -24,8 +24,8 @@ jobs:
       - name: Fetch new easy platinums
         run: bin/easy-platinums fetch
 
-      - name: Update README.md
-        run: bin/easy-platinums update-readme
+      - name: Update README.md and pages
+        run: bin/easy-platinums write
 
       - name: Commit and push changes
         run: |
