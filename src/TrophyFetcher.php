@@ -47,18 +47,6 @@ class TrophyFetcher
                 'trophiesSilver' => '/<span class="icon-sprite silver"><\/span><span>(?<value>[\d]+)<\/span>/imU',
                 'trophiesBronze' => '/<span class="icon-sprite bronze"><\/span><span>(?<value>[\d]+)<\/span>/imU',
             ];
-            $requiredMatches = [
-                'id',
-                'platinumTime',
-                'title',
-                'thumb',
-                'uri',
-                'platform',
-                'trophiesTotal',
-                'trophiesGold',
-                'trophiesSilver',
-                'trophiesBronze',
-            ];
 
             $matches = [];
             foreach ($regexes as $field => $regex) {
@@ -69,7 +57,7 @@ class TrophyFetcher
                 $matches[$field] = $match['value'];
             }
 
-            if (count(array_intersect_key(array_flip($requiredMatches), $matches)) !== count($requiredMatches)) {
+            if (count(array_intersect_key(array_flip($this->getRequiredRegexMatches()), $matches)) !== count($this->getRequiredRegexMatches())) {
                 // Not all required regexes were successful skip.
                 continue;
             }
@@ -112,5 +100,21 @@ class TrophyFetcher
         }
 
         $this->fileContentsWrapper->put(self::JSON_FILE, json_encode($json));
+    }
+
+    private function getRequiredRegexMatches(): array
+    {
+        return [
+            'id',
+            'platinumTime',
+            'title',
+            'thumb',
+            'uri',
+            'platform',
+            'trophiesTotal',
+            'trophiesGold',
+            'trophiesSilver',
+            'trophiesBronze',
+        ];
     }
 }
