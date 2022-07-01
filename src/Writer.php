@@ -39,21 +39,27 @@ class Writer
             'rows' => array_slice($rows, 0, self::PAGE_SIZE),
         ]);
 
-        $content = preg_replace(
+        $readMeContent = preg_replace(
             '/<!-- start easy-platinums -->([\s\S]*)<!-- end easy-platinums -->/im',
             '<!-- start easy-platinums -->' . PHP_EOL . $render . PHP_EOL . '<!-- end easy-platinums -->',
             $this->fileContentsWrapper->get(self::README_FILE)
         );
 
-        $this->fileContentsWrapper->put(self::README_FILE, $content);
+        $this->fileContentsWrapper->put(self::README_FILE, $readMeContent);
 
         // Now render all pages in a separate folder.
         for ($i = 0; $i < $numberOfPages; $i++) {
-            $content = $template->render([
+            $render = $template->render([
                 'currentPage' => $i + 1,
                 'totalPages' => $numberOfPages,
                 'rows' => array_slice($rows, ($i * self::PAGE_SIZE), self::PAGE_SIZE),
             ]);
+
+            $content = preg_replace(
+                '/<!-- start easy-platinums -->([\s\S]*)<!-- end easy-platinums -->/im',
+                '<!-- start easy-platinums -->' . PHP_EOL . $render . PHP_EOL . '<!-- end easy-platinums -->',
+                $readMeContent
+            );
 
             $this->fileContentsWrapper->put('public/PAGE-'.($i + 1) . '.md', $content);
         }
