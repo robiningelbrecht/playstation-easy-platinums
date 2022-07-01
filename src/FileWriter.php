@@ -32,6 +32,9 @@ class FileWriter
         $rows = json_decode(file_get_contents(TrophyFetcher::JSON_FILE), true);
         // Sort rows by ID DESC. We're assuming that highest id is the newest game.
         krsort($rows, SORT_NUMERIC);
+        // Remove duplicate rows. Apparently some games are returned multiple times.
+        $this->removeDuplicateEntries($rows);
+
         $numberOfPages = ceil(count($rows) / self::PAGE_SIZE);
 
         // Render the first page on the main README.md.
@@ -63,8 +66,22 @@ class FileWriter
                 $readMeContent
             );
 
-            $this->fileContentsWrapper->put('public/PAGE-'.($i + 1) . '.md', $content);
+            $this->fileContentsWrapper->put('public/PAGE-' . ($i + 1) . '.md', $content);
         }
 
+    }
+
+    private function removeDuplicateEntries(array &$rows): void
+    {
+        $keys = [];
+        foreach ($rows as $delta => $row) {
+            $key = $row['title'] . $row['platform'] . ($row['region'] ?? '');
+            if (!in_array($key, $keys)) {
+                $keys[] = $key;
+                continue;
+            }
+
+            unset($rows[$delta]);
+        }
     }
 }
