@@ -605,7 +605,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9851.png" alt="ファタモルガーナの館 Dreams of the Revenants Edition" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/9851-ファタモルガーナの館-dreams-of-the-revenants-edition">ファタモルガーナの館 Dreams of the Revenants Editi...</a>
+                <a href="https://psnprofiles.com/trophies/9851-ファタモルガーナの館-dreams-of-the-revenants-edition">ファタモルガーナの館 Dreams of the Revenants ...</a>
                 <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">33 min</td>
@@ -904,7 +904,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9699.png" alt="アメイジング・グレイス -What color is your attribute?-" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/9699-アメイジンググレイス-what-color-is-your-attribute">アメイジング・グレイス -What color is your attribut...</a>
+                <a href="https://psnprofiles.com/trophies/9699-アメイジンググレイス-what-color-is-your-attribute">アメイジング・グレイス -What color is your att...</a>
                 <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">34 min</td>
@@ -1476,7 +1476,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9222.png" alt="Cybarian: The Time Travelling Warrior" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/9222-cybarian-the-time-travelling-warrior">Cybarian: The Time Travelling Warrior</a>
+                <a href="https://psnprofiles.com/trophies/9222-cybarian-the-time-travelling-warrior">Cybarian: The Time Travelling Warri...</a>
                 <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">15 min</td>
@@ -1489,7 +1489,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9221.png" alt="Cybarian: The Time Travelling Warrior" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/9221-cybarian-the-time-travelling-warrior">Cybarian: The Time Travelling Warrior</a>
+                <a href="https://psnprofiles.com/trophies/9221-cybarian-the-time-travelling-warrior">Cybarian: The Time Travelling Warri...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">16 min</td>
@@ -1502,7 +1502,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9220.png" alt="Cybarian: The Time Travelling Warrior" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/9220-cybarian-the-time-travelling-warrior">Cybarian: The Time Travelling Warrior</a>
+                <a href="https://psnprofiles.com/trophies/9220-cybarian-the-time-travelling-warrior">Cybarian: The Time Travelling Warri...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">16 min</td>
@@ -1788,7 +1788,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8926.png" alt="メモリーズオフ -Innocent Fille- for Dearest" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/8926-メモリーズオフ-innocent-fille-for-dearest">メモリーズオフ -Innocent Fille- for Dearest</a>
+                <a href="https://psnprofiles.com/trophies/8926-メモリーズオフ-innocent-fille-for-dearest">メモリーズオフ -Innocent Fille- for Deares...</a>
                 <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">57 min</td>

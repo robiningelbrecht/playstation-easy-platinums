@@ -163,7 +163,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12804.png" alt="Our Church and Halloween RPG: Story One" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/12804-our-church-and-halloween-rpg-story-one">Our Church and Halloween RPG: Story One</a>
+                <a href="https://psnprofiles.com/trophies/12804-our-church-and-halloween-rpg-story-one">Our Church and Halloween RPG: Story...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">32 min</td>
@@ -176,7 +176,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12801.png" alt="Trails and Traces: The Tomb of Thomas Tew" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/12801-trails-and-traces-the-tomb-of-thomas-tew">Trails and Traces: The Tomb of Thomas Te...</a>
+                <a href="https://psnprofiles.com/trophies/12801-trails-and-traces-the-tomb-of-thomas-tew">Trails and Traces: The Tomb of Thom...</a>
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">20 min</td>
@@ -189,7 +189,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12800.png" alt="Trails and Traces: The Tomb of Thomas Tew" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/12800-trails-and-traces-the-tomb-of-thomas-tew">Trails and Traces: The Tomb of Thomas Te...</a>
+                <a href="https://psnprofiles.com/trophies/12800-trails-and-traces-the-tomb-of-thomas-tew">Trails and Traces: The Tomb of Thom...</a>
                 <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">20 min</td>
@@ -202,7 +202,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12799.png" alt="Trails and Traces: The Tomb of Thomas Tew" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/12799-trails-and-traces-the-tomb-of-thomas-tew">Trails and Traces: The Tomb of Thomas Te...</a>
+                <a href="https://psnprofiles.com/trophies/12799-trails-and-traces-the-tomb-of-thomas-tew">Trails and Traces: The Tomb of Thom...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">22 min</td>
@@ -215,7 +215,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12798.png" alt="Trails and Traces: The Tomb of Thomas Tew" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/12798-trails-and-traces-the-tomb-of-thomas-tew">Trails and Traces: The Tomb of Thomas Te...</a>
+                <a href="https://psnprofiles.com/trophies/12798-trails-and-traces-the-tomb-of-thomas-tew">Trails and Traces: The Tomb of Thom...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">38 min</td>
@@ -930,7 +930,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12640.png" alt="Football: Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/12640-football-breakthrough-gaming-arcade">Football: Breakthrough Gaming Arcade</a>
+                <a href="https://psnprofiles.com/trophies/12640-football-breakthrough-gaming-arcade">Football: Breakthrough Gaming Arcad...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">16 min</td>
@@ -1398,7 +1398,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12520.png" alt="Saint Patrick&#039;s Day Break Head to Head" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/12520-saint-patricks-day-break-head-to-head">Saint Patrick&#039;s Day Break Head to Head</a>
+                <a href="https://psnprofiles.com/trophies/12520-saint-patricks-day-break-head-to-head">Saint Patrick&#039;s Day Break Head to H...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">9 min</td>

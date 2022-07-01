@@ -618,7 +618,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16045.png" alt="Space 2 (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16045-space-2-challenge-mode-edition-breakthrough-gaming-arcade">Space 2 (Challenge Mode Edition): Breakt...</a>
+                <a href="https://psnprofiles.com/trophies/16045-space-2-challenge-mode-edition-breakthrough-gaming-arcade">Space 2 (Challenge Mode Edition): B...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">5 min</td>
@@ -631,7 +631,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16044.png" alt="Lent&#039;s Adventure (Story One) - Lent: The Easter Bunny" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16044-lents-adventure-story-one-lent-the-easter-bunny">Lent&#039;s Adventure (Story One) - Lent: The...</a>
+                <a href="https://psnprofiles.com/trophies/16044-lents-adventure-story-one-lent-the-easter-bunny">Lent&#039;s Adventure (Story One) - Lent...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
@@ -644,7 +644,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16043.png" alt="Lent&#039;s Adventure (Story One) - Lent: The Easter Bunny" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16043-lents-adventure-story-one-lent-the-easter-bunny">Lent&#039;s Adventure (Story One) - Lent: The...</a>
+                <a href="https://psnprofiles.com/trophies/16043-lents-adventure-story-one-lent-the-easter-bunny">Lent&#039;s Adventure (Story One) - Lent...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
@@ -657,7 +657,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16042.png" alt="Space 2 (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16042-space-2-challenge-mode-edition-breakthrough-gaming-arcade">Space 2 (Challenge Mode Edition): Breakt...</a>
+                <a href="https://psnprofiles.com/trophies/16042-space-2-challenge-mode-edition-breakthrough-gaming-arcade">Space 2 (Challenge Mode Edition): B...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">5 min</td>
@@ -839,7 +839,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15987.png" alt="Ice Hockey: Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15987-ice-hockey-breakthrough-gaming-arcade">Ice Hockey: Breakthrough Gaming Arcade</a>
+                <a href="https://psnprofiles.com/trophies/15987-ice-hockey-breakthrough-gaming-arcade">Ice Hockey: Breakthrough Gaming Arc...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">3 min</td>
@@ -852,7 +852,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15986.png" alt="Ice Hockey: Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15986-ice-hockey-breakthrough-gaming-arcade">Ice Hockey: Breakthrough Gaming Arcade</a>
+                <a href="https://psnprofiles.com/trophies/15986-ice-hockey-breakthrough-gaming-arcade">Ice Hockey: Breakthrough Gaming Arc...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">2 min</td>
@@ -1060,7 +1060,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15931.png" alt="Baseball (4 Player Cooperation Challenge Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15931-baseball-4-player-cooperation-challenge-edition-breakthrough-gaming-arcade">Baseball (4 Player Cooperation Challenge...</a>
+                <a href="https://psnprofiles.com/trophies/15931-baseball-4-player-cooperation-challenge-edition-breakthrough-gaming-arcade">Baseball (4 Player Cooperation Chal...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
@@ -1086,7 +1086,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15928.png" alt="Baseball (4 Player Cooperation Challenge Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15928-baseball-4-player-cooperation-challenge-edition-breakthrough-gaming-arcade">Baseball (4 Player Cooperation Challenge...</a>
+                <a href="https://psnprofiles.com/trophies/15928-baseball-4-player-cooperation-challenge-edition-breakthrough-gaming-arcade">Baseball (4 Player Cooperation Chal...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">2 min</td>
@@ -1437,7 +1437,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15845.png" alt="Baseball (3 Player Cooperation Challenge Mode): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15845-baseball-3-player-cooperation-challenge-mode-breakthrough-gaming-arcade">Baseball (3 Player Cooperation Challenge...</a>
+                <a href="https://psnprofiles.com/trophies/15845-baseball-3-player-cooperation-challenge-mode-breakthrough-gaming-arcade">Baseball (3 Player Cooperation Chal...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
@@ -1450,7 +1450,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15844.png" alt="Baseball (3 Player Cooperation Challenge Mode): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15844-baseball-3-player-cooperation-challenge-mode-breakthrough-gaming-arcade">Baseball (3 Player Cooperation Challenge...</a>
+                <a href="https://psnprofiles.com/trophies/15844-baseball-3-player-cooperation-challenge-mode-breakthrough-gaming-arcade">Baseball (3 Player Cooperation Chal...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>
@@ -1580,7 +1580,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15822.png" alt="The Pizza Delivery Boy Who Saved the World" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15822-the-pizza-delivery-boy-who-saved-the-world">The Pizza Delivery Boy Who Saved the Wor...</a>
+                <a href="https://psnprofiles.com/trophies/15822-the-pizza-delivery-boy-who-saved-the-world">The Pizza Delivery Boy Who Saved th...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
@@ -1593,7 +1593,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15821.png" alt="The Pizza Delivery Boy Who Saved the World" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15821-the-pizza-delivery-boy-who-saved-the-world">The Pizza Delivery Boy Who Saved the Wor...</a>
+                <a href="https://psnprofiles.com/trophies/15821-the-pizza-delivery-boy-who-saved-the-world">The Pizza Delivery Boy Who Saved th...</a>
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
@@ -1606,7 +1606,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15820.png" alt="The Pizza Delivery Boy Who Saved the World" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15820-the-pizza-delivery-boy-who-saved-the-world">The Pizza Delivery Boy Who Saved the Wor...</a>
+                <a href="https://psnprofiles.com/trophies/15820-the-pizza-delivery-boy-who-saved-the-world">The Pizza Delivery Boy Who Saved th...</a>
                 <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">2 min</td>
@@ -1619,7 +1619,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15819.png" alt="The Pizza Delivery Boy Who Saved the World" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15819-the-pizza-delivery-boy-who-saved-the-world">The Pizza Delivery Boy Who Saved the Wor...</a>
+                <a href="https://psnprofiles.com/trophies/15819-the-pizza-delivery-boy-who-saved-the-world">The Pizza Delivery Boy Who Saved th...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">2 min</td>
@@ -1762,7 +1762,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15792.png" alt="Thunder Kid: Hunt for the Robot Emperor" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15792-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emperor</a>
+                <a href="https://psnprofiles.com/trophies/15792-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emp...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">17 min</td>
@@ -1775,7 +1775,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15791.png" alt="Thunder Kid: Hunt for the Robot Emperor" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15791-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emperor</a>
+                <a href="https://psnprofiles.com/trophies/15791-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emp...</a>
                 <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">12 min</td>
@@ -1853,7 +1853,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15781.png" alt="Bowling: Story Four (Jane Version) - Project: Summer Ice" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15781-bowling-story-four-jane-version-project-summer-ice">Bowling: Story Four (Jane Version) - Pro...</a>
+                <a href="https://psnprofiles.com/trophies/15781-bowling-story-four-jane-version-project-summer-ice">Bowling: Story Four (Jane Version) ...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">3 min</td>
@@ -1866,7 +1866,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15780.png" alt="Bowling: Story Four (Jane Version) - Project: Summer Ice" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15780-bowling-story-four-jane-version-project-summer-ice">Bowling: Story Four (Jane Version) - Pro...</a>
+                <a href="https://psnprofiles.com/trophies/15780-bowling-story-four-jane-version-project-summer-ice">Bowling: Story Four (Jane Version) ...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
@@ -1879,7 +1879,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15778.png" alt="Thunder Kid: Hunt for the Robot Emperor" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15778-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emperor</a>
+                <a href="https://psnprofiles.com/trophies/15778-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emp...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">9 min</td>
@@ -2009,7 +2009,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15745.png" alt="Thunder Kid: Hunt for the Robot Emperor" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15745-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emperor</a>
+                <a href="https://psnprofiles.com/trophies/15745-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emp...</a>
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">13 min</td>
@@ -2022,7 +2022,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15744.png" alt="Thunder Kid: Hunt for the Robot Emperor" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15744-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emperor</a>
+                <a href="https://psnprofiles.com/trophies/15744-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emp...</a>
                 <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">13 min</td>
@@ -2035,7 +2035,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15743.png" alt="Thunder Kid: Hunt for the Robot Emperor" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15743-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emperor</a>
+                <a href="https://psnprofiles.com/trophies/15743-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emp...</a>
                 <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">14 min</td>
@@ -2178,7 +2178,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15705.png" alt="Bowling: Story Four (Pammy Version) - Project: Summer Ice" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15705-bowling-story-four-pammy-version-project-summer-ice">Bowling: Story Four (Pammy Version) - Pr...</a>
+                <a href="https://psnprofiles.com/trophies/15705-bowling-story-four-pammy-version-project-summer-ice">Bowling: Story Four (Pammy Version)...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
@@ -2191,7 +2191,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15700.png" alt="Bowling: Story Four (Pammy Version) - Project: Summer Ice" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15700-bowling-story-four-pammy-version-project-summer-ice">Bowling: Story Four (Pammy Version) - Pr...</a>
+                <a href="https://psnprofiles.com/trophies/15700-bowling-story-four-pammy-version-project-summer-ice">Bowling: Story Four (Pammy Version)...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">2 min</td>
@@ -2269,7 +2269,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15686.png" alt="Saint Patrick&#039;s Day Break 2 Head to Head" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15686-saint-patricks-day-break-2-head-to-head">Saint Patrick&#039;s Day Break 2 Head to Head</a>
+                <a href="https://psnprofiles.com/trophies/15686-saint-patricks-day-break-2-head-to-head">Saint Patrick&#039;s Day Break 2 Head to...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">11 min</td>
@@ -2308,7 +2308,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15680.png" alt="Radioactive Dwarfs: Evil From the Sewers" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15680-radioactive-dwarfs-evil-from-the-sewers">Radioactive Dwarfs: Evil From the Sewers</a>
+                <a href="https://psnprofiles.com/trophies/15680-radioactive-dwarfs-evil-from-the-sewers">Radioactive Dwarfs: Evil From the S...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
@@ -2321,7 +2321,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15679.png" alt="Radioactive Dwarfs: Evil From the Sewers" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15679-radioactive-dwarfs-evil-from-the-sewers">Radioactive Dwarfs: Evil From the Sewers</a>
+                <a href="https://psnprofiles.com/trophies/15679-radioactive-dwarfs-evil-from-the-sewers">Radioactive Dwarfs: Evil From the S...</a>
                 <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">1 min</td>
@@ -2334,7 +2334,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15675.png" alt="Radioactive Dwarfs: Evil From the Sewers" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15675-radioactive-dwarfs-evil-from-the-sewers">Radioactive Dwarfs: Evil From the Sewers</a>
+                <a href="https://psnprofiles.com/trophies/15675-radioactive-dwarfs-evil-from-the-sewers">Radioactive Dwarfs: Evil From the S...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>
@@ -2373,7 +2373,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15670.png" alt="Saint Patrick&#039;s Day Break 2 Head to Head" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15670-saint-patricks-day-break-2-head-to-head">Saint Patrick&#039;s Day Break 2 Head to Head</a>
+                <a href="https://psnprofiles.com/trophies/15670-saint-patricks-day-break-2-head-to-head">Saint Patrick&#039;s Day Break 2 Head to...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">15 min</td>
@@ -2581,7 +2581,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15632.png" alt="Saint Patrick&#039;s Day Break 2 Head to Head" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15632-saint-patricks-day-break-2-head-to-head">Saint Patrick&#039;s Day Break 2 Head to Head</a>
+                <a href="https://psnprofiles.com/trophies/15632-saint-patricks-day-break-2-head-to-head">Saint Patrick&#039;s Day Break 2 Head to...</a>
                 <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">12 min</td>
@@ -2594,7 +2594,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15631.png" alt="Saint Patrick&#039;s Day Break 2 Head to Head" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15631-saint-patricks-day-break-2-head-to-head">Saint Patrick&#039;s Day Break 2 Head to Head</a>
+                <a href="https://psnprofiles.com/trophies/15631-saint-patricks-day-break-2-head-to-head">Saint Patrick&#039;s Day Break 2 Head to...</a>
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">14 min</td>
@@ -2607,7 +2607,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15628.png" alt="Racing (2 Player Challenge Mode): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15628-racing-2-player-challenge-mode-breakthrough-gaming-arcade">Racing (2 Player Challenge Mode): Breakt...</a>
+                <a href="https://psnprofiles.com/trophies/15628-racing-2-player-challenge-mode-breakthrough-gaming-arcade">Racing (2 Player Challenge Mode): B...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">3 min</td>
@@ -2620,7 +2620,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15627.png" alt="Racing (2 Player Challenge Mode): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15627-racing-2-player-challenge-mode-breakthrough-gaming-arcade">Racing (2 Player Challenge Mode): Breakt...</a>
+                <a href="https://psnprofiles.com/trophies/15627-racing-2-player-challenge-mode-breakthrough-gaming-arcade">Racing (2 Player Challenge Mode): B...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">5 min</td>
@@ -2724,7 +2724,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15602.png" alt="Would You Like to Run an Idol Café 2" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15602-would-you-like-to-run-an-idol-café-2">Would You Like to Run an Idol Café 2</a>
+                <a href="https://psnprofiles.com/trophies/15602-would-you-like-to-run-an-idol-café-2">Would You Like to Run an Idol Café ...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">5 min</td>
@@ -2737,7 +2737,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15601.png" alt="Would You Like to Run an Idol Café 2" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15601-would-you-like-to-run-an-idol-café-2">Would You Like to Run an Idol Café 2</a>
+                <a href="https://psnprofiles.com/trophies/15601-would-you-like-to-run-an-idol-café-2">Would You Like to Run an Idol Café ...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">5 min</td>
@@ -2750,7 +2750,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15600.png" alt="Would You Like to Run an Idol Café 2" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15600-would-you-like-to-run-an-idol-café-2">Would You Like to Run an Idol Café 2</a>
+                <a href="https://psnprofiles.com/trophies/15600-would-you-like-to-run-an-idol-café-2">Would You Like to Run an Idol Café ...</a>
                 <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">5 min</td>
@@ -2763,7 +2763,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15599.png" alt="Would You Like to Run an Idol Café 2" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15599-would-you-like-to-run-an-idol-café-2">Would You Like to Run an Idol Café 2</a>
+                <a href="https://psnprofiles.com/trophies/15599-would-you-like-to-run-an-idol-café-2">Would You Like to Run an Idol Café ...</a>
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">5 min</td>
@@ -2932,7 +2932,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15558.png" alt="Baseball (2 Player Challenge Mode): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15558-baseball-2-player-challenge-mode-breakthrough-gaming-arcade">Baseball (2 Player Challenge Mode): Brea...</a>
+                <a href="https://psnprofiles.com/trophies/15558-baseball-2-player-challenge-mode-breakthrough-gaming-arcade">Baseball (2 Player Challenge Mode):...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
@@ -2945,7 +2945,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15557.png" alt="Baseball (2 Player Challenge Mode): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15557-baseball-2-player-challenge-mode-breakthrough-gaming-arcade">Baseball (2 Player Challenge Mode): Brea...</a>
+                <a href="https://psnprofiles.com/trophies/15557-baseball-2-player-challenge-mode-breakthrough-gaming-arcade">Baseball (2 Player Challenge Mode):...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>

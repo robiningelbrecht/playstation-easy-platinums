@@ -46,7 +46,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15483.png" alt="Bowling: Story Three (Mark Version) - Project: Summer Ice" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15483-bowling-story-three-mark-version-project-summer-ice">Bowling: Story Three (Mark Version) - Pr...</a>
+                <a href="https://psnprofiles.com/trophies/15483-bowling-story-three-mark-version-project-summer-ice">Bowling: Story Three (Mark Version)...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
@@ -72,7 +72,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15478.png" alt="Bowling: Story Three (Mark Version) - Project: Summer Ice" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15478-bowling-story-three-mark-version-project-summer-ice">Bowling: Story Three (Mark Version) - Pr...</a>
+                <a href="https://psnprofiles.com/trophies/15478-bowling-story-three-mark-version-project-summer-ice">Bowling: Story Three (Mark Version)...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>
@@ -371,7 +371,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15418.png" alt="Zippy the Circle Challenge: Levels 11C, 12C, &amp; 13C" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15418-zippy-the-circle-challenge-levels-11c-12c-13c">Zippy the Circle Challenge: Levels 11C, ...</a>
+                <a href="https://psnprofiles.com/trophies/15418-zippy-the-circle-challenge-levels-11c-12c-13c">Zippy the Circle Challenge: Levels ...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
@@ -397,7 +397,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15413.png" alt="Zippy the Circle Challenge: Levels 11C, 12C, &amp; 13C" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15413-zippy-the-circle-challenge-levels-11c-12c-13c">Zippy the Circle Challenge: Levels 11C, ...</a>
+                <a href="https://psnprofiles.com/trophies/15413-zippy-the-circle-challenge-levels-11c-12c-13c">Zippy the Circle Challenge: Levels ...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
@@ -540,7 +540,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15396.png" alt="Valentine Candy Break 2 Head to Head" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15396-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Head</a>
+                <a href="https://psnprofiles.com/trophies/15396-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Hea...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">8 min</td>
@@ -592,7 +592,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15386.png" alt="Valentine Candy Break 2 Head to Head" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15386-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Head</a>
+                <a href="https://psnprofiles.com/trophies/15386-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Hea...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">11 min</td>
@@ -644,7 +644,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15360.png" alt="Valentine Candy Break 2 Head to Head" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15360-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Head</a>
+                <a href="https://psnprofiles.com/trophies/15360-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Hea...</a>
                 <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">12 min</td>
@@ -657,7 +657,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15359.png" alt="Valentine Candy Break 2 Head to Head" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15359-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Head</a>
+                <a href="https://psnprofiles.com/trophies/15359-valentine-candy-break-2-head-to-head">Valentine Candy Break 2 Head to Hea...</a>
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">13 min</td>
@@ -670,7 +670,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15357.png" alt="Zippy the Circle Challenge: Level 8C, 9C, &amp; 10C" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15357-zippy-the-circle-challenge-level-8c-9c-10c">Zippy the Circle Challenge: Level 8C, 9C...</a>
+                <a href="https://psnprofiles.com/trophies/15357-zippy-the-circle-challenge-level-8c-9c-10c">Zippy the Circle Challenge: Level 8...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">2 min</td>
@@ -696,7 +696,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15355.png" alt="Zippy the Circle Challenge: Level 8C, 9C, &amp; 10C" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15355-zippy-the-circle-challenge-level-8c-9c-10c">Zippy the Circle Challenge: Level 8C, 9C...</a>
+                <a href="https://psnprofiles.com/trophies/15355-zippy-the-circle-challenge-level-8c-9c-10c">Zippy the Circle Challenge: Level 8...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">4 min</td>
@@ -1099,7 +1099,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15286.png" alt="Zippy the Circle Challenge: Levels 5C, 6C, &amp; 7C" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15286-zippy-the-circle-challenge-levels-5c-6c-7c">Zippy the Circle Challenge: Levels 5C, 6...</a>
+                <a href="https://psnprofiles.com/trophies/15286-zippy-the-circle-challenge-levels-5c-6c-7c">Zippy the Circle Challenge: Levels ...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">13 min</td>
@@ -1112,7 +1112,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15285.png" alt="Racing (2 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15285-racing-2-player-cooperation-edition-breakthrough-gaming-arcade">Racing (2 Player Cooperation Edition): B...</a>
+                <a href="https://psnprofiles.com/trophies/15285-racing-2-player-cooperation-edition-breakthrough-gaming-arcade">Racing (2 Player Cooperation Editio...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">4 min</td>
@@ -1138,7 +1138,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15282.png" alt="Zippy the Circle Challenge: Levels 5C, 6C, &amp; 7C" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15282-zippy-the-circle-challenge-levels-5c-6c-7c">Zippy the Circle Challenge: Levels 5C, 6...</a>
+                <a href="https://psnprofiles.com/trophies/15282-zippy-the-circle-challenge-levels-5c-6c-7c">Zippy the Circle Challenge: Levels ...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">4 min</td>
@@ -1151,7 +1151,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15281.png" alt="Racing (2 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15281-racing-2-player-cooperation-edition-breakthrough-gaming-arcade">Racing (2 Player Cooperation Edition): B...</a>
+                <a href="https://psnprofiles.com/trophies/15281-racing-2-player-cooperation-edition-breakthrough-gaming-arcade">Racing (2 Player Cooperation Editio...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
@@ -1463,7 +1463,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15215.png" alt="Baseball (2 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15215-baseball-2-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (2 Player Cooperation Edition):...</a>
+                <a href="https://psnprofiles.com/trophies/15215-baseball-2-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (2 Player Cooperation Edit...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">38 min</td>
@@ -1476,7 +1476,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15214.png" alt="Zippy the Circle Challenge: Level 3C &amp; 4C" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15214-zippy-the-circle-challenge-level-3c-4c">Zippy the Circle Challenge: Level 3C &amp; 4...</a>
+                <a href="https://psnprofiles.com/trophies/15214-zippy-the-circle-challenge-level-3c-4c">Zippy the Circle Challenge: Level 3...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
@@ -1489,7 +1489,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15212.png" alt="Baseball (2 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15212-baseball-2-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (2 Player Cooperation Edition):...</a>
+                <a href="https://psnprofiles.com/trophies/15212-baseball-2-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (2 Player Cooperation Edit...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">9 min</td>
@@ -1502,7 +1502,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15211.png" alt="Zippy the Circle Challenge: Level 3C &amp; 4C" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15211-zippy-the-circle-challenge-level-3c-4c">Zippy the Circle Challenge: Level 3C &amp; 4...</a>
+                <a href="https://psnprofiles.com/trophies/15211-zippy-the-circle-challenge-level-3c-4c">Zippy the Circle Challenge: Level 3...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">2 min</td>
@@ -2360,7 +2360,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15068.png" alt="Racing (3 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15068-racing-3-player-cooperation-edition-breakthrough-gaming-arcade">Racing (3 Player Cooperation Edition): B...</a>
+                <a href="https://psnprofiles.com/trophies/15068-racing-3-player-cooperation-edition-breakthrough-gaming-arcade">Racing (3 Player Cooperation Editio...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">4 min</td>
@@ -2373,7 +2373,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15067.png" alt="Baseball (3 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15067-baseball-3-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (3 Player Cooperation Edition):...</a>
+                <a href="https://psnprofiles.com/trophies/15067-baseball-3-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (3 Player Cooperation Edit...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">18 min</td>
@@ -2412,7 +2412,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15064.png" alt="Baseball (3 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15064-baseball-3-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (3 Player Cooperation Edition):...</a>
+                <a href="https://psnprofiles.com/trophies/15064-baseball-3-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (3 Player Cooperation Edit...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">8 min</td>
@@ -2425,7 +2425,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15063.png" alt="Racing (3 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15063-racing-3-player-cooperation-edition-breakthrough-gaming-arcade">Racing (3 Player Cooperation Edition): B...</a>
+                <a href="https://psnprofiles.com/trophies/15063-racing-3-player-cooperation-edition-breakthrough-gaming-arcade">Racing (3 Player Cooperation Editio...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">4 min</td>
@@ -2581,7 +2581,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15045.png" alt="Racing (4 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15045-racing-4-player-cooperation-edition-breakthrough-gaming-arcade">Racing (4 Player Cooperation Edition): B...</a>
+                <a href="https://psnprofiles.com/trophies/15045-racing-4-player-cooperation-edition-breakthrough-gaming-arcade">Racing (4 Player Cooperation Editio...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">6 min</td>
@@ -2594,7 +2594,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15044.png" alt="Baseball (4 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15044-baseball-4-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (4 Player Cooperation Edition):...</a>
+                <a href="https://psnprofiles.com/trophies/15044-baseball-4-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (4 Player Cooperation Edit...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">4 min</td>
@@ -2607,7 +2607,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15043.png" alt="Zippy the Circle Challenge: Level 1C &amp; 2C" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15043-zippy-the-circle-challenge-level-1c-2c">Zippy the Circle Challenge: Level 1C &amp; 2...</a>
+                <a href="https://psnprofiles.com/trophies/15043-zippy-the-circle-challenge-level-1c-2c">Zippy the Circle Challenge: Level 1...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">4 min</td>
@@ -2633,7 +2633,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15041.png" alt="Racing (4 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15041-racing-4-player-cooperation-edition-breakthrough-gaming-arcade">Racing (4 Player Cooperation Edition): B...</a>
+                <a href="https://psnprofiles.com/trophies/15041-racing-4-player-cooperation-edition-breakthrough-gaming-arcade">Racing (4 Player Cooperation Editio...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
@@ -2646,7 +2646,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15040.png" alt="Baseball (4 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15040-baseball-4-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (4 Player Cooperation Edition):...</a>
+                <a href="https://psnprofiles.com/trophies/15040-baseball-4-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (4 Player Cooperation Edit...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">11 min</td>
@@ -2659,7 +2659,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15039.png" alt="Zippy the Circle Challenge: Level 1C &amp; 2C" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15039-zippy-the-circle-challenge-level-1c-2c">Zippy the Circle Challenge: Level 1C &amp; 2...</a>
+                <a href="https://psnprofiles.com/trophies/15039-zippy-the-circle-challenge-level-1c-2c">Zippy the Circle Challenge: Level 1...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">6 min</td>
@@ -2685,7 +2685,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15037.png" alt="Lizard Lady vs the Cats: Platinum Edition" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15037-lizard-lady-vs-the-cats-platinum-edition">Lizard Lady vs the Cats: Platinum Editio...</a>
+                <a href="https://psnprofiles.com/trophies/15037-lizard-lady-vs-the-cats-platinum-edition">Lizard Lady vs the Cats: Platinum E...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">25 min</td>
@@ -2698,7 +2698,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15036.png" alt="Lizard Lady vs the Cats: Platinum Edition" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/15036-lizard-lady-vs-the-cats-platinum-edition">Lizard Lady vs the Cats: Platinum Editio...</a>
+                <a href="https://psnprofiles.com/trophies/15036-lizard-lady-vs-the-cats-platinum-edition">Lizard Lady vs the Cats: Platinum E...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">27 min</td>
@@ -3127,7 +3127,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14926.png" alt="Catch the Bowling Balls (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/14926-catch-the-bowling-balls-challenge-mode-edition-breakthrough-gaming-arcade">Catch the Bowling Balls (Challenge Mode ...</a>
+                <a href="https://psnprofiles.com/trophies/14926-catch-the-bowling-balls-challenge-mode-edition-breakthrough-gaming-arcade">Catch the Bowling Balls (Challenge ...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
@@ -3140,7 +3140,7 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14925.png" alt="Catch the Bowling Balls (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/14925-catch-the-bowling-balls-challenge-mode-edition-breakthrough-gaming-arcade">Catch the Bowling Balls (Challenge Mode ...</a>
+                <a href="https://psnprofiles.com/trophies/14925-catch-the-bowling-balls-challenge-mode-edition-breakthrough-gaming-arcade">Catch the Bowling Balls (Challenge ...</a>
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>
