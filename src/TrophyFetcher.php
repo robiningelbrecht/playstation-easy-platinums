@@ -7,18 +7,19 @@ use GuzzleHttp\Client;
 class TrophyFetcher
 {
     public const JSON_FILE = 'easy-platinums.json';
-    private const PROFILE_NAME = 'ikemenzi';
+    public const DEFAULT_PROFILE_NAME = 'ikemenzi';
 
     public function __construct(
         private Client $client,
         private FileContentsWrapper $fileContentsWrapper,
+        private string $psnProfile
     )
     {
     }
 
     public function doFetch(): void
     {
-        $response = $this->client->get('https://psnprofiles.com/' . self::PROFILE_NAME . '?ajax=1&page=0');
+        $response = $this->client->get('https://psnprofiles.com/' . $this->psnProfile . '?ajax=1&page=0');
 
         if (200 !== $response->getStatusCode()) {
             throw new \RuntimeException('Could not fetch games');
@@ -38,7 +39,7 @@ class TrophyFetcher
                 'platinumTime' => '/Platinum[\s]*in <b>(?<value>.*?)<\/b>/im',
                 'title' => '/<a class="title"[\s\S]*>(?<value>.*?)<\/a>/im',
                 'thumb' => '/<img src="https:\/\/i.psnprofiles.com\/games\/(?<value>[\S]*)" \/>/im',
-                'uri' => '/<a class="title" href="(?<value>[\S]*)\/' . self::PROFILE_NAME . '" rel="nofollow">/im',
+                'uri' => '/<a class="title" href="(?<value>[\S]*)\/' . $this->psnProfile . '" rel="nofollow">/im',
                 'region' => '/<\/bullet>[\s]*(?<value>[\S]*)[\s]*<\/span>/imU',
                 'platform' => '/<span class="tag platform[\s\S]*">(?<value>[\S]*)<\/span>/imU',
                 'trophiesTotal' => '/All[\s]*<b>(?<value>[\d]+)<\/b> Trophies/imU',
