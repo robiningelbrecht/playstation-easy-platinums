@@ -10,9 +10,9 @@ class TrophyFetcher
     public const DEFAULT_PROFILE_NAME = 'ikemenzi';
 
     public function __construct(
-        private Client $client,
-        private FileContentsWrapper $fileContentsWrapper,
-        private string $psnProfile
+        private readonly Client $client,
+        private readonly FileContentsWrapper $fileContentsWrapper,
+        private readonly string $psnProfile
     )
     {
     }
