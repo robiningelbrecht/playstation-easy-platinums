@@ -47,6 +47,18 @@ class TrophyFetcher
                 'trophiesSilver' => '/<span class="icon-sprite silver"><\/span><span>(?<value>[\d]+)<\/span>/imU',
                 'trophiesBronze' => '/<span class="icon-sprite bronze"><\/span><span>(?<value>[\d]+)<\/span>/imU',
             ];
+            $requiredMatches = [
+                'id',
+                'platinumTime',
+                'title',
+                'thumb',
+                'uri',
+                'platform',
+                'trophiesTotal',
+                'trophiesGold',
+                'trophiesSilver',
+                'trophiesBronze',
+            ];
 
             $matches = [];
             foreach ($regexes as $field => $regex) {
@@ -57,8 +69,8 @@ class TrophyFetcher
                 $matches[$field] = $match['value'];
             }
 
-            if (count($regexes) !== count($matches)) {
-                // Not all regexes were successful skip.
+            if (count(array_intersect_key(array_flip($requiredMatches), $matches)) !== count($requiredMatches)) {
+                // Not all required regexes were successful skip.
                 continue;
             }
 
@@ -86,7 +98,7 @@ class TrophyFetcher
             $json[$matches['id']] = [
                 'id' => $matches['id'],
                 'title' => html_entity_decode($matches['title']),
-                'region' => $matches['region'],
+                'region' => $matches['region'] ?? null,
                 'platform' => $matches['platform'],
                 'thumbnail' => $filename,
                 'uri' => 'https://psnprofiles.com' . $matches['uri'],

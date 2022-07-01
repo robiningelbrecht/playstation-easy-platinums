@@ -31,8 +31,37 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
     </thead>
     <tbody>
             <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13561.png" alt="Cuccchi" width="60"></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13561-cuccchi">Cuccchi</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">5</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13560.png" alt="Horror Tales: The Wine" width="60"></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13560-horror-tales-the-wine">Horror Tales: The Wine</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">60 min</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13558.png" alt="Apple Slash" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13558-apple-slash">Apple Slash</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13558-apple-slash">Apple Slash</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">28 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -42,7 +71,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13557.png" alt="Apple Slash" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13557-apple-slash">Apple Slash</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13557-apple-slash">Apple Slash</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">37 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -52,7 +84,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13556.png" alt="Apple Slash" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13556-apple-slash">Apple Slash</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13556-apple-slash">Apple Slash</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">25 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -62,7 +97,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13555.png" alt="Apple Slash" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13555-apple-slash">Apple Slash</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13555-apple-slash">Apple Slash</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">25 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -72,7 +110,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13550.png" alt="C14 Dating" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13550-c14-dating">C14 Dating</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13550-c14-dating">C14 Dating</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">35 min</td>
             <td align="center">35</td>
             <td align="center">4</td>
@@ -82,7 +123,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13549.png" alt="C14 Dating" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13549-c14-dating">C14 Dating</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13549-c14-dating">C14 Dating</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">32 min</td>
             <td align="center">35</td>
             <td align="center">4</td>
@@ -92,7 +136,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13530.png" alt="Bishoujo Battle Mahjong Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13530-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13530-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">44 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -102,7 +149,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13529.png" alt="Bishoujo Battle Mahjong Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13529-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13529-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">45 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -112,7 +162,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13501.png" alt="Bowling: Story Two (Pammy Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13501-bowling-story-two-pammy-version-project-summer-ice">Bowling: Story Two (Pammy Version) - Pro...</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13501-bowling-story-two-pammy-version-project-summer-ice">Bowling: Story Two (Pammy Version) - Pro...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -122,7 +175,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13500.png" alt="Bowling: Story Two (Pammy Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13500-bowling-story-two-pammy-version-project-summer-ice">Bowling: Story Two (Pammy Version) - Pro...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13500-bowling-story-two-pammy-version-project-summer-ice">Bowling: Story Two (Pammy Version) - Pro...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -132,7 +188,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13494.png" alt="Freddy Spaghetti 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13494-freddy-spaghetti-2">Freddy Spaghetti 2</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13494-freddy-spaghetti-2">Freddy Spaghetti 2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">18 min</td>
             <td align="center">41</td>
             <td align="center">2</td>
@@ -142,7 +201,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13493.png" alt="Freddy Spaghetti 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13493-freddy-spaghetti-2">Freddy Spaghetti 2</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13493-freddy-spaghetti-2">Freddy Spaghetti 2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">16 min</td>
             <td align="center">41</td>
             <td align="center">2</td>
@@ -152,7 +214,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13492.png" alt="フレディ スパゲッティ ２" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13492-フレディ-スパゲッティ-２">フレディ スパゲッティ ２</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13492-フレディ-スパゲッティ-２">フレディ スパゲッティ ２</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">20 min</td>
             <td align="center">41</td>
             <td align="center">2</td>
@@ -162,7 +227,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13491.png" alt="Freddy Spaghetti 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13491-freddy-spaghetti-2">Freddy Spaghetti 2</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13491-freddy-spaghetti-2">Freddy Spaghetti 2</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">17 min</td>
             <td align="center">41</td>
             <td align="center">2</td>
@@ -172,7 +240,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13490.png" alt="Freddy Spaghetti 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13490-freddy-spaghetti-2">Freddy Spaghetti 2</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13490-freddy-spaghetti-2">Freddy Spaghetti 2</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">17 min</td>
             <td align="center">41</td>
             <td align="center">2</td>
@@ -182,7 +253,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13489.png" alt="フレディ スパゲッティ ２" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13489-フレディ-スパゲッティ-２">フレディ スパゲッティ ２</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13489-フレディ-スパゲッティ-２">フレディ スパゲッティ ２</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">19 min</td>
             <td align="center">41</td>
             <td align="center">2</td>
@@ -192,7 +266,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13488.png" alt="Scrap Garden" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13488-scrap-garden">Scrap Garden</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13488-scrap-garden">Scrap Garden</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">53 min</td>
             <td align="center">20</td>
             <td align="center">9</td>
@@ -202,7 +279,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13487.png" alt="112th Seed" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13487-112th-seed">112th Seed</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13487-112th-seed">112th Seed</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">16 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -212,7 +292,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13482.png" alt="112th Seed" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13482-112th-seed">112th Seed</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13482-112th-seed">112th Seed</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">16 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -222,7 +305,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13481.png" alt="112th Seed" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13481-112th-seed">112th Seed</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13481-112th-seed">112th Seed</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">18 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -232,7 +318,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13480.png" alt="112th Seed" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13480-112th-seed">112th Seed</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13480-112th-seed">112th Seed</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">16 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -242,7 +331,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13472.png" alt="Bishoujo Battle Mahjong Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13472-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13472-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">53 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -252,7 +344,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13471.png" alt="Bishoujo Battle Mahjong Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13471-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13471-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">54 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -262,7 +357,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13467.png" alt="戦国†恋姫 ~乙女絢爛☆戦国絵巻~ 限定版" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13467-戦国恋姫-乙女絢爛戦国絵巻-限定版">戦国†恋姫 ~乙女絢爛☆戦国絵巻~ 限定版</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13467-戦国恋姫-乙女絢爛戦国絵巻-限定版">戦国†恋姫 ~乙女絢爛☆戦国絵巻~ 限定版</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">49 min</td>
             <td align="center">20</td>
             <td align="center">8</td>
@@ -272,7 +370,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13464.png" alt="恋愛、借りちゃいました" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13464-恋愛借りちゃいました">恋愛、借りちゃいました</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13464-恋愛借りちゃいました">恋愛、借りちゃいました</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">45 min</td>
             <td align="center">18</td>
             <td align="center">9</td>
@@ -282,7 +383,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13454.png" alt="Funny Truck" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13454-funny-truck">Funny Truck</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13454-funny-truck">Funny Truck</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">9 min</td>
             <td align="center">22</td>
             <td align="center">7</td>
@@ -292,7 +396,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13450.png" alt="ウィズン･ザ･ブレード" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13450-ウィズンザブレード">ウィズン･ザ･ブレード</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13450-ウィズンザブレード">ウィズン･ザ･ブレード</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">48 min</td>
             <td align="center">32</td>
             <td align="center">4</td>
@@ -302,7 +409,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13448.png" alt="Brotherhood United" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13448-brotherhood-united">Brotherhood United</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13448-brotherhood-united">Brotherhood United</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">25 min</td>
             <td align="center">18</td>
             <td align="center">9</td>
@@ -312,7 +422,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13445.png" alt="Gaps by POWGI" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13445-gaps-by-powgi">Gaps by POWGI</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13445-gaps-by-powgi">Gaps by POWGI</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">32</td>
             <td align="center">2</td>
@@ -322,7 +435,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13443.png" alt="Gaps by POWGI" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13443-gaps-by-powgi">Gaps by POWGI</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13443-gaps-by-powgi">Gaps by POWGI</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">12 min</td>
             <td align="center">32</td>
             <td align="center">2</td>
@@ -332,7 +448,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13442.png" alt="Bishoujo Battle Mahjong Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13442-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13442-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">48 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -342,7 +461,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13438.png" alt="Bishoujo Battle Mahjong Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13438-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13438-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">47 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -352,7 +474,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13436.png" alt="Gaps by POWGI" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13436-gaps-by-powgi">Gaps by POWGI</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13436-gaps-by-powgi">Gaps by POWGI</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">32</td>
             <td align="center">2</td>
@@ -362,7 +487,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13435.png" alt="Gaps by POWGI" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13435-gaps-by-powgi">Gaps by POWGI</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13435-gaps-by-powgi">Gaps by POWGI</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">12 min</td>
             <td align="center">32</td>
             <td align="center">2</td>
@@ -372,7 +500,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13425.png" alt="Akinofa" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13425-akinofa">Akinofa</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13425-akinofa">Akinofa</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">17 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -382,7 +513,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13424.png" alt="Akinofa" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13424-akinofa">Akinofa</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13424-akinofa">Akinofa</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">17 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -392,7 +526,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13423.png" alt="Wizodd" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13423-wizodd">Wizodd</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13423-wizodd">Wizodd</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">54 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -402,7 +539,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13419.png" alt="Track (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13419-track-challenge-mode-edition-breakthrough-gaming-arcade">Track (Challenge Mode Edition): Breakthr...</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13419-track-challenge-mode-edition-breakthrough-gaming-arcade">Track (Challenge Mode Edition): Breakthr...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">7 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -412,7 +552,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13418.png" alt="Track (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13418-track-challenge-mode-edition-breakthrough-gaming-arcade">Track (Challenge Mode Edition): Breakthr...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13418-track-challenge-mode-edition-breakthrough-gaming-arcade">Track (Challenge Mode Edition): Breakthr...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -422,7 +565,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13417.png" alt="ウィズン･ザ･ブレード" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13417-ウィズンザブレード">ウィズン･ザ･ブレード</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13417-ウィズンザブレード">ウィズン･ザ･ブレード</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">46 min</td>
             <td align="center">32</td>
             <td align="center">4</td>
@@ -432,7 +578,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13415.png" alt="Funny Truck" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13415-funny-truck">Funny Truck</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13415-funny-truck">Funny Truck</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">22</td>
             <td align="center">7</td>
@@ -442,7 +591,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13411.png" alt="Funny Truck" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13411-funny-truck">Funny Truck</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13411-funny-truck">Funny Truck</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">9 min</td>
             <td align="center">22</td>
             <td align="center">7</td>
@@ -452,7 +604,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13410.png" alt="Within the Blade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13410-within-the-blade">Within the Blade</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13410-within-the-blade">Within the Blade</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">53 min</td>
             <td align="center">32</td>
             <td align="center">4</td>
@@ -462,7 +617,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13409.png" alt="Within the Blade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13409-within-the-blade">Within the Blade</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13409-within-the-blade">Within the Blade</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">58 min</td>
             <td align="center">32</td>
             <td align="center">4</td>
@@ -472,7 +630,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13404.png" alt="Pizza Break" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13404-pizza-break">Pizza Break</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13404-pizza-break">Pizza Break</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">10 min</td>
             <td align="center">38</td>
             <td align="center">4</td>
@@ -482,7 +643,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13401.png" alt="Akinofa" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13401-akinofa">Akinofa</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13401-akinofa">Akinofa</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">19 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -492,7 +656,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13395.png" alt="Pizza Break" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13395-pizza-break">Pizza Break</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13395-pizza-break">Pizza Break</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">7 min</td>
             <td align="center">38</td>
             <td align="center">4</td>
@@ -502,7 +669,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13394.png" alt="The Gem Collector" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13394-the-gem-collector">The Gem Collector</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13394-the-gem-collector">The Gem Collector</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">32 min</td>
             <td align="center">27</td>
             <td align="center">7</td>
@@ -512,7 +682,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13393.png" alt="Gaps by POWGI" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13393-gaps-by-powgi">Gaps by POWGI</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13393-gaps-by-powgi">Gaps by POWGI</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">12 min</td>
             <td align="center">32</td>
             <td align="center">2</td>
@@ -522,7 +695,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13389.png" alt="Tower of Balloons: Otterrific Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13389-tower-of-balloons-otterrific-arcade">Tower of Balloons: Otterrific Arcade</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13389-tower-of-balloons-otterrific-arcade">Tower of Balloons: Otterrific Arcade</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">28</td>
             <td align="center">7</td>
@@ -532,7 +708,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13385.png" alt="Gaps by POWGI" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13385-gaps-by-powgi">Gaps by POWGI</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13385-gaps-by-powgi">Gaps by POWGI</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">32</td>
             <td align="center">2</td>
@@ -542,7 +721,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13384.png" alt="Tower of Balloons: Otterrific Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13384-tower-of-balloons-otterrific-arcade">Tower of Balloons: Otterrific Arcade</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13384-tower-of-balloons-otterrific-arcade">Tower of Balloons: Otterrific Arcade</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">28</td>
             <td align="center">7</td>
@@ -552,7 +734,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13379.png" alt="The Gem Collector" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13379-the-gem-collector">The Gem Collector</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13379-the-gem-collector">The Gem Collector</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">42 min</td>
             <td align="center">27</td>
             <td align="center">7</td>
@@ -562,7 +747,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13377.png" alt="Taco Break Head to Head" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13377-taco-break-head-to-head">Taco Break Head to Head</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13377-taco-break-head-to-head">Taco Break Head to Head</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">13 min</td>
             <td align="center">40</td>
             <td align="center">4</td>
@@ -572,7 +760,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13376.png" alt="Flatland Vol.2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13376-flatland-vol2">Flatland Vol.2</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13376-flatland-vol2">Flatland Vol.2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">58 min</td>
             <td align="center">53</td>
             <td align="center">3</td>
@@ -582,7 +773,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13372.png" alt="Taco Break Head to Head" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13372-taco-break-head-to-head">Taco Break Head to Head</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13372-taco-break-head-to-head">Taco Break Head to Head</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">13 min</td>
             <td align="center">40</td>
             <td align="center">4</td>
@@ -592,7 +786,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13367.png" alt="Bowling: Story Two (Jane Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13367-bowling-story-two-jane-version-project-summer-ice">Bowling: Story Two (Jane Version) - Proj...</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13367-bowling-story-two-jane-version-project-summer-ice">Bowling: Story Two (Jane Version) - Proj...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">3 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -602,7 +799,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13364.png" alt="Bowling: Story Two (Jane Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13364-bowling-story-two-jane-version-project-summer-ice">Bowling: Story Two (Jane Version) - Proj...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13364-bowling-story-two-jane-version-project-summer-ice">Bowling: Story Two (Jane Version) - Proj...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">5 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -612,7 +812,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13361.png" alt="Spectrewoods" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13361-spectrewoods">Spectrewoods</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13361-spectrewoods">Spectrewoods</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">5 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -622,7 +825,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13359.png" alt="Spectrewoods" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13359-spectrewoods">Spectrewoods</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13359-spectrewoods">Spectrewoods</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -632,7 +838,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13357.png" alt="Bai Qu: Hundreds of Melodies" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13357-bai-qu-hundreds-of-melodies">Bai Qu: Hundreds of Melodies</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13357-bai-qu-hundreds-of-melodies">Bai Qu: Hundreds of Melodies</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">21 min</td>
             <td align="center">17</td>
             <td align="center">9</td>
@@ -642,7 +851,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13356.png" alt="Bai Qu: Hundreds of Melodies" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13356-bai-qu-hundreds-of-melodies">Bai Qu: Hundreds of Melodies</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13356-bai-qu-hundreds-of-melodies">Bai Qu: Hundreds of Melodies</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">22 min</td>
             <td align="center">17</td>
             <td align="center">9</td>
@@ -652,7 +864,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13355.png" alt="Bai Qu: Hundreds of Melodies" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13355-bai-qu-hundreds-of-melodies">Bai Qu: Hundreds of Melodies</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13355-bai-qu-hundreds-of-melodies">Bai Qu: Hundreds of Melodies</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">21 min</td>
             <td align="center">17</td>
             <td align="center">9</td>
@@ -662,7 +877,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13354.png" alt="Bai Qu: Hundreds of Melodies" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13354-bai-qu-hundreds-of-melodies">Bai Qu: Hundreds of Melodies</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13354-bai-qu-hundreds-of-melodies">Bai Qu: Hundreds of Melodies</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">22 min</td>
             <td align="center">17</td>
             <td align="center">9</td>
@@ -672,7 +890,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13353.png" alt="Taco Break" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13353-taco-break">Taco Break</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13353-taco-break">Taco Break</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">13 min</td>
             <td align="center">38</td>
             <td align="center">4</td>
@@ -682,7 +903,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13350.png" alt="Taco Break" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13350-taco-break">Taco Break</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13350-taco-break">Taco Break</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">38</td>
             <td align="center">4</td>
@@ -692,7 +916,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13341.png" alt="Blitz Breaker" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13341-blitz-breaker">Blitz Breaker</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13341-blitz-breaker">Blitz Breaker</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">29 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -702,7 +929,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13340.png" alt="Blitz Breaker" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13340-blitz-breaker">Blitz Breaker</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13340-blitz-breaker">Blitz Breaker</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">19 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -712,7 +942,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13339.png" alt="Blitz Breaker" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13339-blitz-breaker">Blitz Breaker</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13339-blitz-breaker">Blitz Breaker</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -722,7 +955,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13337.png" alt="Blitz Breaker" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13337-blitz-breaker">Blitz Breaker</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13337-blitz-breaker">Blitz Breaker</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">10 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -732,7 +968,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13336.png" alt="Blitz Breaker" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13336-blitz-breaker">Blitz Breaker</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13336-blitz-breaker">Blitz Breaker</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">12 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -742,7 +981,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13335.png" alt="Blitz Breaker" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13335-blitz-breaker">Blitz Breaker</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13335-blitz-breaker">Blitz Breaker</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -752,7 +994,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13334.png" alt="Memory Lane 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13334-memory-lane-2">Memory Lane 2</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13334-memory-lane-2">Memory Lane 2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">7 min</td>
             <td align="center">21</td>
             <td align="center">8</td>
@@ -762,7 +1007,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13331.png" alt="Bowling: Story One (Jane Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13331-bowling-story-one-jane-version-project-summer-ice">Bowling: Story One (Jane Version) - Proj...</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13331-bowling-story-one-jane-version-project-summer-ice">Bowling: Story One (Jane Version) - Proj...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">8 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -772,7 +1020,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13330.png" alt="Bowling: Story One (Pammy Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13330-bowling-story-one-pammy-version-project-summer-ice">Bowling: Story One (Pammy Version) - Pro...</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13330-bowling-story-one-pammy-version-project-summer-ice">Bowling: Story One (Pammy Version) - Pro...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -782,7 +1033,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13329.png" alt="Get to the Top: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13329-get-to-the-top-breakthrough-gaming-arcade">Get to the Top: Breakthrough Gaming Arca...</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13329-get-to-the-top-breakthrough-gaming-arcade">Get to the Top: Breakthrough Gaming Arca...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -792,7 +1046,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13328.png" alt="Bowling: Story One (Jane Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13328-bowling-story-one-jane-version-project-summer-ice">Bowling: Story One (Jane Version) - Proj...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13328-bowling-story-one-jane-version-project-summer-ice">Bowling: Story One (Jane Version) - Proj...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -802,7 +1059,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13326.png" alt="Bowling: Story One (Pammy Version) - Project: Summer Ice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13326-bowling-story-one-pammy-version-project-summer-ice">Bowling: Story One (Pammy Version) - Pro...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13326-bowling-story-one-pammy-version-project-summer-ice">Bowling: Story One (Pammy Version) - Pro...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">3 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -812,7 +1072,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13325.png" alt="Our Church and Halloween RPG: Story Four" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13325-our-church-and-halloween-rpg-story-four">Our Church and Halloween RPG: Story Four</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13325-our-church-and-halloween-rpg-story-four">Our Church and Halloween RPG: Story Four</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">21 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -822,7 +1085,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13324.png" alt="Get to the Top: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13324-get-to-the-top-breakthrough-gaming-arcade">Get to the Top: Breakthrough Gaming Arca...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13324-get-to-the-top-breakthrough-gaming-arcade">Get to the Top: Breakthrough Gaming Arca...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -832,7 +1098,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13317.png" alt="Drunken Fist" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13317-drunken-fist">Drunken Fist</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13317-drunken-fist">Drunken Fist</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">16 min</td>
             <td align="center">22</td>
             <td align="center">8</td>
@@ -842,7 +1111,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13314.png" alt="Super Destronaut DX-2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13314-super-destronaut-dx-2">Super Destronaut DX-2</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13314-super-destronaut-dx-2">Super Destronaut DX-2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">14 min</td>
             <td align="center">15</td>
             <td align="center">11</td>
@@ -852,7 +1124,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13313.png" alt="Super Destronaut DX-2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13313-super-destronaut-dx-2">Super Destronaut DX-2</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13313-super-destronaut-dx-2">Super Destronaut DX-2</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">7 min</td>
             <td align="center">15</td>
             <td align="center">11</td>
@@ -862,7 +1137,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13312.png" alt="Drunken Fist" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13312-drunken-fist">Drunken Fist</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13312-drunken-fist">Drunken Fist</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">19 min</td>
             <td align="center">22</td>
             <td align="center">8</td>
@@ -872,7 +1150,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13306.png" alt="Drunken Fist" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13306-drunken-fist">Drunken Fist</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13306-drunken-fist">Drunken Fist</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">16 min</td>
             <td align="center">22</td>
             <td align="center">8</td>
@@ -882,7 +1163,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13305.png" alt="Drunken Fist" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13305-drunken-fist">Drunken Fist</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13305-drunken-fist">Drunken Fist</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">35 min</td>
             <td align="center">22</td>
             <td align="center">8</td>
@@ -892,7 +1176,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13304.png" alt="Super Destronaut DX-2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13304-super-destronaut-dx-2">Super Destronaut DX-2</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13304-super-destronaut-dx-2">Super Destronaut DX-2</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">13 min</td>
             <td align="center">15</td>
             <td align="center">11</td>
@@ -902,7 +1189,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13303.png" alt="Super Destronaut DX-2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13303-super-destronaut-dx-2">Super Destronaut DX-2</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13303-super-destronaut-dx-2">Super Destronaut DX-2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">6 min</td>
             <td align="center">15</td>
             <td align="center">11</td>
@@ -912,7 +1202,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13290.png" alt="Memory Lane 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13290-memory-lane-2">Memory Lane 2</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13290-memory-lane-2">Memory Lane 2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">21</td>
             <td align="center">8</td>
@@ -922,7 +1215,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13288.png" alt="Annihilation" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13288-annihilation">Annihilation</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13288-annihilation">Annihilation</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">56 min</td>
             <td align="center">25</td>
             <td align="center">8</td>
@@ -932,7 +1228,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13287.png" alt="Mina &amp; Michi" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13287-mina-michi">Mina &amp; Michi</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13287-mina-michi">Mina &amp; Michi</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">6 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -942,7 +1241,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13286.png" alt="Mina &amp; Michi" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13286-mina-michi">Mina &amp; Michi</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13286-mina-michi">Mina &amp; Michi</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">7 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -952,7 +1254,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13284.png" alt="Mina &amp; Michi" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13284-mina-michi">Mina &amp; Michi</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13284-mina-michi">Mina &amp; Michi</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">8 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -962,7 +1267,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13283.png" alt="Mina &amp; Michi" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13283-mina-michi">Mina &amp; Michi</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13283-mina-michi">Mina &amp; Michi</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">9 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -972,7 +1280,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13278.png" alt="Space: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13278-space-breakthrough-gaming-arcade">Space: Breakthrough Gaming Arcade</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13278-space-breakthrough-gaming-arcade">Space: Breakthrough Gaming Arcade</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">6 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -982,7 +1293,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13277.png" alt="Space: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13277-space-breakthrough-gaming-arcade">Space: Breakthrough Gaming Arcade</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13277-space-breakthrough-gaming-arcade">Space: Breakthrough Gaming Arcade</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">10 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -992,7 +1306,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13276.png" alt="Skateboarding: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13276-skateboarding-breakthrough-gaming-arcade">Skateboarding: Breakthrough Gaming Arcad...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13276-skateboarding-breakthrough-gaming-arcade">Skateboarding: Breakthrough Gaming Arcad...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1002,7 +1319,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13273.png" alt="Loopindex" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13273-loopindex">Loopindex</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13273-loopindex">Loopindex</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">29 min</td>
             <td align="center">15</td>
             <td align="center">11</td>
@@ -1012,7 +1332,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13272.png" alt="Loopindex" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13272-loopindex">Loopindex</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13272-loopindex">Loopindex</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">28 min</td>
             <td align="center">15</td>
             <td align="center">11</td>
@@ -1022,7 +1345,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13271.png" alt="Loopindex" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13271-loopindex">Loopindex</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13271-loopindex">Loopindex</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">38 min</td>
             <td align="center">15</td>
             <td align="center">11</td>
@@ -1032,7 +1358,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13266.png" alt="Independence Day Break" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13266-independence-day-break">Independence Day Break</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13266-independence-day-break">Independence Day Break</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">16 min</td>
             <td align="center">38</td>
             <td align="center">4</td>
@@ -1042,7 +1371,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13263.png" alt="Mighty Aphid" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13263-mighty-aphid">Mighty Aphid</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13263-mighty-aphid">Mighty Aphid</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">36 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1052,7 +1384,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13262.png" alt="Mighty Aphid" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13262-mighty-aphid">Mighty Aphid</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13262-mighty-aphid">Mighty Aphid</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">25 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1062,7 +1397,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13261.png" alt="Sir Lovelot" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13261-sir-lovelot">Sir Lovelot</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13261-sir-lovelot">Sir Lovelot</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">56 min</td>
             <td align="center">21</td>
             <td align="center">8</td>
@@ -1072,7 +1410,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13259.png" alt="Independence Day Break" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13259-independence-day-break">Independence Day Break</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13259-independence-day-break">Independence Day Break</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">8 min</td>
             <td align="center">38</td>
             <td align="center">4</td>
@@ -1082,7 +1423,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13258.png" alt="Sir Lovelot" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13258-sir-lovelot">Sir Lovelot</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13258-sir-lovelot">Sir Lovelot</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">60 min</td>
             <td align="center">21</td>
             <td align="center">8</td>
@@ -1092,7 +1436,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13257.png" alt="Sakura Succubus 3" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13257-sakura-succubus-3">Sakura Succubus 3</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13257-sakura-succubus-3">Sakura Succubus 3</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">3 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1102,7 +1449,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13256.png" alt="Sakura Succubus 3" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13256-sakura-succubus-3">Sakura Succubus 3</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13256-sakura-succubus-3">Sakura Succubus 3</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">3 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1112,7 +1462,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13255.png" alt="サクラ･サキュバス３ ～魔性の支配者～" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13255-サクラサキュバス３-魔性の支配者">サクラ･サキュバス３ ～魔性の支配者～</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13255-サクラサキュバス３-魔性の支配者">サクラ･サキュバス３ ～魔性の支配者～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">3 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1122,7 +1475,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13254.png" alt="Sakura Succubus 3" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13254-sakura-succubus-3">Sakura Succubus 3</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13254-sakura-succubus-3">Sakura Succubus 3</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1132,7 +1488,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13253.png" alt="サクラ･サキュバス３ ～魔性の支配者～" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13253-サクラサキュバス３-魔性の支配者">サクラ･サキュバス３ ～魔性の支配者～</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13253-サクラサキュバス３-魔性の支配者">サクラ･サキュバス３ ～魔性の支配者～</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1142,7 +1501,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13252.png" alt="Sakura Succubus 3" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13252-sakura-succubus-3">Sakura Succubus 3</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13252-sakura-succubus-3">Sakura Succubus 3</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1152,7 +1514,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13248.png" alt="Mina &amp; Michi" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13248-mina-michi">Mina &amp; Michi</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13248-mina-michi">Mina &amp; Michi</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">6 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1162,7 +1527,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13247.png" alt="Sugar*Style" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13247-sugarstyle">Sugar*Style</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13247-sugarstyle">Sugar*Style</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">18 min</td>
             <td align="center">20</td>
             <td align="center">9</td>
@@ -1172,7 +1540,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13246.png" alt="ハミダシクリエイティブ" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13246-ハミダシクリエイティブ">ハミダシクリエイティブ</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13246-ハミダシクリエイティブ">ハミダシクリエイティブ</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">54 min</td>
             <td align="center">18</td>
             <td align="center">8</td>
@@ -1182,7 +1553,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13229.png" alt="Mina &amp; Michi" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13229-mina-michi">Mina &amp; Michi</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13229-mina-michi">Mina &amp; Michi</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">7 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1192,7 +1566,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13227.png" alt="Baseball (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13227-baseball-challenge-mode-edition-breakthrough-gaming-arcade">Baseball (Challenge Mode Edition): Break...</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13227-baseball-challenge-mode-edition-breakthrough-gaming-arcade">Baseball (Challenge Mode Edition): Break...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">6 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1202,7 +1579,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13226.png" alt="Baseball (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13226-baseball-challenge-mode-edition-breakthrough-gaming-arcade">Baseball (Challenge Mode Edition): Break...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13226-baseball-challenge-mode-edition-breakthrough-gaming-arcade">Baseball (Challenge Mode Edition): Break...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">1 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1212,7 +1592,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13225.png" alt="Our Church and Halloween RPG: Story Three" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13225-our-church-and-halloween-rpg-story-three">Our Church and Halloween RPG: Story Thre...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13225-our-church-and-halloween-rpg-story-three">Our Church and Halloween RPG: Story Thre...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">17 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1222,7 +1605,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13224.png" alt="Racing: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13224-racing-breakthrough-gaming-arcade">Racing: Breakthrough Gaming Arcade</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13224-racing-breakthrough-gaming-arcade">Racing: Breakthrough Gaming Arcade</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1232,7 +1618,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13221.png" alt="Orbital Racer" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13221-orbital-racer">Orbital Racer</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13221-orbital-racer">Orbital Racer</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">46 min</td>
             <td align="center">34</td>
             <td align="center">6</td>
@@ -1242,7 +1631,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13219.png" alt="Arkan: The Dog Adventurer" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13219-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13219-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">55 min</td>
             <td align="center">18</td>
             <td align="center">9</td>
@@ -1252,7 +1644,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13218.png" alt="Cross the Moon" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13218-cross-the-moon">Cross the Moon</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13218-cross-the-moon">Cross the Moon</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">8 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1262,7 +1657,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13216.png" alt="Arkan: The Dog Adventurer" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13216-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13216-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">38 min</td>
             <td align="center">18</td>
             <td align="center">9</td>
@@ -1272,7 +1670,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13215.png" alt="Arkan: The Dog Adventurer" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13215-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13215-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">39 min</td>
             <td align="center">18</td>
             <td align="center">9</td>
@@ -1282,7 +1683,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13214.png" alt="Arkan: The Dog Adventurer" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13214-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13214-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">37 min</td>
             <td align="center">18</td>
             <td align="center">9</td>
@@ -1292,7 +1696,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13213.png" alt="Cross the Moon" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13213-cross-the-moon">Cross the Moon</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13213-cross-the-moon">Cross the Moon</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">8 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1302,7 +1709,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13212.png" alt="Cross the Moon" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13212-cross-the-moon">Cross the Moon</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13212-cross-the-moon">Cross the Moon</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1312,7 +1722,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13211.png" alt="Cross the Moon" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13211-cross-the-moon">Cross the Moon</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13211-cross-the-moon">Cross the Moon</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1322,7 +1735,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13209.png" alt="Donuts &#039;n&#039; Justice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13209-donuts-n-justice">Donuts &#039;n&#039; Justice</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13209-donuts-n-justice">Donuts &#039;n&#039; Justice</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">16 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1332,7 +1748,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13208.png" alt="Donuts &#039;n&#039; Justice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13208-donuts-n-justice">Donuts &#039;n&#039; Justice</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13208-donuts-n-justice">Donuts &#039;n&#039; Justice</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">12 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1342,7 +1761,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13197.png" alt="Pretty Girls Klondike Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13197-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13197-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">40 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1352,7 +1774,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13196.png" alt="Pretty Girls Klondike Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13196-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13196-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">38 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1362,7 +1787,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13195.png" alt="Pretty Girls Klondike Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13195-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13195-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">59 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1372,7 +1800,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13193.png" alt="Pretty Girls Klondike Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13193-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13193-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">44 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1382,7 +1813,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13191.png" alt="Pretty Girls Klondike Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13191-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13191-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">33 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1392,7 +1826,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13190.png" alt="Pretty Girls Klondike Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13190-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13190-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">34 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1402,7 +1839,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13186.png" alt="Orbital Racer" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13186-orbital-racer">Orbital Racer</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13186-orbital-racer">Orbital Racer</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">39 min</td>
             <td align="center">34</td>
             <td align="center">6</td>
@@ -1412,7 +1852,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13183.png" alt="Pinkman+" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13183-pinkman">Pinkman+</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13183-pinkman">Pinkman+</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">13 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1422,7 +1865,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13182.png" alt="Pinkman+" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13182-pinkman">Pinkman+</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13182-pinkman">Pinkman+</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">12 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1432,7 +1878,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13176.png" alt="Sun Wukong vs Robot" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13176-sun-wukong-vs-robot">Sun Wukong vs Robot</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13176-sun-wukong-vs-robot">Sun Wukong vs Robot</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">18 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1442,7 +1891,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13175.png" alt="Sun Wukong vs Robot" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13175-sun-wukong-vs-robot">Sun Wukong vs Robot</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13175-sun-wukong-vs-robot">Sun Wukong vs Robot</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">22 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1452,7 +1904,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13174.png" alt="Sun Wukong vs Robot" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13174-sun-wukong-vs-robot">Sun Wukong vs Robot</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13174-sun-wukong-vs-robot">Sun Wukong vs Robot</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">17 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1462,7 +1917,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13173.png" alt="Sun Wukong vs Robot" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13173-sun-wukong-vs-robot">Sun Wukong vs Robot</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13173-sun-wukong-vs-robot">Sun Wukong vs Robot</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">59 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1472,7 +1930,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13168.png" alt="Maze: Pedestal of Trials" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13168-maze-pedestal-of-trials">Maze: Pedestal of Trials</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13168-maze-pedestal-of-trials">Maze: Pedestal of Trials</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">22 min</td>
             <td align="center">25</td>
             <td align="center">8</td>
@@ -1482,7 +1943,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13164.png" alt="Catch the Bowling Balls: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13164-catch-the-bowling-balls-breakthrough-gaming-arcade">Catch the Bowling Balls: Breakthrough Ga...</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13164-catch-the-bowling-balls-breakthrough-gaming-arcade">Catch the Bowling Balls: Breakthrough Ga...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1492,7 +1956,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13163.png" alt="American Football: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13163-american-football-breakthrough-gaming-arcade">American Football: Breakthrough Gaming A...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13163-american-football-breakthrough-gaming-arcade">American Football: Breakthrough Gaming A...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1502,7 +1969,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13162.png" alt="Catch the Bowling Balls: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13162-catch-the-bowling-balls-breakthrough-gaming-arcade">Catch the Bowling Balls: Breakthrough Ga...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13162-catch-the-bowling-balls-breakthrough-gaming-arcade">Catch the Bowling Balls: Breakthrough Ga...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1512,7 +1982,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13161.png" alt="Our Church and Halloween RPG: Story One" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13161-our-church-and-halloween-rpg-story-one">Our Church and Halloween RPG: Story One</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13161-our-church-and-halloween-rpg-story-one">Our Church and Halloween RPG: Story One</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">18 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1522,7 +1995,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13160.png" alt="Our Church and Halloween RPG: Story Two" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13160-our-church-and-halloween-rpg-story-two">Our Church and Halloween RPG: Story Two</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13160-our-church-and-halloween-rpg-story-two">Our Church and Halloween RPG: Story Two</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">10 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1532,7 +2008,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13159.png" alt="Sable&#039;s Grimoire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13159-sables-grimoire">Sable&#039;s Grimoire</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13159-sables-grimoire">Sable&#039;s Grimoire</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">14 min</td>
             <td align="center">40</td>
             <td align="center">5</td>
@@ -1542,7 +2021,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13158.png" alt="Sable&#039;s Grimoire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13158-sables-grimoire">Sable&#039;s Grimoire</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13158-sables-grimoire">Sable&#039;s Grimoire</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">17 min</td>
             <td align="center">40</td>
             <td align="center">5</td>
@@ -1552,7 +2034,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13157.png" alt="Sable&#039;s Grimoire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13157-sables-grimoire">Sable&#039;s Grimoire</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13157-sables-grimoire">Sable&#039;s Grimoire</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">18 min</td>
             <td align="center">40</td>
             <td align="center">5</td>
@@ -1562,7 +2047,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13156.png" alt="Sable&#039;s Grimoire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13156-sables-grimoire">Sable&#039;s Grimoire</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13156-sables-grimoire">Sable&#039;s Grimoire</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">13 min</td>
             <td align="center">40</td>
             <td align="center">5</td>
@@ -1572,7 +2060,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13152.png" alt="Independence Day Break Head to Head" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13152-independence-day-break-head-to-head">Independence Day Break Head to Head</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13152-independence-day-break-head-to-head">Independence Day Break Head to Head</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">10 min</td>
             <td align="center">40</td>
             <td align="center">4</td>
@@ -1582,7 +2073,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13149.png" alt="Farm Frenzy: Refreshed" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13149-farm-frenzy-refreshed">Farm Frenzy: Refreshed</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13149-farm-frenzy-refreshed">Farm Frenzy: Refreshed</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">32 min</td>
             <td align="center">19</td>
             <td align="center">9</td>
@@ -1592,7 +2086,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13148.png" alt="Farm Frenzy: Refreshed" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13148-farm-frenzy-refreshed">Farm Frenzy: Refreshed</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13148-farm-frenzy-refreshed">Farm Frenzy: Refreshed</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">33 min</td>
             <td align="center">19</td>
             <td align="center">9</td>
@@ -1602,7 +2099,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13146.png" alt="Pretty Girls Klondike Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13146-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13146-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">31 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1612,7 +2112,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13141.png" alt="Independence Day Break Head to Head" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13141-independence-day-break-head-to-head">Independence Day Break Head to Head</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13141-independence-day-break-head-to-head">Independence Day Break Head to Head</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">12 min</td>
             <td align="center">40</td>
             <td align="center">4</td>
@@ -1622,7 +2125,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13138.png" alt="Luckslinger" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13138-luckslinger">Luckslinger</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13138-luckslinger">Luckslinger</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">14 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1632,7 +2138,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13137.png" alt="Luckslinger" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13137-luckslinger">Luckslinger</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13137-luckslinger">Luckslinger</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">13 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1642,7 +2151,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13136.png" alt="Pretty Girls Klondike Solitaire" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13136-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13136-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">31 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1652,7 +2164,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13124.png" alt="Evil Inside" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13124-evil-inside">Evil Inside</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13124-evil-inside">Evil Inside</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">24 min</td>
             <td align="center">25</td>
             <td align="center">6</td>
@@ -1662,7 +2177,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13123.png" alt="Evil Inside" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13123-evil-inside">Evil Inside</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13123-evil-inside">Evil Inside</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">25 min</td>
             <td align="center">25</td>
             <td align="center">6</td>
@@ -1672,7 +2190,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13122.png" alt="Evil Inside" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13122-evil-inside">Evil Inside</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13122-evil-inside">Evil Inside</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">26 min</td>
             <td align="center">25</td>
             <td align="center">6</td>
@@ -1682,7 +2203,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13121.png" alt="Evil Inside" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13121-evil-inside">Evil Inside</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13121-evil-inside">Evil Inside</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">25 min</td>
             <td align="center">25</td>
             <td align="center">6</td>
@@ -1692,7 +2216,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13118.png" alt="Maze: Pedestal of Trials" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13118-maze-pedestal-of-trials">Maze: Pedestal of Trials</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13118-maze-pedestal-of-trials">Maze: Pedestal of Trials</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">25 min</td>
             <td align="center">25</td>
             <td align="center">8</td>
@@ -1702,7 +2229,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13114.png" alt="Paradox Error" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13114-paradox-error">Paradox Error</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13114-paradox-error">Paradox Error</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">6 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1712,7 +2242,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13111.png" alt="Paradox Error" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13111-paradox-error">Paradox Error</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13111-paradox-error">Paradox Error</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">9 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1722,7 +2255,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13107.png" alt="Promesa" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13107-promesa">Promesa</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13107-promesa">Promesa</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">24</td>
             <td align="center">7</td>
@@ -1732,7 +2268,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13106.png" alt="Promesa" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13106-promesa">Promesa</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13106-promesa">Promesa</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">31 min</td>
             <td align="center">24</td>
             <td align="center">7</td>
@@ -1742,7 +2281,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13104.png" alt="Donuts &#039;n&#039; Justice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13104-donuts-n-justice">Donuts &#039;n&#039; Justice</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13104-donuts-n-justice">Donuts &#039;n&#039; Justice</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1752,7 +2294,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13103.png" alt="Donuts &#039;n&#039; Justice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13103-donuts-n-justice">Donuts &#039;n&#039; Justice</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13103-donuts-n-justice">Donuts &#039;n&#039; Justice</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1762,7 +2307,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13102.png" alt="Track: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13102-track-breakthrough-gaming-arcade">Track: Breakthrough Gaming Arcade</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13102-track-breakthrough-gaming-arcade">Track: Breakthrough Gaming Arcade</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1772,7 +2320,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13100.png" alt="Track: Breakthrough Gaming Arcade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13100-track-breakthrough-gaming-arcade">Track: Breakthrough Gaming Arcade</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13100-track-breakthrough-gaming-arcade">Track: Breakthrough Gaming Arcade</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">13 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1782,7 +2333,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13084.png" alt="Paradox Error" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13084-paradox-error">Paradox Error</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13084-paradox-error">Paradox Error</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">5 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1792,7 +2346,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13079.png" alt="Donuts &#039;n&#039; Justice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13079-donuts-n-justice">Donuts &#039;n&#039; Justice</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13079-donuts-n-justice">Donuts &#039;n&#039; Justice</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1802,7 +2359,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13077.png" alt="Donuts &#039;n&#039; Justice" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13077-donuts-n-justice">Donuts &#039;n&#039; Justice</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13077-donuts-n-justice">Donuts &#039;n&#039; Justice</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">14 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1812,7 +2372,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13073.png" alt="Dungeon Escape" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13073-dungeon-escape">Dungeon Escape</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13073-dungeon-escape">Dungeon Escape</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1822,7 +2385,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13072.png" alt="Dungeon Escape" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13072-dungeon-escape">Dungeon Escape</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13072-dungeon-escape">Dungeon Escape</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1832,7 +2398,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13058.png" alt="Gutwhale" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13058-gutwhale">Gutwhale</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13058-gutwhale">Gutwhale</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">30 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1842,7 +2411,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13051.png" alt="Gutwhale" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13051-gutwhale">Gutwhale</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13051-gutwhale">Gutwhale</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">13 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1852,7 +2424,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13048.png" alt="Violetti Goottii" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13048-violetti-goottii">Violetti Goottii</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13048-violetti-goottii">Violetti Goottii</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">17 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1862,7 +2437,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13041.png" alt="Dungeon Escape" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13041-dungeon-escape">Dungeon Escape</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13041-dungeon-escape">Dungeon Escape</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -1872,7 +2450,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13036.png" alt="Dragon Break Classic Head to Head" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13036-dragon-break-classic-head-to-head">Dragon Break Classic Head to Head</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13036-dragon-break-classic-head-to-head">Dragon Break Classic Head to Head</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">10 min</td>
             <td align="center">40</td>
             <td align="center">4</td>
@@ -1882,7 +2463,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13032.png" alt="Crossbow Crusade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13032-crossbow-crusade">Crossbow Crusade</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13032-crossbow-crusade">Crossbow Crusade</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">42 min</td>
             <td align="center">22</td>
             <td align="center">8</td>
@@ -1892,7 +2476,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13029.png" alt="Crossbow Crusade" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13029-crossbow-crusade">Crossbow Crusade</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13029-crossbow-crusade">Crossbow Crusade</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">28 min</td>
             <td align="center">22</td>
             <td align="center">8</td>
@@ -1902,7 +2489,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13027.png" alt="Dragon Break Classic Head to Head" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13027-dragon-break-classic-head-to-head">Dragon Break Classic Head to Head</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13027-dragon-break-classic-head-to-head">Dragon Break Classic Head to Head</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">21 min</td>
             <td align="center">40</td>
             <td align="center">4</td>
@@ -1912,7 +2502,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13026.png" alt="A Little Lily Princess" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13026-a-little-lily-princess">A Little Lily Princess</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13026-a-little-lily-princess">A Little Lily Princess</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">35 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1922,7 +2515,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13025.png" alt="A Little Lily Princess" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13025-a-little-lily-princess">A Little Lily Princess</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13025-a-little-lily-princess">A Little Lily Princess</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">18 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1932,7 +2528,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13024.png" alt="A Little Lily Princess" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13024-a-little-lily-princess">A Little Lily Princess</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13024-a-little-lily-princess">A Little Lily Princess</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">9 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1942,7 +2541,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13023.png" alt="A Little Lily Princess" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13023-a-little-lily-princess">A Little Lily Princess</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13023-a-little-lily-princess">A Little Lily Princess</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">10 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1952,7 +2554,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13022.png" alt="The Skylia Prophecy" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13022-the-skylia-prophecy">The Skylia Prophecy</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13022-the-skylia-prophecy">The Skylia Prophecy</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">13</td>
             <td align="center">10</td>
@@ -1962,7 +2567,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13017.png" alt="Hentai vs. Evil" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13017-hentai-vs-evil">Hentai vs. Evil</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13017-hentai-vs-evil">Hentai vs. Evil</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">20 min</td>
             <td align="center">16</td>
             <td align="center">10</td>
@@ -1972,7 +2580,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13011.png" alt="Hentai vs. Evil" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13011-hentai-vs-evil">Hentai vs. Evil</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13011-hentai-vs-evil">Hentai vs. Evil</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">30 min</td>
             <td align="center">16</td>
             <td align="center">10</td>
@@ -1982,7 +2593,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13010.png" alt="Hentai vs. Evil" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13010-hentai-vs-evil">Hentai vs. Evil</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13010-hentai-vs-evil">Hentai vs. Evil</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">20 min</td>
             <td align="center">16</td>
             <td align="center">10</td>
@@ -1992,7 +2606,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13008.png" alt="Hentai vs. Evil" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13008-hentai-vs-evil">Hentai vs. Evil</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13008-hentai-vs-evil">Hentai vs. Evil</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">23 min</td>
             <td align="center">16</td>
             <td align="center">10</td>
@@ -2002,7 +2619,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13007.png" alt="Hentai vs. Evil" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13007-hentai-vs-evil">Hentai vs. Evil</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13007-hentai-vs-evil">Hentai vs. Evil</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">24 min</td>
             <td align="center">16</td>
             <td align="center">10</td>
@@ -2012,7 +2632,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13003.png" alt="Rabisco+" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13003-rabisco">Rabisco+</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13003-rabisco">Rabisco+</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">13</td>
             <td align="center">10</td>
@@ -2022,7 +2645,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13002.png" alt="Rabisco+" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/13002-rabisco">Rabisco+</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13002-rabisco">Rabisco+</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">13</td>
             <td align="center">10</td>
@@ -2032,7 +2658,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12999.png" alt="Gutwhale" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12999-gutwhale">Gutwhale</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12999-gutwhale">Gutwhale</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">44 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2042,7 +2671,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12995.png" alt="Hentai vs. Evil" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12995-hentai-vs-evil">Hentai vs. Evil</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12995-hentai-vs-evil">Hentai vs. Evil</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">22 min</td>
             <td align="center">16</td>
             <td align="center">10</td>
@@ -2052,7 +2684,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12990.png" alt="Gutwhale" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12990-gutwhale">Gutwhale</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12990-gutwhale">Gutwhale</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">50 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2062,7 +2697,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12989.png" alt="Gutwhale" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12989-gutwhale">Gutwhale</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12989-gutwhale">Gutwhale</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">8 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2072,7 +2710,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12984.png" alt="Gutwhale" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12984-gutwhale">Gutwhale</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12984-gutwhale">Gutwhale</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2082,7 +2723,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12983.png" alt="Infestor" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12983-infestor">Infestor</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12983-infestor">Infestor</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">18 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2092,7 +2736,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12982.png" alt="Infestor" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12982-infestor">Infestor</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12982-infestor">Infestor</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">20 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2102,7 +2749,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12976.png" alt="サクラ･サキュバス２ ～止まらぬ出会い～" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12976-サクラサキュバス２-止まらぬ出会い">サクラ･サキュバス２ ～止まらぬ出会い～</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12976-サクラサキュバス２-止まらぬ出会い">サクラ･サキュバス２ ～止まらぬ出会い～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2112,7 +2762,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12975.png" alt="Sakura Succubus 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12975-sakura-succubus-2">Sakura Succubus 2</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12975-sakura-succubus-2">Sakura Succubus 2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2122,7 +2775,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12974.png" alt="Sakura Succubus 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12974-sakura-succubus-2">Sakura Succubus 2</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12974-sakura-succubus-2">Sakura Succubus 2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2132,7 +2788,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12973.png" alt="Sakura Succubus 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12973-sakura-succubus-2">Sakura Succubus 2</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12973-sakura-succubus-2">Sakura Succubus 2</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2142,7 +2801,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12972.png" alt="Sakura Succubus 2" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12972-sakura-succubus-2">Sakura Succubus 2</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12972-sakura-succubus-2">Sakura Succubus 2</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">2 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2152,7 +2814,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12971.png" alt="サクラ･サキュバス２ ～止まらぬ出会い～" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12971-サクラサキュバス２-止まらぬ出会い">サクラ･サキュバス２ ～止まらぬ出会い～</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12971-サクラサキュバス２-止まらぬ出会い">サクラ･サキュバス２ ～止まらぬ出会い～</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">4 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2162,7 +2827,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12970.png" alt="Horned Knight" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12970-horned-knight">Horned Knight</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12970-horned-knight">Horned Knight</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">9 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2172,7 +2840,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12968.png" alt="Horned Knight" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12968-horned-knight">Horned Knight</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12968-horned-knight">Horned Knight</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2182,7 +2853,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12944.png" alt="0 Degrees" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12944-0-degrees">0 Degrees</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12944-0-degrees">0 Degrees</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">40 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2192,7 +2866,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12941.png" alt="0 Degrees" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12941-0-degrees">0 Degrees</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12941-0-degrees">0 Degrees</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">26 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2202,7 +2879,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12935.png" alt="Our Church and Halloween RPG: Story Four" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12935-our-church-and-halloween-rpg-story-four">Our Church and Halloween RPG: Story Four</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12935-our-church-and-halloween-rpg-story-four">Our Church and Halloween RPG: Story Four</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">33 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -2212,7 +2892,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12930.png" alt="Aborigenus" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12930-aborigenus">Aborigenus</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12930-aborigenus">Aborigenus</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">21 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -2222,7 +2905,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12929.png" alt="Cybxus Heart" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12929-cybxus-heart">Cybxus Heart</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12929-cybxus-heart">Cybxus Heart</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">13 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -2232,7 +2918,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12928.png" alt="Aborigenus" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12928-aborigenus">Aborigenus</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12928-aborigenus">Aborigenus</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -2242,7 +2931,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12919.png" alt="Rabisco+" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12919-rabisco">Rabisco+</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12919-rabisco">Rabisco+</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">13</td>
             <td align="center">10</td>
@@ -2252,7 +2944,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12918.png" alt="Rabisco+" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12918-rabisco">Rabisco+</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12918-rabisco">Rabisco+</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">23 min</td>
             <td align="center">13</td>
             <td align="center">10</td>
@@ -2262,7 +2957,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12917.png" alt="Rabisco+" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12917-rabisco">Rabisco+</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12917-rabisco">Rabisco+</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">16 min</td>
             <td align="center">13</td>
             <td align="center">10</td>
@@ -2272,7 +2970,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12916.png" alt="Rabisco+" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12916-rabisco">Rabisco+</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12916-rabisco">Rabisco+</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">17 min</td>
             <td align="center">13</td>
             <td align="center">10</td>
@@ -2282,7 +2983,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12905.png" alt="0 Degrees" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12905-0-degrees">0 Degrees</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12905-0-degrees">0 Degrees</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">28 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2292,7 +2996,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12899.png" alt="Rift Racoon" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12899-rift-racoon">Rift Racoon</a> <kbd>PS5 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12899-rift-racoon">Rift Racoon</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
             <td align="center">8 min</td>
             <td align="center">17</td>
             <td align="center">10</td>
@@ -2302,7 +3009,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12898.png" alt="Rift Racoon" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12898-rift-racoon">Rift Racoon</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12898-rift-racoon">Rift Racoon</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">10 min</td>
             <td align="center">17</td>
             <td align="center">10</td>
@@ -2312,7 +3022,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12897.png" alt="Rift Racoon" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12897-rift-racoon">Rift Racoon</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12897-rift-racoon">Rift Racoon</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">6 min</td>
             <td align="center">17</td>
             <td align="center">10</td>
@@ -2322,7 +3035,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12896.png" alt="Rift Racoon" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12896-rift-racoon">Rift Racoon</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12896-rift-racoon">Rift Racoon</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">5 min</td>
             <td align="center">17</td>
             <td align="center">10</td>
@@ -2332,7 +3048,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12895.png" alt="Rift Racoon" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12895-rift-racoon">Rift Racoon</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12895-rift-racoon">Rift Racoon</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">5 min</td>
             <td align="center">17</td>
             <td align="center">10</td>
@@ -2342,7 +3061,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12893.png" alt="ヒール" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12893-ヒール">ヒール</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12893-ヒール">ヒール</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">30 min</td>
             <td align="center">15</td>
             <td align="center">11</td>
@@ -2352,7 +3074,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12892.png" alt="ヒール" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12892-ヒール">ヒール</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12892-ヒール">ヒール</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">27 min</td>
             <td align="center">15</td>
             <td align="center">11</td>
@@ -2362,7 +3087,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12889.png" alt="Our Church and Halloween RPG: Story Three" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12889-our-church-and-halloween-rpg-story-three">Our Church and Halloween RPG: Story Thre...</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12889-our-church-and-halloween-rpg-story-three">Our Church and Halloween RPG: Story Thre...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">18 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -2372,7 +3100,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12888.png" alt="Rift Racoon" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12888-rift-racoon">Rift Racoon</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12888-rift-racoon">Rift Racoon</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">8 min</td>
             <td align="center">17</td>
             <td align="center">10</td>
@@ -2382,7 +3113,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12883.png" alt="Infestor" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12883-infestor">Infestor</a> <kbd>PS5 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12883-infestor">Infestor</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
             <td align="center">19 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2392,7 +3126,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12882.png" alt="Infestor" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12882-infestor">Infestor</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12882-infestor">Infestor</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">29 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2402,7 +3139,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12880.png" alt="Infestor" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12880-infestor">Infestor</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12880-infestor">Infestor</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">23 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2412,7 +3152,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12878.png" alt="Infestor" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12878-infestor">Infestor</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12878-infestor">Infestor</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">24 min</td>
             <td align="center">13</td>
             <td align="center">11</td>
@@ -2422,7 +3165,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12865.png" alt="Poker Pretty Girls Battle: Fantasy World Edition" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12865-poker-pretty-girls-battle-fantasy-world-edition">Poker Pretty Girls Battle: Fantasy World...</a> <kbd>PS4 • AS</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12865-poker-pretty-girls-battle-fantasy-world-edition">Poker Pretty Girls Battle: Fantasy World...</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
             <td align="center">16 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2432,7 +3178,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12864.png" alt="Poker Pretty Girls Battle: Fantasy World Edition" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12864-poker-pretty-girls-battle-fantasy-world-edition">Poker Pretty Girls Battle: Fantasy World...</a> <kbd>PS4 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12864-poker-pretty-girls-battle-fantasy-world-edition">Poker Pretty Girls Battle: Fantasy World...</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
             <td align="center">11 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2442,7 +3191,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12856.png" alt="Our Church and Halloween RPG: Story Two" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12856-our-church-and-halloween-rpg-story-two">Our Church and Halloween RPG: Story Two</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12856-our-church-and-halloween-rpg-story-two">Our Church and Halloween RPG: Story Two</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">10 min</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -2452,7 +3204,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12851.png" alt="Poker Pretty Girls Battle: Fantasy World Edition" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12851-poker-pretty-girls-battle-fantasy-world-edition">Poker Pretty Girls Battle: Fantasy World...</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12851-poker-pretty-girls-battle-fantasy-world-edition">Poker Pretty Girls Battle: Fantasy World...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">17 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2462,7 +3217,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12850.png" alt="Poker Pretty Girls Battle: Fantasy World Edition" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12850-poker-pretty-girls-battle-fantasy-world-edition">Poker Pretty Girls Battle: Fantasy World...</a> <kbd>PS4 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12850-poker-pretty-girls-battle-fantasy-world-edition">Poker Pretty Girls Battle: Fantasy World...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
             <td align="center">15 min</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -2472,7 +3230,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12847.png" alt="クロスクラッシュ" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12847-クロスクラッシュ">クロスクラッシュ</a> <kbd>PS5 • JP</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12847-クロスクラッシュ">クロスクラッシュ</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
             <td align="center">40 min</td>
             <td align="center">17</td>
             <td align="center">10</td>
@@ -2482,7 +3243,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12845.png" alt="CrossKrush" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12845-crosskrush">CrossKrush</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12845-crosskrush">CrossKrush</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">45 min</td>
             <td align="center">17</td>
             <td align="center">10</td>
@@ -2492,7 +3256,10 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12842.png" alt="Dragon Break Classic" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12842-dragon-break-classic">Dragon Break Classic</a> <kbd>PS4 • NA</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12842-dragon-break-classic">Dragon Break Classic</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
             <td align="center">19 min</td>
             <td align="center">38</td>
             <td align="center">4</td>
@@ -2502,33 +3269,16 @@ This repository is a collection of easy and quick (< 1h) obtainable PlayStation 
         </tr>
             <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12839.png" alt="Angels with Scaly Wings" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12839-angels-with-scaly-wings">Angels with Scaly Wings</a> <kbd>PS5 • EU</kbd></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12839-angels-with-scaly-wings">Angels with Scaly Wings</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
             <td align="center">59 min</td>
             <td align="center">63</td>
             <td align="center">1</td>
             <td align="center">3</td>
             <td align="center">58</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12838.png" alt="Skatemasta Tcheco" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12838-skatemasta-tcheco">Skatemasta Tcheco</a> <kbd>PS5 • NA</kbd></td>
-            <td align="center">8 min</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12837.png" alt="Dragon Break Classic" width="60"></td>
-            <td><a href="https://psnprofiles.com/trophies/12837-dragon-break-classic">Dragon Break Classic</a> <kbd>PS4 • EU</kbd></td>
-            <td align="center">11 min</td>
-            <td align="center">38</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">26</td>
-            <td align="center">1260</td>
         </tr>
         </tbody>
 </table>

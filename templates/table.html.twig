@@ -28,7 +28,10 @@
     {% for row in rows %}
         <tr>
             <td><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/{{ row.thumbnail }}" alt="{{ row.title }}" width="60"></td>
-            <td><a href="{{ row.uri }}">{{ row.title|length > 40 ? row.title|slice(0, 40) ~ '...' : row.title  }}</a> <kbd>{{ row.platform }} • {{ row.region }}</kbd></td>
+            <td>
+                <a href="{{ row.uri }}">{{ row.title|length > 40 ? row.title|slice(0, 40) ~ '...' : row.title  }}</a>
+                <kbd>{{ row.platform }}{{ (row.region) ? ' • ' ~ row.region : '' }}</kbd>
+            </td>
             <td align="center">{{ row.approximateTime }}</td>
             <td align="center">{{ row.trophiesTotal }}</td>
             <td align="center">{{ row.trophiesGold }}</td>
