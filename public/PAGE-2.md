@@ -1,7 +1,7 @@
 
                                                                                                                                                 
 <p align="center">
-    <a>1</a> - 2 - <a>3</a> - <a>4</a> - <a>5</a> - <a>6</a> - <a>7</a> - <a>8</a> - <a>9</a>
+    <a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1.md">1</a> - 2 - <a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-3.md">3</a> - <a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-4.md">4</a> - <a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-5.md">5</a> - <a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6.md">6</a> - <a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-7.md">7</a> - <a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-8.md">8</a> - <a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-9.md">9</a>
 </p>
 <table>
     <thead>

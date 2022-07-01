@@ -4,7 +4,7 @@
     {% if currentPage == i %}
         {% set pagerLinks = pagerLinks|merge([i]) %}
     {% else %}
-        {% set pagerLinks = pagerLinks|merge(['<a>' ~ i ~ '</a>']) %}
+        {% set pagerLinks = pagerLinks|merge(['<a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ i ~'.md">' ~ i ~ '</a>']) %}
     {% endif %}
 {% endfor %}
 
