@@ -2,8 +2,12 @@
 
 namespace App;
 
+use App\Sort\SortDirection;
+use App\Sort\SortField;
+use App\Sort\Sorting;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
+use Twig\TwigFunction;
 
 class FileWriter
 {
@@ -27,6 +31,7 @@ class FileWriter
 
         $loader = new FilesystemLoader(dirname(__DIR__) . '/templates');
         $twig = new Environment($loader);
+        $twig->addFunction(new TwigFunction('renderSort', [Sorting::class, 'renderSort']));
         $template = $twig->load('table.html.twig');
 
         $rows = json_decode($this->fileContentsWrapper->get(TrophyFetcher::JSON_FILE), true);
@@ -42,6 +47,7 @@ class FileWriter
             'currentPage' => 1,
             'totalPages' => $numberOfPages,
             'rows' => array_slice($rows, 0, self::PAGE_SIZE),
+            'sorting' => Sorting::default(),
         ]);
 
         $readMeContent = preg_replace(
@@ -52,23 +58,27 @@ class FileWriter
 
         $this->fileContentsWrapper->put(self::README_FILE, $readMeContent);
 
-        // Now render all pages in a separate folder.
-        for ($i = 0; $i < $numberOfPages; $i++) {
-            $render = $template->render([
-                'currentPage' => $i + 1,
-                'totalPages' => $numberOfPages,
-                'rows' => array_slice($rows, ($i * self::PAGE_SIZE), self::PAGE_SIZE),
-            ]);
+        // Render all pages for all possible sorts.
+        foreach (SortField::cases() as $sortField) {
+            foreach (SortDirection::cases() as $sortDirection) {
+                for ($i = 0; $i < $numberOfPages; $i++) {
+                    $render = $template->render([
+                        'currentPage' => $i + 1,
+                        'totalPages' => $numberOfPages,
+                        'rows' => array_slice($rows, ($i * self::PAGE_SIZE), self::PAGE_SIZE),
+                        'sorting' => Sorting::fromFieldAndDirection($sortField, $sortDirection),
+                    ]);
 
-            $content = preg_replace(
-                '/<!-- start easy-platinums -->([\s\S]*)<!-- end easy-platinums -->/im',
-                '<!-- start easy-platinums -->' . PHP_EOL . $render . PHP_EOL . '<!-- end easy-platinums -->',
-                $readMeContent
-            );
+                    $content = preg_replace(
+                        '/<!-- start easy-platinums -->([\s\S]*)<!-- end easy-platinums -->/im',
+                        '<!-- start easy-platinums -->' . PHP_EOL . $render . PHP_EOL . '<!-- end easy-platinums -->',
+                        $readMeContent
+                    );
 
-            $this->fileContentsWrapper->put('public/PAGE-' . ($i + 1) . '.md', $content);
+                    $this->fileContentsWrapper->put('public/PAGE-' . ($i + 1) . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $content);
+                }
+            }
         }
-
     }
 
     private function removeDuplicateEntries(array &$rows): void

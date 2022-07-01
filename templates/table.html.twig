@@ -4,24 +4,25 @@
     {% if currentPage == i %}
         {% set pagerLinks = pagerLinks|merge(['<kbd>'~ i ~'</kbd>']) %}
     {% else %}
-        {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ i ~'.md">' ~ i ~ '</a></kbd>']) %}
+        {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ i ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ i ~ '</a></kbd>']) %}
     {% endif %}
 {% endfor %}
 
 <p align="center">
     {{ pagerLinks|join(' | ')|raw }}
 </p>
+
 <table>
     <thead>
     <tr>
-        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th>Approx. Time</th>
-        <th>Trophies</th>
+        <th># {{ renderSort('id', sorting, currentPage)|raw }}</th>
+        <th>Title {{ renderSort('title', sorting, currentPage)|raw }}</th>
+        <th>Approx. Time {{ renderSort('time', sorting, currentPage)|raw }}</th>
+        <th>Trophies {{ renderSort('trophies', sorting, currentPage)|raw }}</th>
         <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-gold.png" alt="gold" width="20"/></th>
         <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-silver.png" alt="silver" width="20"/></th>
         <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-bronze.png" alt="bronze" width="20"/></th>
-        <th>Total points</th>
+        <th>Points {{ renderSort('points', sorting, currentPage)|raw }}</th>
     </tr>
     </thead>
     <tbody>
