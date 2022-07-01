@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-This repository is a collection of easy and quick obtainable PlayStation platinum trophies. It is updated daily.
+This repository is a collection of easy and quick (< 1h) obtainable PlayStation platinum trophies. It is updated daily.
 </p>
 
 ------
