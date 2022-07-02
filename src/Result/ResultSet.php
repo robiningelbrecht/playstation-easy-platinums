@@ -1,8 +1,8 @@
 <?php
 
-namespace App;
+namespace App\Result;
 
-use App\Sort\SortField;
+use App\Sort\SortDirection;
 use App\Sort\Sorting;
 
 class ResultSet implements \Countable
@@ -17,16 +17,21 @@ class ResultSet implements \Countable
 
     public function sort(Sorting $sorting): void
     {
-        $fieldName = $sorting->getSortField()->value;
-
         if ($sorting->getSortField()->getType() === SORT_NUMERIC) {
             usort(
                 $this->rows,
-                function (array $a, array $b) use ($fieldName) {
-                    if ($a[$fieldName] == $b[$fieldName]) {
+                function (array $a, array $b) use ($sorting) {
+                    $fieldName = $sorting->getSortField()->value;
+
+                    if ((int)$a[$fieldName] === (int)$b[$fieldName]) {
                         return 0;
                     }
-                    return ($a[$fieldName] > $b[$fieldName]) ? -1 : 1;
+
+                    if ($sorting->getSortDirection() === SortDirection::ASC) {
+                        return ((int)$a[$fieldName] < (int)$b[$fieldName]) ? -1 : 1;
+                    }
+
+                    return ((int)$a[$fieldName] > (int)$b[$fieldName]) ? -1 : 1;
                 }
             );
 
@@ -35,7 +40,14 @@ class ResultSet implements \Countable
 
         usort(
             $this->rows,
-            fn(array $a, array $b) => strcmp($a[$fieldName], $b[$fieldName])
+            function (array $a, array $b) use ($sorting) {
+                $fieldName = $sorting->getSortField()->value;
+
+                if ($sorting->getSortDirection() === SortDirection::ASC) {
+                    return strcmp($a[$fieldName], $b[$fieldName]);
+                }
+                return strcmp($b[$fieldName], $a[$fieldName]);
+            }
         );
     }
 

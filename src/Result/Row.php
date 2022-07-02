@@ -1,0 +1,78 @@
+<?php
+
+namespace App\Result;
+
+class Row
+{
+
+    private function __construct(
+        private array $data
+    )
+    {
+    }
+
+    public function getId(): int
+    {
+        return (int)$this->data['id'];
+    }
+
+    public function getTitle(): string
+    {
+        return $this->data['title'];
+    }
+
+    public function getRegion(): ?string
+    {
+        return $this->data['region'];
+    }
+
+    public function getPlatform(): string
+    {
+        return $this->data['platform'];
+    }
+
+    public function getThumbnail(): string
+    {
+        return $this->data['thumbnail'];
+    }
+
+    public function getUri(): string
+    {
+        return $this->data['uri'];
+    }
+
+    public function getApproximateTime(): int
+    {
+        return (int)str_replace(' min', '', $this->data['approximateTime']);
+    }
+
+    public function getTrophiesTotal(): int
+    {
+        return (int)$this->data['trophiesTotal'];
+    }
+
+    public function getTrophiesGold(): int
+    {
+        return (int)$this->data['trophiesGold'];
+    }
+
+    public function getTrophiesSilver(): int
+    {
+        return (int)$this->data['trophiesSilver'];
+    }
+
+    public function getTrophiesBronze(): int
+    {
+        return (int)$this->data['trophiesBronze'];
+    }
+
+    public function getPoints(): int
+    {
+        return  (int)($this->getTrophiesBronze() * 15) + ($this->getTrophiesSilver() * 30) + ($this->getTrophiesGold() * 90) + 300;
+    }
+
+    public function fromArray(array $data): self
+    {
+        return new self($data);
+    }
+}

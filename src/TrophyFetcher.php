@@ -95,12 +95,11 @@ class TrophyFetcher
                 'platform' => $matches['platform'],
                 'thumbnail' => $filename,
                 'uri' => 'https://psnprofiles.com' . $matches['uri'],
-                'approximateTime' => $approxTime . ' min',
-                'trophiesTotal' => $matches['trophiesTotal'],
-                'trophiesGold' => $matches['trophiesGold'],
-                'trophiesSilver' => $matches['trophiesSilver'],
-                'trophiesBronze' => $matches['trophiesBronze'],
-                'points' => ($matches['trophiesBronze'] * 15) + ($matches['trophiesSilver'] * 30) + ($matches['trophiesGold'] * 90) + 300,
+                'approximateTime' => (int)$approxTime,
+                'trophiesTotal' => (int)$matches['trophiesTotal'],
+                'trophiesGold' => (int)$matches['trophiesGold'],
+                'trophiesSilver' => (int)$matches['trophiesSilver'],
+                'trophiesBronze' => (int)$matches['trophiesBronze'],
             ];
         }
 

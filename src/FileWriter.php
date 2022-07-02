@@ -2,6 +2,7 @@
 
 namespace App;
 
+use App\Result\ResultSet;
 use App\Sort\SortDirection;
 use App\Sort\SortField;
 use App\Sort\Sorting;

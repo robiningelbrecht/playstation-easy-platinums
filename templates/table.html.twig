@@ -33,7 +33,7 @@
                 <a href="{{ row.uri }}">{{ row.title|length > 35 ? row.title|slice(0, 35) ~ '...' : row.title  }}</a>
                 <kbd>{{ row.platform }}{{ (row.region) ? ' • ' ~ row.region : '' }}</kbd>
             </td>
-            <td align="center">{{ row.approximateTime }}</td>
+            <td align="center">{{ row.approximateTime }} min</td>
             <td align="center">{{ row.trophiesTotal }}</td>
             <td align="center">{{ row.trophiesGold }}</td>
             <td align="center">{{ row.trophiesSilver }}</td>
