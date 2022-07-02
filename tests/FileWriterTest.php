@@ -19,15 +19,11 @@ class FileWriterTest extends TestCase
     {
 
         $this->fileContentsWrapper
-            ->expects($this->exactly(2))
+            ->expects($this->exactly(1))
             ->method('get')
-            ->withConsecutive(
-                ['easy-platinums.json'],
-                ['README.md']
-            )
-            ->willReturnOnConsecutiveCalls(
+            ->with('easy-platinums.json')
+            ->willReturn(
                 file_get_contents(__DIR__.'/easy-platinums.json'),
-                '<!-- start easy-platinums -->test<!-- end easy-platinums -->'
             );
 
         $this->fileContentsWrapper
