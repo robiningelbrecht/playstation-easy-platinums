@@ -34,7 +34,7 @@ class FileWriter
         $loader = new FilesystemLoader(dirname(__DIR__) . '/templates');
         $twig = new Environment($loader);
         $twig->addFunction(new TwigFunction('renderSort', [SortingHelper::class, 'renderSort']));
-        $template = $twig->load('table.html.twig');
+        $template = $twig->load('page.html.twig');
 
         $resultSet = ResultSet::fromJson($this->fileContentsWrapper->get(TrophyFetcher::JSON_FILE));
         $resultSet->sort(Sorting::default());
@@ -43,20 +43,12 @@ class FileWriter
         $rows = $resultSet->getRows();
 
         // Render the first page on the main README.md.
-        $render = $template->render([
+        $this->fileContentsWrapper->put(self::README_FILE, $template->render([
             'currentPage' => 1,
             'totalPages' => $numberOfPages,
             'rows' => array_slice($rows, 0, self::PAGE_SIZE),
             'sorting' => Sorting::default(),
-        ]);
-
-        $readMeContent = preg_replace(
-            '/<!-- start easy-platinums -->([\s\S]*)<!-- end easy-platinums -->/im',
-            '<!-- start easy-platinums -->' . PHP_EOL . $render . PHP_EOL . '<!-- end easy-platinums -->',
-            $this->fileContentsWrapper->get(self::README_FILE)
-        );
-
-        $this->fileContentsWrapper->put(self::README_FILE, $readMeContent);
+        ]));
 
         // Render all pages for all possible sorts.
         foreach (SortField::cases() as $sortField) {
@@ -70,13 +62,7 @@ class FileWriter
                         'sorting' => Sorting::fromFieldAndDirection($sortField, $sortDirection),
                     ]);
 
-                    $content = preg_replace(
-                        '/<!-- start easy-platinums -->([\s\S]*)<!-- end easy-platinums -->/im',
-                        '<!-- start easy-platinums -->' . PHP_EOL . $render . PHP_EOL . '<!-- end easy-platinums -->',
-                        $readMeContent
-                    );
-
-                    $this->fileContentsWrapper->put('public/PAGE-' . ($i + 1) . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $content);
+                    $this->fileContentsWrapper->put('public/PAGE-' . ($i + 1) . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $render);
                 }
             }
         }

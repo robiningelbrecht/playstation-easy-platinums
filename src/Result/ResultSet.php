@@ -20,18 +20,16 @@ class ResultSet implements \Countable
         if ($sorting->getSortField()->getType() === SORT_NUMERIC) {
             usort(
                 $this->rows,
-                function (array $a, array $b) use ($sorting) {
-                    $fieldName = $sorting->getSortField()->value;
-
-                    if ((int)$a[$fieldName] === (int)$b[$fieldName]) {
+                function (Row $a, Row $b) use ($sorting) {
+                    if ($a->getId() === $b->getId()) {
                         return 0;
                     }
 
                     if ($sorting->getSortDirection() === SortDirection::ASC) {
-                        return ((int)$a[$fieldName] < (int)$b[$fieldName]) ? -1 : 1;
+                        return ($a->getId() < $b->getId()) ? -1 : 1;
                     }
 
-                    return ((int)$a[$fieldName] > (int)$b[$fieldName]) ? -1 : 1;
+                    return ($a->getId() > $b->getId()) ? -1 : 1;
                 }
             );
 
@@ -40,13 +38,11 @@ class ResultSet implements \Countable
 
         usort(
             $this->rows,
-            function (array $a, array $b) use ($sorting) {
-                $fieldName = $sorting->getSortField()->value;
-
+            function (Row $a, Row $b) use ($sorting) {
                 if ($sorting->getSortDirection() === SortDirection::ASC) {
-                    return strcmp($a[$fieldName], $b[$fieldName]);
+                    return strcmp($a->getTitle(), $b->getTitle());
                 }
-                return strcmp($b[$fieldName], $a[$fieldName]);
+                return strcmp($b->getTitle(), $a->getTitle());
             }
         );
     }
@@ -64,15 +60,16 @@ class ResultSet implements \Countable
     private function removeDuplicateAndFaultyEntries(): void
     {
         $keys = [];
+
         foreach ($this->rows as $delta => $row) {
-            if ($row['approximateTime'] === '0 min') {
+            /** @var Row $row */
+            if ($row->getApproximateTime() === 0) {
                 unset($this->rows[$delta]);
                 continue;
             }
 
-            $key = $row['title'] . $row['platform'] . ($row['region'] ?? '');
-            if (!in_array($key, $keys)) {
-                $keys[] = $key;
+            if (!in_array($row->getUniqueValue(), $keys)) {
+                $keys[] = $row->getUniqueValue();
                 continue;
             }
 
@@ -82,6 +79,10 @@ class ResultSet implements \Countable
 
     public static function fromJson(string $json): self
     {
-        return new self(json_decode($json, true));
+        $rows = array_map(
+            fn(array $row) => Row::fromArray($row),
+            json_decode($json, true)
+        );
+        return new self($rows);
     }
 }

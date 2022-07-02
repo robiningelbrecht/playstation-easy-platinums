@@ -16,6 +16,11 @@ class Row
         return (int)$this->data['id'];
     }
 
+    public function getUniqueValue(): string
+    {
+        return $this->getTitle() . $this->getPlatform() . ($this->getRegion() ?? '');
+    }
+
     public function getTitle(): string
     {
         return $this->data['title'];
@@ -43,7 +48,7 @@ class Row
 
     public function getApproximateTime(): int
     {
-        return (int)str_replace(' min', '', $this->data['approximateTime']);
+        return (int)$this->data['approximateTime'];
     }
 
     public function getTrophiesTotal(): int
@@ -68,10 +73,10 @@ class Row
 
     public function getPoints(): int
     {
-        return  (int)($this->getTrophiesBronze() * 15) + ($this->getTrophiesSilver() * 30) + ($this->getTrophiesGold() * 90) + 300;
+        return (int)($this->getTrophiesBronze() * 15) + ($this->getTrophiesSilver() * 30) + ($this->getTrophiesGold() * 90) + 300;
     }
 
-    public function fromArray(array $data): self
+    public static function fromArray(array $data): self
     {
         return new self($data);
     }
