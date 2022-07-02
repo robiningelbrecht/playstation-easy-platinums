@@ -14,4 +14,12 @@ enum SortField: string
     {
         return strtoupper($this->value);
     }
+
+    public function getType(): int
+    {
+        return match ($this) {
+            SortField::TITLE => SORT_NATURAL,
+            default => SORT_NUMERIC
+        };
+    }
 }

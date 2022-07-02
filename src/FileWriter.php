@@ -5,6 +5,7 @@ namespace App;
 use App\Sort\SortDirection;
 use App\Sort\SortField;
 use App\Sort\Sorting;
+use App\Sort\SortingHelper;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
 use Twig\TwigFunction;
@@ -31,7 +32,7 @@ class FileWriter
 
         $loader = new FilesystemLoader(dirname(__DIR__) . '/templates');
         $twig = new Environment($loader);
-        $twig->addFunction(new TwigFunction('renderSort', [Sorting::class, 'renderSort']));
+        $twig->addFunction(new TwigFunction('renderSort', [SortingHelper::class, 'renderSort']));
         $template = $twig->load('table.html.twig');
 
         $resultSet = ResultSet::fromJson($this->fileContentsWrapper->get(TrophyFetcher::JSON_FILE));

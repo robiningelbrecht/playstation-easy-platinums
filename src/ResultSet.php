@@ -2,6 +2,7 @@
 
 namespace App;
 
+use App\Sort\SortField;
 use App\Sort\Sorting;
 
 class ResultSet implements \Countable
@@ -14,8 +15,28 @@ class ResultSet implements \Countable
         $this->removeDuplicateAndFaultyEntries();
     }
 
-    public function sort(Sorting $sorting): void{
-        krsort($this->rows, SORT_NUMERIC);
+    public function sort(Sorting $sorting): void
+    {
+        $fieldName = $sorting->getSortField()->value;
+
+        if ($sorting->getSortField()->getType() === SORT_NUMERIC) {
+            usort(
+                $this->rows,
+                function (array $a, array $b) use ($fieldName) {
+                    if ($a[$fieldName] == $b[$fieldName]) {
+                        return 0;
+                    }
+                    return ($a[$fieldName] > $b[$fieldName]) ? -1 : 1;
+                }
+            );
+
+            return;
+        }
+
+        usort(
+            $this->rows,
+            fn(array $a, array $b) => strcmp($a[$fieldName], $b[$fieldName])
+        );
     }
 
     public function getRows(): array
@@ -32,7 +53,7 @@ class ResultSet implements \Countable
     {
         $keys = [];
         foreach ($this->rows as $delta => $row) {
-            if($row['approximateTime'] === '0 min'){
+            if ($row['approximateTime'] === '0 min') {
                 unset($this->rows[$delta]);
                 continue;
             }
