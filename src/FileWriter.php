@@ -34,13 +34,11 @@ class FileWriter
         $twig->addFunction(new TwigFunction('renderSort', [Sorting::class, 'renderSort']));
         $template = $twig->load('table.html.twig');
 
-        $rows = json_decode($this->fileContentsWrapper->get(TrophyFetcher::JSON_FILE), true);
-        // Sort rows by ID DESC. We're assuming that highest id is the newest game.
-        krsort($rows, SORT_NUMERIC);
-        // Remove duplicate rows. Apparently some games are returned multiple times.
-        $this->removeDuplicateAndFaultyEntries($rows);
+        $resultSet = ResultSet::fromJson($this->fileContentsWrapper->get(TrophyFetcher::JSON_FILE));
+        $resultSet->sort(Sorting::default());
 
-        $numberOfPages = ceil(count($rows) / self::PAGE_SIZE);
+        $numberOfPages = ceil(count($resultSet) / self::PAGE_SIZE);
+        $rows = $resultSet->getRows();
 
         // Render the first page on the main README.md.
         $render = $template->render([
@@ -61,6 +59,7 @@ class FileWriter
         // Render all pages for all possible sorts.
         foreach (SortField::cases() as $sortField) {
             foreach (SortDirection::cases() as $sortDirection) {
+                // @TODO: Sort rows.
                 for ($i = 0; $i < $numberOfPages; $i++) {
                     $render = $template->render([
                         'currentPage' => $i + 1,
@@ -78,25 +77,6 @@ class FileWriter
                     $this->fileContentsWrapper->put('public/PAGE-' . ($i + 1) . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $content);
                 }
             }
-        }
-    }
-
-    private function removeDuplicateAndFaultyEntries(array &$rows): void
-    {
-        $keys = [];
-        foreach ($rows as $delta => $row) {
-            if($row['approximateTime'] === '0 min'){
-                unset($rows[$delta]);
-                continue;
-            }
-
-            $key = $row['title'] . $row['platform'] . ($row['region'] ?? '');
-            if (!in_array($key, $keys)) {
-                $keys[] = $key;
-                continue;
-            }
-
-            unset($rows[$delta]);
         }
     }
 }
