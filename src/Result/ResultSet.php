@@ -22,15 +22,15 @@ class ResultSet implements \Countable
                 $this->rows,
                 function (Row $a, Row $b) use ($sorting) {
                     $sortField = $sorting->getSortField();
-                    if ($a->getValueBySortField($sortField) === $b->getValueBySortField($sortField)) {
+                    if ($a->getValueForSortField($sortField) === $b->getValueForSortField($sortField)) {
                         return 0;
                     }
 
                     if ($sorting->getSortDirection() === SortDirection::ASC) {
-                        return ($a->getValueBySortField($sortField) < $b->getValueBySortField($sortField)) ? -1 : 1;
+                        return ($a->getValueForSortField($sortField) < $b->getValueForSortField($sortField)) ? -1 : 1;
                     }
 
-                    return ($a->getValueBySortField($sortField) > $b->getValueBySortField($sortField)) ? -1 : 1;
+                    return ($a->getValueForSortField($sortField) > $b->getValueForSortField($sortField)) ? -1 : 1;
                 }
             );
 
@@ -43,9 +43,9 @@ class ResultSet implements \Countable
                 $sortField = $sorting->getSortField();
 
                 if ($sorting->getSortDirection() === SortDirection::ASC) {
-                    return strcmp($a->getValueBySortField($sortField), $b->getValueBySortField($sortField));
+                    return strcmp($a->getValueForSortField($sortField), $b->getValueForSortField($sortField));
                 }
-                return strcmp($b->getValueBySortField($sortField), $a->getValueBySortField($sortField));
+                return strcmp($b->getValueForSortField($sortField), $a->getValueForSortField($sortField));
             }
         );
     }

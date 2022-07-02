@@ -78,7 +78,7 @@ class Row
         return (int)($this->getTrophiesBronze() * 15) + ($this->getTrophiesSilver() * 30) + ($this->getTrophiesGold() * 90) + 300;
     }
 
-    public function getValueBySortField(SortField $sortField): string|int|null
+    public function getValueForSortField(SortField $sortField): string|int|null
     {
         return match ($sortField) {
             SortField::TROPHIES => $this->getTrophiesTotal(),
