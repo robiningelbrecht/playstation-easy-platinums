@@ -12,8 +12,8 @@
 
 {% set pagerLinks = [] %}
 
-{% for i in range(1, totalPages) %}
-    {% if currentPage == i %}
+{% for i in range(1, paging.getTotalPages()) %}
+    {% if paging.getCurrentPage() == i %}
         {% set pagerLinks = pagerLinks|merge(['<kbd>'~ i ~'</kbd>']) %}
     {% else %}
         {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ i ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ i ~ '</a></kbd>']) %}
@@ -27,14 +27,14 @@
 <table>
     <thead>
     <tr>
-        <th># {{ renderSort('id', sorting, currentPage)|raw }}</th>
-        <th>Title {{ renderSort('title', sorting, currentPage)|raw }}</th>
-        <th>Time {{ renderSort('time', sorting, currentPage)|raw }}</th>
-        <th>Trophies {{ renderSort('trophies', sorting, currentPage)|raw }}</th>
+        <th># {{ renderSort('id', sorting, paging)|raw }}</th>
+        <th>Title {{ renderSort('title', sorting, paging)|raw }}</th>
+        <th>Time {{ renderSort('time', sorting, paging)|raw }}</th>
+        <th>Trophies {{ renderSort('trophies', sorting, paging)|raw }}</th>
         <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-gold.png" alt="gold" width="20"/></th>
         <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-silver.png" alt="silver" width="20"/></th>
         <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-bronze.png" alt="bronze" width="20"/></th>
-        <th>Points {{ renderSort('points', sorting, currentPage)|raw }}</th>
+        <th>Points {{ renderSort('points', sorting, paging)|raw }}</th>
     </tr>
     </thead>
     <tbody>

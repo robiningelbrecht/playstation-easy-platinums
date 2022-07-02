@@ -14,7 +14,7 @@ use Twig\TwigFunction;
 class FileWriter
 {
     public const README_FILE = 'README.md';
-    private const PAGE_SIZE = 250;
+
 
     public function __construct(
         private readonly FileContentsWrapper $fileContentsWrapper
@@ -39,14 +39,10 @@ class FileWriter
         $resultSet = ResultSet::fromJson($this->fileContentsWrapper->get(TrophyFetcher::JSON_FILE));
         $resultSet->sort(Sorting::default());
 
-        $numberOfPages = ceil(count($resultSet) / self::PAGE_SIZE);
-        $rows = $resultSet->getRows();
-
         // Render the first page on the main README.md.
         $this->fileContentsWrapper->put(self::README_FILE, $template->render([
-            'currentPage' => 1,
-            'totalPages' => $numberOfPages,
-            'rows' => array_slice($rows, 0, self::PAGE_SIZE),
+            'paging' => Paging::fromResultSetAndCurrentPage($resultSet, 1),
+            'rows' => array_slice($resultSet->getRows(), 0, Paging::PAGE_SIZE),
             'sorting' => Sorting::default(),
         ]));
 
@@ -57,11 +53,11 @@ class FileWriter
                 $resultSet->sort($sorting);
                 $rows = $resultSet->getRows();
 
-                for ($i = 0; $i < $numberOfPages; $i++) {
+                for ($i = 0; $i < Paging::calculateTotalPages($resultSet); $i++) {
+                    $paging = Paging::fromResultSetAndCurrentPage($resultSet, $i + 1);
                     $render = $template->render([
-                        'currentPage' => $i + 1,
-                        'totalPages' => $numberOfPages,
-                        'rows' => array_slice($rows, ($i * self::PAGE_SIZE), self::PAGE_SIZE),
+                        'paging' => $paging,
+                        'rows' => array_slice($rows, ($i * Paging::PAGE_SIZE), Paging::PAGE_SIZE),
                         'sorting' => $sorting,
                     ]);
 
