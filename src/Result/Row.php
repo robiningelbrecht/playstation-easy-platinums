@@ -2,6 +2,8 @@
 
 namespace App\Result;
 
+use App\Sort\SortField;
+
 class Row
 {
 
@@ -74,6 +76,16 @@ class Row
     public function getPoints(): int
     {
         return (int)($this->getTrophiesBronze() * 15) + ($this->getTrophiesSilver() * 30) + ($this->getTrophiesGold() * 90) + 300;
+    }
+
+    public function getValueBySortField(SortField $sortField): string|int|null
+    {
+        return match ($sortField) {
+            SortField::TROPHIES => $this->getTrophiesTotal(),
+            SortField::POINTS => $this->getPoints(),
+            SortField::TIME => $this->getApproximateTime(),
+            default => $this->data[$sortField->value],
+        };
     }
 
     public static function fromArray(array $data): self

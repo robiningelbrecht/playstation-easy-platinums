@@ -53,13 +53,16 @@ class FileWriter
         // Render all pages for all possible sorts.
         foreach (SortField::cases() as $sortField) {
             foreach (SortDirection::cases() as $sortDirection) {
-                // @TODO: Sort rows.
+                $sorting = Sorting::fromFieldAndDirection($sortField, $sortDirection);
+                $resultSet->sort($sorting);
+                $rows = $resultSet->getRows();
+
                 for ($i = 0; $i < $numberOfPages; $i++) {
                     $render = $template->render([
                         'currentPage' => $i + 1,
                         'totalPages' => $numberOfPages,
                         'rows' => array_slice($rows, ($i * self::PAGE_SIZE), self::PAGE_SIZE),
-                        'sorting' => Sorting::fromFieldAndDirection($sortField, $sortDirection),
+                        'sorting' => $sorting,
                     ]);
 
                     $this->fileContentsWrapper->put('public/PAGE-' . ($i + 1) . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $render);

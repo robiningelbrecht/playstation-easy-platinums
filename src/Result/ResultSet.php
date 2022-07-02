@@ -21,15 +21,16 @@ class ResultSet implements \Countable
             usort(
                 $this->rows,
                 function (Row $a, Row $b) use ($sorting) {
-                    if ($a->getId() === $b->getId()) {
+                    $sortField = $sorting->getSortField();
+                    if ($a->getValueBySortField($sortField) === $b->getValueBySortField($sortField)) {
                         return 0;
                     }
 
                     if ($sorting->getSortDirection() === SortDirection::ASC) {
-                        return ($a->getId() < $b->getId()) ? -1 : 1;
+                        return ($a->getValueBySortField($sortField) < $b->getValueBySortField($sortField)) ? -1 : 1;
                     }
 
-                    return ($a->getId() > $b->getId()) ? -1 : 1;
+                    return ($a->getValueBySortField($sortField) > $b->getValueBySortField($sortField)) ? -1 : 1;
                 }
             );
 
@@ -39,10 +40,12 @@ class ResultSet implements \Countable
         usort(
             $this->rows,
             function (Row $a, Row $b) use ($sorting) {
+                $sortField = $sorting->getSortField();
+
                 if ($sorting->getSortDirection() === SortDirection::ASC) {
-                    return strcmp($a->getTitle(), $b->getTitle());
+                    return strcmp($a->getValueBySortField($sortField), $b->getValueBySortField($sortField));
                 }
-                return strcmp($b->getTitle(), $a->getTitle());
+                return strcmp($b->getValueBySortField($sortField), $a->getValueBySortField($sortField));
             }
         );
     }
