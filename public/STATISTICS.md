@@ -13,13 +13,19 @@
     <table>
         <thead>
         <tr>
-            <th>Month</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th># of games added</th>
             <th># trophies</th>
             <th>Points</th>
         </tr>
         </thead>
         <tbody>
+        <tr>
+            <td align="center">Today</td>
+            <td align="center">2231</td>
+            <td align="center">41628</td>
+            <td align="center">2945925</td>
+        </tr>
                     <tr>
                 <td align="center">July 2022</td>
                 <td align="center">2231</td>

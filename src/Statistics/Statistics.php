@@ -20,6 +20,7 @@ class Statistics
     public function getRows(): array
     {
         $statistics = [];
+
         foreach ($this->resultSet->getRows() as $row) {
             $statistic = $statistics[$row->getAddedOn()->format('Ym')] ?? new Row($row->getAddedOn());
 
@@ -32,6 +33,25 @@ class Statistics
         }
 
         return $statistics;
+    }
+
+    public function getToday(): Row
+    {
+        $now = new \DateTimeImmutable('now');
+        $today = new Row($now);
+
+        foreach ($this->resultSet->getRows() as $row) {
+            if ($row->getAddedOn()->format('Ymd') !== $now->format('Ymd')) {
+                continue;
+            }
+
+            $today
+                ->incrementNumberOfGames()
+                ->addToNumberOfTrophies($row->getTrophiesTotal())
+                ->addToPoints($row->getPoints());
+        }
+
+        return $today;
     }
 
     public function getTotals(): Row

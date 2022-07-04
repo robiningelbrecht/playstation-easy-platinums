@@ -13,13 +13,19 @@
     <table>
         <thead>
         <tr>
-            <th>Month</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th># of games added</th>
             <th># trophies</th>
             <th>Points</th>
         </tr>
         </thead>
         <tbody>
+        <tr>
+            <td align="center">Today</td>
+            <td align="center">{{ statistics.getToday().getNumberOfGames() }}</td>
+            <td align="center">{{ statistics.getToday().getNumberOfTrophies() }}</td>
+            <td align="center">{{ statistics.getToday().getPoints() }}</td>
+        </tr>
         {% for row in statistics.getRows() %}
             <tr>
                 <td align="center">{{ row.formatDateAsMonth() }}</td>
