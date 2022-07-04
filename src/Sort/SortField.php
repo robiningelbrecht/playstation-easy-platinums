@@ -9,6 +9,7 @@ enum SortField: string
     case TIME = 'time';
     case POINTS = 'points';
     case TROPHIES = 'trophies';
+    case PRICE = 'price';
 
     public function toUpper(): string
     {

@@ -116,6 +116,7 @@ class Row
             SortField::TROPHIES => $this->getTrophiesTotal(),
             SortField::POINTS => $this->getPoints(),
             SortField::TIME => $this->getApproximateTime(),
+            SortField::PRICE => $this->getPrice()?->getAmount(),
             default => $this->data[$sortField->value],
         };
     }
