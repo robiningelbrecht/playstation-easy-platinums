@@ -54,6 +54,9 @@ class ResultSet implements \Countable
         );
     }
 
+    /**
+     * @return Row[]
+     */
     public function getRows(): array
     {
         return $this->rows;

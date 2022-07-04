@@ -104,7 +104,7 @@ class GameFetcher
                 'trophiesGold' => (int)$matches['trophiesGold'],
                 'trophiesSilver' => (int)$matches['trophiesSilver'],
                 'trophiesBronze' => (int)$matches['trophiesBronze'],
-                'addedOn'=> $this->clock->getCurrentDateTimeImmutable()->format('Y-m-d H:i:s')
+                'addedOn'=> $this->clock->getCurrentDateTimeImmutable()->format(Clock::DEFAULT_FORMAT)
             ];
 
             try {

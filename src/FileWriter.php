@@ -7,6 +7,7 @@ use App\Sort\SortDirection;
 use App\Sort\SortField;
 use App\Sort\Sorting;
 use App\Sort\SortingHelper;
+use App\Statistics\Statistics;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
 use Twig\TwigFunction;
@@ -14,7 +15,7 @@ use Twig\TwigFunction;
 class FileWriter
 {
     public const README_FILE = 'README.md';
-
+    public const STATISTICS_FILE = 'public/STATISTICS.md';
 
     public function __construct(
         private readonly FileContentsWrapper $fileContentsWrapper
@@ -34,7 +35,7 @@ class FileWriter
         $loader = new FilesystemLoader(dirname(__DIR__) . '/templates');
         $twig = new Environment($loader);
         $twig->addFunction(new TwigFunction('renderSort', [SortingHelper::class, 'renderSort']));
-        $template = $twig->load('page.html.twig');
+        $template = $twig->load('games.html.twig');
 
         $resultSet = ResultSet::fromJson($this->fileContentsWrapper->get(GameFetcher::JSON_FILE));
         $resultSet->sort(Sorting::default());
@@ -67,6 +68,9 @@ class FileWriter
         }
 
         // Render the statistics page.
-
+        $template = $twig->load('statistics.html.twig');
+        $this->fileContentsWrapper->put(self::STATISTICS_FILE, $template->render([
+            'statistics' => Statistics::fromResultSet($resultSet),
+        ]));
     }
 }

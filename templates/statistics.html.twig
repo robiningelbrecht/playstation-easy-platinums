@@ -20,19 +20,21 @@
         </tr>
         </thead>
         <tbody>
-                    <tr>
-                <td align="center">July 2022</td>
-                <td align="center">2231</td>
-                <td align="center">41628</td>
-                <td align="center">2945925</td>
+        {% for row in statistics.getRows() %}
+            <tr>
+                <td align="center">{{ row.formatDateAsMonth() }}</td>
+                <td align="center">{{ row.getNumberOfGames() }}</td>
+                <td align="center">{{ row.getNumberOfTrophies() }}</td>
+                <td align="center">{{ row.getPoints() }}</td>
             </tr>
-                </tbody>
+        {% endfor %}
+        </tbody>
         <tfoot>
         <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2231</b></td>
-            <td align="center"><b>41628</b></td>
-            <td align="center"><b>2945925</b></td>
+            <td align="center"><b>{{ statistics.getTotals().getNumberOfGames() }}</b></td>
+            <td align="center"><b>{{ statistics.getTotals().getNumberOfTrophies() }}</b></td>
+            <td align="center"><b>{{ statistics.getTotals().getPoints() }}</b></td>
         </tr>
         </tfoot>
     </table>

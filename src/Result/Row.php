@@ -2,6 +2,7 @@
 
 namespace App\Result;
 
+use App\Clock\Clock;
 use App\Sort\SortField;
 use Money\Currencies\ISOCurrencies;
 use Money\Currency;
@@ -77,6 +78,15 @@ class Row
         return (int)$this->data['trophiesBronze'];
     }
 
+    public function getAddedOn(): \DateTimeImmutable
+    {
+        return \DateTimeImmutable::createFromFormat(
+            Clock::DEFAULT_FORMAT,
+            $this->data['addedOn'],
+            new \DateTimeZone('Europe/Brussels'),
+        );
+    }
+
     public function getPoints(): int
     {
         return (int)($this->getTrophiesBronze() * 15) + ($this->getTrophiesSilver() * 30) + ($this->getTrophiesGold() * 90) + 300;
@@ -101,7 +111,6 @@ class Row
         }
 
         $currencies = new ISOCurrencies();
-
 
 
         $numberFormatter = new \NumberFormatter('en_US', \NumberFormatter::CURRENCY);
