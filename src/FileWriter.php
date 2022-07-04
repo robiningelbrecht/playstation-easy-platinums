@@ -65,5 +65,8 @@ class FileWriter
                 }
             }
         }
+
+        // Render the statistics page.
+
     }
 }

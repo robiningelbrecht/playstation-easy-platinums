@@ -1,4 +1,4 @@
-<h1 align="center">PlayStation: easy platinums</h1>
+<h1 align="center">PlayStation: Easy platinums</h1>
 
 <p align="center">
     <img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/ps-logo.png" width="200" alt="PlayStation">
