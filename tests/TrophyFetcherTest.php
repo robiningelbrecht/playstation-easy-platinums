@@ -2,6 +2,7 @@
 
 namespace App\Tests;
 
+use App\Clock\PausedClock;
 use App\FileContentsWrapper;
 use App\PriceFetcher;
 use App\TrophyFetcher;
@@ -99,7 +100,8 @@ class TrophyFetcherTest extends TestCase
             $this->client,
             $this->fileContentsWrapper,
             $this->priceFetcher,
-            $this->psnProfile
+            PausedClock::on(new \DateTimeImmutable('2022-07-01 20:10:04')),
+            $this->psnProfile,
         );
     }
 }

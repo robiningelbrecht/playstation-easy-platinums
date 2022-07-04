@@ -7,6 +7,7 @@ if (php_sapi_name() !== 'cli') {
 require __DIR__ . '/vendor/autoload.php';
 
 use Ahc\Cli\Application;
+use App\Clock\SystemClock;
 use App\TrophyFetcher;
 use App\FileWriter;
 use App\FileContentsWrapper;
@@ -24,6 +25,7 @@ $app
             $client,
             new FileContentsWrapper(),
             new PriceFetcher($client),
+            new SystemClock(),
             $profileName
         ))->doFetch();;
     })

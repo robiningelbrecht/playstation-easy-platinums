@@ -2,6 +2,7 @@
 
 namespace App;
 
+use App\Clock\Clock;
 use App\Result\Row;
 use GuzzleHttp\Client;
 
@@ -14,6 +15,7 @@ class TrophyFetcher
         private readonly Client $client,
         private readonly FileContentsWrapper $fileContentsWrapper,
         private readonly PriceFetcher $priceFetcher,
+        private readonly Clock $clock,
         private readonly string $psnProfile
     )
     {
@@ -102,6 +104,7 @@ class TrophyFetcher
                 'trophiesGold' => (int)$matches['trophiesGold'],
                 'trophiesSilver' => (int)$matches['trophiesSilver'],
                 'trophiesBronze' => (int)$matches['trophiesBronze'],
+                'addedOn'=> $this->clock->getCurrentDateTimeImmutable()->format('Y-m-d H:i:s')
             ];
 
             try {
