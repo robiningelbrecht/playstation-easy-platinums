@@ -6,7 +6,7 @@ use App\Clock\Clock;
 use App\Result\Row;
 use GuzzleHttp\Client;
 
-class TrophyFetcher
+class GameFetcher
 {
     public const JSON_FILE = 'easy-platinums.json';
     public const DEFAULT_PROFILE_NAME = 'ikemenzi';

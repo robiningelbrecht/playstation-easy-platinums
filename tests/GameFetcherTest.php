@@ -5,7 +5,7 @@ namespace App\Tests;
 use App\Clock\PausedClock;
 use App\FileContentsWrapper;
 use App\PriceFetcher;
-use App\TrophyFetcher;
+use App\GameFetcher;
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Response;
 use Money\Currency;
@@ -14,11 +14,11 @@ use PHPUnit\Framework\MockObject\MockObject;
 use PHPUnit\Framework\TestCase;
 use Spatie\Snapshots\MatchesSnapshots;
 
-class TrophyFetcherTest extends TestCase
+class GameFetcherTest extends TestCase
 {
     use MatchesSnapshots;
 
-    private TrophyFetcher $trophyFetcher;
+    private GameFetcher $trophyFetcher;
     private readonly MockObject $client;
     private readonly MockObject $fileContentsWrapper;
     private readonly MockObject $priceFetcher;
@@ -96,7 +96,7 @@ class TrophyFetcherTest extends TestCase
         $this->priceFetcher = $this->createMock(PriceFetcher::class);
         $this->psnProfile = 'Fluttezuhher';
 
-        $this->trophyFetcher = new TrophyFetcher(
+        $this->trophyFetcher = new GameFetcher(
             $this->client,
             $this->fileContentsWrapper,
             $this->priceFetcher,

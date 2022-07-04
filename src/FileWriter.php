@@ -27,7 +27,7 @@ class FileWriter
         if (!file_exists(self::README_FILE)) {
             throw new \RuntimeException('README.md not found');
         }
-        if (!file_exists(TrophyFetcher::JSON_FILE)) {
+        if (!file_exists(GameFetcher::JSON_FILE)) {
             throw new \RuntimeException('easy-platinums.json not found. Run "fetch" first');
         }
 
@@ -36,7 +36,7 @@ class FileWriter
         $twig->addFunction(new TwigFunction('renderSort', [SortingHelper::class, 'renderSort']));
         $template = $twig->load('page.html.twig');
 
-        $resultSet = ResultSet::fromJson($this->fileContentsWrapper->get(TrophyFetcher::JSON_FILE));
+        $resultSet = ResultSet::fromJson($this->fileContentsWrapper->get(GameFetcher::JSON_FILE));
         $resultSet->sort(Sorting::default());
 
         // Render the first page on the main README.md.
