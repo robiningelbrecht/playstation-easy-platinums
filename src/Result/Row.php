@@ -84,7 +84,7 @@ class Row
 
     public function getPrice(): ?Money
     {
-        if (!$this->data['price']) {
+        if (empty($this->data['price'])) {
             return null;
         }
 
