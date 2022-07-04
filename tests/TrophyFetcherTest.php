@@ -3,9 +3,12 @@
 namespace App\Tests;
 
 use App\FileContentsWrapper;
+use App\PriceFetcher;
 use App\TrophyFetcher;
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Response;
+use Money\Currency;
+use Money\Money;
 use PHPUnit\Framework\MockObject\MockObject;
 use PHPUnit\Framework\TestCase;
 use Spatie\Snapshots\MatchesSnapshots;
@@ -17,6 +20,7 @@ class TrophyFetcherTest extends TestCase
     private TrophyFetcher $trophyFetcher;
     private readonly MockObject $client;
     private readonly MockObject $fileContentsWrapper;
+    private readonly MockObject $priceFetcher;
     private readonly string $psnProfile;
 
     public function testDoFetch(): void
@@ -37,6 +41,11 @@ class TrophyFetcherTest extends TestCase
                 '[]',
                 ...array_map(fn(int $i) => (string)$i, range(1, 100))
             );
+
+        $this->priceFetcher
+            ->expects($this->exactly(85))
+            ->method('searchForRow')
+            ->willReturn(new Money(100, new Currency('EUR')));
 
         $this->fileContentsWrapper
             ->expects($this->exactly(86))
@@ -83,11 +92,13 @@ class TrophyFetcherTest extends TestCase
 
         $this->client = $this->createMock(Client::class);
         $this->fileContentsWrapper = $this->createMock(FileContentsWrapper::class);
+        $this->priceFetcher = $this->createMock(PriceFetcher::class);
         $this->psnProfile = 'Fluttezuhher';
 
         $this->trophyFetcher = new TrophyFetcher(
             $this->client,
             $this->fileContentsWrapper,
+            $this->priceFetcher,
             $this->psnProfile
         );
     }

@@ -2,6 +2,7 @@
 
 namespace App;
 
+use App\Result\Row;
 use GuzzleHttp\Client;
 
 class TrophyFetcher
@@ -12,6 +13,7 @@ class TrophyFetcher
     public function __construct(
         private readonly Client $client,
         private readonly FileContentsWrapper $fileContentsWrapper,
+        private readonly PriceFetcher $priceFetcher,
         private readonly string $psnProfile
     )
     {
@@ -101,6 +103,12 @@ class TrophyFetcher
                 'trophiesSilver' => (int)$matches['trophiesSilver'],
                 'trophiesBronze' => (int)$matches['trophiesBronze'],
             ];
+
+            try {
+                $json[$matches['id']]['price'] = $this->priceFetcher->searchForRow(Row::fromArray($json[$matches['id']]));
+            } catch (\RuntimeException) {
+                $json[$matches['id']]['price'] = null;
+            }
         }
 
         $this->fileContentsWrapper->put(self::JSON_FILE, json_encode($json));

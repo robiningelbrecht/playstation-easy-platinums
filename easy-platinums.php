@@ -10,6 +10,7 @@ use Ahc\Cli\Application;
 use App\TrophyFetcher;
 use App\FileWriter;
 use App\FileContentsWrapper;
+use App\PriceFetcher;
 use GuzzleHttp\Client;
 
 $app = new Application('Easy platinums', '0.0.1');
@@ -18,9 +19,11 @@ $app
     ->command('fetch', 'Fetch new easy platinums and store in json file')
     ->argument('<profile-name>', 'PSN Profile to use to determine easy platinums', TrophyFetcher::DEFAULT_PROFILE_NAME)
     ->action(function ($profileName) {
+        $client = new Client();
         (new TrophyFetcher(
-            new Client(),
+            $client,
             new FileContentsWrapper(),
+            new PriceFetcher($client),
             $profileName
         ))->doFetch();;
     })
