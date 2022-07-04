@@ -18,7 +18,6 @@ class PriceFetcher
     {
         $currency = match ($row->getRegion()) {
             'EU' => new Currency('EUR'),
-            'JP' => new Currency('YEN'),
             default => new Currency('USD')
         };
 
@@ -39,6 +38,10 @@ class PriceFetcher
             if ($this->sanitizeString($result['name']) !== $this->sanitizeString($row->getTitle()) &&
                 $this->sanitizeString($result['name']) !== $this->sanitizeString($row->getTitle() . ' PS4 And PS5') &&
                 $this->sanitizeString($result['name']) !== $this->sanitizeString($row->getTitle() . ' PS4 & PS5')) {
+                continue;
+            }
+
+            if (empty($result['float_price'])) {
                 continue;
             }
 

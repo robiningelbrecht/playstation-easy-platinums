@@ -3,6 +3,10 @@
 namespace App\Result;
 
 use App\Sort\SortField;
+use Money\Currencies\ISOCurrencies;
+use Money\Currency;
+use Money\Formatter\IntlMoneyFormatter;
+use Money\Money;
 
 class Row
 {
@@ -76,6 +80,34 @@ class Row
     public function getPoints(): int
     {
         return (int)($this->getTrophiesBronze() * 15) + ($this->getTrophiesSilver() * 30) + ($this->getTrophiesGold() * 90) + 300;
+    }
+
+    public function getPrice(): ?Money
+    {
+        if (!$this->data['price']) {
+            return null;
+        }
+
+        return new Money(
+            $this->data['price']['amount'],
+            new Currency($this->data['price']['currency'])
+        );
+    }
+
+    public function getPriceFormattedAsMoney(): ?string
+    {
+        if (!$money = $this->getPrice()) {
+            return null;
+        }
+
+        $currencies = new ISOCurrencies();
+
+
+
+        $numberFormatter = new \NumberFormatter('en_US', \NumberFormatter::CURRENCY);
+        $moneyFormatter = new IntlMoneyFormatter($numberFormatter, $currencies);
+
+        return $moneyFormatter->format($money);
     }
 
     public function getValueForSortField(SortField $sortField): string|int|null
