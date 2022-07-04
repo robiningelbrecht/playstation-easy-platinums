@@ -3132,7 +3132,7 @@
                 <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">39 min</td>
-            <td align="center">$770.00</td>
+            <td align="center"></td>
             <td align="center">18</td>
             <td align="center">10</td>
             <td align="center">3</td>
@@ -3300,7 +3300,7 @@
                 <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">41 min</td>
-            <td align="center">$770.00</td>
+            <td align="center"></td>
             <td align="center">18</td>
             <td align="center">10</td>
             <td align="center">3</td>
