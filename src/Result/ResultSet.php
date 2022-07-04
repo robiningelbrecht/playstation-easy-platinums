@@ -25,12 +25,16 @@ class ResultSet implements \Countable
                     if ($a->getValueForSortField($sortField) === $b->getValueForSortField($sortField)) {
                         return 0;
                     }
-
+                    
                     if ($sorting->getSortDirection() === SortDirection::ASC) {
-                        return ($a->getValueForSortField($sortField) < $b->getValueForSortField($sortField)) ? -1 : 1;
+                        $aValue = $a->getValueForSortField($sortField) !== null ? $a->getValueForSortField($sortField) : 99999;
+                        $bValue = $b->getValueForSortField($sortField) !== null ? $b->getValueForSortField($sortField) : 99999;
+                        return ($aValue < $bValue) ? -1 : 1;
                     }
 
-                    return ($a->getValueForSortField($sortField) > $b->getValueForSortField($sortField)) ? -1 : 1;
+                    $aValue = $a->getValueForSortField($sortField) !== null ? $a->getValueForSortField($sortField) : -99999;
+                    $bValue = $b->getValueForSortField($sortField) !== null ? $b->getValueForSortField($sortField) : -99999;
+                    return ($aValue > $bValue) ? -1 : 1;
                 }
             );
 
