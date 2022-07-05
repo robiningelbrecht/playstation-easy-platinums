@@ -22,7 +22,7 @@
         <tbody>
         {% for row in statistics.getRows() %}
             <tr>
-                <td align="center">{{ row.formatDateAsMonth() }}</td>
+                <td align="center">{{ row.getLabel() }}</td>
                 <td align="center">{{ row.getNumberOfGames() }}</td>
                 <td align="center">{{ row.getNumberOfTrophies() }}</td>
                 <td align="center">{{ row.getPoints() }}</td>

@@ -20,12 +20,12 @@
         </tr>
         </thead>
         <tbody>
-        <tr>
-            <td align="center">Today</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-        </tr>
+                    <tr>
+                <td align="center">Today</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+            </tr>
                     <tr>
                 <td align="center">July 2022</td>
                 <td align="center">2233</td>

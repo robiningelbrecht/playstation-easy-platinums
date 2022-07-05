@@ -33,7 +33,7 @@ class MonthlyStatistics
 
             $statistics[$row->getAddedOn()->format('Ym')] = $statistic;
 
-            if ($row->getAddedOn()->format('Ymd') !== $now->format('Ymd')) {
+            if ($row->getAddedOn()->format('Ymd') === $now->format('Ymd')) {
                 $today
                     ->incrementNumberOfGames()
                     ->addToNumberOfTrophies($row->getTrophiesTotal())
