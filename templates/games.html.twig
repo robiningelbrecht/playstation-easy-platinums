@@ -1,24 +1,53 @@
 <h1 align="center">PlayStation: Easy platinums</h1>
 
 <p align="center">
-    <img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/ps-logo.png" width="200" alt="PlayStation">
+    <img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/ps-logo.png" width="200"
+         alt="PlayStation">
 </p>
 
 <p align="center">
-    This repository is a collection of easy and quick (< 1h) obtainable PlayStation platinum trophies. It is updated daily.
+    This repository is a collection of easy and quick (< 1h) obtainable PlayStation platinum trophies. It is updated
+    daily.
 </p>
 
 ------
 
 {% set pagerLinks = [] %}
+{% set nearbyPagesLimit = 4 %}
 
-{% for i in range(1, paging.getTotalPages()) %}
-    {% if paging.getCurrentPage() == i %}
-        {% set pagerLinks = pagerLinks|merge(['<kbd>'~ i ~'</kbd>']) %}
-    {% else %}
-        {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ i ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ i ~ '</a></kbd>']) %}
+{% if paging.getTotalPages() > 1 %}
+    {% for i in 1..paging.getTotalPages() %}
+        {% if 0 == (paging.getCurrentPage() - nearbyPagesLimit) - loop.index %}
+            {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">1</a></kbd>']) %}
+            {% if 1 != loop.index %}
+                {% set pagerLinks = pagerLinks|merge(['...']) %}
+            {% endif %}
+        {% elseif 0 == (paging.getCurrentPage() + nearbyPagesLimit) - loop.index  and (paging.getCurrentPage() + nearbyPagesLimit) < paging.getTotalPages() %}
+            {% set pagerLinks = pagerLinks|merge(['...']) %}
+        {% elseif 0 < (paging.getCurrentPage() - nearbyPagesLimit) - loop.index %}
+        {% elseif 0 > (paging.getCurrentPage() + nearbyPagesLimit) - loop.index %}
+        {% else %}
+            {% if paging.getCurrentPage() == loop.index %}
+                {% set pagerLinks = pagerLinks|merge(['<kbd>'~ i ~'</kbd>']) %}
+            {% else %}
+                {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ loop.index ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ loop.index ~ '</a></kbd>']) %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    {% if paging.getCurrentPage() != paging.getTotalPages()  and (paging.getCurrentPage() + nearbyPagesLimit) < paging.getTotalPages() %}
+        {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ paging.getTotalPages() ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ paging.getTotalPages() ~ '</a></kbd>']) %}
     {% endif %}
+{% endif %}
+
+{#
+{% for i in range(1, paging.getTotalPages()) %}
+{% if paging.getCurrentPage() == i %}
+    {% set pagerLinks = pagerLinks|merge(['<kbd>'~ i ~'</kbd>']) %}
+{% else %}
+    {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ i ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ i ~ '</a></kbd>']) %}
+{% endif %}
 {% endfor %}
+#}
 
 <p align="center">
     {{ pagerLinks|join(' | ')|raw }}
@@ -32,18 +61,25 @@
         <th>Time {{ renderSort('time', sorting, paging)|raw }}</th>
         <th>Price {{ renderSort('price', sorting, paging)|raw }}</th>
         <th>Trophies {{ renderSort('trophies', sorting, paging)|raw }}</th>
-        <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-gold.png" alt="gold" width="20"/></th>
-        <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-silver.png" alt="silver" width="20"/></th>
-        <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-bronze.png" alt="bronze" width="20"/></th>
+        <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-gold.png"
+                 alt="gold" width="20"/></th>
+        <th>
+            <img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-silver.png"
+                 alt="silver" width="20"/></th>
+        <th>
+            <img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-bronze.png"
+                 alt="bronze" width="20"/></th>
         <th>Points {{ renderSort('points', sorting, paging)|raw }}</th>
     </tr>
     </thead>
     <tbody>
     {% for row in rows %}
         <tr>
-            <td><a href="{{ row.getUri() }}"><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/{{ row.getThumbnail() }}" alt="{{ row.getTitle() }}" width="60"></a></td>
+            <td><a href="{{ row.getUri() }}"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/{{ row.getThumbnail() }}"
+                            alt="{{ row.getTitle() }}" width="60"></a></td>
             <td>
-                <a href="{{ row.getUri() }}">{{ row.getTitle()|length > 35 ? row.getTitle()|slice(0, 35) ~ '...' : row.getTitle()  }}</a>
+                <a href="{{ row.getUri() }}">{{ row.getTitle()|length > 35 ? row.getTitle()|slice(0, 35) ~ '...' : row.getTitle() }}</a>
                 <kbd>{{ row.getPlatform() }}{{ (row.getRegion()) ? ' • ' ~ row.getRegion() : '' }}</kbd>
             </td>
             <td align="center">{{ row.getApproximateTime() }} min</td>

@@ -6,7 +6,7 @@ use App\Result\ResultSet;
 
 class Paging
 {
-    public const PAGE_SIZE = 250;
+    public const PAGE_SIZE = 100;
 
     private function __construct(
         private int $totalPages,
