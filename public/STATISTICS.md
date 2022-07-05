@@ -22,23 +22,23 @@
         <tbody>
         <tr>
             <td align="center">Today</td>
-            <td align="center">2231</td>
-            <td align="center">41628</td>
-            <td align="center">2945925</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
         </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2231</td>
-                <td align="center">41628</td>
-                <td align="center">2945925</td>
+                <td align="center">2233</td>
+                <td align="center">41710</td>
+                <td align="center">2948565</td>
             </tr>
                 </tbody>
         <tfoot>
         <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2231</b></td>
-            <td align="center"><b>41628</b></td>
-            <td align="center"><b>2945925</b></td>
+            <td align="center"><b>2233</b></td>
+            <td align="center"><b>41710</b></td>
+            <td align="center"><b>2948565</b></td>
         </tr>
         </tfoot>
     </table>

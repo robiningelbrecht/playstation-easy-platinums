@@ -15,7 +15,7 @@ on:
           - chris_play1
           - IBadDriverI
   schedule:
-    - cron:  '30 5,17 * * *'
+    - cron:  '30 0,12 * * *'
 jobs:
   update:
     name: Update list of easy platinums
