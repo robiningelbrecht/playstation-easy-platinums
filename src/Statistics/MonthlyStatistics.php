@@ -21,8 +21,10 @@ class MonthlyStatistics
     {
         $statistics = [];
         $now = new \DateTimeImmutable('now');
+        $yesterdayDate = new \DateTimeImmutable('yesterday');
 
         $today = new Row('Today');
+        $yesterday = new Row('Yesterday');
         foreach ($this->resultSet->getRows() as $row) {
             $statistic = $statistics[$row->getAddedOn()->format('Ym')] ?? new Row($row->getAddedOn()->format('F Y'));
 
@@ -39,9 +41,16 @@ class MonthlyStatistics
                     ->addToNumberOfTrophies($row->getTrophiesTotal())
                     ->addToPoints($row->getPoints());
             }
+
+            if ($row->getAddedOn()->format('Ymd') === $yesterdayDate->format('Ymd')) {
+                $yesterday
+                    ->incrementNumberOfGames()
+                    ->addToNumberOfTrophies($row->getTrophiesTotal())
+                    ->addToPoints($row->getPoints());
+            }
         }
 
-        return [$today, ...$statistics];
+        return [$today, $yesterday, ...$statistics];
     }
 
     public function getTotals(): Row

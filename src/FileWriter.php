@@ -8,6 +8,7 @@ use App\Sort\SortField;
 use App\Sort\Sorting;
 use App\Sort\SortingHelper;
 use App\Statistics\MonthlyStatistics;
+use App\Statistics\PlatformRegionMatrix;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
 use Twig\TwigFunction;
@@ -70,7 +71,8 @@ class FileWriter
         // Render the statistics page.
         $template = $twig->load('statistics.html.twig');
         $this->fileContentsWrapper->put(self::STATISTICS_FILE, $template->render([
-            'statistics' => MonthlyStatistics::fromResultSet($resultSet),
+            'monthlyStatistics' => MonthlyStatistics::fromResultSet($resultSet),
+            'platformRegionMatrix' => PlatformRegionMatrix::fromResultSet($resultSet),
         ]));
     }
 }

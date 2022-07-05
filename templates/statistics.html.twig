@@ -20,22 +20,47 @@
         </tr>
         </thead>
         <tbody>
-        {% for row in statistics.getRows() %}
+        {% for row in monthlyStatistics.getRows() %}
             <tr>
                 <td align="center">{{ row.getLabel() }}</td>
-                <td align="center">{{ row.getNumberOfGames() }}</td>
-                <td align="center">{{ row.getNumberOfTrophies() }}</td>
-                <td align="center">{{ row.getPoints() }}</td>
+                <td align="center">{{ row.getNumberOfGames()|number_format(0, ',', ' ') }}</td>
+                <td align="center">{{ row.getNumberOfTrophies()|number_format(0, ',', ' ') }}</td>
+                <td align="center">{{ row.getPoints()|number_format(0, ',', ' ') }}</td>
             </tr>
         {% endfor %}
         </tbody>
         <tfoot>
         <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>{{ statistics.getTotals().getNumberOfGames() }}</b></td>
-            <td align="center"><b>{{ statistics.getTotals().getNumberOfTrophies() }}</b></td>
-            <td align="center"><b>{{ statistics.getTotals().getPoints() }}</b></td>
+            <td align="center"><b>{{ monthlyStatistics.getTotals().getNumberOfGames()|number_format(0, ',', ' ') }}</b>
+            </td>
+            <td align="center">
+                <b>{{ monthlyStatistics.getTotals().getNumberOfTrophies()|number_format(0, ',', ' ') }}</b></td>
+            <td align="center"><b>{{ monthlyStatistics.getTotals().getPoints()|number_format(0, ',', ' ') }}</b></td>
         </tr>
         </tfoot>
+    </table>
+</div>
+
+<div align="center">
+    <table>
+        <thead>
+        <tr>
+            <th>Platform /<br/>Region</th>
+            {% for platform in platformRegionMatrix.getPlatforms() %}
+                <th>{{ platform }}</th>
+            {% endfor %}
+        </tr>
+        </thead>
+        <tbody>
+        {% for region in platformRegionMatrix.getRegions() %}
+            <tr>
+                <td><b>{{ region }}</b></td>
+                {% for platform in platformRegionMatrix.getPlatforms() %}
+                    <td>{{ platformRegionMatrix.getTotalForPlatformAndRegion(platform, region) }}</td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+        </tbody>
     </table>
 </div>

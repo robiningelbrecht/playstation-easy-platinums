@@ -27,19 +27,81 @@
                 <td align="center">0</td>
             </tr>
                     <tr>
+                <td align="center">Yesterday</td>
+                <td align="center">2 233</td>
+                <td align="center">41 710</td>
+                <td align="center">2 948 565</td>
+            </tr>
+                    <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2233</td>
-                <td align="center">41710</td>
-                <td align="center">2948565</td>
+                <td align="center">2 233</td>
+                <td align="center">41 710</td>
+                <td align="center">2 948 565</td>
             </tr>
                 </tbody>
         <tfoot>
         <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2233</b></td>
-            <td align="center"><b>41710</b></td>
-            <td align="center"><b>2948565</b></td>
+            <td align="center"><b>2 233</b>
+            </td>
+            <td align="center">
+                <b>41 710</b></td>
+            <td align="center"><b>2 948 565</b></td>
         </tr>
         </tfoot>
+    </table>
+</div>
+
+<div align="center">
+    <table>
+        <thead>
+        <tr>
+            <th>Platform /<br/>Region</th>
+                            <th>PS5</th>
+                            <th>PS4</th>
+                    </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td><b>AS</b></td>
+                                    <td>99</td>
+                                    <td>243</td>
+                            </tr>
+                    <tr>
+                <td><b>CN</b></td>
+                                    <td>0</td>
+                                    <td>1</td>
+                            </tr>
+                    <tr>
+                <td><b>EU</b></td>
+                                    <td>251</td>
+                                    <td>566</td>
+                            </tr>
+                    <tr>
+                <td><b>HK</b></td>
+                                    <td>0</td>
+                                    <td>1</td>
+                            </tr>
+                    <tr>
+                <td><b>JP</b></td>
+                                    <td>75</td>
+                                    <td>170</td>
+                            </tr>
+                    <tr>
+                <td><b>KR</b></td>
+                                    <td>0</td>
+                                    <td>3</td>
+                            </tr>
+                    <tr>
+                <td><b>NA</b></td>
+                                    <td>246</td>
+                                    <td>561</td>
+                            </tr>
+                    <tr>
+                <td><b></b></td>
+                                    <td>11</td>
+                                    <td>6</td>
+                            </tr>
+                </tbody>
     </table>
 </div>
