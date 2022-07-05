@@ -3518,12 +3518,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/12701-castle-of-no-escape-2"><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12701.png" alt="Castle of no Escape 2" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/16332-hellgunner"><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16332.png" alt="HellGunner" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/12701-castle-of-no-escape-2">Castle of no Escape 2</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/16332-hellgunner">HellGunner</a>
+                <kbd>PS4 • NA</kbd>
             </td>
-            <td align="center">7 min</td>
+            <td align="center">30 min</td>
             <td align="center">$3.49</td>
             <td align="center">12</td>
             <td align="center">11</td>
