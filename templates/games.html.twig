@@ -8,13 +8,12 @@
 <p align="center">
     This repository is a collection of easy and quick (< 1h) obtainable PlayStation platinum trophies. It is updated
     daily.
+    <br /><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/STATISTICS.md">Some statistics<a>
 </p>
 
 ------
-
 {% set pagerLinks = [] %}
 {% set nearbyPagesLimit = 4 %}
-
 {% if paging.getTotalPages() > 1 %}
     {% for i in 1..paging.getTotalPages() %}
         {% if 0 == (paging.getCurrentPage() - nearbyPagesLimit) - loop.index %}
@@ -38,16 +37,6 @@
         {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ paging.getTotalPages() ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ paging.getTotalPages() ~ '</a></kbd>']) %}
     {% endif %}
 {% endif %}
-
-{#
-{% for i in range(1, paging.getTotalPages()) %}
-{% if paging.getCurrentPage() == i %}
-    {% set pagerLinks = pagerLinks|merge(['<kbd>'~ i ~'</kbd>']) %}
-{% else %}
-    {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ i ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ i ~ '</a></kbd>']) %}
-{% endif %}
-{% endfor %}
-#}
 
 <p align="center">
     {{ pagerLinks|join(' | ')|raw }}
