@@ -20,12 +20,6 @@
         </tr>
         </thead>
         <tbody>
-        <tr>
-            <td align="center">Today</td>
-            <td align="center">{{ statistics.getToday().getNumberOfGames() }}</td>
-            <td align="center">{{ statistics.getToday().getNumberOfTrophies() }}</td>
-            <td align="center">{{ statistics.getToday().getPoints() }}</td>
-        </tr>
         {% for row in statistics.getRows() %}
             <tr>
                 <td align="center">{{ row.formatDateAsMonth() }}</td>

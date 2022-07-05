@@ -9,7 +9,7 @@ class Row
     private int $points;
 
     public function __construct(
-        private \DateTimeImmutable $date
+        private readonly string $label
     )
     {
         $this->numberOfGames = 0;
@@ -17,9 +17,9 @@ class Row
         $this->points = 0;
     }
 
-    public function formatDateAsMonth(): string
+    public function getLabel(): string
     {
-        return $this->date->format('F Y');
+        return $this->label;
     }
 
     public function getNumberOfGames(): int

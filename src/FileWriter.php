@@ -7,7 +7,7 @@ use App\Sort\SortDirection;
 use App\Sort\SortField;
 use App\Sort\Sorting;
 use App\Sort\SortingHelper;
-use App\Statistics\Statistics;
+use App\Statistics\MonthlyStatistics;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
 use Twig\TwigFunction;
@@ -70,7 +70,7 @@ class FileWriter
         // Render the statistics page.
         $template = $twig->load('statistics.html.twig');
         $this->fileContentsWrapper->put(self::STATISTICS_FILE, $template->render([
-            'statistics' => Statistics::fromResultSet($resultSet),
+            'statistics' => MonthlyStatistics::fromResultSet($resultSet),
         ]));
     }
 }

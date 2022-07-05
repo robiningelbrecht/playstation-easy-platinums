@@ -27,7 +27,7 @@ class FileWriterTest extends TestCase
             );
 
         $this->fileContentsWrapper
-            ->expects($this->exactly(110))
+            ->expects($this->exactly(14))
             ->method('put')
             ->willReturnCallback(function (string $file, string $content) {
                 $this->assertMatchesJsonSnapshot(json_encode($file));

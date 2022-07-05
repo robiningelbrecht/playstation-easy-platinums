@@ -4,7 +4,7 @@ namespace App\Statistics;
 
 use App\Result\ResultSet;
 
-class Statistics
+class MonthlyStatistics
 {
     private function __construct(
         private readonly ResultSet $resultSet
@@ -20,9 +20,11 @@ class Statistics
     public function getRows(): array
     {
         $statistics = [];
+        $now = new \DateTimeImmutable('now');
 
+        $today = new Row('Today');
         foreach ($this->resultSet->getRows() as $row) {
-            $statistic = $statistics[$row->getAddedOn()->format('Ym')] ?? new Row($row->getAddedOn());
+            $statistic = $statistics[$row->getAddedOn()->format('Ym')] ?? new Row($row->getAddedOn()->format('F Y'));
 
             $statistic
                 ->incrementNumberOfGames()
@@ -30,33 +32,21 @@ class Statistics
                 ->addToPoints($row->getPoints());
 
             $statistics[$row->getAddedOn()->format('Ym')] = $statistic;
-        }
 
-        return $statistics;
-    }
-
-    public function getToday(): Row
-    {
-        $now = new \DateTimeImmutable('now');
-        $today = new Row($now);
-
-        foreach ($this->resultSet->getRows() as $row) {
             if ($row->getAddedOn()->format('Ymd') !== $now->format('Ymd')) {
-                continue;
+                $today
+                    ->incrementNumberOfGames()
+                    ->addToNumberOfTrophies($row->getTrophiesTotal())
+                    ->addToPoints($row->getPoints());
             }
-
-            $today
-                ->incrementNumberOfGames()
-                ->addToNumberOfTrophies($row->getTrophiesTotal())
-                ->addToPoints($row->getPoints());
         }
 
-        return $today;
+        return [$today, ...$statistics];
     }
 
     public function getTotals(): Row
     {
-        $totals = new Row(new \DateTimeImmutable('2022-01-01'));
+        $totals = new Row('Totals');
         foreach ($this->resultSet->getRows() as $row) {
             $totals
                 ->incrementNumberOfGames()
