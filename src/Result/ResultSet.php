@@ -3,6 +3,7 @@
 namespace App\Result;
 
 use App\Sort\SortDirection;
+use App\Sort\SortField;
 use App\Sort\Sorting;
 
 class ResultSet implements \Countable
@@ -17,7 +18,7 @@ class ResultSet implements \Countable
 
     public function sort(Sorting $sorting): void
     {
-        if ($sorting->getSortField()->getType() === SORT_NUMERIC) {
+        if ($sorting->getSortField()->getType() === SortField::TYPE_NUMERIC) {
             usort(
                 $this->rows,
                 function (Row $a, Row $b) use ($sorting) {
@@ -35,6 +36,36 @@ class ResultSet implements \Countable
                     $aValue = $a->getValueForSortField($sortField) !== null ? $a->getValueForSortField($sortField) : -99999;
                     $bValue = $b->getValueForSortField($sortField) !== null ? $b->getValueForSortField($sortField) : -99999;
                     return ($aValue > $bValue) ? -1 : 1;
+                }
+            );
+
+            return;
+        }
+
+        if ($sorting->getSortField()->getType() === SortField::TYPE_DATE) {
+            usort(
+                $this->rows,
+                function (Row $a, Row $b) use ($sorting) {
+                    $sortField = $sorting->getSortField();
+                    if ($a->getValueForSortField($sortField) === $b->getValueForSortField($sortField)) {
+                        // Because we imported most of the initial games on the same date,
+                        // we will take the ID into account here.
+                        if ($a->getId() === $b->getId()) {
+                            return 0;
+                        }
+
+                        if ($sorting->getSortDirection() === SortDirection::ASC) {
+                            return ($a->getId() < $b->getId()) ? -1 : 1;
+                        }
+
+                        return ($a->getId() > $b->getId()) ? -1 : 1;
+                    }
+
+                    if ($sorting->getSortDirection() === SortDirection::ASC) {
+                        return ($a->getValueForSortField($sortField) < $b->getValueForSortField($sortField)) ? -1 : 1;
+                    }
+
+                    return ($a->getValueForSortField($sortField) > $b->getValueForSortField($sortField)) ? -1 : 1;
                 }
             );
 

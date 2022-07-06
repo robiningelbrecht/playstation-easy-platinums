@@ -5,8 +5,8 @@ namespace App\Sort;
 class Sorting
 {
     private function __construct(
-        private SortField $sortField,
-        private SortDirection $sortDirection,
+        private readonly SortField $sortField,
+        private readonly SortDirection $sortDirection,
     )
     {
     }
@@ -21,7 +21,7 @@ class Sorting
 
     public static function default(): self
     {
-        return new self(SortField::ID, SortDirection::DESC);
+        return new self(SortField::DATE, SortDirection::DESC);
     }
 
     public function getSortField(): SortField

@@ -27,7 +27,7 @@ $app
             new PriceFetcher($client),
             new SystemClock(),
             $profileName
-        ))->doFetch();;
+        ))->doFetch();
     })
     ->tap()
     ->command('update', 'Update list of games')

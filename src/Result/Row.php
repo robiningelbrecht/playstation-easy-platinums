@@ -119,13 +119,14 @@ class Row
         return $moneyFormatter->format($money);
     }
 
-    public function getValueForSortField(SortField $sortField): string|int|null
+    public function getValueForSortField(SortField $sortField): mixed
     {
         return match ($sortField) {
             SortField::TROPHIES => $this->getTrophiesTotal(),
             SortField::POINTS => $this->getPoints(),
             SortField::TIME => $this->getApproximateTime(),
             SortField::PRICE => $this->getPrice()?->getAmount(),
+            SortField::DATE => $this->getAddedOn(),
             default => $this->data[$sortField->value],
         };
     }

@@ -4,7 +4,11 @@ namespace App\Sort;
 
 enum SortField: string
 {
-    case ID = 'id';
+    public const TYPE_NATURAL = 'natural';
+    public const TYPE_NUMERIC = 'numeric';
+    public const TYPE_DATE = 'date';
+
+    case DATE = 'date';
     case TITLE = 'title';
     case TIME = 'time';
     case POINTS = 'points';
@@ -16,11 +20,12 @@ enum SortField: string
         return strtoupper($this->value);
     }
 
-    public function getType(): int
+    public function getType(): string
     {
         return match ($this) {
-            SortField::TITLE => SORT_NATURAL,
-            default => SORT_NUMERIC
+            SortField::TITLE => self::TYPE_NATURAL,
+            SortField::DATE => self::TYPE_DATE,
+            default => self::TYPE_NUMERIC,
         };
     }
 }
