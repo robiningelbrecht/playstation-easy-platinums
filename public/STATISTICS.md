@@ -22,31 +22,31 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">1</td>
-                <td align="center">12</td>
-                <td align="center">1 290</td>
+                <td align="center">3</td>
+                <td align="center">36</td>
+                <td align="center">3 870</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
-                <td align="center">2 233</td>
-                <td align="center">41 710</td>
-                <td align="center">2 948 565</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 234</td>
-                <td align="center">41 722</td>
-                <td align="center">2 949 855</td>
+                <td align="center">2 237</td>
+                <td align="center">41 758</td>
+                <td align="center">2 953 725</td>
             </tr>
                 </tbody>
         <tfoot>
         <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 234</b>
+            <td align="center"><b>2 237</b>
             </td>
             <td align="center">
-                <b>41 722</b></td>
-            <td align="center"><b>2 949 855</b></td>
+                <b>41 758</b></td>
+            <td align="center"><b>2 953 725</b></td>
         </tr>
         </tfoot>
     </table>
@@ -74,8 +74,8 @@
                             </tr>
                     <tr>
                 <td><b>EU</b></td>
-                                    <td>251</td>
-                                    <td>566</td>
+                                    <td>252</td>
+                                    <td>567</td>
                             </tr>
                     <tr>
                 <td><b>HK</b></td>
@@ -94,7 +94,7 @@
                             </tr>
                     <tr>
                 <td><b>NA</b></td>
-                                    <td>246</td>
+                                    <td>247</td>
                                     <td>562</td>
                             </tr>
                     <tr>
