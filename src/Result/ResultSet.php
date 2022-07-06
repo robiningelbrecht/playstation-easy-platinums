@@ -47,7 +47,9 @@ class ResultSet implements \Countable
                 $this->rows,
                 function (Row $a, Row $b) use ($sorting) {
                     $sortField = $sorting->getSortField();
-                    if ($a->getValueForSortField($sortField) === $b->getValueForSortField($sortField)) {
+                    $aDateValue = strtotime($a->getValueForSortField($sortField)->format('Y-m-d'));
+                    $bDateValue = strtotime($b->getValueForSortField($sortField)->format('Y-m-d'));
+                    if ($aDateValue === $bDateValue) {
                         // Because we imported most of the initial games on the same date,
                         // we will take the ID into account here.
                         if ($a->getId() === $b->getId()) {
@@ -62,10 +64,10 @@ class ResultSet implements \Countable
                     }
 
                     if ($sorting->getSortDirection() === SortDirection::ASC) {
-                        return ($a->getValueForSortField($sortField) < $b->getValueForSortField($sortField)) ? -1 : 1;
+                        return ($aDateValue < $bDateValue) ? -1 : 1;
                     }
 
-                    return ($a->getValueForSortField($sortField) > $b->getValueForSortField($sortField)) ? -1 : 1;
+                    return ($aDateValue > $bDateValue) ? -1 : 1;
                 }
             );
 
