@@ -3,8 +3,6 @@
 namespace App;
 
 use App\Result\Row;
-use Money\Currencies\ISOCurrencies;
-use Money\Currency;
 use Money\Money;
 
 class PriceUpdater
