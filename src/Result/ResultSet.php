@@ -8,6 +8,8 @@ use App\Sort\Sorting;
 
 class ResultSet implements \Countable
 {
+    private const INITIAL_IMPORT_DATE = '2022-07-04';
+
     private function __construct(
         private array $rows
     )
@@ -53,16 +55,17 @@ class ResultSet implements \Countable
                     $aDate = $a->getValueForSortField($sortField);
                     $bDate = $b->getValueForSortField($sortField);
 
-                    if ($aDate->format('Y-m-d') === '2022-07-04' && $bDate->format('Y-m-d') !== '2022-07-04') {
+                    // Because we imported most of the initial games on the 4th of july,
+                    // We're going to do some funky stuff here.
+                    if ($aDate->format('Y-m-d') === self::INITIAL_IMPORT_DATE && $bDate->format('Y-m-d') !== self::INITIAL_IMPORT_DATE) {
                         return $sorting->getSortDirection() === SortDirection::ASC ? -1 : 1;
                     }
-                    if ($aDate->format('Y-m-d') !== '2022-07-04' && $bDate->format('Y-m-d') === '2022-07-04') {
+                    if ($aDate->format('Y-m-d') !== self::INITIAL_IMPORT_DATE && $bDate->format('Y-m-d') === self::INITIAL_IMPORT_DATE) {
                         return $sorting->getSortDirection() === SortDirection::ASC ? 1 : -1;
                     }
 
-                    if ($aDate->format('Y-m-d') === '2022-07-04' && $bDate->format('Y-m-d') === '2022-07-04') {
-                        // Because we imported most of the initial games on the 4th of july,
-                        // we will take the ID into account here.
+                    if ($aDate->format('Y-m-d') === self::INITIAL_IMPORT_DATE && $bDate->format('Y-m-d') === self::INITIAL_IMPORT_DATE) {
+                        // We will take the ID into account here.
                         if ($a->getId() === $b->getId()) {
                             return 0;
                         }
@@ -74,6 +77,7 @@ class ResultSet implements \Countable
                         return ($a->getId() > $b->getId()) ? -1 : 1;
                     }
 
+                    // Starting from here it's just normal sorting on date.
                     $aDateValue = strtotime($aDate->format('Y-m-d H:i:s'));
                     $bDateValue = strtotime($bDate->format('Y-m-d H:i:s'));
                     if ($sorting->getSortDirection() === SortDirection::ASC) {
