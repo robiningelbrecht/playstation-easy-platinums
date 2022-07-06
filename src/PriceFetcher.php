@@ -25,6 +25,11 @@ class PriceFetcher
         $json = json_decode($response->getBody()->getContents(), true);
 
         if (empty($json['links'])) {
+            $response = $this->client->get('https://store.playstation.com/store/api/chihiro/00_09_000/tumbler/BE/nl/999/' . urlencode($this->sanitizeSearchQuery($row->getTitle())));
+            $json = json_decode($response->getBody()->getContents(), true);
+        }
+
+        if (empty($json['links'])) {
             throw new \RuntimeException(sprintf('Could not fetch data for "%s" in region %s', $row->getTitle(), $row->getRegion()));
         }
 
@@ -51,10 +56,10 @@ class PriceFetcher
 
     private function sanitizeName(string $string): string
     {
-        $string = strtolower(str_replace([':', '-', '—', '(', ')', '[', ']'], '', $string));
+        $string = strtolower(str_replace([':', '-', '—', '(', ')', '[', ']', '’', '\'', '"', '’', '`', 'Remastered'], '', $string));
         $string = str_replace('&', 'and', $string);
         // Replace multiple spaces with one.
-        return preg_replace('/[\s]{2,}/im', ' ', $string);
+        return trim(preg_replace('/[\s]{2,}/im', ' ', $string));
     }
 
     private function sanitizeSearchQuery(string $query): string{

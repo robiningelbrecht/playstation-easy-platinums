@@ -35,9 +35,12 @@ class PriceFetcherTest extends TestCase
     public function testItShouldThrowWhenNoRegexMatches(): void
     {
         $this->client
-            ->expects($this->once())
+            ->expects($this->exactly(2))
             ->method('get')
-            ->with('https://store.playstation.com/store/api/chihiro/00_09_000/tumbler/US/en/999/test+with+weird+chars')
+            ->withConsecutive(
+                ['https://store.playstation.com/store/api/chihiro/00_09_000/tumbler/US/en/999/test+with+weird+chars'],
+                ['https://store.playstation.com/store/api/chihiro/00_09_000/tumbler/BE/nl/999/test+with+weird+chars']
+            )
             ->willReturn(new Response(200, [], 'some-html'));
 
         $this->expectException(\RuntimeException::class);
