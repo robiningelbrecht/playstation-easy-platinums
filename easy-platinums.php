@@ -42,11 +42,10 @@ $app
     ->command('price:set', 'Set price of one game')
     ->argument('<id>', 'PSN Profile game id to set price for')
     ->argument('<amountInCents>', 'The price in cents')
-    ->argument('<currency>', 'The currency')
-    ->action(function (string $id, int $amountInCents, string $currency) {
+    ->action(function (string $id, int $amountInCents) {
         (new PriceUpdater(
             new FileContentsWrapper(),
-        ))->doUpdateForId($id, $amountInCents, $currency);
+        ))->doUpdateForId($id, $amountInCents);
     });
 
 $app->logo('

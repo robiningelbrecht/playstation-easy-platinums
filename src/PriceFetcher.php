@@ -16,11 +16,6 @@ class PriceFetcher
 
     public function searchForRow(Row $row): Money
     {
-        $currency = match ($row->getRegion()) {
-            'EU' => new Currency('EUR'),
-            default => new Currency('USD')
-        };
-
         $response = $this->client->get('https://store.playstation.com/store/api/chihiro/00_09_000/tumbler/US/en/999/' . urlencode($this->sanitizeSearchQuery($row->getTitle())));
         $json = json_decode($response->getBody()->getContents(), true);
 
@@ -48,10 +43,18 @@ class PriceFetcher
                 continue;
             }
 
-            return new Money((int)$result['default_sku']['price'], $currency);
+            return new Money((int)$result['default_sku']['price'], static::getCurrencyForRegion($row->getRegion()));
         }
 
         throw new \RuntimeException(sprintf('Could not determine price for "%s"', $row->getTitle()));
+    }
+
+    public static function getCurrencyForRegion(?string $region = null): Currency
+    {
+        return match ($region) {
+            'EU' => new Currency('EUR'),
+            default => new Currency('USD')
+        };
     }
 
     private function sanitizeName(string $string): string
@@ -62,7 +65,8 @@ class PriceFetcher
         return trim(preg_replace('/[\s]{2,}/im', ' ', $string));
     }
 
-    private function sanitizeSearchQuery(string $query): string{
+    private function sanitizeSearchQuery(string $query): string
+    {
         $searchQuery = str_replace([':', '-'], ' ', $query);
         return str_replace(['\'', '"', '’', '`'], '', $searchQuery);
     }

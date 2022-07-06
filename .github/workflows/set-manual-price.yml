@@ -1,0 +1,48 @@
+name: Set manual price for a game
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        type: string
+        description: PSN Profile game id to set price for
+        required: true
+      amount-in-cents:
+        type: string
+        description: The price in cents
+        required: true
+jobs:
+  update:
+    name: Update list of easy platinums
+    runs-on: ubuntu-latest
+    steps:
+      # https://github.com/marketplace/actions/setup-php-action
+      - name: Setup PHP 8.1
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+          extensions: intl
+
+      # https://github.com/marketplace/actions/checkout
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: composer install --prefer-dist
+
+      - name: Run test suite
+        run: vendor/bin/phpunit --fail-on-incomplete
+
+      - name: Set a manual price
+        run: |
+          bin/easy-platinums price:set ${{ github.event.inputs.id }} ${{ github.event.inputs.amount-in-cents }}
+
+      - name: Update README.md and pages
+        run: bin/easy-platinums files:update
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'robiningelbrecht'
+          git config --global user.email 'robiningelbrecht@users.noreply.github.com'
+          git add .
+          git commit -m "Automated update of README.md" --allow-empty
+          git push
