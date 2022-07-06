@@ -12,6 +12,7 @@ use App\GameFetcher;
 use App\FileWriter;
 use App\FileContentsWrapper;
 use App\PriceFetcher;
+use App\PriceUpdater;
 use GuzzleHttp\Client;
 
 $app = new Application('Easy platinums', '0.0.1');
@@ -40,8 +41,11 @@ $app
     ->tap()
     ->command('price:set', 'Update price of one game')
     ->argument('<id>', 'PSN Profile game id to set price for')
-    ->action(function () {
-
+    ->action(function (string $id) {
+        (new PriceUpdater(
+            new PriceFetcher(new Client()),
+            new FileContentsWrapper(),
+        ))->doUpdateForId($id);
     });
 
 $app->logo('

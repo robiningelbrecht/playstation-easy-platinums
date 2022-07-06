@@ -24,11 +24,7 @@ class PriceUpdater
             throw new \RuntimeException('Invalid id provided');
         }
 
-        try {
-            $json[$id]['price'] = $this->priceFetcher->searchForRow(Row::fromArray($json[$id]));
-            $this->fileContentsWrapper->put(GameFetcher::JSON_FILE, json_encode($json));
-        } catch (\RuntimeException) {
-
-        }
+        $json[$id]['price'] = $this->priceFetcher->searchForRow(Row::fromArray($json[$id]));
+        $this->fileContentsWrapper->put(GameFetcher::JSON_FILE, json_encode($json));
     }
 }
