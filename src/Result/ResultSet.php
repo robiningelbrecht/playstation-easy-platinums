@@ -26,7 +26,7 @@ class ResultSet implements \Countable
                     if ($a->getValueForSortField($sortField) === $b->getValueForSortField($sortField)) {
                         return 0;
                     }
-                    
+
                     if ($sorting->getSortDirection() === SortDirection::ASC) {
                         $aValue = $a->getValueForSortField($sortField) !== null ? $a->getValueForSortField($sortField) : 99999;
                         $bValue = $b->getValueForSortField($sortField) !== null ? $b->getValueForSortField($sortField) : 99999;
@@ -50,8 +50,16 @@ class ResultSet implements \Countable
 
                     $aDate = $a->getValueForSortField($sortField);
                     $bDate = $b->getValueForSortField($sortField);
-                    if ($aDate->format('Y-m-d') === $bDate->format('Y-m-d')) {
-                        // Because we imported most of the initial games on the same date,
+
+                    if ($aDate->format('Y-m-d') === '2022-07-04' && $bDate->format('Y-m-d') !== '2022-07-04') {
+                        return 1;
+                    }
+                    if ($aDate->format('Y-m-d') !== '2022-07-04' && $bDate->format('Y-m-d') === '2022-07-04') {
+                        return -1;
+                    }
+
+                    if ($aDate->format('Y-m-d') === '2022-07-04' && $bDate->format('Y-m-d') === '2022-07-04') {
+                        // Because we imported most of the initial games on the 4th of july,
                         // we will take the ID into account here.
                         if ($a->getId() === $b->getId()) {
                             return 0;
