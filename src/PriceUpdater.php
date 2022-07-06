@@ -21,7 +21,7 @@ class PriceUpdater
 
         $json = json_decode($this->fileContentsWrapper->get(GameFetcher::JSON_FILE), true);
         if (!array_key_exists($id, $json)) {
-            throw new \RuntimeException('Invalid id provided');
+            throw new \RuntimeException(sprintf('Invalid id "%s" provided', $id));
         }
 
         $row = Row::fromArray($json[$id]);

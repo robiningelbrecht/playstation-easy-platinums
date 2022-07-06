@@ -34,6 +34,20 @@ class PriceUpdaterTest extends TestCase
         $this->priceUpdater->doUpdateForId('16927', 199);
     }
 
+    public function testItShouldThrowWhenInvalidId(): void
+    {
+        $this->fileContentsWrapper
+            ->expects($this->once())
+            ->method('get')
+            ->with('easy-platinums.json')
+            ->willReturn(file_get_contents(__DIR__ . '/easy-platinums.json'));
+
+        $this->expectException(\RuntimeException::class);
+        $this->expectExceptionMessage('Invalid id "some-id" provided');
+
+        $this->priceUpdater->doUpdateForId('some-id', 199);
+    }
+
     protected function setUp(): void
     {
         parent::setUp();
