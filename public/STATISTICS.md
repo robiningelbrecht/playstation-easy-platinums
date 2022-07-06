@@ -38,9 +38,7 @@
                 <td align="center">41 770</td>
                 <td align="center">2 955 015</td>
             </tr>
-                </tbody>
-        <tfoot>
-        <tr>
+                <tr>
             <td align="center"><b>Total</b></td>
             <td align="center"><b>2 238</b>
             </td>
@@ -48,7 +46,7 @@
                 <b>41 770</b></td>
             <td align="center"><b>2 955 015</b></td>
         </tr>
-        </tfoot>
+        </tbody>
     </table>
 </div>
 

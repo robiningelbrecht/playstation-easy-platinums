@@ -28,8 +28,6 @@
                 <td align="center">{{ row.getPoints()|number_format(0, ',', ' ') }}</td>
             </tr>
         {% endfor %}
-        </tbody>
-        <tfoot>
         <tr>
             <td align="center"><b>Total</b></td>
             <td align="center"><b>{{ monthlyStatistics.getTotals().getNumberOfGames()|number_format(0, ',', ' ') }}</b>
@@ -38,7 +36,7 @@
                 <b>{{ monthlyStatistics.getTotals().getNumberOfTrophies()|number_format(0, ',', ' ') }}</b></td>
             <td align="center"><b>{{ monthlyStatistics.getTotals().getPoints()|number_format(0, ',', ' ') }}</b></td>
         </tr>
-        </tfoot>
+        </tbody>
     </table>
 </div>
 
