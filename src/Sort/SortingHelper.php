@@ -8,11 +8,9 @@ class SortingHelper
 {
     public static function renderSort(
         string $fieldName,
-        Sorting $currentSorting,
-        Paging $paging): string
+        Sorting $currentSorting): string
     {
         $fieldName = SortField::from($fieldName);
-        $currentPage = $paging->getCurrentPage();
 
         $ascUri = 'https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_' . $fieldName->toUpper() . '_ASC.md';
         $descUri = 'https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_' . $fieldName->toUpper() . '_DESC.md';
