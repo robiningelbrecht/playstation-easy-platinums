@@ -42,11 +42,11 @@ jobs:
         run: |
           PROFILES=${{ github.event.inputs.profile-name || env.DEFAULT_PROFILE_NAMES }}
           for profile in ${PROFILES//,/ } ; do 
-            bin/easy-platinums fetch $profile
+            bin/easy-platinums games:fetch $profile
           done
 
       - name: Update README.md and pages
-        run: bin/easy-platinums update
+        run: bin/easy-platinums files:update
 
       - name: Commit and push changes
         run: |

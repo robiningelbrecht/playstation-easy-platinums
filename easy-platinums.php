@@ -17,7 +17,7 @@ use GuzzleHttp\Client;
 $app = new Application('Easy platinums', '0.0.1');
 
 $app
-    ->command('fetch', 'Fetch new easy platinums and store in json file')
+    ->command('games:fetch', 'Fetch new easy platinums and store in json file')
     ->argument('<profile-name>', 'PSN Profile to use to determine easy platinums', GameFetcher::DEFAULT_PROFILE_NAME)
     ->action(function ($profileName) {
         $client = new Client();
@@ -30,12 +30,18 @@ $app
         ))->doFetch();
     })
     ->tap()
-    ->command('update', 'Update list of games')
+    ->command('files:update', 'Update list of games')
     ->action(function () {
         (new FileWriter(
             new FileContentsWrapper(),
             new SystemClock()
         ))->writePages();
+    })
+    ->tap()
+    ->command('price:set', 'Update price of one game')
+    ->argument('<id>', 'PSN Profile game id to set price for')
+    ->action(function () {
+
     });
 
 $app->logo('
