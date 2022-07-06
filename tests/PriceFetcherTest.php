@@ -22,8 +22,8 @@ class PriceFetcherTest extends TestCase
         $this->client
             ->expects($this->once())
             ->method('get')
-            ->with('https://psprices.com/region-us/search/?q=Coffee+Break')
-            ->willReturn(new Response(200, [], file_get_contents(__DIR__ . '/sample-response-prices.html')));
+            ->with('https://store.playstation.com/store/api/chihiro/00_09_000/tumbler/US/en/999/Coffee+Break')
+            ->willReturn(new Response(200, [], file_get_contents(__DIR__ . '/sample-response-prices.json')));
 
         $money = $this->priceFetcher->searchForRow(Row::fromArray([
             'title' => 'Coffee Break',
@@ -37,7 +37,7 @@ class PriceFetcherTest extends TestCase
         $this->client
             ->expects($this->once())
             ->method('get')
-            ->with('https://psprices.com/region-us/search/?q=test+with+weird+chars')
+            ->with('https://store.playstation.com/store/api/chihiro/00_09_000/tumbler/US/en/999/test+with+weird+chars')
             ->willReturn(new Response(200, [], 'some-html'));
 
         $this->expectException(\RuntimeException::class);
@@ -54,8 +54,8 @@ class PriceFetcherTest extends TestCase
         $this->client
             ->expects($this->once())
             ->method('get')
-            ->with('https://psprices.com/region-us/search/?q=test+with+weird+chars')
-            ->willReturn(new Response(200, [], file_get_contents(__DIR__ . '/sample-response-prices.html')));
+            ->with('https://store.playstation.com/store/api/chihiro/00_09_000/tumbler/US/en/999/test+with+weird+chars')
+            ->willReturn(new Response(200, [], file_get_contents(__DIR__ . '/sample-response-prices.json')));
 
         $this->expectException(\RuntimeException::class);
         $this->expectExceptionMessage('Could not determine price for "test-with:weird-chars"');

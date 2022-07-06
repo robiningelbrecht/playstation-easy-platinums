@@ -21,44 +21,45 @@ class PriceFetcher
             default => new Currency('USD')
         };
 
-        $searchQuery = str_replace([':', '-'], ' ', $row->getTitle());
-        $response = $this->client->get('https://psprices.com/region-us/search/?q=' . urlencode($searchQuery));
-        $content = $response->getBody()->getContents();
+        $response = $this->client->get('https://store.playstation.com/store/api/chihiro/00_09_000/tumbler/US/en/999/' . urlencode($this->sanitizeSearchQuery($row->getTitle())));
+        $json = json_decode($response->getBody()->getContents(), true);
 
-        if (!preg_match_all('/data-props=\'(?<json>[\s\S]*)\'/imU', $content, $matches)) {
+        if (empty($json['links'])) {
             throw new \RuntimeException(sprintf('Could not fetch data for "%s" in region %s', $row->getTitle(), $row->getRegion()));
         }
 
-        $results = [];
-        foreach ($matches['json'] as $match) {
-            $results[] = json_decode(html_entity_decode($match), true);
-        }
-
-        foreach ($results as $result) {
-            if ($this->sanitizeString($result['name']) !== $this->sanitizeString($row->getTitle()) &&
-                $this->sanitizeString($result['name']) !== $this->sanitizeString($row->getTitle() . ' PS4 And PS5') &&
-                $this->sanitizeString($result['name']) !== $this->sanitizeString($row->getTitle() . ' PS4 & PS5')) {
+        foreach ($json['links'] as $result) {
+            if (empty($result['name'])) {
                 continue;
             }
 
-            if (empty($result['float_price'])) {
+            if ($this->sanitizeName($result['name']) !== $this->sanitizeName($row->getTitle()) &&
+                $this->sanitizeName($result['name']) !== $this->sanitizeName($row->getTitle() . ' PS4 And PS5') &&
+                $this->sanitizeName($result['name']) !== $this->sanitizeName($row->getTitle() . ' PS4 & PS5')) {
                 continue;
             }
 
-            $amount = (int)($result['float_price'] * 100);
+            if (empty($result['default_sku']['price'])) {
+                continue;
+            }
 
-            return new Money($amount, $currency);
+            return new Money((int)$result['default_sku']['price'], $currency);
         }
 
         throw new \RuntimeException(sprintf('Could not determine price for "%s"', $row->getTitle()));
     }
 
-    private function sanitizeString(string $string): string
+    private function sanitizeName(string $string): string
     {
         $string = strtolower(str_replace([':', '-', '—', '(', ')', '[', ']'], '', $string));
         $string = str_replace('&', 'and', $string);
         // Replace multiple spaces with one.
         return preg_replace('/[\s]{2,}/im', ' ', $string);
+    }
+
+    private function sanitizeSearchQuery(string $query): string{
+        $searchQuery = str_replace([':', '-'], ' ', $query);
+        return str_replace(['\'', '"', '’', '`'], '', $searchQuery);
     }
 
 

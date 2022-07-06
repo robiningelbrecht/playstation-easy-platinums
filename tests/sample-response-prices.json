@@ -1,0 +1,1472 @@
+{
+  "age_limit": 0,
+  "attributes": {
+    "facets": {},
+    "next": [
+      " "
+    ]
+  },
+  "content_origin": 0,
+  "dob_required": false,
+  "images": [],
+  "links": [
+    {
+      "activeLocales": [
+        "[\"en_CO\"",
+        "\"en_MX\"",
+        "\"en_AR\"",
+        "\"en_PE\"",
+        "\"es_EC\"",
+        "\"pt_BR\"",
+        "\"es_SV\"",
+        "\"es_UY\"",
+        "\"es_MX\"",
+        "\"es_CO\"",
+        "\"es_GT\"",
+        "\"es_CL\"",
+        "\"es_PE\"",
+        "\"fr_CA\"",
+        "\"en_BR\"",
+        "\"es_CR\"",
+        "\"es_AR\"",
+        "\"es_PA\"",
+        "\"es_NI\"",
+        "\"es_HN\"",
+        "\"en_US\"",
+        "\"en_CA\"",
+        "\"es_BO\"",
+        "\"en_CL\"",
+        "\"es_PY\"]"
+      ],
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "gameContentTypesList": [
+        {
+          "name": "Full Game",
+          "key": "FULL_GAME"
+        }
+      ],
+      "game_contentType": "Full Game",
+      "id": "UP4312-PPSA08280_00-3921986454246309",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202205/0922/5xo8zo94cKTprgtwsE3S5sRR.png"
+        },
+        {
+          "type": 12,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202206/0119/NvkO36LCoPr5abGrIgd2C5rA.png"
+        },
+        {
+          "type": 13,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202206/0119/huUQjx4PewOXT8CYLPkqeCPv.png"
+        }
+      ],
+      "is_child": false,
+      "is_suggested": false,
+      "metadata": {
+        "cn_remotePlay": {
+          "name": "cn_remotePlay",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "secondary_classification": {
+          "name": "secondary_classification",
+          "values": [
+            "GAME"
+          ]
+        },
+        "game_subgenre": {
+          "name": "subgenre",
+          "values": [
+            "SHOOT_EM_UP",
+            "PINBALL"
+          ]
+        },
+        "game_genre": {
+          "name": "genre",
+          "values": [
+            "ARCADE",
+            "CASUAL"
+          ]
+        },
+        "playable_platform": {
+          "name": "playable_platform",
+          "values": [
+            "PS5"
+          ]
+        },
+        "cn_numberOfPlayers": {
+          "name": "cn_numberOfPlayers",
+          "values": [
+            "1"
+          ]
+        },
+        "subgenre": {
+          "name": "subgenre",
+          "values": [
+            "SHOOT_EM_UP",
+            "PINBALL"
+          ]
+        },
+        "tertiary_classification": {
+          "name": "tertiary_classification",
+          "values": [
+            "NA"
+          ]
+        },
+        "container_type": {
+          "name": "container_type",
+          "values": [
+            "NP_PS4_REPRESENTATIVE"
+          ]
+        },
+        "genre": {
+          "name": "genre",
+          "values": [
+            "ARCADE",
+            "CASUAL"
+          ]
+        },
+        "cn_inGamePurchases": {
+          "name": "cn_inGamePurchases",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_offlinePlayMode": {
+          "name": "cn_offlinePlayMode",
+          "values": [
+            "ENABLED"
+          ]
+        },
+        "cn_singstarMicrophone": {
+          "name": "cn_singstarMicrophone",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "primary_classification": {
+          "name": "primary_classification",
+          "values": [
+            "PREMIUM_GAME"
+          ]
+        }
+      },
+      "name": "Coffee Break",
+      "playable_platform": [
+        "PS5"
+      ],
+      "positions": [
+        {
+          "start": 0,
+          "end": 12
+        }
+      ],
+      "provider_name": "Smobile",
+      "release_date": "2022-06-24T07:00:00Z",
+      "restricted": false,
+      "revision": 2,
+      "short_name": "Coffee Break",
+      "timestamp": 1657035040728,
+      "top_category": "downloadable_game",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4312-PPSA08280_00-3921986454246309/1657035040"
+    },
+    {
+      "activeLocales": [
+        "[\"en_CO\"",
+        "\"en_MX\"",
+        "\"en_AR\"",
+        "\"en_PE\"",
+        "\"es_EC\"",
+        "\"pt_BR\"",
+        "\"es_SV\"",
+        "\"es_UY\"",
+        "\"es_MX\"",
+        "\"es_CO\"",
+        "\"es_GT\"",
+        "\"es_CL\"",
+        "\"es_PE\"",
+        "\"fr_CA\"",
+        "\"en_BR\"",
+        "\"es_CR\"",
+        "\"es_AR\"",
+        "\"es_PA\"",
+        "\"es_NI\"",
+        "\"es_HN\"",
+        "\"en_US\"",
+        "\"en_CA\"",
+        "\"es_BO\"",
+        "\"en_CL\"",
+        "\"es_PY\"]"
+      ],
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "$6.99",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "UP4312-CUSA34345_00-3213655865146814",
+            "license_type": 0,
+            "metadata": {
+              "subtitleLanguageCode": [
+                "en"
+              ]
+            },
+            "name": "Coffee Break",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 341901312
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": [
+              "en"
+            ],
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "UP4312-CUSA34345_00-3213655865146814-U001",
+        "is_original": false,
+        "name": "Game",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 699,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Full Game",
+          "key": "FULL_GAME"
+        }
+      ],
+      "game_contentType": "Full Game",
+      "id": "UP4312-CUSA34345_00-3213655865146814",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202205/0922/5xo8zo94cKTprgtwsE3S5sRR.png"
+        },
+        {
+          "type": 12,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202206/0119/NvkO36LCoPr5abGrIgd2C5rA.png"
+        },
+        {
+          "type": 13,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202206/0119/huUQjx4PewOXT8CYLPkqeCPv.png"
+        }
+      ],
+      "is_child": false,
+      "is_suggested": false,
+      "metadata": {
+        "cn_remotePlay": {
+          "name": "cn_remotePlay",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "cn_vrEnabled": {
+          "name": "cn_vrEnabled",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "cn_playstationMove": {
+          "name": "cn_playstationMove",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "secondary_classification": {
+          "name": "secondary_classification",
+          "values": [
+            "GAME"
+          ]
+        },
+        "game_subgenre": {
+          "name": "subgenre",
+          "values": [
+            "SHOOT_EM_UP",
+            "PINBALL"
+          ]
+        },
+        "cn_vrRequired": {
+          "name": "cn_vrRequired",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "game_genre": {
+          "name": "genre",
+          "values": [
+            "ARCADE",
+            "CASUAL"
+          ]
+        },
+        "cn_psEnhanced": {
+          "name": "cn_psEnhanced",
+          "values": [
+            "TRUE"
+          ]
+        },
+        "playable_platform": {
+          "name": "playable_platform",
+          "values": [
+            "PS4"
+          ]
+        },
+        "cn_numberOfPlayers": {
+          "name": "cn_numberOfPlayers",
+          "values": [
+            "1"
+          ]
+        },
+        "subgenre": {
+          "name": "subgenre",
+          "values": [
+            "SHOOT_EM_UP",
+            "PINBALL"
+          ]
+        },
+        "cn_dualshockVibration": {
+          "name": "cn_dualshockVibration",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "tertiary_classification": {
+          "name": "tertiary_classification",
+          "values": [
+            "NA"
+          ]
+        },
+        "container_type": {
+          "name": "container_type",
+          "values": [
+            "NP_PS4_REPRESENTATIVE"
+          ]
+        },
+        "genre": {
+          "name": "genre",
+          "values": [
+            "ARCADE",
+            "CASUAL"
+          ]
+        },
+        "cn_inGamePurchases": {
+          "name": "cn_inGamePurchases",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_offlinePlayMode": {
+          "name": "cn_offlinePlayMode",
+          "values": [
+            "ENABLED"
+          ]
+        },
+        "cn_psVrAimRequired": {
+          "name": "cn_psVrAimRequired",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "cn_playstationCamera": {
+          "name": "cn_playstationCamera",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_singstarMicrophone": {
+          "name": "cn_singstarMicrophone",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_psVrAimEnabled": {
+          "name": "cn_psVrAimEnabled",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "primary_classification": {
+          "name": "primary_classification",
+          "values": [
+            "PREMIUM_GAME"
+          ]
+        }
+      },
+      "name": "Coffee Break",
+      "playable_platform": [
+        "PS4™"
+      ],
+      "positions": [
+        {
+          "start": 0,
+          "end": 12
+        }
+      ],
+      "provider_name": "Smobile",
+      "release_date": "2022-06-24T07:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Coffee Break",
+      "timestamp": 1657035188780,
+      "top_category": "downloadable_game",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4312-CUSA34345_00-3213655865146814/1657035188"
+    },
+    {
+      "activeLocales": [
+        "[\"en_CO\"",
+        "\"en_MX\"",
+        "\"en_AR\"",
+        "\"en_PE\"",
+        "\"es_EC\"",
+        "\"pt_BR\"",
+        "\"es_SV\"",
+        "\"es_UY\"",
+        "\"es_MX\"",
+        "\"es_CO\"",
+        "\"es_GT\"",
+        "\"es_CL\"",
+        "\"es_PE\"",
+        "\"fr_CA\"",
+        "\"en_BR\"",
+        "\"es_CR\"",
+        "\"es_AR\"",
+        "\"es_PA\"",
+        "\"es_NI\"",
+        "\"es_HN\"",
+        "\"en_US\"",
+        "\"en_CA\"",
+        "\"es_BO\"",
+        "\"en_CL\"",
+        "\"es_PY\"]"
+      ],
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "$6.99",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "UP4312-CUSA34345_00-9368127189502094",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "Coffee Break Duncan Avatar",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "UP4312-CUSA34345_00-2232416148592446",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "Coffee Break Joe Avatar",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "UP4312-CUSA34345_00-3213655865146814",
+            "license_type": 0,
+            "metadata": {
+              "subtitleLanguageCode": [
+                "en"
+              ]
+            },
+            "name": "Coffee Break",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 341901312
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": [
+              "en"
+            ],
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "UP4312-CUSA34345_00-6531725257542442",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "Coffee Break Enthusiast Avatar",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "UP4312-CUSA34345_00-9911482098514332",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "Coffee Break Espresso Avatar",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "UP4312-CUSA34345_00-1419733493343939",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "Coffee Break Decaf Avatar",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "UP4312-CUSA34345_00-8352146917786805",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "Coffee Break Coin Avatar",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "UP4312-CUSA34345_00-9020789913545448",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "Coffee Break Master Avatar",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "UP4312-CUSA34345_00-1443760591261513",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "Coffee Break Coffee Cake Avatar",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "UP4312-CUSA34345_00-1198289535469261",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "Coffee Break Dinah Avatar",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          },
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "UP4312-CUSA34345_00-1251617075791666",
+            "license_type": 0,
+            "metadata": {
+              "packageSubType": [
+                "MISC_AVATAR"
+              ]
+            },
+            "name": "Coffee Break Latte Avatar",
+            "packageType": "PS4MISC",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "UP4312-CUSA34345_00-2697713757702351-U001",
+        "is_original": false,
+        "name": "Game",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "price": 699,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Bundle",
+          "key": "BUNDLE"
+        }
+      ],
+      "game_contentType": "Bundle",
+      "id": "UP4312-CUSA34345_00-2697713757702351",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202205/0922/5xo8zo94cKTprgtwsE3S5sRR.png"
+        },
+        {
+          "type": 12,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202206/0119/NvkO36LCoPr5abGrIgd2C5rA.png"
+        },
+        {
+          "type": 13,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202206/0119/huUQjx4PewOXT8CYLPkqeCPv.png"
+        }
+      ],
+      "is_child": false,
+      "is_suggested": false,
+      "metadata": {
+        "cn_remotePlay": {
+          "name": "cn_remotePlay",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "cn_vrEnabled": {
+          "name": "cn_vrEnabled",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "cn_playstationMove": {
+          "name": "cn_playstationMove",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "secondary_classification": {
+          "name": "secondary_classification",
+          "values": [
+            "GAME"
+          ]
+        },
+        "game_subgenre": {
+          "name": "subgenre",
+          "values": [
+            "SHOOT_EM_UP",
+            "PINBALL"
+          ]
+        },
+        "cn_vrRequired": {
+          "name": "cn_vrRequired",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "game_genre": {
+          "name": "genre",
+          "values": [
+            "ARCADE",
+            "CASUAL"
+          ]
+        },
+        "cn_psEnhanced": {
+          "name": "cn_psEnhanced",
+          "values": [
+            "TRUE"
+          ]
+        },
+        "playable_platform": {
+          "name": "playable_platform",
+          "values": [
+            "PS4"
+          ]
+        },
+        "cn_numberOfPlayers": {
+          "name": "cn_numberOfPlayers",
+          "values": [
+            "1"
+          ]
+        },
+        "subgenre": {
+          "name": "subgenre",
+          "values": [
+            "SHOOT_EM_UP",
+            "PINBALL"
+          ]
+        },
+        "cn_dualshockVibration": {
+          "name": "cn_dualshockVibration",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "tertiary_classification": {
+          "name": "tertiary_classification",
+          "values": [
+            "BUNDLE"
+          ]
+        },
+        "genre": {
+          "name": "genre",
+          "values": [
+            "ARCADE",
+            "CASUAL"
+          ]
+        },
+        "cn_inGamePurchases": {
+          "name": "cn_inGamePurchases",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_offlinePlayMode": {
+          "name": "cn_offlinePlayMode",
+          "values": [
+            "ENABLED"
+          ]
+        },
+        "cn_psVrAimRequired": {
+          "name": "cn_psVrAimRequired",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "cn_playstationCamera": {
+          "name": "cn_playstationCamera",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_singstarMicrophone": {
+          "name": "cn_singstarMicrophone",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_psVrAimEnabled": {
+          "name": "cn_psVrAimEnabled",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "primary_classification": {
+          "name": "primary_classification",
+          "values": [
+            "PREMIUM_GAME"
+          ]
+        }
+      },
+      "name": "Coffee Break - Avatar Full Game Bundle",
+      "parent_name": "Coffee Break",
+      "playable_platform": [
+        "PS4™"
+      ],
+      "positions": [
+        {
+          "start": 0,
+          "end": 12
+        }
+      ],
+      "provider_name": "Smobile",
+      "release_date": "2022-07-01T07:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Avatar Full Game Bundle",
+      "timestamp": 1657035188944,
+      "top_category": "downloadable_game",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4312-CUSA34345_00-2697713757702351/1657035188"
+    },
+    {
+      "activeLocales": [
+        "[\"en_CO\"",
+        "\"en_MX\"",
+        "\"en_AR\"",
+        "\"en_PE\"",
+        "\"es_EC\"",
+        "\"pt_BR\"",
+        "\"es_SV\"",
+        "\"es_UY\"",
+        "\"es_MX\"",
+        "\"es_CO\"",
+        "\"es_GT\"",
+        "\"es_CL\"",
+        "\"es_PE\"",
+        "\"fr_CA\"",
+        "\"en_BR\"",
+        "\"es_CR\"",
+        "\"es_AR\"",
+        "\"es_PA\"",
+        "\"es_NI\"",
+        "\"es_HN\"",
+        "\"en_US\"",
+        "\"en_CA\"",
+        "\"es_BO\"",
+        "\"en_CL\"",
+        "\"es_PY\"]"
+      ],
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "gameContentTypesList": [
+        {
+          "name": "Full Game",
+          "key": "FULL_GAME"
+        }
+      ],
+      "game_contentType": "Full Game",
+      "id": "UP4312-PPSA08369_00-3966030000096658",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202205/0923/5phiiI152LkL5waDFUVGgC36.png"
+        },
+        {
+          "type": 12,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202206/0616/TGWOeORnnwigOmy6ZIm5I1Uc.png"
+        },
+        {
+          "type": 13,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202206/0616/saFJrHbHR4OmDNSwGZZCB4Rw.png"
+        }
+      ],
+      "is_child": false,
+      "is_suggested": false,
+      "metadata": {
+        "cn_remotePlay": {
+          "name": "cn_remotePlay",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "secondary_classification": {
+          "name": "secondary_classification",
+          "values": [
+            "GAME"
+          ]
+        },
+        "game_subgenre": {
+          "name": "subgenre",
+          "values": [
+            "SHOOT_EM_UP",
+            "PINBALL"
+          ]
+        },
+        "game_genre": {
+          "name": "genre",
+          "values": [
+            "ARCADE",
+            "CASUAL"
+          ]
+        },
+        "playable_platform": {
+          "name": "playable_platform",
+          "values": [
+            "PS5"
+          ]
+        },
+        "cn_numberOfPlayers": {
+          "name": "cn_numberOfPlayers",
+          "values": [
+            "2"
+          ]
+        },
+        "subgenre": {
+          "name": "subgenre",
+          "values": [
+            "SHOOT_EM_UP",
+            "PINBALL"
+          ]
+        },
+        "tertiary_classification": {
+          "name": "tertiary_classification",
+          "values": [
+            "NA"
+          ]
+        },
+        "container_type": {
+          "name": "container_type",
+          "values": [
+            "NP_PS4_REPRESENTATIVE"
+          ]
+        },
+        "genre": {
+          "name": "genre",
+          "values": [
+            "ARCADE",
+            "CASUAL"
+          ]
+        },
+        "cn_inGamePurchases": {
+          "name": "cn_inGamePurchases",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_offlinePlayMode": {
+          "name": "cn_offlinePlayMode",
+          "values": [
+            "ENABLED"
+          ]
+        },
+        "cn_singstarMicrophone": {
+          "name": "cn_singstarMicrophone",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "primary_classification": {
+          "name": "primary_classification",
+          "values": [
+            "PREMIUM_GAME"
+          ]
+        }
+      },
+      "name": "Coffee Break Head to Head",
+      "playable_platform": [
+        "PS5"
+      ],
+      "positions": [
+        {
+          "start": 0,
+          "end": 12
+        }
+      ],
+      "provider_name": "Smobile",
+      "release_date": "2022-07-01T07:00:00Z",
+      "restricted": false,
+      "revision": 1,
+      "short_name": "Coffee Break Head to Head",
+      "timestamp": 1656681111812,
+      "top_category": "downloadable_game",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4312-PPSA08369_00-3966030000096658/1656681111"
+    },
+    {
+      "activeLocales": [
+        "[\"en_CO\"",
+        "\"en_MX\"",
+        "\"en_AR\"",
+        "\"en_PE\"",
+        "\"es_EC\"",
+        "\"pt_BR\"",
+        "\"es_SV\"",
+        "\"es_UY\"",
+        "\"es_MX\"",
+        "\"es_CO\"",
+        "\"es_GT\"",
+        "\"es_CL\"",
+        "\"es_PE\"",
+        "\"fr_CA\"",
+        "\"en_BR\"",
+        "\"es_CR\"",
+        "\"es_AR\"",
+        "\"es_PA\"",
+        "\"es_NI\"",
+        "\"es_HN\"",
+        "\"en_US\"",
+        "\"en_CA\"",
+        "\"es_BO\"",
+        "\"en_CL\"",
+        "\"es_PY\"]"
+      ],
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "$6.99",
+        "eligibilities": [],
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "UP4312-CUSA34425_00-5819834584550740",
+            "license_type": 0,
+            "metadata": {
+              "subtitleLanguageCode": [
+                "en"
+              ]
+            },
+            "name": "Coffee Break Head to Head",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 349503488
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": [
+              "en"
+            ],
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "UP4312-CUSA34425_00-5819834584550740-U001",
+        "is_original": false,
+        "name": "Game",
+        "platforms": [
+          0,
+          10,
+          13
+        ],
+        "price": 699,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Full Game",
+          "key": "FULL_GAME"
+        }
+      ],
+      "game_contentType": "Full Game",
+      "id": "UP4312-CUSA34425_00-5819834584550740",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202205/0923/5phiiI152LkL5waDFUVGgC36.png"
+        },
+        {
+          "type": 12,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202206/0616/TGWOeORnnwigOmy6ZIm5I1Uc.png"
+        },
+        {
+          "type": 13,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202206/0616/saFJrHbHR4OmDNSwGZZCB4Rw.png"
+        }
+      ],
+      "is_child": false,
+      "is_suggested": false,
+      "metadata": {
+        "cn_remotePlay": {
+          "name": "cn_remotePlay",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "cn_vrEnabled": {
+          "name": "cn_vrEnabled",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "cn_playstationMove": {
+          "name": "cn_playstationMove",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "secondary_classification": {
+          "name": "secondary_classification",
+          "values": [
+            "GAME"
+          ]
+        },
+        "game_subgenre": {
+          "name": "subgenre",
+          "values": [
+            "SHOOT_EM_UP",
+            "PINBALL"
+          ]
+        },
+        "cn_vrRequired": {
+          "name": "cn_vrRequired",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "game_genre": {
+          "name": "genre",
+          "values": [
+            "ARCADE",
+            "CASUAL"
+          ]
+        },
+        "cn_psEnhanced": {
+          "name": "cn_psEnhanced",
+          "values": [
+            "TRUE"
+          ]
+        },
+        "playable_platform": {
+          "name": "playable_platform",
+          "values": [
+            "PS4"
+          ]
+        },
+        "cn_numberOfPlayers": {
+          "name": "cn_numberOfPlayers",
+          "values": [
+            "2"
+          ]
+        },
+        "subgenre": {
+          "name": "subgenre",
+          "values": [
+            "SHOOT_EM_UP",
+            "PINBALL"
+          ]
+        },
+        "cn_dualshockVibration": {
+          "name": "cn_dualshockVibration",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "tertiary_classification": {
+          "name": "tertiary_classification",
+          "values": [
+            "NA"
+          ]
+        },
+        "container_type": {
+          "name": "container_type",
+          "values": [
+            "NP_PS4_REPRESENTATIVE"
+          ]
+        },
+        "genre": {
+          "name": "genre",
+          "values": [
+            "ARCADE",
+            "CASUAL"
+          ]
+        },
+        "cn_inGamePurchases": {
+          "name": "cn_inGamePurchases",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_offlinePlayMode": {
+          "name": "cn_offlinePlayMode",
+          "values": [
+            "ENABLED"
+          ]
+        },
+        "cn_psVrAimRequired": {
+          "name": "cn_psVrAimRequired",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "cn_playstationCamera": {
+          "name": "cn_playstationCamera",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_singstarMicrophone": {
+          "name": "cn_singstarMicrophone",
+          "values": [
+            "NOTREQUIRED"
+          ]
+        },
+        "cn_psVrAimEnabled": {
+          "name": "cn_psVrAimEnabled",
+          "values": [
+            "FALSE"
+          ]
+        },
+        "primary_classification": {
+          "name": "primary_classification",
+          "values": [
+            "PREMIUM_GAME"
+          ]
+        }
+      },
+      "name": "Coffee Break Head to Head",
+      "playable_platform": [
+        "PS4™"
+      ],
+      "positions": [
+        {
+          "start": 0,
+          "end": 12
+        }
+      ],
+      "provider_name": "Smobile",
+      "release_date": "2022-07-01T07:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Coffee Break Head to Head",
+      "timestamp": 1657061153821,
+      "top_category": "downloadable_game",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4312-CUSA34425_00-5819834584550740/1657061153"
+    }
+  ],
+  "metadata": {},
+  "promomedia": [],
+  "restricted": false,
+  "revision": 0,
+  "searchExperimentId": "searchExperimentId",
+  "size": 5,
+  "sku_links": [],
+  "start": 0,
+  "total_results": 5,
+  "total_suggested": 0
+}
