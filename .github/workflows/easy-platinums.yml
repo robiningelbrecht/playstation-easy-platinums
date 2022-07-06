@@ -1,6 +1,6 @@
 name: Easy platinums
 env:
-  DEFAULT_PROFILE_NAMES: ikemenzi,Fluttezuhher,chris_play1,IBadDriverI
+  DEFAULT_PROFILE_NAMES: ikemenzi,Fluttezuhher,chris_play1,IBadDriverI,roots52,DemianGaming
 on:
   workflow_dispatch:
     inputs:
@@ -14,6 +14,8 @@ on:
           - Fluttezuhher
           - chris_play1
           - IBadDriverI
+          - roots52
+          - DemianGaming
   schedule:
     - cron:  '30 0,12 * * *'
 jobs:
