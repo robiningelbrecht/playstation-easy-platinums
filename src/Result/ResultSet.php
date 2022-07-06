@@ -28,11 +28,13 @@ class ResultSet implements \Countable
                     }
 
                     if ($sorting->getSortDirection() === SortDirection::ASC) {
+                        // We want to push null values to the back of the list.
                         $aValue = $a->getValueForSortField($sortField) !== null ? $a->getValueForSortField($sortField) : 99999;
                         $bValue = $b->getValueForSortField($sortField) !== null ? $b->getValueForSortField($sortField) : 99999;
                         return ($aValue < $bValue) ? -1 : 1;
                     }
 
+                    // We want to push null values to the back of the list.
                     $aValue = $a->getValueForSortField($sortField) !== null ? $a->getValueForSortField($sortField) : -99999;
                     $bValue = $b->getValueForSortField($sortField) !== null ? $b->getValueForSortField($sortField) : -99999;
                     return ($aValue > $bValue) ? -1 : 1;
@@ -52,10 +54,10 @@ class ResultSet implements \Countable
                     $bDate = $b->getValueForSortField($sortField);
 
                     if ($aDate->format('Y-m-d') === '2022-07-04' && $bDate->format('Y-m-d') !== '2022-07-04') {
-                        return 1;
+                        return $sorting->getSortDirection() === SortDirection::ASC ? -1 : 1;
                     }
                     if ($aDate->format('Y-m-d') !== '2022-07-04' && $bDate->format('Y-m-d') === '2022-07-04') {
-                        return -1;
+                        return $sorting->getSortDirection() === SortDirection::ASC ? 1 : -1;
                     }
 
                     if ($aDate->format('Y-m-d') === '2022-07-04' && $bDate->format('Y-m-d') === '2022-07-04') {
