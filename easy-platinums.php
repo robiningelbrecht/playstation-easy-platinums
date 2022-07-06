@@ -32,7 +32,10 @@ $app
     ->tap()
     ->command('update', 'Update list of games')
     ->action(function () {
-        (new FileWriter(new FileContentsWrapper()))->writePages();
+        (new FileWriter(
+            new FileContentsWrapper(),
+            new SystemClock()
+        ))->writePages();
     });
 
 $app->logo('

@@ -2,6 +2,8 @@
 
 namespace App\Tests;
 
+use App\Clock\Clock;
+use App\Clock\PausedClock;
 use App\FileContentsWrapper;
 use App\FileWriter;
 use PHPUnit\Framework\MockObject\MockObject;
@@ -14,6 +16,7 @@ class FileWriterTest extends TestCase
 
     private FileWriter $fileWriter;
     private readonly MockObject $fileContentsWrapper;
+    private Clock $clock;
 
     public function testWritePages(): void
     {
@@ -42,8 +45,10 @@ class FileWriterTest extends TestCase
         parent::setUp();
 
         $this->fileContentsWrapper = $this->createMock(FileContentsWrapper::class);
+        $this->clock = PausedClock::on(new \DateTimeImmutable('2022-07-01'));
         $this->fileWriter = new FileWriter(
-            $this->fileContentsWrapper
+            $this->fileContentsWrapper,
+            $this->clock
         );
     }
 }

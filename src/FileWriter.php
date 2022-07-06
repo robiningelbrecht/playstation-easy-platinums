@@ -2,6 +2,7 @@
 
 namespace App;
 
+use App\Clock\Clock;
 use App\Result\ResultSet;
 use App\Sort\SortDirection;
 use App\Sort\SortField;
@@ -19,7 +20,8 @@ class FileWriter
     public const STATISTICS_FILE = 'public/STATISTICS.md';
 
     public function __construct(
-        private readonly FileContentsWrapper $fileContentsWrapper
+        private readonly FileContentsWrapper $fileContentsWrapper,
+        private readonly Clock $clock,
     )
     {
     }
@@ -71,7 +73,7 @@ class FileWriter
         // Render the statistics page.
         $template = $twig->load('statistics.html.twig');
         $this->fileContentsWrapper->put(self::STATISTICS_FILE, $template->render([
-            'monthlyStatistics' => MonthlyStatistics::fromResultSet($resultSet),
+            'monthlyStatistics' => MonthlyStatistics::fromResultSet($resultSet, $this->clock->getCurrentDateTimeImmutable()),
             'platformRegionMatrix' => PlatformRegionMatrix::fromResultSet($resultSet),
         ]));
     }

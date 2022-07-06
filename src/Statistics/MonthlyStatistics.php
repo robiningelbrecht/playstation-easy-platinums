@@ -2,26 +2,27 @@
 
 namespace App\Statistics;
 
+use App\Clock\Clock;
 use App\Result\ResultSet;
 
 class MonthlyStatistics
 {
     private function __construct(
-        private readonly ResultSet $resultSet
+        private readonly ResultSet $resultSet,
+        private readonly \DateTimeImmutable $now,
     )
     {
     }
 
-    public static function fromResultSet(ResultSet $resultSet): self
+    public static function fromResultSet(ResultSet $resultSet, \DateTimeImmutable $now): self
     {
-        return new self($resultSet);
+        return new self($resultSet, $now);
     }
 
     public function getRows(): array
     {
         $statistics = [];
-        $now = new \DateTimeImmutable('now');
-        $yesterdayDate = new \DateTimeImmutable('yesterday');
+        $yesterdayDate = $this->now->modify('+1 day');;
 
         $today = new Row('Today');
         $yesterday = new Row('Yesterday');
@@ -35,7 +36,7 @@ class MonthlyStatistics
 
             $statistics[$row->getAddedOn()->format('Ym')] = $statistic;
 
-            if ($row->getAddedOn()->format('Ymd') === $now->format('Ymd')) {
+            if ($row->getAddedOn()->format('Ymd') === $this->now->format('Ymd')) {
                 $today
                     ->incrementNumberOfGames()
                     ->addToNumberOfTrophies($row->getTrophiesTotal())
