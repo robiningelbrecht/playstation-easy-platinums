@@ -33,7 +33,7 @@
         <th>
             <img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-bronze.png"
                  alt="bronze" width="20"/></th>
-        <th>Points <a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-7-SORT_POINTS_ASC.md">▲</a>▼</th>
+        <th>Points <a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_POINTS_ASC.md">▲</a>▼</th>
     </tr>
     </thead>
     <tbody>

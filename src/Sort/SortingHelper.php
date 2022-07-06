@@ -14,14 +14,15 @@ class SortingHelper
         $fieldName = SortField::from($fieldName);
         $currentPage = $paging->getCurrentPage();
 
-        $ascUri = 'https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-%s-SORT_' . $fieldName->toUpper() . '_ASC.md';
-        $descUri = 'https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-%s-SORT_' . $fieldName->toUpper() . '_DESC.md';
+        $ascUri = 'https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_' . $fieldName->toUpper() . '_ASC.md';
+        $descUri = 'https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_' . $fieldName->toUpper() . '_DESC.md';
+
         if ($fieldName === $currentSorting->getSortField()) {
             if ($currentSorting->getSortDirection() === SortDirection::DESC) {
-                return '<a href="' . sprintf($ascUri, $currentPage) . '">▲</a>▼';
+                return '<a href="' . $ascUri . '">▲</a>▼';
             }
-            return '▲<a href="' . sprintf($descUri, $currentPage) . '">▼</a>';
+            return '▲<a href="' . $descUri . '">▼</a>';
         }
-        return '<a href="' . sprintf($ascUri, 1) . '">▲</a><a href="' . sprintf($descUri, 1) . '">▼</a>';
+        return '<a href="' . $ascUri . '">▲</a><a href="' . $descUri . '">▼</a>';
     }
 }
