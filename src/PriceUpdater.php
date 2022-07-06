@@ -2,18 +2,19 @@
 
 namespace App;
 
-use App\Result\Row;
+use Money\Currencies\ISOCurrencies;
+use Money\Currency;
+use Money\Money;
 
 class PriceUpdater
 {
     public function __construct(
-        private PriceFetcher $priceFetcher,
-        private FileContentsWrapper $fileContentsWrapper,
+        private readonly FileContentsWrapper $fileContentsWrapper,
     )
     {
     }
 
-    public function doUpdateForId(string $id): void
+    public function doUpdateForId(string $id, int $amountInCents, string $currency): void
     {
         if (!file_exists(GameFetcher::JSON_FILE)) {
             throw new \RuntimeException('easy-platinums.json not found. Run "fetch" first');
@@ -24,7 +25,11 @@ class PriceUpdater
             throw new \RuntimeException('Invalid id provided');
         }
 
-        $json[$id]['price'] = $this->priceFetcher->searchForRow(Row::fromArray($json[$id]));
+        if (!(new ISOCurrencies())->contains(new Currency($currency))) {
+            throw new \RuntimeException('Invalid currency provided');
+        }
+
+        $json[$id]['price'] = new Money($amountInCents, new Currency($currency));
         $this->fileContentsWrapper->put(GameFetcher::JSON_FILE, json_encode($json));
     }
 }

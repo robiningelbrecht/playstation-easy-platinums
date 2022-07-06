@@ -39,13 +39,14 @@ $app
         ))->writePages();
     })
     ->tap()
-    ->command('price:set', 'Update price of one game')
+    ->command('price:set', 'Set price of one game')
     ->argument('<id>', 'PSN Profile game id to set price for')
-    ->action(function (string $id) {
+    ->argument('<amountInCents>', 'The price in cents')
+    ->argument('<currency>', 'The currency')
+    ->action(function (string $id, int $amountInCents, string $currency) {
         (new PriceUpdater(
-            new PriceFetcher(new Client()),
             new FileContentsWrapper(),
-        ))->doUpdateForId($id);
+        ))->doUpdateForId($id, $amountInCents, $currency);
     });
 
 $app->logo('

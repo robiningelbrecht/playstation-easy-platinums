@@ -112,7 +112,6 @@ class Row
 
         $currencies = new ISOCurrencies();
 
-
         $numberFormatter = new \NumberFormatter('en_US', \NumberFormatter::CURRENCY);
         $moneyFormatter = new IntlMoneyFormatter($numberFormatter, $currencies);
 
