@@ -55,7 +55,7 @@
         <tbody>
         {% for region in platformRegionMatrix.getRegions() %}
             <tr>
-                <td><b>{{ region }}</b></td>
+                <td><b>{{ region ?: 'No region' }}</b></td>
                 {% for platform in platformRegionMatrix.getPlatforms() %}
                     <td>{{ platformRegionMatrix.getTotalForPlatformAndRegion(platform, region) }}</td>
                 {% endfor %}

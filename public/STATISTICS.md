@@ -98,7 +98,7 @@
                                     <td>562</td>
                             </tr>
                     <tr>
-                <td><b></b></td>
+                <td><b>No region</b></td>
                                     <td>11</td>
                                     <td>7</td>
                             </tr>
