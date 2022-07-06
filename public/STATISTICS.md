@@ -7,7 +7,7 @@
 
 ------
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">Total number of games</h2>
 
 <div align="center">
     <table>
@@ -51,6 +51,8 @@
         </tfoot>
     </table>
 </div>
+
+<h2 align="center">Games per platform and region</h2>
 
 <div align="center">
     <table>

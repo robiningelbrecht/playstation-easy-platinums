@@ -33,23 +33,23 @@ class GameFetcherTest extends TestCase
             ->willReturn(new Response(200, [], file_get_contents(__DIR__ . '/sample-response.json')));
 
         $this->fileContentsWrapper
-            ->expects($this->exactly(86))
+            ->expects($this->exactly(9))
             ->method('get')
             ->withConsecutive(
                 ['easy-platinums.json']
             )
             ->willReturnOnConsecutiveCalls(
                 '[]',
-                ...array_map(fn(int $i) => (string)$i, range(1, 100))
+                ...array_map(fn(int $i) => (string)$i, range(1, 9))
             );
 
         $this->priceFetcher
-            ->expects($this->exactly(85))
+            ->expects($this->exactly(8))
             ->method('searchForRow')
             ->willReturn(new Money(100, new Currency('EUR')));
 
         $this->fileContentsWrapper
-            ->expects($this->exactly(86))
+            ->expects($this->exactly(9))
             ->method('put')
             ->willReturnCallback(function (string $file, string $content) {
                 $this->assertMatchesJsonSnapshot(json_encode($file));
