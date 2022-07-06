@@ -22,7 +22,7 @@ class MonthlyStatistics
     public function getRows(): array
     {
         $statistics = [];
-        $yesterdayDate = $this->now->modify('+1 day');;
+        $yesterdayDate = $this->now->modify('-1 day');;
 
         $today = new Row('Today');
         $yesterday = new Row('Yesterday');
