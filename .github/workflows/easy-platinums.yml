@@ -17,7 +17,7 @@ on:
           - roots52
           - DemianGaming
   schedule:
-    - cron:  '30 0,12 * * *'
+    - cron:  '30 */4 * * *'
 jobs:
   update:
     name: Update list of easy platinums
