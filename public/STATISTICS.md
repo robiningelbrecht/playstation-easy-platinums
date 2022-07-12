@@ -22,9 +22,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">9</td>
-                <td align="center">148</td>
-                <td align="center">12 090</td>
+                <td align="center">12</td>
+                <td align="center">218</td>
+                <td align="center">16 035</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -34,17 +34,17 @@
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 273</td>
-                <td align="center">42 361</td>
-                <td align="center">3 001 215</td>
+                <td align="center">2 276</td>
+                <td align="center">42 431</td>
+                <td align="center">3 005 160</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 273</b>
+            <td align="center"><b>2 276</b>
             </td>
             <td align="center">
-                <b>42 361</b></td>
-            <td align="center"><b>3 001 215</b></td>
+                <b>42 431</b></td>
+            <td align="center"><b>3 005 160</b></td>
         </tr>
         </tbody>
     </table>
@@ -74,7 +74,7 @@
                             </tr>
                     <tr>
                 <td><b>EU</b></td>
-                                    <td>256</td>
+                                    <td>257</td>
                                     <td>572</td>
                             </tr>
                     <tr>
@@ -85,7 +85,7 @@
                     <tr>
                 <td><b>JP</b></td>
                                     <td>76</td>
-                                    <td>172</td>
+                                    <td>173</td>
                             </tr>
                     <tr>
                 <td><b>KR</b></td>
@@ -94,7 +94,7 @@
                             </tr>
                     <tr>
                 <td><b>NA</b></td>
-                                    <td>250</td>
+                                    <td>251</td>
                                     <td>568</td>
                             </tr>
                     <tr>
