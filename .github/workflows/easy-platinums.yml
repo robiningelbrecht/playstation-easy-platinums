@@ -55,5 +55,6 @@ jobs:
           git config --global user.name 'robiningelbrecht'
           git config --global user.email 'robiningelbrecht@users.noreply.github.com'
           git add .
+          git status
           git diff --staged --quiet || git commit -m"Automated update of easy platinums"
           git push
