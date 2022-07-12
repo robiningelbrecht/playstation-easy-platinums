@@ -44,5 +44,5 @@ jobs:
           git config --global user.name 'robiningelbrecht'
           git config --global user.email 'robiningelbrecht@users.noreply.github.com'
           git add .
-          git commit -m "Automated update of README.md" --allow-empty
+          git diff --staged --quiet || git commit -m"Manual price update via workflow"
           git push
