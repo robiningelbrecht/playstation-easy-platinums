@@ -22,9 +22,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">1</td>
-                <td align="center">14</td>
-                <td align="center">1 335</td>
+                <td align="center">4</td>
+                <td align="center">80</td>
+                <td align="center">5 295</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -34,17 +34,17 @@
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 277</td>
-                <td align="center">42 445</td>
-                <td align="center">3 006 495</td>
+                <td align="center">2 280</td>
+                <td align="center">42 511</td>
+                <td align="center">3 010 455</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 277</b>
+            <td align="center"><b>2 280</b>
             </td>
             <td align="center">
-                <b>42 445</b></td>
-            <td align="center"><b>3 006 495</b></td>
+                <b>42 511</b></td>
+            <td align="center"><b>3 010 455</b></td>
         </tr>
         </tbody>
     </table>
@@ -74,8 +74,8 @@
                             </tr>
                     <tr>
                 <td><b>EU</b></td>
-                                    <td>257</td>
-                                    <td>572</td>
+                                    <td>258</td>
+                                    <td>573</td>
                             </tr>
                     <tr>
                 <td><b>HK</b></td>
@@ -99,7 +99,7 @@
                             </tr>
                     <tr>
                 <td><b>No region</b></td>
-                                    <td>16</td>
+                                    <td>17</td>
                                     <td>15</td>
                             </tr>
                 </tbody>
