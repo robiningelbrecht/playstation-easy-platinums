@@ -22,9 +22,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">20</td>
-                <td align="center">493</td>
-                <td align="center">26 160</td>
+                <td align="center">24</td>
+                <td align="center">572</td>
+                <td align="center">31 530</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -34,17 +34,17 @@
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 305</td>
-                <td align="center">43 096</td>
-                <td align="center">3 043 275</td>
+                <td align="center">2 309</td>
+                <td align="center">43 175</td>
+                <td align="center">3 048 645</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 305</b>
+            <td align="center"><b>2 309</b>
             </td>
             <td align="center">
-                <b>43 096</b></td>
-            <td align="center"><b>3 043 275</b></td>
+                <b>43 175</b></td>
+            <td align="center"><b>3 048 645</b></td>
         </tr>
         </tbody>
     </table>
@@ -64,7 +64,7 @@
         <tbody>
                     <tr>
                 <td><b>AS</b></td>
-                                    <td>100</td>
+                                    <td>101</td>
                                     <td>244</td>
                             </tr>
                     <tr>
@@ -74,8 +74,8 @@
                             </tr>
                     <tr>
                 <td><b>EU</b></td>
-                                    <td>260</td>
-                                    <td>575</td>
+                                    <td>261</td>
+                                    <td>576</td>
                             </tr>
                     <tr>
                 <td><b>HK</b></td>
@@ -95,7 +95,7 @@
                     <tr>
                 <td><b>NA</b></td>
                                     <td>259</td>
-                                    <td>575</td>
+                                    <td>576</td>
                             </tr>
                     <tr>
                 <td><b>No region</b></td>
