@@ -48,7 +48,7 @@ $app
         ))->doUpdateForId($id, $amountInCents);
 
         echo sprintf(
-            'Manual price update for % to %s via workflow',
+            'Manual price update for %s to %s via workflow',
             $updatedRow->getFullTitle(),
             $updatedRow->getPriceFormattedAsMoney()
         );
