@@ -13,22 +13,33 @@ use App\FileWriter;
 use App\FileContentsWrapper;
 use App\PriceFetcher;
 use App\PriceUpdater;
+use \App\Result\Row;
 use GuzzleHttp\Client;
 
 $app = new Application('Easy platinums', '0.0.1');
 
 $app
     ->command('games:fetch', 'Fetch new easy platinums and store in json file')
-    ->argument('<profile-name>', 'PSN Profile to use to determine easy platinums', GameFetcher::DEFAULT_PROFILE_NAME)
-    ->action(function ($profileName) {
+    ->argument('<profile-names>', 'PSN Profiles to use to determine easy platinums')
+    ->action(function ($profileNames) {
         $client = new Client();
-        (new GameFetcher(
+        $gameFetcher = (new GameFetcher(
             $client,
             new FileContentsWrapper(),
             new PriceFetcher($client),
             new SystemClock(),
-            $profileName
-        ))->doFetch();
+        ));
+
+        $addedRows = [];
+        foreach (explode(',', $profileNames) as $profileName) {
+            $addedRows = [...$addedRows, ...$gameFetcher->doFetch($profileName)];
+        }
+
+        if (!$addedRows) {
+            return;
+        }
+
+        echo sprintf('Added new games to list: %s', implode(', ', array_map(fn(Row $row) => $row->getFullTitle(), $addedRows)));
     })
     ->tap()
     ->command('files:update', 'Update list of games')

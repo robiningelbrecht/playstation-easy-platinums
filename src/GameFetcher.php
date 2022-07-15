@@ -9,21 +9,20 @@ use GuzzleHttp\Client;
 class GameFetcher
 {
     public const JSON_FILE = 'easy-platinums.json';
-    public const DEFAULT_PROFILE_NAME = 'ikemenzi';
 
     public function __construct(
         private readonly Client $client,
         private readonly FileContentsWrapper $fileContentsWrapper,
         private readonly PriceFetcher $priceFetcher,
         private readonly Clock $clock,
-        private readonly string $psnProfile
     )
     {
     }
 
-    public function doFetch(): void
+    public function doFetch($psnProfile): array
     {
-        $response = $this->client->get('https://psnprofiles.com/' . $this->psnProfile . '?ajax=1&page=0');
+        $addedRows = [];
+        $response = $this->client->get('https://psnprofiles.com/' . $psnProfile . '?ajax=1&page=0');
 
         if (200 !== $response->getStatusCode()) {
             throw new \RuntimeException('Could not fetch games');
@@ -43,7 +42,7 @@ class GameFetcher
                 'platinumTime' => '/Platinum[\s]*in <b>(?<value>.*?)<\/b>/im',
                 'title' => '/<a class="title"[\s\S]*>(?<value>.*?)<\/a>/im',
                 'thumb' => '/<img src="https:\/\/i.psnprofiles.com\/games\/(?<value>[\S]*)" \/>/im',
-                'uri' => '/<a class="title" href="(?<value>[\S]*)\/' . $this->psnProfile . '" rel="nofollow">/im',
+                'uri' => '/<a class="title" href="(?<value>[\S]*)\/' . $psnProfile . '" rel="nofollow">/im',
                 'region' => '/<\/bullet>[\s]*(?<value>[\S]*)[\s]*<\/span>/imU',
                 'platform' => '/<span class="tag platform[\s\S]*">(?<value>[\S]*)<\/span>/imU',
                 'trophiesTotal' => '/All[\s]*<b>(?<value>[\d]+)<\/b> Trophies/imU',
@@ -104,7 +103,7 @@ class GameFetcher
                 'trophiesGold' => (int)$matches['trophiesGold'],
                 'trophiesSilver' => (int)$matches['trophiesSilver'],
                 'trophiesBronze' => (int)$matches['trophiesBronze'],
-                'addedOn'=> $this->clock->getCurrentDateTimeImmutable()->format(Clock::DEFAULT_FORMAT)
+                'addedOn' => $this->clock->getCurrentDateTimeImmutable()->format(Clock::DEFAULT_FORMAT),
             ];
 
             try {
@@ -112,9 +111,12 @@ class GameFetcher
             } catch (\RuntimeException) {
                 $json[$matches['id']]['price'] = null;
             }
+
+            $addedRows[] = Row::fromArray($json[$matches['id']]);
         }
 
         $this->fileContentsWrapper->put(self::JSON_FILE, json_encode($json));
+        return $addedRows;
     }
 
     private function getRequiredRegexMatches(): array

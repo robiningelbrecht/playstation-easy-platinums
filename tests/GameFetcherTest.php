@@ -22,7 +22,6 @@ class GameFetcherTest extends TestCase
     private readonly MockObject $client;
     private readonly MockObject $fileContentsWrapper;
     private readonly MockObject $priceFetcher;
-    private readonly string $psnProfile;
 
     public function testDoFetch(): void
     {
@@ -56,7 +55,7 @@ class GameFetcherTest extends TestCase
                 $this->assertMatchesJsonSnapshot(json_encode($content));
             });
 
-        $this->trophyFetcher->doFetch();
+        $this->trophyFetcher->doFetch('Fluttezuhher');
     }
 
     public function testItShouldThrowWhenInvalidResponseCode(): void
@@ -70,7 +69,7 @@ class GameFetcherTest extends TestCase
         $this->expectException(\RuntimeException::class);
         $this->expectExceptionMessage('Could not fetch games');
 
-        $this->trophyFetcher->doFetch();
+        $this->trophyFetcher->doFetch('Fluttezuhher');
     }
 
     public function testItShouldThrowWhenInvalidResponseStructure(): void
@@ -84,7 +83,7 @@ class GameFetcherTest extends TestCase
         $this->expectException(\RuntimeException::class);
         $this->expectExceptionMessage('Could not fetch games');
 
-        $this->trophyFetcher->doFetch();
+        $this->trophyFetcher->doFetch('Fluttezuhher');
     }
 
     protected function setUp(): void
@@ -94,14 +93,12 @@ class GameFetcherTest extends TestCase
         $this->client = $this->createMock(Client::class);
         $this->fileContentsWrapper = $this->createMock(FileContentsWrapper::class);
         $this->priceFetcher = $this->createMock(PriceFetcher::class);
-        $this->psnProfile = 'Fluttezuhher';
 
         $this->trophyFetcher = new GameFetcher(
             $this->client,
             $this->fileContentsWrapper,
             $this->priceFetcher,
             PausedClock::on(new \DateTimeImmutable('2022-07-01 20:10:04')),
-            $this->psnProfile,
         );
     }
 }
