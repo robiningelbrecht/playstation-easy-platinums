@@ -43,9 +43,15 @@ $app
     ->argument('<id>', 'PSN Profile game id to set price for')
     ->argument('<amountInCents>', 'The price in cents')
     ->action(function (string $id, int $amountInCents) {
-        (new PriceUpdater(
+        $updatedRow = (new PriceUpdater(
             new FileContentsWrapper(),
         ))->doUpdateForId($id, $amountInCents);
+
+        echo sprintf(
+            'Manual price update for % to %s via workflow',
+            $updatedRow->getFullTitle(),
+            $updatedRow->getPriceFormattedAsMoney()
+        );
     });
 
 $app->logo('

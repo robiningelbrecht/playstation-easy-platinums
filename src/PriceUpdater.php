@@ -13,7 +13,7 @@ class PriceUpdater
     {
     }
 
-    public function doUpdateForId(string $id, int $amountInCents): void
+    public function doUpdateForId(string $id, int $amountInCents): Row
     {
         if (!file_exists(GameFetcher::JSON_FILE)) {
             throw new \RuntimeException('easy-platinums.json not found. Run "fetch" first');
@@ -28,5 +28,7 @@ class PriceUpdater
 
         $json[$id]['price'] = new Money($amountInCents, PriceFetcher::getCurrencyForRegion($row->getRegion()));
         $this->fileContentsWrapper->put(GameFetcher::JSON_FILE, json_encode($json));
+
+        return Row::fromArray($json[$id]);
     }
 }

@@ -4,6 +4,8 @@ namespace App\Tests;
 
 use App\FileContentsWrapper;
 use App\PriceUpdater;
+use App\Result\Row;
+use Money\Money;
 use PHPUnit\Framework\MockObject\MockObject;
 use PHPUnit\Framework\TestCase;
 use Spatie\Snapshots\MatchesSnapshots;
@@ -27,11 +29,28 @@ class PriceUpdaterTest extends TestCase
             ->expects($this->once())
             ->method('put')
             ->willReturnCallback(function (string $file, string $content) {
-                $this->assertMatchesJsonSnapshot(json_encode($file));
+                $this->assertEquals('easy-platinums.json', $file);
                 $this->assertMatchesJsonSnapshot(json_encode($content));
             });
 
-        $this->priceUpdater->doUpdateForId('16927', 199);
+        $this->assertEquals(
+            Row::fromArray([
+                'id' => '16927',
+                'title' => 'Rainbow Advanced',
+                'region' => null,
+                'platform' => 'PS4',
+                'thumbnail' => '16927.png',
+                'uri' => 'https://psnprofiles.com/trophies/16927-rainbow-advanced',
+                'approximateTime' => 1,
+                'trophiesTotal' => 19,
+                'trophiesGold' => 9,
+                'trophiesSilver' => 6,
+                'trophiesBronze' => 3,
+                'addedOn' => '2022-07-05 07:48:54',
+                'price' => Money::USD(199),
+            ]),
+            $this->priceUpdater->doUpdateForId('16927', 199)
+        );
     }
 
     public function testItShouldThrowWhenInvalidId(): void

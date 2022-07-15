@@ -33,6 +33,18 @@ class Row
         return $this->data['title'];
     }
 
+    public function getFullTitle(): string
+    {
+        $parts = [];
+        if ($region = $this->getRegion()) {
+            $parts[] = $region;
+        }
+        if ($platform = $this->getPlatform()) {
+            $parts[] = $platform;
+        }
+        return $this->getTitle() . ' (' . implode(' • ', $parts) . ')';
+    }
+
     public function getRegion(): ?string
     {
         return $this->data['region'];
