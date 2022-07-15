@@ -35,7 +35,7 @@ jobs:
       - name: Set a manual price
         run: |
           export COMMIT_MESSAGE=$(bin/easy-platinums price:set ${{ github.event.inputs.id }} ${{ github.event.inputs.amount-in-cents }})
-          echo "::set-env name=COMMIT_MESSAGE::$COMMIT_MESSAGE"
+          echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
       - name: Update README.md and pages
         run: bin/easy-platinums files:update
 
