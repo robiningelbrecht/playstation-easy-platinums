@@ -29,6 +29,6 @@ class PriceUpdater
         $json[$id]['price'] = new Money($amountInCents, PriceFetcher::getCurrencyForRegion($row->getRegion()));
         $this->fileContentsWrapper->put(GameFetcher::JSON_FILE, json_encode($json));
 
-        return Row::fromArray($json[$id]);
+        return Row::fromArray(json_decode(json_encode($json[$id]), true));
     }
 }

@@ -47,7 +47,7 @@ class PriceUpdaterTest extends TestCase
                 'trophiesSilver' => 6,
                 'trophiesBronze' => 3,
                 'addedOn' => '2022-07-05 07:48:54',
-                'price' => Money::USD(199),
+                'price' => ['amount' => 199, 'currency' => 'USD'],
             ]),
             $this->priceUpdater->doUpdateForId('16927', 199)
         );
