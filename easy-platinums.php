@@ -39,7 +39,11 @@ $app
             return;
         }
 
-        echo sprintf('Added new games to list: %s', implode(', ', array_map(fn(Row $row) => $row->getFullTitle(), $addedRows)));
+        echo sprintf(
+            'Added %s new games to list: %s',
+            count($addedRows),
+            implode(', ', array_map(fn(Row $row) => $row->getFullTitle(), $addedRows))
+        );
     })
     ->tap()
     ->command('files:update', 'Update list of games')
