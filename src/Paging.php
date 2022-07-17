@@ -9,8 +9,8 @@ class Paging
     public const PAGE_SIZE = 100;
 
     private function __construct(
-        private int $totalPages,
-        private int $currentPage,
+        private readonly int $totalPages,
+        private readonly int $currentPage,
     )
     {
     }
@@ -25,16 +25,16 @@ class Paging
         return $this->currentPage;
     }
 
-    public static function fromResultSetAndCurrentPage(ResultSet $resultSet, int $currentPage): self
+    public static function fromTotalRowCountAndCurrentPage(int $totalRowCount, int $currentPage): self
     {
         return new self(
-            static::calculateTotalPages($resultSet),
+            static::calculateTotalPages($totalRowCount),
             $currentPage
         );
     }
 
-    public static function calculateTotalPages(ResultSet $resultSet): int
+    public static function calculateTotalPages(int $totalRowCount): int
     {
-        return ceil(count($resultSet) / self::PAGE_SIZE);
+        return ceil($totalRowCount / self::PAGE_SIZE);
     }
 }

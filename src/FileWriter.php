@@ -3,6 +3,7 @@
 namespace App;
 
 use App\Clock\Clock;
+use App\Filter\FilterField;
 use App\Result\ResultSet;
 use App\Sort\SortDirection;
 use App\Sort\SortField;
@@ -45,7 +46,7 @@ class FileWriter
 
         // Render the first page on the main README.md.
         $this->fileContentsWrapper->put(self::README_FILE, $template->render([
-            'paging' => Paging::fromResultSetAndCurrentPage($resultSet, 1),
+            'paging' => Paging::fromTotalRowCountAndCurrentPage(count($resultSet->getRows()), 1),
             'rows' => array_slice($resultSet->getRows(), 0, Paging::PAGE_SIZE),
             'sorting' => Sorting::default(),
         ]));
@@ -57,8 +58,8 @@ class FileWriter
                 $resultSet->sort($sorting);
                 $rows = $resultSet->getRows();
 
-                for ($i = 0; $i < Paging::calculateTotalPages($resultSet); $i++) {
-                    $paging = Paging::fromResultSetAndCurrentPage($resultSet, $i + 1);
+                for ($i = 0; $i < Paging::calculateTotalPages(count($rows)); $i++) {
+                    $paging = Paging::fromTotalRowCountAndCurrentPage(count($rows), $i + 1);
                     $render = $template->render([
                         'paging' => $paging,
                         'rows' => array_slice($rows, ($i * Paging::PAGE_SIZE), Paging::PAGE_SIZE),
@@ -67,6 +68,26 @@ class FileWriter
 
                     $this->fileContentsWrapper->put('public/PAGE-' . ($i + 1) . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $render);
                 }
+
+                // Render all pages for the available filers.
+                foreach (FilterField::cases() as $filterField) {
+                    $filterValues = $resultSet->getDistinctValuesForFilterField($filterField);
+                    foreach ($filterValues as $filterValue) {
+                        $rows = $resultSet->getRowsForFilterAndValue($filterField, $filterValue);
+
+                        for ($i = 0; $i < Paging::calculateTotalPages(count($rows)); $i++) {
+                            $paging = Paging::fromTotalRowCountAndCurrentPage(count($rows), $i + 1);
+                            $render = $template->render([
+                                'paging' => $paging,
+                                'rows' => array_slice($rows, ($i * Paging::PAGE_SIZE), Paging::PAGE_SIZE),
+                                'sorting' => $sorting,
+                            ]);
+
+                            $this->fileContentsWrapper->put('public/filter-' . $filterField->value . '/PAGE-' . ($i + 1) . '-FILTER_' . $filterField->toUpper() . '_' . $filterValue . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $render);
+                        }
+                    }
+                }
+
             }
         }
 

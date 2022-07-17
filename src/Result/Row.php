@@ -3,6 +3,7 @@
 namespace App\Result;
 
 use App\Clock\Clock;
+use App\Filter\FilterField;
 use App\Sort\SortField;
 use Money\Currencies\ISOCurrencies;
 use Money\Currency;
@@ -139,6 +140,14 @@ class Row
             SortField::PRICE => $this->getPrice()?->getAmount(),
             SortField::DATE => $this->getAddedOn(),
             default => $this->data[$sortField->value],
+        };
+    }
+
+    public function getValueForFilterField(FilterField $filterField): ?string
+    {
+        return match ($filterField) {
+            FilterField::REGION => $this->getRegion(),
+            FilterField::PLATFORM => $this->getPlatform(),
         };
     }
 

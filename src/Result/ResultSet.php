@@ -2,11 +2,12 @@
 
 namespace App\Result;
 
+use App\Filter\FilterField;
 use App\Sort\SortDirection;
 use App\Sort\SortField;
 use App\Sort\Sorting;
 
-class ResultSet implements \Countable
+class ResultSet
 {
     private const INITIAL_IMPORT_DATE = '2022-07-04';
 
@@ -16,6 +17,21 @@ class ResultSet implements \Countable
     {
         // Remove duplicate rows. Apparently some games are returned multiple times.
         $this->removeDuplicateAndFaultyEntries();
+    }
+
+    public function getDistinctValuesForFilterField(FilterField $field): array
+    {
+        $values = [];
+        foreach ($this->rows as $row) {
+            /** @var Row $row */
+            if (!$value = $row->getValueForFilterField($field)) {
+                continue;
+            }
+
+            $values[$value] = $value;
+        }
+
+        return array_values($values);
     }
 
     public function sort(Sorting $sorting): void
@@ -112,9 +128,9 @@ class ResultSet implements \Countable
         return $this->rows;
     }
 
-    public function count(): int
+    public function getRowsForFilterAndValue(FilterField $filterField, string $value): array
     {
-        return count($this->rows);
+        return array_filter($this->rows, fn(Row $row) => $row->getValueForFilterField($filterField) == $value);
     }
 
     private function removeDuplicateAndFaultyEntries(): void
