@@ -460,22 +460,6 @@
             <td align="center">1335</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/14419-marvels-guardians-of-the-galaxy"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14419.png"
-                            alt="Marvel&#039;s Guardians of the Galaxy" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14419-marvels-guardians-of-the-galaxy">Marvel&#039;s Guardians of the Galaxy</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">$59.99</td>
-            <td align="center">59</td>
-            <td align="center">1</td>
-            <td align="center">3</td>
-            <td align="center">54</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/14738-tilting-tiles"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14738.png"
                             alt="Tilting Tiles" width="60"></a></td>
