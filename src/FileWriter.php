@@ -12,10 +12,8 @@ use App\Sort\Sorting;
 use App\Statistics\MonthlyStatistics;
 use App\Statistics\PlatformRegionMatrix;
 use App\Twig\TwigRenderSort;
-use App\Twig\TwigStrPad;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
-use Twig\TwigFilter;
 use Twig\TwigFunction;
 
 class FileWriter
@@ -43,7 +41,6 @@ class FileWriter
         $loader = new FilesystemLoader(dirname(__DIR__) . '/templates');
         $twig = new Environment($loader);
         $twig->addFunction(new TwigFunction('renderSort', [TwigRenderSort::class, 'execute']));
-        $twig->addFilter(new TwigFilter('strPad', [TwigStrPad::class, 'execute']));
         $template = $twig->load('games.html.twig');
 
         $resultSet = ResultSet::fromArray($this->gameRepository->findAll());

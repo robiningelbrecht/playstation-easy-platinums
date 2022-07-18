@@ -58,7 +58,7 @@
         {% endif %}
     {% endfor %}
 
-__{{ filterField.getName()|strPad(8, ' ')|replace({" ": "&nbsp;"})|capitalize|raw }}__: {{ filterLinks|join(' | ')|raw }}
+<kbd>{{ filterField.getName()|capitalize }}</kbd> : {{ filterLinks|join(' | ')|raw }}
 {% endfor %}
 
 <p align="center">
