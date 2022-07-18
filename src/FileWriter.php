@@ -23,6 +23,7 @@ class FileWriter
 
     public function __construct(
         private readonly FileContentsWrapper $fileContentsWrapper,
+        private readonly GameRepository $gameRepository,
         private readonly Clock $clock,
     )
     {
@@ -33,7 +34,7 @@ class FileWriter
         if (!file_exists(self::README_FILE)) {
             throw new \RuntimeException('README.md not found');
         }
-        if (!file_exists(GameFetcher::JSON_FILE)) {
+        if (!file_exists(GameRepository::JSON_FILE)) {
             throw new \RuntimeException('easy-platinums.json not found. Run "fetch" first');
         }
 
@@ -42,7 +43,7 @@ class FileWriter
         $twig->addFunction(new TwigFunction('renderSort', [SortingHelper::class, 'renderSort']));
         $template = $twig->load('games.html.twig');
 
-        $resultSet = ResultSet::fromJson($this->fileContentsWrapper->get(GameFetcher::JSON_FILE));
+        $resultSet = ResultSet::fromArray($this->gameRepository->findAll());
         $resultSet->sort(Sorting::default());
 
         /** @var FilterField[] $filterFields */

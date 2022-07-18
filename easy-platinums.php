@@ -13,7 +13,8 @@ use App\FileWriter;
 use App\FileContentsWrapper;
 use App\PriceFetcher;
 use App\PriceUpdater;
-use \App\Result\Row;
+use App\Result\Row;
+use App\GameRepository;
 use GuzzleHttp\Client;
 
 $app = new Application('Easy platinums', '0.0.1');
@@ -23,9 +24,11 @@ $app
     ->argument('<profile-names>', 'PSN Profiles to use to determine easy platinums')
     ->action(function ($profileNames) {
         $client = new Client();
+        $fileContentsWrapper = new FileContentsWrapper();
         $gameFetcher = (new GameFetcher(
             $client,
-            new FileContentsWrapper(),
+            $fileContentsWrapper,
+            new GameRepository($fileContentsWrapper),
             new PriceFetcher($client),
             new SystemClock(),
         ));
@@ -48,8 +51,10 @@ $app
     ->tap()
     ->command('files:update', 'Update list of games')
     ->action(function () {
+        $fileContentsWrapper = new FileContentsWrapper();
         (new FileWriter(
-            new FileContentsWrapper(),
+            $fileContentsWrapper,
+            new GameRepository($fileContentsWrapper),
             new SystemClock()
         ))->writePages();
     })
@@ -59,7 +64,7 @@ $app
     ->argument('<amountInCents>', 'The price in cents')
     ->action(function (string $id, int $amountInCents) {
         $updatedRow = (new PriceUpdater(
-            new FileContentsWrapper(),
+            new GameRepository(new FileContentsWrapper()),
         ))->doUpdateForId($id, $amountInCents);
 
         echo sprintf(

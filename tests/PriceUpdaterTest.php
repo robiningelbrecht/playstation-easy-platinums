@@ -3,9 +3,9 @@
 namespace App\Tests;
 
 use App\FileContentsWrapper;
+use App\GameRepository;
 use App\PriceUpdater;
 use App\Result\Row;
-use Money\Money;
 use PHPUnit\Framework\MockObject\MockObject;
 use PHPUnit\Framework\TestCase;
 use Spatie\Snapshots\MatchesSnapshots;
@@ -15,22 +15,37 @@ class PriceUpdaterTest extends TestCase
     use MatchesSnapshots;
 
     private PriceUpdater $priceUpdater;
-    private MockObject $fileContentsWrapper;
+    private readonly MockObject $gameRepository;
 
     public function testDoUpdateForId(): void
     {
-        $this->fileContentsWrapper
+        $this->gameRepository
             ->expects($this->once())
-            ->method('get')
-            ->with('easy-platinums.json')
-            ->willReturn(file_get_contents(__DIR__ . '/easy-platinums.json'));
+            ->method('find')
+            ->with(16927)
+            ->willReturn(
+                [
+                    'id' => '16927',
+                    'title' => 'Rainbow Advanced',
+                    'region' => null,
+                    'platform' => 'PS4',
+                    'thumbnail' => '16927.png',
+                    'uri' => 'https://psnprofiles.com/trophies/16927-rainbow-advanced',
+                    'approximateTime' => 1,
+                    'trophiesTotal' => 19,
+                    'trophiesGold' => 9,
+                    'trophiesSilver' => 6,
+                    'trophiesBronze' => 3,
+                    'addedOn' => '2022-07-05 07:48:54',
+                    'price' => null,
+                ]
+            );
 
-        $this->fileContentsWrapper
+        $this->gameRepository
             ->expects($this->once())
-            ->method('put')
-            ->willReturnCallback(function (string $file, string $content) {
-                $this->assertEquals('easy-platinums.json', $file);
-                $this->assertMatchesJsonSnapshot(json_encode($content));
+            ->method('save')
+            ->willReturnCallback(function (array $row) {
+                $this->assertMatchesJsonSnapshot(json_encode($row));
             });
 
         $this->assertEquals(
@@ -53,28 +68,14 @@ class PriceUpdaterTest extends TestCase
         );
     }
 
-    public function testItShouldThrowWhenInvalidId(): void
-    {
-        $this->fileContentsWrapper
-            ->expects($this->once())
-            ->method('get')
-            ->with('easy-platinums.json')
-            ->willReturn(file_get_contents(__DIR__ . '/easy-platinums.json'));
-
-        $this->expectException(\RuntimeException::class);
-        $this->expectExceptionMessage('Invalid id "some-id" provided');
-
-        $this->priceUpdater->doUpdateForId('some-id', 199);
-    }
-
     protected function setUp(): void
     {
         parent::setUp();
 
-        $this->fileContentsWrapper = $this->createMock(FileContentsWrapper::class);
+        $this->gameRepository = $this->createMock(GameRepository::class);
 
         $this->priceUpdater = new PriceUpdater(
-            $this->fileContentsWrapper
+            $this->gameRepository
         );
     }
 }

@@ -157,11 +157,11 @@ class ResultSet
         }
     }
 
-    public static function fromJson(string $json): self
+    public static function fromArray(array $rows): self
     {
         $rows = array_map(
             fn(array $row) => Row::fromArray($row),
-            json_decode($json, true)
+            $rows
         );
         return new self($rows);
     }

@@ -8,11 +8,11 @@ use GuzzleHttp\Client;
 
 class GameFetcher
 {
-    public const JSON_FILE = 'easy-platinums.json';
 
     public function __construct(
         private readonly Client $client,
         private readonly FileContentsWrapper $fileContentsWrapper,
+        private readonly GameRepository $gameRepository,
         private readonly PriceFetcher $priceFetcher,
         private readonly Clock $clock,
     )
@@ -25,17 +25,17 @@ class GameFetcher
         $response = $this->client->get('https://psnprofiles.com/' . $psnProfile . '?ajax=1&page=0');
 
         if (200 !== $response->getStatusCode()) {
-            throw new \RuntimeException('Could not fetch games');
+            throw new \RuntimeException('Could not fetch games for profile '.$psnProfile);
         }
         $content = json_decode($response->getBody()->getContents(), true);
 
         if (empty($content['html'])) {
-            throw new \RuntimeException('Could not fetch games');
+            throw new \RuntimeException('Could not fetch games for profile '.$psnProfile);
         }
 
         preg_match_all('/<tr.*?>(?<games>[\s\S]*)<\/tr>/imU', $content['html'], $rows);
 
-        $json = json_decode($this->fileContentsWrapper->get(self::JSON_FILE), true);
+        $json = $this->gameRepository->findAll();
         foreach ($rows['games'] as $game) {
             $regexes = [
                 'id' => '/href=[\S]*"\/trophies\/(?<value>[0-9]*)-[\S]*"/im',
@@ -66,7 +66,11 @@ class GameFetcher
             }
 
             if (array_key_exists($matches['id'], $json)) {
-                // Already fetched this game, skip.
+                // Already fetched this game in a previous run, skip.
+                continue;
+            }
+            if (array_key_exists($matches['id'], $addedRows)) {
+                // Already fetched this game in the current run, skip.
                 continue;
             }
 
@@ -91,7 +95,7 @@ class GameFetcher
             $content = $this->fileContentsWrapper->get('https://i.psnprofiles.com/games/' . $matches['thumb']);
             $this->fileContentsWrapper->put('assets/thumbs/' . $filename, $content);
 
-            $json[$matches['id']] = [
+            $addedRows[$matches['id']] = [
                 'id' => $matches['id'],
                 'title' => html_entity_decode($matches['title']),
                 'region' => $matches['region'] ?? null,
@@ -107,16 +111,14 @@ class GameFetcher
             ];
 
             try {
-                $json[$matches['id']]['price'] = $this->priceFetcher->searchForRow(Row::fromArray($json[$matches['id']]));
+                $addedRows[$matches['id']]['price'] = $this->priceFetcher->searchForRow(Row::fromArray($addedRows[$matches['id']]));
             } catch (\RuntimeException) {
-                $json[$matches['id']]['price'] = null;
+                $addedRows[$matches['id']]['price'] = null;
             }
-
-            $addedRows[] = Row::fromArray($json[$matches['id']]);
         }
 
-        $this->fileContentsWrapper->put(self::JSON_FILE, json_encode($json));
-        return $addedRows;
+        $this->gameRepository->saveMany($addedRows);
+        return array_map(fn(array $row) => Row::fromArray($row), $addedRows);
     }
 
     private function getRequiredRegexMatches(): array

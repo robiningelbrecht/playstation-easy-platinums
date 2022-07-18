@@ -6,6 +6,7 @@ use App\Clock\Clock;
 use App\Clock\PausedClock;
 use App\FileContentsWrapper;
 use App\FileWriter;
+use App\GameRepository;
 use PHPUnit\Framework\MockObject\MockObject;
 use PHPUnit\Framework\TestCase;
 use Spatie\Snapshots\MatchesSnapshots;
@@ -16,17 +17,17 @@ class FileWriterTest extends TestCase
 
     private FileWriter $fileWriter;
     private readonly MockObject $fileContentsWrapper;
+    private readonly MockObject $gameRepository;
     private Clock $clock;
 
     public function testWritePages(): void
     {
 
-        $this->fileContentsWrapper
+        $this->gameRepository
             ->expects($this->exactly(1))
-            ->method('get')
-            ->with('easy-platinums.json')
+            ->method('findAll')
             ->willReturn(
-                file_get_contents(__DIR__.'/easy-platinums.json'),
+                json_decode(file_get_contents(__DIR__.'/easy-platinums.json'), true),
             );
 
         $this->fileContentsWrapper
@@ -45,9 +46,11 @@ class FileWriterTest extends TestCase
         parent::setUp();
 
         $this->fileContentsWrapper = $this->createMock(FileContentsWrapper::class);
+        $this->gameRepository = $this->createMock(GameRepository::class);
         $this->clock = PausedClock::on(new \DateTimeImmutable('2022-07-01'));
         $this->fileWriter = new FileWriter(
             $this->fileContentsWrapper,
+            $this->gameRepository,
             $this->clock
         );
     }
