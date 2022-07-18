@@ -32,7 +32,10 @@ class ResultSet
             $values[$value] = $value;
         }
 
-        return array_values($values);
+        $values = array_values($values);
+        sort($values);
+
+        return $values;
     }
 
     public function sort(Sorting $sorting): void
