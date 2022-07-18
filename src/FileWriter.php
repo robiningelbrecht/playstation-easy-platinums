@@ -50,12 +50,17 @@ class FileWriter
             FilterField::fromNameAndPossibleValues(FilterField::FIELD_REGION, $resultSet->getDistinctValuesForFilterField(FilterField::FIELD_REGION)),
             FilterField::fromNameAndPossibleValues(FilterField::FIELD_PLATFORM, $resultSet->getDistinctValuesForFilterField(FilterField::FIELD_PLATFORM)),
         ];
+        $defaultFilters = [
+            Filter::fromFilterFieldAndValue($filterFields[0], 'All'),
+            Filter::fromFilterFieldAndValue($filterFields[1], 'All'),
+        ];
 
         // Render the first page on the main README.md.
         $this->fileContentsWrapper->put(self::README_FILE, $template->render([
             'paging' => Paging::fromTotalRowCountAndCurrentPage(count($resultSet->getRows()), 1),
             'rows' => array_slice($resultSet->getRows(), 0, Paging::PAGE_SIZE),
             'sorting' => Sorting::default(),
+            'filters' => $defaultFilters,
         ]));
 
         // Render all pages for all possible sorts.
@@ -71,6 +76,7 @@ class FileWriter
                         'paging' => $paging,
                         'rows' => array_slice($rows, ($i * Paging::PAGE_SIZE), Paging::PAGE_SIZE),
                         'sorting' => $sorting,
+                        'filters' => $defaultFilters,
                     ]);
 
                     $this->fileContentsWrapper->put('public/PAGE-' . ($i + 1) . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $render);
@@ -88,7 +94,7 @@ class FileWriter
                                 'paging' => $paging,
                                 'rows' => array_slice($rows, ($i * Paging::PAGE_SIZE), Paging::PAGE_SIZE),
                                 'sorting' => $sorting,
-                                'filter' => $filter,
+                                'filters' => [$filter],
                             ]);
 
                             $this->fileContentsWrapper->put('public/filter-' . $filterField->getName() . '/PAGE-' . ($i + 1) . '-FILTER_' . $filterField->toUpper() . '_' . $filterValue . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $render);
