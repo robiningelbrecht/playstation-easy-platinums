@@ -35,7 +35,7 @@ class GameFetcherTest extends TestCase
 
         $this->gameRepository
             ->expects($this->once())
-            ->method('findAll')
+            ->method('findAllIncludingRemoved')
             ->willReturn([]);
 
         $this->fileContentsWrapper
