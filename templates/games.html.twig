@@ -15,9 +15,16 @@
 {% set pagerLinks = [] %}
 {% set nearbyPagesLimit = 4 %}
 {% if paging.getTotalPages() > 1 %}
+    {% set urlParams = [] %}
+    {% if filter %}
+        {% set urlParams = urlParams|merge(['FILTER_'~ filter.getFilterField().toUpper() ~'_'~ filter.getValue()]) %}
+    {% endif %}
+    {% set urlParams = urlParams|merge(['SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper()]) %}
+    {% set directory = filter ? 'public/filter-' ~ filter.getFilterField().getName() : 'public' %}
     {% for i in 1..paging.getTotalPages() %}
         {% if 0 == (paging.getCurrentPage() - nearbyPagesLimit) - loop.index %}
-            {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">1</a></kbd>']) %}
+            {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/'~ directory ~'/PAGE-1-'~ urlParams|join('-') ~'.md">1</a></kbd>']) %}
+            {% set pageParam = 1 %}
             {% if 1 != loop.index %}
                 {% set pagerLinks = pagerLinks|merge(['...']) %}
             {% endif %}
@@ -29,14 +36,30 @@
             {% if paging.getCurrentPage() == loop.index %}
                 {% set pagerLinks = pagerLinks|merge(['<kbd>'~ i ~'</kbd>']) %}
             {% else %}
-                {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ loop.index ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ loop.index ~ '</a></kbd>']) %}
+                {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/'~ directory ~'/PAGE-'~ loop.index ~'-'~ urlParams|join('-') ~'.md">' ~ loop.index ~ '</a></kbd>']) %}
             {% endif %}
         {% endif %}
     {% endfor %}
     {% if paging.getCurrentPage() != paging.getTotalPages()  and (paging.getCurrentPage() + nearbyPagesLimit) < paging.getTotalPages() %}
-        {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-'~ paging.getTotalPages() ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ paging.getTotalPages() ~ '</a></kbd>']) %}
+        {% set pagerLinks = pagerLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/'~ directory ~'/PAGE-'~ paging.getTotalPages() ~'-'~ urlParams|join('-') ~'.md">' ~ paging.getTotalPages() ~ '</a></kbd>']) %}
     {% endif %}
 {% endif %}
+{% for filterField in filterFields %}
+    {% set filterLinks = [] %}
+    {% for value in filterField.getPossibleValues() %}
+        {% if filter.getValue() == value or (not filter and value == 'All') %}
+            {% set filterLinks = filterLinks|merge(['<kbd>'~ value ~'</kbd>']) %}
+        {% else %}
+            {% if value == 'All' %}
+                {% set filterLinks = filterLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ value ~ '</a></kbd>']) %}
+            {% else %}
+                {% set filterLinks = filterLinks|merge(['<kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/filter-'~ filterField.getName() ~'/PAGE-1-FILTER_'~ filterField.toUpper() ~'_'~ value ~'-SORT_'~ sorting.getSortField().toUpper() ~'_'~ sorting.getSortDirection().toUpper() ~'.md">' ~ value ~ '</a></kbd>']) %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+
+__{{ filterField.getName()|strPad(8, ' ')|replace({" ": "&nbsp;"})|capitalize|raw }}__: {{ filterLinks|join(' | ')|raw }}
+{% endfor %}
 
 <p align="center">
     {{ pagerLinks|join(' | ')|raw }}

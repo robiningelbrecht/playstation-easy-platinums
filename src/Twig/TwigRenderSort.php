@@ -1,12 +1,14 @@
 <?php
 
-namespace App\Sort;
+namespace App\Twig;
 
-use App\Paging;
+use App\Sort\SortDirection;
+use App\Sort\SortField;
+use App\Sort\Sorting;
 
-class SortingHelper
+class TwigRenderSort
 {
-    public static function renderSort(
+    public static function execute(
         string $fieldName,
         Sorting $currentSorting): string
     {

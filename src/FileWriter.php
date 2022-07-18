@@ -9,11 +9,13 @@ use App\Result\ResultSet;
 use App\Sort\SortDirection;
 use App\Sort\SortField;
 use App\Sort\Sorting;
-use App\Sort\SortingHelper;
 use App\Statistics\MonthlyStatistics;
 use App\Statistics\PlatformRegionMatrix;
+use App\Twig\TwigRenderSort;
+use App\Twig\TwigStrPad;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
+use Twig\TwigFilter;
 use Twig\TwigFunction;
 
 class FileWriter
@@ -40,7 +42,8 @@ class FileWriter
 
         $loader = new FilesystemLoader(dirname(__DIR__) . '/templates');
         $twig = new Environment($loader);
-        $twig->addFunction(new TwigFunction('renderSort', [SortingHelper::class, 'renderSort']));
+        $twig->addFunction(new TwigFunction('renderSort', [TwigRenderSort::class, 'execute']));
+        $twig->addFilter(new TwigFilter('strPad', [TwigStrPad::class, 'execute']));
         $template = $twig->load('games.html.twig');
 
         $resultSet = ResultSet::fromArray($this->gameRepository->findAll());
@@ -51,17 +54,14 @@ class FileWriter
             FilterField::fromNameAndPossibleValues(FilterField::FIELD_REGION, $resultSet->getDistinctValuesForFilterField(FilterField::FIELD_REGION)),
             FilterField::fromNameAndPossibleValues(FilterField::FIELD_PLATFORM, $resultSet->getDistinctValuesForFilterField(FilterField::FIELD_PLATFORM)),
         ];
-        $defaultFilters = [
-            Filter::fromFilterFieldAndValue($filterFields[0], 'All'),
-            Filter::fromFilterFieldAndValue($filterFields[1], 'All'),
-        ];
 
         // Render the first page on the main README.md.
         $this->fileContentsWrapper->put(self::README_FILE, $template->render([
             'paging' => Paging::fromTotalRowCountAndCurrentPage(count($resultSet->getRows()), 1),
             'rows' => array_slice($resultSet->getRows(), 0, Paging::PAGE_SIZE),
             'sorting' => Sorting::default(),
-            'filters' => $defaultFilters,
+            'filterFields' => $filterFields,
+            'filter' => null,
         ]));
 
         // Render all pages for all possible sorts.
@@ -77,15 +77,24 @@ class FileWriter
                         'paging' => $paging,
                         'rows' => array_slice($rows, ($i * Paging::PAGE_SIZE), Paging::PAGE_SIZE),
                         'sorting' => $sorting,
-                        'filters' => $defaultFilters,
+                        'filterFields' => $filterFields,
+                        'filter' => null,
                     ]);
 
-                    $this->fileContentsWrapper->put('public/PAGE-' . ($i + 1) . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $render);
+                    $this->fileContentsWrapper->put(
+                        sprintf('public/PAGE-%s-SORT_%s_%s.md', ($i + 1), $sortField->toUpper(), $sortDirection->toUpper()),
+                        $render
+                    );
                 }
 
                 // Render all pages for the available filers.
                 foreach ($filterFields as $filterField) {
                     foreach ($filterField->getPossibleValues() as $filterValue) {
+                        if ($filterValue === FilterField::ALL_VALUE) {
+                            // Pages with all rows have already been generated, skip.
+                            continue;
+                        }
+
                         $filter = Filter::fromFilterFieldAndValue($filterField, $filterValue);
                         $rows = $resultSet->getRowsForFilter($filter);
 
@@ -95,10 +104,22 @@ class FileWriter
                                 'paging' => $paging,
                                 'rows' => array_slice($rows, ($i * Paging::PAGE_SIZE), Paging::PAGE_SIZE),
                                 'sorting' => $sorting,
-                                'filters' => [$filter],
+                                'filterFields' => $filterFields,
+                                'filter' => $filter,
                             ]);
 
-                            $this->fileContentsWrapper->put('public/filter-' . $filterField->getName() . '/PAGE-' . ($i + 1) . '-FILTER_' . $filterField->toUpper() . '_' . $filterValue . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $render);
+                            $this->fileContentsWrapper->put(
+                                sprintf(
+                                    'public/filter-%s/PAGE-%s-FILTER_%s_%s-SORT_%s_%s.md',
+                                    $filterField->getName(),
+                                    ($i + 1),
+                                    $filterField->toUpper(),
+                                    $filterValue,
+                                    $sortField->toUpper(),
+                                    $sortDirection->toUpper()
+                                ),
+                                $render
+                            );
                         }
                     }
                 }
