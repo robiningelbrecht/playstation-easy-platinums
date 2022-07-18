@@ -61,7 +61,7 @@ $app
     })
     ->tap()
     ->command('game:remove', 'Remove a game from the results')
-    ->argument('<id>', 'PSN Profile game id to remove the for')
+    ->argument('<id>', 'PSN Profile game id to remove')
     ->action(function (string $id) use($container) {
         $updatedRow = ($container->get(ManualUpdater::class))->removeGameById($id);
 

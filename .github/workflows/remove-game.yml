@@ -1,18 +1,14 @@
-name: Set manual price for a game
+name: Manually remove a game
 on:
   workflow_dispatch:
     inputs:
       id:
         type: string
-        description: PSN Profile game id to set price for
-        required: true
-      amount-in-cents:
-        type: string
-        description: The price in cents
+        description: PSN Profile game id to remove
         required: true
 jobs:
   update:
-    name: Set a manual price
+    name: Remove a game
     runs-on: ubuntu-latest
     steps:
       # https://github.com/marketplace/actions/setup-php-action
@@ -32,9 +28,9 @@ jobs:
       - name: Run test suite
         run: vendor/bin/phpunit --fail-on-incomplete
 
-      - name: Set a manual price
+      - name: Remove game
         run: |
-          export COMMIT_MESSAGE=$(bin/easy-platinums price:set ${{ github.event.inputs.id }} ${{ github.event.inputs.amount-in-cents }})
+          export COMMIT_MESSAGE=$(bin/easy-platinums game:remove ${{ github.event.inputs.id }})
           echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
       - name: Update README.md and pages
         run: bin/easy-platinums files:update
