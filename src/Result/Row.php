@@ -143,11 +143,11 @@ class Row
         };
     }
 
-    public function getValueForFilterField(FilterField $filterField): ?string
+    public function getValueForFilterField(string $field): ?string
     {
-        return match ($filterField) {
-            FilterField::REGION => $this->getRegion(),
-            FilterField::PLATFORM => $this->getPlatform(),
+        return match ($field) {
+            FilterField::FIELD_REGION => $this->getRegion(),
+            FilterField::FIELD_PLATFORM => $this->getPlatform(),
         };
     }
 

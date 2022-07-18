@@ -3,6 +3,7 @@
 namespace App;
 
 use App\Clock\Clock;
+use App\Filter\Filter;
 use App\Filter\FilterField;
 use App\Result\ResultSet;
 use App\Sort\SortDirection;
@@ -44,6 +45,12 @@ class FileWriter
         $resultSet = ResultSet::fromJson($this->fileContentsWrapper->get(GameFetcher::JSON_FILE));
         $resultSet->sort(Sorting::default());
 
+        /** @var FilterField[] $filterFields */
+        $filterFields = [
+            FilterField::fromNameAndPossibleValues(FilterField::FIELD_REGION, $resultSet->getDistinctValuesForFilterField(FilterField::FIELD_REGION)),
+            FilterField::fromNameAndPossibleValues(FilterField::FIELD_PLATFORM, $resultSet->getDistinctValuesForFilterField(FilterField::FIELD_PLATFORM)),
+        ];
+
         // Render the first page on the main README.md.
         $this->fileContentsWrapper->put(self::README_FILE, $template->render([
             'paging' => Paging::fromTotalRowCountAndCurrentPage(count($resultSet->getRows()), 1),
@@ -70,10 +77,10 @@ class FileWriter
                 }
 
                 // Render all pages for the available filers.
-                foreach (FilterField::cases() as $filterField) {
-                    $filterValues = $resultSet->getDistinctValuesForFilterField($filterField);
-                    foreach ($filterValues as $filterValue) {
-                        $rows = $resultSet->getRowsForFilterAndValue($filterField, $filterValue);
+                foreach ($filterFields as $filterField) {
+                    foreach ($filterField->getPossibleValues() as $filterValue) {
+                        $filter = Filter::fromFilterFieldAndValue($filterField, $filterValue);
+                        $rows = $resultSet->getRowsForFilter($filter);
 
                         for ($i = 0; $i < Paging::calculateTotalPages(count($rows)); $i++) {
                             $paging = Paging::fromTotalRowCountAndCurrentPage(count($rows), $i + 1);
@@ -81,9 +88,10 @@ class FileWriter
                                 'paging' => $paging,
                                 'rows' => array_slice($rows, ($i * Paging::PAGE_SIZE), Paging::PAGE_SIZE),
                                 'sorting' => $sorting,
+                                'filter' => $filter,
                             ]);
 
-                            $this->fileContentsWrapper->put('public/filter-' . $filterField->value . '/PAGE-' . ($i + 1) . '-FILTER_' . $filterField->toUpper() . '_' . $filterValue . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $render);
+                            $this->fileContentsWrapper->put('public/filter-' . $filterField->getName() . '/PAGE-' . ($i + 1) . '-FILTER_' . $filterField->toUpper() . '_' . $filterValue . '-SORT_' . $sortField->toUpper() . '_' . $sortDirection->toUpper() . '.md', $render);
                         }
                     }
                 }

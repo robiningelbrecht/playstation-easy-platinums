@@ -2,6 +2,7 @@
 
 namespace App\Result;
 
+use App\Filter\Filter;
 use App\Filter\FilterField;
 use App\Sort\SortDirection;
 use App\Sort\SortField;
@@ -19,7 +20,7 @@ class ResultSet
         $this->removeDuplicateAndFaultyEntries();
     }
 
-    public function getDistinctValuesForFilterField(FilterField $field): array
+    public function getDistinctValuesForFilterField(string $field): array
     {
         $values = [];
         foreach ($this->rows as $row) {
@@ -128,9 +129,12 @@ class ResultSet
         return $this->rows;
     }
 
-    public function getRowsForFilterAndValue(FilterField $filterField, string $value): array
+    public function getRowsForFilter(Filter $filter): array
     {
-        return array_filter($this->rows, fn(Row $row) => $row->getValueForFilterField($filterField) == $value);
+        return array_filter(
+            $this->rows,
+            fn(Row $row) => $row->getValueForFilterField($filter->getFilterField()->getName()) == $filter->getValue()
+        );
     }
 
     private function removeDuplicateAndFaultyEntries(): void

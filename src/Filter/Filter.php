@@ -5,30 +5,25 @@ namespace App\Filter;
 class Filter
 {
     private function __construct(
-        private string $name,
-        private array $possibleValues,
-        private string $defaultValue,
+        private FilterField $filterField,
+        private string $value,
     )
     {
     }
 
-    public function getName(): string
+    public function getFilterField(): FilterField
     {
-        return $this->name;
+        return $this->filterField;
     }
 
-    public function getPossibleValues(): array
+    public function getValue(): string
     {
-        return $this->possibleValues;
+        return $this->value;
     }
 
-    public function getDefaultValue(): string
+    public static function fromFilterFieldAndValue(FilterField $filterField, string $value): self
     {
-        return $this->defaultValue;
-    }
 
-    public static function nameAndPossibleValues(string $name, array $possibleValues, string $defaultValue = 'All'): self
-    {
-        return new self($name, $possibleValues, $defaultValue);
+        return new self($filterField, $value);
     }
 }
