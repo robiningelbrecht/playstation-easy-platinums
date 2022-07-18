@@ -20,6 +20,11 @@ class GameRepository
         );
     }
 
+    public function findAllIncludingRemoved(): array
+    {
+        return json_decode($this->fileContentsWrapper->get(self::JSON_FILE), true);
+    }
+
     public function find(string $id): array
     {
         $json = $this->findAll();

@@ -35,7 +35,7 @@ class GameFetcher
 
         preg_match_all('/<tr.*?>(?<games>[\s\S]*)<\/tr>/imU', $content['html'], $rows);
 
-        $json = $this->gameRepository->findAll();
+        $json = $this->gameRepository->findAllIncludingRemoved();
         foreach ($rows['games'] as $game) {
             $regexes = [
                 'id' => '/href=[\S]*"\/trophies\/(?<value>[0-9]*)-[\S]*"/im',
