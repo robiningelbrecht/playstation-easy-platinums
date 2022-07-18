@@ -14,10 +14,14 @@ class GameRepository
 
     public function findAll(): array
     {
-        return json_decode($this->fileContentsWrapper->get(self::JSON_FILE), true);
+        return array_filter(
+            json_decode($this->fileContentsWrapper->get(self::JSON_FILE), true),
+            fn(array $row) => empty($row['removedOn'])
+        );
     }
 
-    public function find(string $id): array{
+    public function find(string $id): array
+    {
         $json = $this->findAll();
 
         if (!array_key_exists($id, $json)) {

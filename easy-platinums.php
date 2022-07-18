@@ -9,7 +9,7 @@ require __DIR__ . '/vendor/autoload.php';
 use Ahc\Cli\Application;
 use App\GameFetcher;
 use App\FileWriter;
-use App\PriceUpdater;
+use App\ManualUpdater;
 use App\Result\Row;
 
 // Build container and use DI.
@@ -51,12 +51,23 @@ $app
     ->argument('<id>', 'PSN Profile game id to set price for')
     ->argument('<amountInCents>', 'The price in cents')
     ->action(function (string $id, int $amountInCents) use($container) {
-        $updatedRow = ($container->get(PriceUpdater::class))->doUpdateForId($id, $amountInCents);
+        $updatedRow = ($container->get(ManualUpdater::class))->updatePriceForId($id, $amountInCents);
 
         echo sprintf(
             'Manual price update for %s to %s via workflow',
             $updatedRow->getFullTitle(),
             $updatedRow->getPriceFormattedAsMoney()
+        );
+    })
+    ->tap()
+    ->command('game:remove', 'Remove a game from the results')
+    ->argument('<id>', 'PSN Profile game id to remove the for')
+    ->action(function (string $id) use($container) {
+        $updatedRow = ($container->get(ManualUpdater::class))->removeGameById($id);
+
+        echo sprintf(
+            'Manually removed game %s via workflow',
+            $updatedRow->getFullTitle(),
         );
     });
 
