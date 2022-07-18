@@ -17,6 +17,7 @@
     "adhocore/cli": "^0.9.1",
     "guzzlehttp/guzzle": "^7.4",
     "moneyphp/money": "^4.0",
+    "php-di/php-di": "^6.4",
     "twig/twig": "^3.4"
   },
   "require-dev": {

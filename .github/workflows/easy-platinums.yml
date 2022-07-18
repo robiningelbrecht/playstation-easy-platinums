@@ -15,7 +15,6 @@ on:
           - chris_play1
           - IBadDriverI
           - roots52
-          - DemianGaming
           - ikemenzi,Fluttezuhher,chris_play1,IBadDriverI,roots52
   schedule:
     - cron:  '30 */4 * * *'
