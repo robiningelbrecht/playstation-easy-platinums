@@ -43,7 +43,7 @@ class GameRepository
 
     public function saveMany(array $rows): void
     {
-        $json = $this->findAll();
+        $json = $this->findAllIncludingRemoved();
         foreach ($rows as $row) {
             $json[$row['id']] = $row;
         }
