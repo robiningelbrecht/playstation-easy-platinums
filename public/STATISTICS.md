@@ -22,9 +22,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">10</td>
-                <td align="center">235</td>
-                <td align="center">13 020</td>
+                <td align="center">9</td>
+                <td align="center">176</td>
+                <td align="center">11 730</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -34,17 +34,17 @@
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 337</td>
-                <td align="center">43 801</td>
-                <td align="center">3 085 485</td>
+                <td align="center">2 336</td>
+                <td align="center">43 742</td>
+                <td align="center">3 084 195</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 337</b>
+            <td align="center"><b>2 336</b>
             </td>
             <td align="center">
-                <b>43 801</b></td>
-            <td align="center"><b>3 085 485</b></td>
+                <b>43 742</b></td>
+            <td align="center"><b>3 084 195</b></td>
         </tr>
         </tbody>
     </table>
@@ -99,7 +99,7 @@
                             </tr>
                     <tr>
                 <td><b>No region</b></td>
-                                    <td>27</td>
+                                    <td>26</td>
                                     <td>29</td>
                             </tr>
                 </tbody>
