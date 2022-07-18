@@ -17,6 +17,8 @@
                                                                                                                                                                 
 <kbd>Platform</kbd> : <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_DATE_ASC.md">All</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/filter-platform/PAGE-1-FILTER_PLATFORM_PS4-SORT_DATE_ASC.md">PS4</a></kbd> | <kbd>PS5</kbd>
 
+------
+
 <p align="center">
     <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/filter-platform/PAGE-1-FILTER_PLATFORM_PS5-SORT_DATE_ASC.md">1</a></kbd> | <kbd>2</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/filter-platform/PAGE-3-FILTER_PLATFORM_PS5-SORT_DATE_ASC.md">3</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/filter-platform/PAGE-4-FILTER_PLATFORM_PS5-SORT_DATE_ASC.md">4</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/filter-platform/PAGE-5-FILTER_PLATFORM_PS5-SORT_DATE_ASC.md">5</a></kbd> | ... | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/filter-platform/PAGE-8-FILTER_PLATFORM_PS5-SORT_DATE_ASC.md">8</a></kbd>
 </p>
