@@ -22,9 +22,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">3</td>
-                <td align="center">37</td>
-                <td align="center">3 900</td>
+                <td align="center">5</td>
+                <td align="center">89</td>
+                <td align="center">6 570</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -34,17 +34,17 @@
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 330</td>
-                <td align="center">43 603</td>
-                <td align="center">3 076 365</td>
+                <td align="center">2 332</td>
+                <td align="center">43 655</td>
+                <td align="center">3 079 035</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 330</b>
+            <td align="center"><b>2 332</b>
             </td>
             <td align="center">
-                <b>43 603</b></td>
-            <td align="center"><b>3 076 365</b></td>
+                <b>43 655</b></td>
+            <td align="center"><b>3 079 035</b></td>
         </tr>
         </tbody>
     </table>
@@ -75,7 +75,7 @@
                     <tr>
                 <td><b>EU</b></td>
                                     <td>261</td>
-                                    <td>577</td>
+                                    <td>578</td>
                             </tr>
                     <tr>
                 <td><b>HK</b></td>
@@ -95,7 +95,7 @@
                     <tr>
                 <td><b>NA</b></td>
                                     <td>260</td>
-                                    <td>577</td>
+                                    <td>578</td>
                             </tr>
                     <tr>
                 <td><b>No region</b></td>
