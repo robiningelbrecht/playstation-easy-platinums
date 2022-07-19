@@ -69,11 +69,11 @@
 <table>
     <thead>
     <tr>
-        <th># {{ renderSort('date', sorting)|raw }}</th>
-        <th>Title {{ renderSort('title', sorting)|raw }}</th>
-        <th>Time {{ renderSort('time', sorting)|raw }}</th>
-        <th>Price {{ renderSort('price', sorting)|raw }}</th>
-        <th>Trophies {{ renderSort('trophies', sorting)|raw }}</th>
+        <th># {{ renderSort('date', sorting, filter)|raw }}</th>
+        <th>Title {{ renderSort('title', sorting, filter)|raw }}</th>
+        <th>Time {{ renderSort('time', sorting, filter)|raw }}</th>
+        <th>Price {{ renderSort('price', sorting, filter)|raw }}</th>
+        <th>Trophies {{ renderSort('trophies', sorting, filter)|raw }}</th>
         <th><img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-gold.png"
                  alt="gold" width="20"/></th>
         <th>
@@ -82,7 +82,7 @@
         <th>
             <img src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/trophy-bronze.png"
                  alt="bronze" width="20"/></th>
-        <th>Points {{ renderSort('points', sorting)|raw }}</th>
+        <th>Points {{ renderSort('points', sorting, filter)|raw }}</th>
     </tr>
     </thead>
     <tbody>

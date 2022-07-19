@@ -2,6 +2,7 @@
 
 namespace App\Twig;
 
+use App\Filter\Filter;
 use App\Sort\SortDirection;
 use App\Sort\SortField;
 use App\Sort\Sorting;
@@ -10,12 +11,20 @@ class TwigRenderSort
 {
     public static function execute(
         string $fieldName,
-        Sorting $currentSorting): string
+        Sorting $currentSorting,
+        Filter $filter = null): string
     {
         $fieldName = SortField::from($fieldName);
 
-        $ascUri = 'https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_' . $fieldName->toUpper() . '_ASC.md';
-        $descUri = 'https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_' . $fieldName->toUpper() . '_DESC.md';
+        $urlParts = [];
+        if ($filter) {
+            $urlParts[] = 'FILTER_' . $filter->getFilterField()->toUpper() . '_' . $filter->getValue();
+        }
+        $urlParts[] = 'SORT_' . $fieldName->toUpper();
+
+
+        $ascUri = 'https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-' . implode('-', $urlParts) . '_ASC.md';
+        $descUri = 'https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-' . implode('-', $urlParts) . '_DESC.md';
 
         if ($fieldName === $currentSorting->getSortField()) {
             if ($currentSorting->getSortDirection() === SortDirection::DESC) {
