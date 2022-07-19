@@ -1,6 +1,6 @@
 name: Easy platinums
 env:
-  DEFAULT_PROFILE_NAMES: ikemenzi,Fluttezuhher,chris_play1,IBadDriverI,roots52,The-Ricksterr,Hakoom
+  DEFAULT_PROFILE_NAMES: ViensDanser,Fluttezuhher,chris_play1,IBadDriverI,roots52,The-Ricksterr,Hakoom
 on:
   workflow_dispatch:
     inputs:
@@ -8,16 +8,16 @@ on:
         type: choice
         description: PSN Profile to use to determine easy platinums
         required: true
-        default: 'ikemenzi'
+        default: 'ViensDanser'
         options:
-          - ikemenzi
+          - ViensDanser
           - Fluttezuhher
           - chris_play1
           - IBadDriverI
           - roots52
           - The-Ricksterr
           - Hakoom
-          - ikemenzi,Fluttezuhher,chris_play1,IBadDriverI,roots52,The-Ricksterr,Hakoom
+          - ViensDanser,Fluttezuhher,chris_play1,IBadDriverI,roots52,The-Ricksterr,Hakoom
   schedule:
     - cron:  '30 */4 * * *'
 jobs:
