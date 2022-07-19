@@ -107,8 +107,7 @@ class FileWriter
 
                             $this->fileContentsWrapper->put(
                                 sprintf(
-                                    'public/filter-%s/PAGE-%s-FILTER_%s_%s-SORT_%s_%s.md',
-                                    $filterField->getName(),
+                                    'public/PAGE-%s-FILTER_%s_%s-SORT_%s_%s.md',
                                     ($i + 1),
                                     $filterField->toUpper(),
                                     $filterValue,
