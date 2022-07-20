@@ -1628,15 +1628,15 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/14081-soulfrost"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14081.png"
-                            alt="SoulFrost" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/17121-ultra-mission"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17121.png"
+                            alt="Ultra Mission" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/14081-soulfrost">SoulFrost</a>
+                <a href="https://psnprofiles.com/trophies/17121-ultra-mission">Ultra Mission</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">16 min</td>
-            <td align="center">$2.49</td>
+            <td align="center"></td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>
