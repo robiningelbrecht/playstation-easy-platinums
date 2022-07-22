@@ -1612,14 +1612,14 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17045-paradox-error"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17045.png"
+            <td><a href="https://psnprofiles.com/trophies/17051-paradox-error"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17051.png"
                             alt="Paradox Error" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17045-paradox-error">Paradox Error</a>
+                <a href="https://psnprofiles.com/trophies/17051-paradox-error">Paradox Error</a>
                 <kbd>PS5</kbd>
             </td>
-            <td align="center">6 min</td>
+            <td align="center">15 min</td>
             <td align="center">$4.99</td>
             <td align="center">13</td>
             <td align="center">11</td>
