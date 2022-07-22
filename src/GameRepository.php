@@ -16,7 +16,7 @@ class GameRepository
 
     public function findAll(): array
     {
-        return $this->store->findBy(["removedOn", "==", ""]);
+        return $this->store->findBy(["removedOn", "==", ""], ['id' => 'DESC']);
     }
 
     public function find(string $id): array
@@ -42,7 +42,7 @@ class GameRepository
 
     public function findDistinctValuesForColumn(string $columnName): array
     {
-        $rows =  $this->store->createQueryBuilder()
+        $rows = $this->store->createQueryBuilder()
             ->distinct($columnName)
             ->getQuery()
             ->fetch();
@@ -60,7 +60,7 @@ class GameRepository
 
     public function saveMany(array $rows): void
     {
-        if(empty($rows)){
+        if (empty($rows)) {
             return;
         }
 

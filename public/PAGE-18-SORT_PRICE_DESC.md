@@ -588,14 +588,14 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16439-kruger"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16439.png"
+            <td><a href="https://psnprofiles.com/trophies/16897-kruger"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16897.png"
                             alt="Kruger" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16439-kruger">Kruger</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/16897-kruger">Kruger</a>
+                <kbd>PS5</kbd>
             </td>
-            <td align="center">4 min</td>
+            <td align="center">6 min</td>
             <td align="center">$1.99</td>
             <td align="center">17</td>
             <td align="center">10</td>
@@ -604,14 +604,14 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16896-kruger"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16896.png"
+            <td><a href="https://psnprofiles.com/trophies/16439-kruger"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16439.png"
                             alt="Kruger" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16896-kruger">Kruger</a>
-                <kbd>PS5</kbd>
+                <a href="https://psnprofiles.com/trophies/16439-kruger">Kruger</a>
+                <kbd>PS4 • NA</kbd>
             </td>
-            <td align="center">3 min</td>
+            <td align="center">4 min</td>
             <td align="center">$1.99</td>
             <td align="center">17</td>
             <td align="center">10</td>
@@ -1340,14 +1340,14 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17062-the-silver-age"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17062.png"
+            <td><a href="https://psnprofiles.com/trophies/17063-the-silver-age"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17063.png"
                             alt="The Silver Age" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17062-the-silver-age">The Silver Age</a>
+                <a href="https://psnprofiles.com/trophies/17063-the-silver-age">The Silver Age</a>
                 <kbd>PS5</kbd>
             </td>
-            <td align="center">1 min</td>
+            <td align="center">2 min</td>
             <td align="center">$1.49</td>
             <td align="center">34</td>
             <td align="center">1</td>

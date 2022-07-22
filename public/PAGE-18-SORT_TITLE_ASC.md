@@ -284,14 +284,14 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16891-squad-killer"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16891.png"
+            <td><a href="https://psnprofiles.com/trophies/16894-squad-killer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16894.png"
                             alt="Squad Killer" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16891-squad-killer">Squad Killer</a>
+                <a href="https://psnprofiles.com/trophies/16894-squad-killer">Squad Killer</a>
                 <kbd>PS5</kbd>
             </td>
-            <td align="center">23 min</td>
+            <td align="center">8 min</td>
             <td align="center">$4.99</td>
             <td align="center">13</td>
             <td align="center">11</td>
