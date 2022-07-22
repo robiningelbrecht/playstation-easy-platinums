@@ -30,6 +30,12 @@ class FileWriterTest extends TestCase
                 json_decode(file_get_contents(__DIR__.'/easy-platinums.json'), true),
             );
 
+        $this->gameRepository
+            ->expects($this->exactly(2))
+            ->method('findDistinctValuesForColumn')
+            ->withConsecutive(['region'], ['platform'])
+            ->willReturnOnConsecutiveCalls(['EU'], ['PS4', 'PS5']);
+
         $this->fileContentsWrapper
             ->expects($this->exactly(50))
             ->method('put')
