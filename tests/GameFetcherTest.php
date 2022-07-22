@@ -34,8 +34,8 @@ class GameFetcherTest extends TestCase
             ->willReturn(new Response(200, [], file_get_contents(__DIR__ . '/sample-response.json')));
 
         $this->gameRepository
-            ->expects($this->once())
-            ->method('findAllIncludingRemoved')
+            ->expects($this->exactly(8))
+            ->method('findIncludingRemoved')
             ->willReturn([]);
 
         $this->fileContentsWrapper
