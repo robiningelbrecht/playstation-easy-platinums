@@ -17,10 +17,6 @@ class ManualUpdater
 
     public function updatePriceForId(string $id, int $amountInCents): Row
     {
-        if (!file_exists(GameRepository::JSON_FILE)) {
-            throw new \RuntimeException('easy-platinums.json not found. Run "fetch" first');
-        }
-
         $json = $this->gameRepository->find($id);
         $row = Row::fromArray($json);
 
@@ -31,10 +27,6 @@ class ManualUpdater
     }
 
     public function removeGameById(string $id): Row{
-        if (!file_exists(GameRepository::JSON_FILE)) {
-            throw new \RuntimeException('easy-platinums.json not found. Run "fetch" first');
-        }
-
         $json = $this->gameRepository->find($id);
         $json['removedOn'] = $this->clock->getCurrentDateTimeImmutable()->format(Clock::DEFAULT_FORMAT);
         $this->gameRepository->save($json);

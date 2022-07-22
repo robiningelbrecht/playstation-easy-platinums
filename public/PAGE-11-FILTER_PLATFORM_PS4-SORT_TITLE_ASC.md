@@ -188,14 +188,14 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17023-rayland"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17023.png"
+            <td><a href="https://psnprofiles.com/trophies/17022-rayland"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17022.png"
                             alt="Rayland" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17023-rayland">Rayland</a>
+                <a href="https://psnprofiles.com/trophies/17022-rayland">Rayland</a>
                 <kbd>PS4</kbd>
             </td>
-            <td align="center">16 min</td>
+            <td align="center">12 min</td>
             <td align="center">$4.99</td>
             <td align="center">13</td>
             <td align="center">11</td>
