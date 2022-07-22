@@ -22,29 +22,29 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
+                <td align="center">1</td>
+                <td align="center">18</td>
+                <td align="center">1 350</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
-                <td align="center">4</td>
-                <td align="center">48</td>
-                <td align="center">5 160</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 345</td>
-                <td align="center">43 837</td>
-                <td align="center">3 096 075</td>
+                <td align="center">2 346</td>
+                <td align="center">43 855</td>
+                <td align="center">3 097 425</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 345</b>
+            <td align="center"><b>2 346</b>
             </td>
             <td align="center">
-                <b>43 837</b></td>
-            <td align="center"><b>3 096 075</b></td>
+                <b>43 855</b></td>
+            <td align="center"><b>3 097 425</b></td>
         </tr>
         </tbody>
     </table>
@@ -85,7 +85,7 @@
                     <tr>
                 <td><b>JP</b></td>
                                     <td>76</td>
-                                    <td>175</td>
+                                    <td>176</td>
                             </tr>
                     <tr>
                 <td><b>KR</b></td>
