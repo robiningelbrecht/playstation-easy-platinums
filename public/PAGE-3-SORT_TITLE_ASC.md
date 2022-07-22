@@ -60,11 +60,11 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16875-black-wolf"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16875.png"
+            <td><a href="https://psnprofiles.com/trophies/16881-black-wolf"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16881.png"
                             alt="Black Wolf" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16875-black-wolf">Black Wolf</a>
+                <a href="https://psnprofiles.com/trophies/16881-black-wolf">Black Wolf</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">5 min</td>

@@ -140,14 +140,14 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17119-ultra-mission"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17119.png"
+            <td><a href="https://psnprofiles.com/trophies/17120-ultra-mission"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17120.png"
                             alt="Ultra Mission" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17119-ultra-mission">Ultra Mission</a>
+                <a href="https://psnprofiles.com/trophies/17120-ultra-mission">Ultra Mission</a>
                 <kbd>PS4</kbd>
             </td>
-            <td align="center">17 min</td>
+            <td align="center">15 min</td>
             <td align="center">$2.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -1036,15 +1036,15 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16613-why-pizza"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16613.png"
+            <td><a href="https://psnprofiles.com/trophies/16656-why-pizza"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16656.png"
                             alt="Why Pizza?" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16613-why-pizza">Why Pizza?</a>
+                <a href="https://psnprofiles.com/trophies/16656-why-pizza">Why Pizza?</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">17 min</td>
-            <td align="center">$4.99</td>
+            <td align="center"></td>
             <td align="center">15</td>
             <td align="center">10</td>
             <td align="center">2</td>
