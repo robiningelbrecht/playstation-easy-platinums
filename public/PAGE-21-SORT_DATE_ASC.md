@@ -1324,14 +1324,14 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16480-grizzland"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16480.png"
+            <td><a href="https://psnprofiles.com/trophies/16477-grizzland"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16477.png"
                             alt="Grizzland" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16480-grizzland">Grizzland</a>
+                <a href="https://psnprofiles.com/trophies/16477-grizzland">Grizzland</a>
                 <kbd>PS5</kbd>
             </td>
-            <td align="center">40 min</td>
+            <td align="center">37 min</td>
             <td align="center">$4.99</td>
             <td align="center">14</td>
             <td align="center">11</td>
