@@ -2,52 +2,60 @@
 
 namespace App;
 
+use SleekDB\Store;
+
 class GameRepository
 {
-    public const JSON_FILE = 'easy-platinums.json';
+    public const SLEEKDB_DIRECTORY = './database';
 
     public function __construct(
-        private readonly FileContentsWrapper $fileContentsWrapper
+        private readonly Store $store
     )
     {
     }
 
     public function findAll(): array
     {
-        return array_filter(
-            json_decode($this->fileContentsWrapper->get(self::JSON_FILE), true),
-            fn(array $row) => empty($row['removedOn'])
-        );
+        return $this->store->findBy(["removedOn", "==", ""]);
     }
 
     public function findAllIncludingRemoved(): array
     {
-        return json_decode($this->fileContentsWrapper->get(self::JSON_FILE), true);
+        return $this->store->findAll();
     }
 
     public function find(string $id): array
     {
-        $json = $this->findAll();
-
-        if (!array_key_exists($id, $json)) {
+        if (!$row = $this->store->findById($id)) {
+            throw new \RuntimeException(sprintf('Invalid id "%s" provided', $id));
+        }
+        if (!empty($row['removedOn'])) {
             throw new \RuntimeException(sprintf('Invalid id "%s" provided', $id));
         }
 
-        return $json[$id];
+        return $row;
+    }
+
+    public function findIncludingRemoved(string $id): array
+    {
+        if (!$row = $this->store->findById($id)) {
+            throw new \RuntimeException(sprintf('Invalid id "%s" provided', $id));
+        }
+
+        return $row;
     }
 
     public function save(array $row): void
     {
-        $this->saveMany([$row]);
+        $this->store->updateOrInsert($row, false);
     }
 
     public function saveMany(array $rows): void
     {
-        $json = $this->findAllIncludingRemoved();
-        foreach ($rows as $row) {
-            $json[$row['id']] = $row;
+        if(empty($rows)){
+            return;
         }
 
-        $this->fileContentsWrapper->put(self::JSON_FILE, json_encode($json));
+        $this->store->updateOrInsertMany($rows, false);
     }
 }

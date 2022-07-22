@@ -18,6 +18,7 @@
     "guzzlehttp/guzzle": "^7.4",
     "moneyphp/money": "^4.0",
     "php-di/php-di": "^6.4",
+    "rakibtg/sleekdb": "^2.13",
     "twig/twig": "^3.4"
   },
   "require-dev": {

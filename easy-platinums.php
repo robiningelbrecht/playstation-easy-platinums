@@ -69,6 +69,13 @@ $app
             'Manually removed game %s via workflow',
             $updatedRow->getFullTitle(),
         );
+    })
+    ->tap()
+    ->command('sleekdb')
+    ->action(function () use($container) {
+        $gameRepository = $container->get(\App\GameRepository::class);
+
+        $gameRepository->saveMany(json_decode(file_get_contents('easy-platinums.json'), true));
     });
 
 $app->logo('

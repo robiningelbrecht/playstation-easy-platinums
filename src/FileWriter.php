@@ -34,9 +34,6 @@ class FileWriter
         if (!file_exists(self::README_FILE)) {
             throw new \RuntimeException('README.md not found');
         }
-        if (!file_exists(GameRepository::JSON_FILE)) {
-            throw new \RuntimeException('easy-platinums.json not found. Run "fetch" first');
-        }
 
         $loader = new FilesystemLoader(dirname(__DIR__) . '/templates');
         $twig = new Environment($loader);

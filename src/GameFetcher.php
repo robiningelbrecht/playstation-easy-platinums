@@ -25,17 +25,16 @@ class GameFetcher
         $response = $this->client->get('https://psnprofiles.com/' . $psnProfile . '?ajax=1&page=0');
 
         if (200 !== $response->getStatusCode()) {
-            throw new \RuntimeException('Could not fetch games for profile '.$psnProfile);
+            throw new \RuntimeException('Could not fetch games for profile ' . $psnProfile);
         }
         $content = json_decode($response->getBody()->getContents(), true);
 
         if (empty($content['html'])) {
-            throw new \RuntimeException('Could not fetch games for profile '.$psnProfile);
+            throw new \RuntimeException('Could not fetch games for profile ' . $psnProfile);
         }
 
         preg_match_all('/<tr.*?>(?<games>[\s\S]*)<\/tr>/imU', $content['html'], $rows);
 
-        $json = $this->gameRepository->findAllIncludingRemoved();
         foreach ($rows['games'] as $game) {
             $regexes = [
                 'id' => '/href=[\S]*"\/trophies\/(?<value>[0-9]*)-[\S]*"/im',
@@ -65,10 +64,15 @@ class GameFetcher
                 continue;
             }
 
-            if (array_key_exists($matches['id'], $json)) {
-                // Already fetched this game in a previous run, skip.
-                continue;
+            try {
+                if ($this->gameRepository->findIncludingRemoved($matches['id'])) {
+                    // Already fetched this game in a previous run, skip.
+                    continue;
+                }
+            } catch (\RuntimeException) {
+
             }
+
             if (array_key_exists($matches['id'], $addedRows)) {
                 // Already fetched this game in the current run, skip.
                 continue;
