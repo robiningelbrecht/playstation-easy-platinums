@@ -19,11 +19,6 @@ class GameRepository
         return $this->store->findBy(["removedOn", "==", ""]);
     }
 
-    public function findAllIncludingRemoved(): array
-    {
-        return $this->store->findAll();
-    }
-
     public function find(string $id): array
     {
         if (!$row = $this->store->findById($id)) {
@@ -43,6 +38,19 @@ class GameRepository
         }
 
         return $row;
+    }
+
+    public function findDistinctValuesForColumn(string $columnName): array
+    {
+        $rows =  $this->store->createQueryBuilder()
+            ->distinct($columnName)
+            ->getQuery()
+            ->fetch();
+
+        $values = array_filter(array_column($rows, $columnName));
+        sort($values);
+
+        return $values;
     }
 
     public function save(array $row): void

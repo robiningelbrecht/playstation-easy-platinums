@@ -20,24 +20,6 @@ class ResultSet
         $this->removeDuplicateAndFaultyEntries();
     }
 
-    public function getDistinctValuesForFilterField(string $field): array
-    {
-        $values = [];
-        foreach ($this->rows as $row) {
-            /** @var Row $row */
-            if (!$value = $row->getValueForFilterField($field)) {
-                continue;
-            }
-
-            $values[$value] = $value;
-        }
-
-        $values = array_values($values);
-        sort($values);
-
-        return $values;
-    }
-
     public function sort(Sorting $sorting): void
     {
         switch ($sorting->getSortField()) {

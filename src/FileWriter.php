@@ -45,8 +45,8 @@ class FileWriter
 
         /** @var FilterField[] $filterFields */
         $filterFields = [
-            FilterField::fromNameAndPossibleValues(FilterField::FIELD_REGION, $resultSet->getDistinctValuesForFilterField(FilterField::FIELD_REGION)),
-            FilterField::fromNameAndPossibleValues(FilterField::FIELD_PLATFORM, $resultSet->getDistinctValuesForFilterField(FilterField::FIELD_PLATFORM)),
+            FilterField::fromNameAndPossibleValues(FilterField::FIELD_REGION, $this->gameRepository->findDistinctValuesForColumn(FilterField::FIELD_REGION)),
+            FilterField::fromNameAndPossibleValues(FilterField::FIELD_PLATFORM, $this->gameRepository->findDistinctValuesForColumn(FilterField::FIELD_PLATFORM)),
         ];
 
         // Render the first page on the main README.md.

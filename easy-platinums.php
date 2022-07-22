@@ -75,7 +75,7 @@ $app
     ->action(function () use($container) {
         $gameRepository = $container->get(\App\GameRepository::class);
 
-        $gameRepository->saveMany(json_decode(file_get_contents('easy-platinums.json'), true));
+        var_dump($gameRepository->findDistinctValuesForColumn('region'));
     });
 
 $app->logo('
