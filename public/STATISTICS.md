@@ -22,29 +22,29 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
+                <td align="center">2</td>
+                <td align="center">26</td>
+                <td align="center">2 640</td>
+            </tr>
+                    <tr>
+                <td align="center">Yesterday</td>
                 <td align="center">18</td>
                 <td align="center">387</td>
                 <td align="center">23 760</td>
             </tr>
                     <tr>
-                <td align="center">Yesterday</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
-            </tr>
-                    <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 363</td>
-                <td align="center">44 224</td>
-                <td align="center">3 119 835</td>
+                <td align="center">2 365</td>
+                <td align="center">44 250</td>
+                <td align="center">3 122 475</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 363</b>
+            <td align="center"><b>2 365</b>
             </td>
             <td align="center">
-                <b>44 224</b></td>
-            <td align="center"><b>3 119 835</b></td>
+                <b>44 250</b></td>
+            <td align="center"><b>3 122 475</b></td>
         </tr>
         </tbody>
     </table>
@@ -74,7 +74,7 @@
                             </tr>
                     <tr>
                 <td><b>EU</b></td>
-                                    <td>263</td>
+                                    <td>264</td>
                                     <td>581</td>
                             </tr>
                     <tr>
@@ -95,7 +95,7 @@
                     <tr>
                 <td><b>NA</b></td>
                                     <td>263</td>
-                                    <td>583</td>
+                                    <td>584</td>
                             </tr>
                     <tr>
                 <td><b>No region</b></td>
