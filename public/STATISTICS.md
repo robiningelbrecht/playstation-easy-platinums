@@ -22,9 +22,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">8</td>
-                <td align="center">126</td>
-                <td align="center">10 590</td>
+                <td align="center">12</td>
+                <td align="center">196</td>
+                <td align="center">15 960</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -34,17 +34,17 @@
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 371</td>
-                <td align="center">44 350</td>
-                <td align="center">3 130 425</td>
+                <td align="center">2 375</td>
+                <td align="center">44 420</td>
+                <td align="center">3 135 795</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 371</b>
+            <td align="center"><b>2 375</b>
             </td>
             <td align="center">
-                <b>44 350</b></td>
-            <td align="center"><b>3 130 425</b></td>
+                <b>44 420</b></td>
+            <td align="center"><b>3 135 795</b></td>
         </tr>
         </tbody>
     </table>
@@ -75,7 +75,7 @@
                     <tr>
                 <td><b>EU</b></td>
                                     <td>266</td>
-                                    <td>582</td>
+                                    <td>583</td>
                             </tr>
                     <tr>
                 <td><b>HK</b></td>
@@ -99,8 +99,8 @@
                             </tr>
                     <tr>
                 <td><b>No region</b></td>
-                                    <td>30</td>
-                                    <td>36</td>
+                                    <td>31</td>
+                                    <td>38</td>
                             </tr>
                 </tbody>
     </table>
