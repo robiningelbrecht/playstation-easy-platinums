@@ -140,11 +140,11 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17170-elliot-story-one-my-first-date-rpg"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17170.png"
+            <td><a href="https://psnprofiles.com/trophies/17173-elliot-story-one-my-first-date-rpg"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17173.png"
                             alt="Elliot: Story One - My First Date RPG" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17170-elliot-story-one-my-first-date-rpg">Elliot: Story One - My First Date R...</a>
+                <a href="https://psnprofiles.com/trophies/17173-elliot-story-one-my-first-date-rpg">Elliot: Story One - My First Date R...</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">3 min</td>

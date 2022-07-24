@@ -636,14 +636,14 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17171-pinball-machine-3-our-church-and-halloween-rpg"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17171.png"
+            <td><a href="https://psnprofiles.com/trophies/17175-pinball-machine-3-our-church-and-halloween-rpg"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17175.png"
                             alt="Pinball: Machine #3 - Our Church and Halloween RPG" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17171-pinball-machine-3-our-church-and-halloween-rpg">Pinball: Machine #3 - Our Church an...</a>
+                <a href="https://psnprofiles.com/trophies/17175-pinball-machine-3-our-church-and-halloween-rpg">Pinball: Machine #3 - Our Church an...</a>
                 <kbd>PS4</kbd>
             </td>
-            <td align="center">5 min</td>
+            <td align="center">3 min</td>
             <td align="center"></td>
             <td align="center">36</td>
             <td align="center">5</td>
