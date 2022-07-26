@@ -1580,11 +1580,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17191-the-football-t"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17191.png"
+            <td><a href="https://psnprofiles.com/trophies/17192-the-football-t"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17192.png"
                             alt="The Football T" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17191-the-football-t">The Football T</a>
+                <a href="https://psnprofiles.com/trophies/17192-the-football-t">The Football T</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">3 min</td>
