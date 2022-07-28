@@ -22,14 +22,14 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">3</td>
-                <td align="center">54</td>
-                <td align="center">3 990</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
                 <td align="center">3</td>
-                <td align="center">47</td>
+                <td align="center">54</td>
                 <td align="center">3 990</td>
             </tr>
                     <tr>
