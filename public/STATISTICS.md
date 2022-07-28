@@ -22,9 +22,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
+                <td align="center">3</td>
+                <td align="center">42</td>
+                <td align="center">4 050</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -34,17 +34,17 @@
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 401</td>
-                <td align="center">44 906</td>
-                <td align="center">3 170 655</td>
+                <td align="center">2 404</td>
+                <td align="center">44 948</td>
+                <td align="center">3 174 705</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 401</b>
+            <td align="center"><b>2 404</b>
             </td>
             <td align="center">
-                <b>44 906</b></td>
-            <td align="center"><b>3 170 655</b></td>
+                <b>44 948</b></td>
+            <td align="center"><b>3 174 705</b></td>
         </tr>
         </tbody>
     </table>
@@ -84,8 +84,8 @@
                             </tr>
                     <tr>
                 <td><b>JP</b></td>
-                                    <td>78</td>
-                                    <td>178</td>
+                                    <td>79</td>
+                                    <td>179</td>
                             </tr>
                     <tr>
                 <td><b>KR</b></td>
@@ -95,7 +95,7 @@
                     <tr>
                 <td><b>NA</b></td>
                                     <td>266</td>
-                                    <td>588</td>
+                                    <td>589</td>
                             </tr>
                     <tr>
                 <td><b>No region</b></td>
