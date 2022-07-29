@@ -22,9 +22,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">3</td>
-                <td align="center">56</td>
-                <td align="center">4 050</td>
+                <td align="center">6</td>
+                <td align="center">101</td>
+                <td align="center">7 980</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -34,17 +34,17 @@
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
-                <td align="center">2 408</td>
-                <td align="center">45 018</td>
-                <td align="center">3 180 105</td>
+                <td align="center">2 411</td>
+                <td align="center">45 063</td>
+                <td align="center">3 184 035</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 408</b>
+            <td align="center"><b>2 411</b>
             </td>
             <td align="center">
-                <b>45 018</b></td>
-            <td align="center"><b>3 180 105</b></td>
+                <b>45 063</b></td>
+            <td align="center"><b>3 184 035</b></td>
         </tr>
         </tbody>
     </table>
@@ -75,7 +75,7 @@
                     <tr>
                 <td><b>EU</b></td>
                                     <td>267</td>
-                                    <td>588</td>
+                                    <td>589</td>
                             </tr>
                     <tr>
                 <td><b>HK</b></td>
@@ -95,12 +95,12 @@
                     <tr>
                 <td><b>NA</b></td>
                                     <td>266</td>
-                                    <td>589</td>
+                                    <td>590</td>
                             </tr>
                     <tr>
                 <td><b>No region</b></td>
                                     <td>37</td>
-                                    <td>44</td>
+                                    <td>45</td>
                             </tr>
                 </tbody>
     </table>
