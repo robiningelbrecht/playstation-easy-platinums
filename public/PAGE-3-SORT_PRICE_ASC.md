@@ -716,11 +716,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17205-the-jumping-sushi"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17205.png"
+            <td><a href="https://psnprofiles.com/trophies/17206-the-jumping-sushi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17206.png"
                             alt="The Jumping Sushi" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17205-the-jumping-sushi">The Jumping Sushi</a>
+                <a href="https://psnprofiles.com/trophies/17206-the-jumping-sushi">The Jumping Sushi</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">3 min</td>
