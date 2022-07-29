@@ -69,13 +69,6 @@ $app
             'Manually removed game %s via workflow',
             $updatedRow->getFullTitle(),
         );
-    })
-    ->tap()
-    ->command('sleekdb')
-    ->action(function () use($container) {
-        $gameRepository = $container->get(\App\GameRepository::class);
-
-        var_dump($gameRepository->findDistinctValuesForColumn('region'));
     });
 
 $app->logo('
