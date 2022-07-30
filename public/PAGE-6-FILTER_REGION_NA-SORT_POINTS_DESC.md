@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/10677-blind-men"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10677.png"
+                            alt="Blind Men" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10677-blind-men">Blind Men</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10473-syrup-and-the-ultimate-sweet"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10473.png"
+                            alt="Syrup and the Ultimate Sweet" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10473-syrup-and-the-ultimate-sweet">Syrup and the Ultimate Sweet</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13735-orbibot"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13735.png"
+                            alt="Orbibot" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13735-orbibot">Orbibot</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">15</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14665-mastho-is-together"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14665.png"
                             alt="Mastho is Together" width="60"></a></td>
@@ -1589,54 +1637,6 @@
             </td>
             <td align="center">20 min</td>
             <td align="center">$1.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15488-light-up-the-room"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15488.png"
-                            alt="Light Up The Room" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15488-light-up-the-room">Light Up The Room</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">20 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15976-wild-west-crops"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15976.png"
-                            alt="Wild West Crops" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15976-wild-west-crops">Wild West Crops</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">19 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11542-skatemasta-tcheco"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11542.png"
-                            alt="Skatemasta Tcheco" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11542-skatemasta-tcheco">Skatemasta Tcheco</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">19 min</td>
-            <td align="center">$4.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>

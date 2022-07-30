@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14261-the-marauder-chronicles-curse-over-valdria"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14261.png"
+                            alt="The Marauder Chronicles: Curse Over Valdria" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14261-the-marauder-chronicles-curse-over-valdria">The Marauder Chronicles: Curse Over...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14255-the-marauder-chronicles-curse-over-valdria"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14255.png"
+                            alt="The Marauder Chronicles: Curse Over Valdria" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14255-the-marauder-chronicles-curse-over-valdria">The Marauder Chronicles: Curse Over...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14254-the-marauder-chronicles-curse-over-valdria"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14254.png"
+                            alt="The Marauder Chronicles: Curse Over Valdria" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14254-the-marauder-chronicles-curse-over-valdria">The Marauder Chronicles: Curse Over...</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14253-the-marauder-chronicles-curse-over-valdria"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14253.png"
                             alt="The Marauder Chronicles: Curse Over Valdria" width="60"></a></td>
@@ -1594,54 +1642,6 @@
             <td align="center">23</td>
             <td align="center">4</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14738-tilting-tiles"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14738.png"
-                            alt="Tilting Tiles" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14738-tilting-tiles">Tilting Tiles</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">45 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">60</td>
-            <td align="center">1</td>
-            <td align="center">6</td>
-            <td align="center">52</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14737-tilting-tiles"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14737.png"
-                            alt="Tilting Tiles" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14737-tilting-tiles">Tilting Tiles</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">42 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">60</td>
-            <td align="center">1</td>
-            <td align="center">6</td>
-            <td align="center">52</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13991-titan-chaser"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13991.png"
-                            alt="Titan Chaser" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13991-titan-chaser">Titan Chaser</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">58 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">19</td>
-            <td align="center">8</td>
-            <td align="center">7</td>
-            <td align="center">3</td>
-            <td align="center">1275</td>
         </tr>
         </tbody>
 </table>

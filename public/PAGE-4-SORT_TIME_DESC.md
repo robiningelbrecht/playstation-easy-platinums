@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/12597-die-with-glory"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12597.png"
+                            alt="Die With Glory" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12597-die-with-glory">Die With Glory</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">41 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16195-dandy-randy-dx"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16195.png"
+                            alt="Dandy &amp; Randy DX" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16195-dandy-randy-dx">Dandy &amp; Randy DX</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">41 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">18</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15691-cosmos-bit"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15691.png"
                             alt="Cosmos Bit" width="60"></a></td>
@@ -1608,38 +1640,6 @@
             <td align="center">16</td>
             <td align="center">10</td>
             <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16529-spacewing-war"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16529.png"
-                            alt="Spacewing War" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16529-spacewing-war">Spacewing War</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">35 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">2</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/7315-midnight-deluxe"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7315.png"
-                            alt="Midnight Deluxe" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/7315-midnight-deluxe">Midnight Deluxe</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">35 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
             <td align="center">0</td>
             <td align="center">1350</td>
         </tr>

@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13424-akinofa"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13424.png"
+                            alt="Akinofa" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13424-akinofa">Akinofa</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/10985-a-summer-with-the-shiba-inu"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10985.png"
                             alt="A Summer with the Shiba Inu" width="60"></a></td>
@@ -1625,22 +1641,6 @@
             <td align="center">10</td>
             <td align="center">3</td>
             <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13835-rally-racing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13835.png"
-                            alt="Rally Racing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13835-rally-racing">Rally Racing</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

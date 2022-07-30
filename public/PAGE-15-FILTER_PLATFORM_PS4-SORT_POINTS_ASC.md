@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13103-donuts-n-justice"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13103.png"
+                            alt="Donuts &#039;n&#039; Justice" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13103-donuts-n-justice">Donuts &#039;n&#039; Justice</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11685-clash-force"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11685.png"
                             alt="Clash Force" width="60"></a></td>
@@ -1621,22 +1637,6 @@
             </td>
             <td align="center">7 min</td>
             <td align="center">€4.99</td>
-            <td align="center">22</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14912-a-year-of-springs"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14912.png"
-                            alt="A Year of Springs" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14912-a-year-of-springs">A Year of Springs</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center">$4.99</td>
             <td align="center">22</td>
             <td align="center">9</td>
             <td align="center">4</td>

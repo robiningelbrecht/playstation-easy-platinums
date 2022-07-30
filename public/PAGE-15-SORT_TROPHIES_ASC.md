@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/11628-クロスクラッシュ"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11628.png"
+                            alt="クロスクラッシュ" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11628-クロスクラッシュ">クロスクラッシュ</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center"></td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11894-concept-destruction"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11894.png"
+                            alt="Concept Destruction" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11894-concept-destruction">Concept Destruction</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">26 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15430-mekabolt"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15430.png"
                             alt="Mekabolt+" width="60"></a></td>
@@ -844,12 +876,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17182-bump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17182.png"
+            <td><a href="https://psnprofiles.com/trophies/17183-bump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17183.png"
                             alt="Bump Jump" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17182-bump-jump">Bump Jump</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17183-bump-jump">Bump Jump</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
@@ -860,12 +892,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17183-bump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17183.png"
+            <td><a href="https://psnprofiles.com/trophies/17182-bump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17182.png"
                             alt="Bump Jump" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17183-bump-jump">Bump Jump</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17182-bump-jump">Bump Jump</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
@@ -940,22 +972,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17009-frogo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17009.png"
-                            alt="Frogo" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17009-frogo">Frogo</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/17006-frogo"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17006.png"
                             alt="Frogo" width="60"></a></td>
@@ -972,12 +988,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17007-frogo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17007.png"
+            <td><a href="https://psnprofiles.com/trophies/17005-frogo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17005.png"
                             alt="Frogo" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17007-frogo">Frogo</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17005-frogo">Frogo</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$0.99</td>
@@ -988,12 +1004,28 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17005-frogo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17005.png"
+            <td><a href="https://psnprofiles.com/trophies/17009-frogo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17009.png"
                             alt="Frogo" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17005-frogo">Frogo</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/17009-frogo">Frogo</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17007-frogo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17007.png"
+                            alt="Frogo" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17007-frogo">Frogo</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$0.99</td>
@@ -1602,38 +1634,6 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/14849-memories-of-east-coast">Memories of East Coast</a>
                 <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14848-memories-of-east-coast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14848.png"
-                            alt="Memories of East Coast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14848-memories-of-east-coast">Memories of East Coast</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14847-memories-of-east-coast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14847.png"
-                            alt="Memories of East Coast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14847-memories-of-east-coast">Memories of East Coast</a>
-                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$4.99</td>

@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/12426-the-lost-cube"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12426.png"
+                            alt="The Lost Cube" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12426-the-lost-cube">The Lost Cube</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">32 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15842-devastator"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15842.png"
+                            alt="Devastator" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15842-devastator">Devastator</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">31 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15633-broken-pipe"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15633.png"
                             alt="Broken Pipe" width="60"></a></td>
@@ -612,6 +644,22 @@
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
+            <td align="center">$2.99</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17272-the-jumping-taco-turbo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17272.png"
+                            alt="The Jumping Taco: TURBO" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17272-the-jumping-taco-turbo">The Jumping Taco: TURBO</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
             <td align="center">$2.99</td>
             <td align="center">21</td>
             <td align="center">9</td>
@@ -1593,54 +1641,6 @@
             <td align="center">7</td>
             <td align="center">13</td>
             <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16732-drunken-fist-2-zombie-hangover"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16732.png"
-                            alt="Drunken Fist 2: Zombie Hangover" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16732-drunken-fist-2-zombie-hangover">Drunken Fist 2: Zombie Hangover</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">31 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">23</td>
-            <td align="center">8</td>
-            <td align="center">8</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12479-dreaming-sarah"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12479.png"
-                            alt="Dreaming Sarah" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12479-dreaming-sarah">Dreaming Sarah</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">25 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">23</td>
-            <td align="center">7</td>
-            <td align="center">13</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16695-drunken-fist-2-zombie-hangover"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16695.png"
-                            alt="Drunken Fist 2: Zombie Hangover" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16695-drunken-fist-2-zombie-hangover">Drunken Fist 2: Zombie Hangover</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">22 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">23</td>
-            <td align="center">8</td>
-            <td align="center">8</td>
-            <td align="center">6</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

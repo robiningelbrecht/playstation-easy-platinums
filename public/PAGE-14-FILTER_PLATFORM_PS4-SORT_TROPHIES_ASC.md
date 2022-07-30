@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16235-behind-closed-doors-a-developers-tale"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16235.png"
+                            alt="Behind Closed Doors: A Developer&#039;s Tale" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16235-behind-closed-doors-a-developers-tale">Behind Closed Doors: A Developer&#039;s ...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">46 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12370-boom-blaster"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12370.png"
+                            alt="Boom Blaster" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12370-boom-blaster">Boom Blaster</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">44 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12658-kingdom-of-arcadia"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12658.png"
                             alt="Kingdom of Arcadia" width="60"></a></td>
@@ -1605,38 +1637,6 @@
             </td>
             <td align="center">33 min</td>
             <td align="center">$4.99</td>
-            <td align="center">25</td>
-            <td align="center">6</td>
-            <td align="center">16</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12586-evil-inside"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12586.png"
-                            alt="Evil Inside" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12586-evil-inside">Evil Inside</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">32 min</td>
-            <td align="center">€12.99</td>
-            <td align="center">25</td>
-            <td align="center">6</td>
-            <td align="center">16</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15582-ワンナイトスタンド"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15582.png"
-                            alt="ワン・ナイト・スタンド" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15582-ワンナイトスタンド">ワン・ナイト・スタンド</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">30 min</td>
-            <td align="center"></td>
             <td align="center">25</td>
             <td align="center">6</td>
             <td align="center">16</td>

@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14014-jigsaw-finale"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14014.png"
+                            alt="Jigsaw Finale" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14014-jigsaw-finale">Jigsaw Finale</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">3</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10752-jigsaw-abundance"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10752.png"
+                            alt="JigSaw Abundance" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10752-jigsaw-abundance">JigSaw Abundance</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">3</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/8656-jackquest"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8656.png"
+                            alt="JackQuest" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/8656-jackquest">JackQuest</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">40 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/8115-jack-n-jill-dx"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8115.png"
                             alt="Jack N&#039; Jill DX" width="60"></a></td>
@@ -1593,54 +1641,6 @@
             <td align="center">9</td>
             <td align="center">5</td>
             <td align="center">4</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15789-fall-guys-ultimate-knockout"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15789.png"
-                            alt="Fall Guys: Ultimate Knockout" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15789-fall-guys-ultimate-knockout">Fall Guys: Ultimate Knockout</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$19.98</td>
-            <td align="center">35</td>
-            <td align="center">5</td>
-            <td align="center">8</td>
-            <td align="center">21</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15447-explosive-candy-world"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15447.png"
-                            alt="Explosive Candy World" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15447-explosive-candy-world">Explosive Candy World</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15440-explosive-candy-world"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15440.png"
-                            alt="Explosive Candy World" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15440-explosive-candy-world">Explosive Candy World</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
             <td align="center">1320</td>
         </tr>
         </tbody>

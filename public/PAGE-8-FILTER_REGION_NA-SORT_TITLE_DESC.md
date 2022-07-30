@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14973-circus-pocus"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14973.png"
+                            alt="Circus Pocus" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14973-circus-pocus">Circus Pocus</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">28 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">3</td>
+            <td align="center">8</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15033-christmas-run"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15033.png"
+                            alt="Christmas Run" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15033-christmas-run">Christmas Run</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15002-christmas-run"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15002.png"
+                            alt="Christmas Run" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15002-christmas-run">Christmas Run</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11800-christmas-break-head-to-head"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11800.png"
                             alt="Christmas Break Head to Head" width="60"></a></td>
@@ -1589,54 +1637,6 @@
             </td>
             <td align="center">1 min</td>
             <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15215-baseball-2-player-cooperation-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15215.png"
-                            alt="Baseball (2 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15215-baseball-2-player-cooperation-edition-breakthrough-gaming-arcade">Baseball (2 Player Cooperation Edit...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15558-baseball-2-player-challenge-mode-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15558.png"
-                            alt="Baseball (2 Player Challenge Mode): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15558-baseball-2-player-challenge-mode-breakthrough-gaming-arcade">Baseball (2 Player Challenge Mode):...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13674-barry-the-bunny"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13674.png"
-                            alt="Barry the Bunny" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13674-barry-the-bunny">Barry the Bunny</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$4.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>

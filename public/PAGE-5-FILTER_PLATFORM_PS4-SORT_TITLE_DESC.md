@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/9436-super-wiloo-demake"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9436.png"
+                            alt="Super Wiloo Demake" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9436-super-wiloo-demake">Super Wiloo Demake</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">24 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/9434-super-wiloo-demake"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9434.png"
                             alt="Super Wiloo Demake" width="60"></a></td>
@@ -1621,22 +1637,6 @@
             </td>
             <td align="center">57 min</td>
             <td align="center">$9.99</td>
-            <td align="center">42</td>
-            <td align="center">2</td>
-            <td align="center">19</td>
-            <td align="center">20</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9392-smoots-summer-games"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9392.png"
-                            alt="Smoots Summer Games" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9392-smoots-summer-games">Smoots Summer Games</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">51 min</td>
-            <td align="center">€9.99</td>
             <td align="center">42</td>
             <td align="center">2</td>
             <td align="center">19</td>

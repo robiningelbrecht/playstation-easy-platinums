@@ -476,6 +476,22 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17109-seduction-a-monks-fate"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17109.png"
+                            alt="Seduction: A Monk&#039;s Fate" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17109-seduction-a-monks-fate">Seduction: A Monk&#039;s Fate</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">55 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11993-twin-robots-ultimate-edition"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11993.png"
                             alt="Twin Robots: Ultimate Edition" width="60"></a></td>
@@ -1116,6 +1132,22 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17083-seduction-a-monks-fate"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17083.png"
+                            alt="Seduction: A Monk&#039;s Fate" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17083-seduction-a-monks-fate">Seduction: A Monk&#039;s Fate</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">47 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16257-scrap-garden"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16257.png"
                             alt="Scrap Garden" width="60"></a></td>
@@ -1609,38 +1641,6 @@
             <td align="center">11</td>
             <td align="center">1</td>
             <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12275-freddy-spaghetti"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12275.png"
-                            alt="Freddy Spaghetti" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12275-freddy-spaghetti">Freddy Spaghetti</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">43 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">56</td>
-            <td align="center">1</td>
-            <td align="center">10</td>
-            <td align="center">44</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16249-chefy-chef"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16249.png"
-                            alt="Chefy-Chef" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16249-chefy-chef">Chefy-Chef</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">43 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

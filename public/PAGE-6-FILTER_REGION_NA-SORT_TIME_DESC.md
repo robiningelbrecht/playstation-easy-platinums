@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15782-burger-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15782.png"
+                            alt="Burger Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15782-burger-break-head-to-head">Burger Break Head to Head</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/9349-bouncy-bullets"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9349.png"
+                            alt="Bouncy Bullets" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9349-bouncy-bullets">Bouncy Bullets</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11982-autumns-journey"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11982.png"
                             alt="Autumn&#039;s Journey" width="60"></a></td>
@@ -1601,38 +1633,6 @@
                             alt="Space: Breakthrough Gaming Arcade" width="60"></a></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/13278-space-breakthrough-gaming-arcade">Space: Breakthrough Gaming Arcade</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15934-space-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15934.png"
-                            alt="Space Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15934-space-break">Space Break</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">38</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">26</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16577-space-2-2-player-cooperation-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16577.png"
-                            alt="Space 2 (2 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16577-space-2-2-player-cooperation-edition-breakthrough-gaming-arcade">Space 2 (2 Player Cooperation Editi...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">6 min</td>

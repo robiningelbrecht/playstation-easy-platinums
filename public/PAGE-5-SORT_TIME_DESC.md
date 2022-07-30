@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16529-spacewing-war"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16529.png"
+                            alt="Spacewing War" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16529-spacewing-war">Spacewing War</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">35 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/7315-midnight-deluxe"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7315.png"
+                            alt="Midnight Deluxe" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/7315-midnight-deluxe">Midnight Deluxe</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">35 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14604-gynoug"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14604.png"
                             alt="Gynoug" width="60"></a></td>
@@ -1610,38 +1642,6 @@
             <td align="center">22</td>
             <td align="center">5</td>
             <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14481-shinrai-broken-beyond-despair"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14481.png"
-                            alt="SHINRAI: Broken Beyond Despair" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14481-shinrai-broken-beyond-despair">SHINRAI: Broken Beyond Despair</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">31 min</td>
-            <td align="center">$14.99</td>
-            <td align="center">16</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13106-promesa"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13106.png"
-                            alt="Promesa" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13106-promesa">Promesa</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">31 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">24</td>
-            <td align="center">7</td>
-            <td align="center">6</td>
-            <td align="center">10</td>
-            <td align="center">1260</td>
         </tr>
         </tbody>
 </table>

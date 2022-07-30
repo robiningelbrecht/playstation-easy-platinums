@@ -780,6 +780,22 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17083-seduction-a-monks-fate"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17083.png"
+                            alt="Seduction: A Monk&#039;s Fate" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17083-seduction-a-monks-fate">Seduction: A Monk&#039;s Fate</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">47 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15665-retro-pixel-racers"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15665.png"
                             alt="Retro Pixel Racers" width="60"></a></td>
@@ -1621,22 +1637,6 @@
             </td>
             <td align="center">4 min</td>
             <td align="center"></td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16166-tanks-vs-tanks-pvp"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16166.png"
-                            alt="Tanks vs Tanks: PvP" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16166-tanks-vs-tanks-pvp">Tanks vs Tanks: PvP</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$4.19</td>
             <td align="center">14</td>
             <td align="center">11</td>
             <td align="center">2</td>
