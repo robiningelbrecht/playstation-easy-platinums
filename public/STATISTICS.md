@@ -22,15 +22,15 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">6</td>
-                <td align="center">101</td>
-                <td align="center">7 980</td>
+                <td align="center">1</td>
+                <td align="center">21</td>
+                <td align="center">1 350</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
-                <td align="center">4</td>
-                <td align="center">56</td>
-                <td align="center">5 400</td>
+                <td align="center">5</td>
+                <td align="center">80</td>
+                <td align="center">6 630</td>
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
