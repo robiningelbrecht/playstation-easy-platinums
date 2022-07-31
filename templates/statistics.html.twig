@@ -56,17 +56,17 @@
         <tbody>
         {% for region in platformRegionMatrix.getRegions() %}
             <tr>
-                <td><b>{{ region ?: 'No region' }}</b></td>
+                <td align="center"><b>{{ region ?: 'No region' }}</b></td>
                 {% for platform in platformRegionMatrix.getPlatforms() %}
-                    <td>{{ platformRegionMatrix.getTotalForPlatformAndRegion(platform, region) }}</td>
+                    <td align="center">{{ platformRegionMatrix.getTotalForPlatformAndRegion(platform, region) }}</td>
                 {% endfor %}
-                <td><b>{{ platformRegionMatrix.getTotalForRegion(region) }}</b></td>
+                <td align="center"><b>{{ platformRegionMatrix.getTotalForRegion(region) }}</b></td>
             </tr>
         {% endfor %}
         <tr>
             <td>&nbsp;</td>
             {% for platform in platformRegionMatrix.getPlatforms() %}
-                <td><b>{{ platformRegionMatrix.getTotalForPlatform(platform) }}</b></td>
+                <td align="center"><b>{{ platformRegionMatrix.getTotalForPlatform(platform) }}</b></td>
             {% endfor %}
         </tr>
         </tbody>

@@ -64,57 +64,57 @@
         </thead>
         <tbody>
                     <tr>
-                <td><b>AS</b></td>
-                                    <td>106</td>
-                                    <td>248</td>
-                                <td><b>354</b></td>
+                <td align="center"><b>AS</b></td>
+                                    <td align="center">106</td>
+                                    <td align="center">248</td>
+                                <td align="center"><b>354</b></td>
             </tr>
                     <tr>
-                <td><b>CN</b></td>
-                                    <td>0</td>
-                                    <td>1</td>
-                                <td><b>1</b></td>
+                <td align="center"><b>CN</b></td>
+                                    <td align="center">0</td>
+                                    <td align="center">1</td>
+                                <td align="center"><b>1</b></td>
             </tr>
                     <tr>
-                <td><b>EU</b></td>
-                                    <td>267</td>
-                                    <td>590</td>
-                                <td><b>857</b></td>
+                <td align="center"><b>EU</b></td>
+                                    <td align="center">267</td>
+                                    <td align="center">590</td>
+                                <td align="center"><b>857</b></td>
             </tr>
                     <tr>
-                <td><b>HK</b></td>
-                                    <td>0</td>
-                                    <td>1</td>
-                                <td><b>1</b></td>
+                <td align="center"><b>HK</b></td>
+                                    <td align="center">0</td>
+                                    <td align="center">1</td>
+                                <td align="center"><b>1</b></td>
             </tr>
                     <tr>
-                <td><b>JP</b></td>
-                                    <td>79</td>
-                                    <td>179</td>
-                                <td><b>258</b></td>
+                <td align="center"><b>JP</b></td>
+                                    <td align="center">79</td>
+                                    <td align="center">179</td>
+                                <td align="center"><b>258</b></td>
             </tr>
                     <tr>
-                <td><b>KR</b></td>
-                                    <td>0</td>
-                                    <td>3</td>
-                                <td><b>3</b></td>
+                <td align="center"><b>KR</b></td>
+                                    <td align="center">0</td>
+                                    <td align="center">3</td>
+                                <td align="center"><b>3</b></td>
             </tr>
                     <tr>
-                <td><b>NA</b></td>
-                                    <td>267</td>
-                                    <td>592</td>
-                                <td><b>859</b></td>
+                <td align="center"><b>NA</b></td>
+                                    <td align="center">267</td>
+                                    <td align="center">592</td>
+                                <td align="center"><b>859</b></td>
             </tr>
                     <tr>
-                <td><b>No region</b></td>
-                                    <td>38</td>
-                                    <td>51</td>
-                                <td><b>89</b></td>
+                <td align="center"><b>No region</b></td>
+                                    <td align="center">38</td>
+                                    <td align="center">51</td>
+                                <td align="center"><b>89</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td><b>757</b></td>
-                            <td><b>1665</b></td>
+                            <td align="center"><b>757</b></td>
+                            <td align="center"><b>1665</b></td>
                     </tr>
         </tbody>
     </table>
