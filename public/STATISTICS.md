@@ -115,7 +115,8 @@
             <td>&nbsp;</td>
                             <td align="center"><b>757</b></td>
                             <td align="center"><b>1665</b></td>
-                    </tr>
+                        <td>&nbsp;</td>
+        </tr>
         </tbody>
     </table>
 </div>
