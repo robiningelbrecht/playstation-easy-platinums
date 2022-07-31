@@ -35,10 +35,10 @@ class PlatformRegionMatrix
 
         uasort($regions, function (?string $a, ?string $b) {
             // Push empty region to back of list.
-            if($a === null){
+            if ($a === null) {
                 $a = 'zzzz';
             }
-            if($b === null){
+            if ($b === null) {
                 $b = 'zzzz';
             }
             return strcmp($a, $b);
@@ -51,7 +51,23 @@ class PlatformRegionMatrix
     {
         return count(array_filter(
             $this->resultSet->getRows(),
-            fn(Row $row)=> $row->getPlatform() === $platform && $row->getRegion() === $region
+            fn(Row $row) => $row->getPlatform() === $platform && $row->getRegion() === $region
+        ));
+    }
+
+    public function getTotalForPlatform(string $platform): int
+    {
+        return count(array_filter(
+            $this->resultSet->getRows(),
+            fn(Row $row) => $row->getPlatform() === $platform
+        ));
+    }
+
+    public function getTotalForRegion(?string $region = null): int
+    {
+        return count(array_filter(
+            $this->resultSet->getRows(),
+            fn(Row $row) => $row->getRegion() === $region
         ));
     }
 }

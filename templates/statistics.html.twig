@@ -50,6 +50,7 @@
             {% for platform in platformRegionMatrix.getPlatforms() %}
                 <th>{{ platform }}</th>
             {% endfor %}
+            <th>&nbsp;</th>
         </tr>
         </thead>
         <tbody>
@@ -59,8 +60,15 @@
                 {% for platform in platformRegionMatrix.getPlatforms() %}
                     <td>{{ platformRegionMatrix.getTotalForPlatformAndRegion(platform, region) }}</td>
                 {% endfor %}
+                <td><b>{{ platformRegionMatrix.getTotalForRegion(region) }}</b></td>
             </tr>
         {% endfor %}
+        <tr>
+            <td>&nbsp;</td>
+            {% for platform in platformRegionMatrix.getPlatforms() %}
+                <td><b>{{ platformRegionMatrix.getTotalForPlatform(platform) }}</b></td>
+            {% endfor %}
+        </tr>
         </tbody>
     </table>
 </div>
