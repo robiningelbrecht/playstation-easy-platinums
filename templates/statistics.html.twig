@@ -5,6 +5,16 @@
          alt="PlayStation">
 </p>
 
+{% set costs = [] %}
+{% for cost in totals.getTotalCostPerCurrency() %}
+    {% set costs = costs|merge(['<kbd>' ~ cost ~ '</kbd>']) %}
+{% endfor %}
+
+<p align="center">
+    Completing all these games would take you about <kbd>{{ totals.getTotalHoursOfGameplay() }} hours</kbd>
+    or <kbd>{{ totals.getTotalDaysOfGameplay() }} days</kbd> and cost you approximately {{ costs|join(' and ')|raw }}
+</p>
+
 ------
 
 <h2 align="center">Total number of games</h2>

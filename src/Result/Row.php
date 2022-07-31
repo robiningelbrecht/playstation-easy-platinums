@@ -4,6 +4,7 @@ namespace App\Result;
 
 use App\Clock\Clock;
 use App\Filter\FilterField;
+use App\MoneyFormatter;
 use App\Sort\SortField;
 use Money\Currencies\ISOCurrencies;
 use Money\Currency;
@@ -123,12 +124,7 @@ class Row
             return null;
         }
 
-        $currencies = new ISOCurrencies();
-
-        $numberFormatter = new \NumberFormatter('en_US', \NumberFormatter::CURRENCY);
-        $moneyFormatter = new IntlMoneyFormatter($numberFormatter, $currencies);
-
-        return $moneyFormatter->format($money);
+        return (new MoneyFormatter())->format($money);
     }
 
     public function getValueForSortField(SortField $sortField): mixed

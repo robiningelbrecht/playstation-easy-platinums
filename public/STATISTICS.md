@@ -5,6 +5,12 @@
          alt="PlayStation">
 </p>
 
+        
+<p align="center">
+    Completing all these games would take you about <kbd>748 hours</kbd>
+    or <kbd>32 days</kbd> and cost you approximately <kbd>$7,494.29</kbd> and <kbd>€4,350.18</kbd>
+</p>
+
 ------
 
 <h2 align="center">Total number of games</h2>

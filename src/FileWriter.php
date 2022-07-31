@@ -11,6 +11,7 @@ use App\Sort\SortField;
 use App\Sort\Sorting;
 use App\Statistics\MonthlyStatistics;
 use App\Statistics\PlatformRegionMatrix;
+use App\Statistics\Totals;
 use App\Twig\TwigRenderSort;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
@@ -125,6 +126,7 @@ class FileWriter
         $this->fileContentsWrapper->put(self::STATISTICS_FILE, $template->render([
             'monthlyStatistics' => MonthlyStatistics::fromResultSet($resultSet, $this->clock->getCurrentDateTimeImmutable()),
             'platformRegionMatrix' => PlatformRegionMatrix::fromResultSet($resultSet),
+            'totals' => Totals::fromResultSet($resultSet),
         ]));
     }
 }
