@@ -28,9 +28,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">5</td>
-                <td align="center">196</td>
-                <td align="center">6 615</td>
+                <td align="center">4</td>
+                <td align="center">142</td>
+                <td align="center">5 310</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -46,17 +46,17 @@
             </tr>
                     <tr>
                 <td align="center">August 2022</td>
-                <td align="center">5</td>
-                <td align="center">196</td>
-                <td align="center">6 615</td>
+                <td align="center">4</td>
+                <td align="center">142</td>
+                <td align="center">5 310</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 432</b>
+            <td align="center"><b>2 431</b>
             </td>
             <td align="center">
-                <b>45 567</b></td>
-            <td align="center"><b>3 211 950</b></td>
+                <b>45 513</b></td>
+            <td align="center"><b>3 210 645</b></td>
         </tr>
         </tbody>
     </table>
@@ -114,8 +114,8 @@
                     <tr>
                 <td align="center"><b>NA</b></td>
                                     <td align="center">269</td>
-                                    <td align="center">594</td>
-                                <td align="center"><b>863</b></td>
+                                    <td align="center">593</td>
+                                <td align="center"><b>862</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
@@ -126,7 +126,7 @@
                 <tr>
             <td>&nbsp;</td>
                             <td align="center"><b>762</b></td>
-                            <td align="center"><b>1670</b></td>
+                            <td align="center"><b>1669</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
