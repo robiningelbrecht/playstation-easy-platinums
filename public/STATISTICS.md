@@ -28,9 +28,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">4</td>
-                <td align="center">142</td>
-                <td align="center">5 310</td>
+                <td align="center">3</td>
+                <td align="center">88</td>
+                <td align="center">4 005</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -46,17 +46,17 @@
             </tr>
                     <tr>
                 <td align="center">August 2022</td>
-                <td align="center">4</td>
-                <td align="center">142</td>
-                <td align="center">5 310</td>
+                <td align="center">3</td>
+                <td align="center">88</td>
+                <td align="center">4 005</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 431</b>
+            <td align="center"><b>2 430</b>
             </td>
             <td align="center">
-                <b>45 513</b></td>
-            <td align="center"><b>3 210 645</b></td>
+                <b>45 459</b></td>
+            <td align="center"><b>3 209 340</b></td>
         </tr>
         </tbody>
     </table>
@@ -78,8 +78,8 @@
                     <tr>
                 <td align="center"><b>AS</b></td>
                                     <td align="center">106</td>
-                                    <td align="center">249</td>
-                                <td align="center"><b>355</b></td>
+                                    <td align="center">248</td>
+                                <td align="center"><b>354</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>CN</b></td>
@@ -126,7 +126,7 @@
                 <tr>
             <td>&nbsp;</td>
                             <td align="center"><b>762</b></td>
-                            <td align="center"><b>1669</b></td>
+                            <td align="center"><b>1668</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
