@@ -4,6 +4,7 @@ namespace App\Statistics;
 
 use App\Clock\Clock;
 use App\Result\ResultSet;
+use App\Sort\Sorting;
 
 class MonthlyStatistics
 {
@@ -22,7 +23,9 @@ class MonthlyStatistics
     public function getRows(): array
     {
         $statistics = [];
-        $yesterdayDate = $this->now->modify('-1 day');;
+        $yesterdayDate = $this->now->modify('-1 day');
+
+        $this->resultSet->sort(Sorting::default());
 
         $today = new Row('Today');
         $yesterday = new Row('Yesterday');

@@ -39,16 +39,16 @@
                 <td align="center">6 750</td>
             </tr>
                     <tr>
-                <td align="center">July 2022</td>
-                <td align="center">2 427</td>
-                <td align="center">45 371</td>
-                <td align="center">3 205 335</td>
-            </tr>
-                    <tr>
                 <td align="center">August 2022</td>
                 <td align="center">9</td>
                 <td align="center">191</td>
                 <td align="center">11 970</td>
+            </tr>
+                    <tr>
+                <td align="center">July 2022</td>
+                <td align="center">2 427</td>
+                <td align="center">45 371</td>
+                <td align="center">3 205 335</td>
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
