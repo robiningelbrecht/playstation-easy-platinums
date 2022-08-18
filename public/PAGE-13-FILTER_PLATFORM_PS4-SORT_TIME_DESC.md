@@ -108,11 +108,11 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17513-space-kabaam-3"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17513.png"
+            <td><a href="https://psnprofiles.com/trophies/17550-space-kabaam-3"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17550.png"
                             alt="Space KaBAAM 3" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17513-space-kabaam-3">Space KaBAAM 3</a>
+                <a href="https://psnprofiles.com/trophies/17550-space-kabaam-3">Space KaBAAM 3</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">7 min</td>
