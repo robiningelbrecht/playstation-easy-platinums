@@ -1564,11 +1564,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17602-nump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17602.png"
+            <td><a href="https://psnprofiles.com/trophies/17603-nump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17603.png"
                             alt="Nump Jump" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17602-nump-jump">Nump Jump</a>
+                <a href="https://psnprofiles.com/trophies/17603-nump-jump">Nump Jump</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">2 min</td>
