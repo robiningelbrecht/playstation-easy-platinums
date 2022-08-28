@@ -284,11 +284,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17716-the-volleyball-b"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17716.png"
+            <td><a href="https://psnprofiles.com/trophies/17717-the-volleyball-b"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17717.png"
                             alt="The Volleyball B" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17716-the-volleyball-b">The Volleyball B</a>
+                <a href="https://psnprofiles.com/trophies/17717-the-volleyball-b">The Volleyball B</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">3 min</td>
