@@ -1260,11 +1260,11 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17739-aquadine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17739.png"
+            <td><a href="https://psnprofiles.com/trophies/17743-aquadine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17743.png"
                             alt="Aquadine" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17739-aquadine">Aquadine</a>
+                <a href="https://psnprofiles.com/trophies/17743-aquadine">Aquadine</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">6 min</td>
