@@ -28,9 +28,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
+                <td align="center">2</td>
+                <td align="center">62</td>
+                <td align="center">2 700</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -40,9 +40,9 @@
             </tr>
                     <tr>
                 <td align="center">September 2022</td>
-                <td align="center">41</td>
-                <td align="center">1 003</td>
-                <td align="center">54 615</td>
+                <td align="center">43</td>
+                <td align="center">1 065</td>
+                <td align="center">57 315</td>
             </tr>
                     <tr>
                 <td align="center">August 2022</td>
@@ -58,11 +58,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 691</b>
+            <td align="center"><b>2 693</b>
             </td>
             <td align="center">
-                <b>50 561</b></td>
-            <td align="center"><b>3 557 910</b></td>
+                <b>50 623</b></td>
+            <td align="center"><b>3 560 610</b></td>
         </tr>
         </tbody>
     </table>
@@ -131,14 +131,14 @@
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">102</td>
-                                    <td align="center">128</td>
-                                <td align="center"><b>230</b></td>
+                                    <td align="center">103</td>
+                                    <td align="center">129</td>
+                                <td align="center"><b>232</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>871</b></td>
-                            <td align="center"><b>1820</b></td>
+                            <td align="center"><b>872</b></td>
+                            <td align="center"><b>1821</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
