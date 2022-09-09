@@ -236,11 +236,11 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17937-beaver-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17937.png"
+            <td><a href="https://psnprofiles.com/trophies/17938-beaver-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17938.png"
                             alt="Beaver Fun" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17937-beaver-fun">Beaver Fun</a>
+                <a href="https://psnprofiles.com/trophies/17938-beaver-fun">Beaver Fun</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
