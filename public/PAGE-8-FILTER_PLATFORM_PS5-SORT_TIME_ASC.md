@@ -500,7 +500,7 @@
                 <kbd>PS5</kbd>
             </td>
             <td align="center">29 min</td>
-            <td align="center"></td>
+            <td align="center">$4.99</td>
             <td align="center">51</td>
             <td align="center">3</td>
             <td align="center">5</td>
