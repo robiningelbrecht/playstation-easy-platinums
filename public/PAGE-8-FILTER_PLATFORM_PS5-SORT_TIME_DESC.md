@@ -892,11 +892,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17063-the-silver-age"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17063.png"
+            <td><a href="https://psnprofiles.com/trophies/18039-the-silver-age"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18039.png"
                             alt="The Silver Age" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17063-the-silver-age">The Silver Age</a>
+                <a href="https://psnprofiles.com/trophies/18039-the-silver-age">The Silver Age</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">2 min</td>
