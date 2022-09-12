@@ -40,9 +40,9 @@
             </tr>
                     <tr>
                 <td align="center">September 2022</td>
-                <td align="center">83</td>
-                <td align="center">1 955</td>
-                <td align="center">110 805</td>
+                <td align="center">82</td>
+                <td align="center">1 917</td>
+                <td align="center">109 455</td>
             </tr>
                     <tr>
                 <td align="center">August 2022</td>
@@ -58,11 +58,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 730</b>
+            <td align="center"><b>2 729</b>
             </td>
             <td align="center">
-                <b>51 455</b></td>
-            <td align="center"><b>3 610 080</b></td>
+                <b>51 417</b></td>
+            <td align="center"><b>3 608 730</b></td>
         </tr>
         </tbody>
     </table>
@@ -107,9 +107,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>JP</b></td>
-                                    <td align="center">91</td>
+                                    <td align="center">90</td>
                                     <td align="center">196</td>
-                                <td align="center"><b>287</b></td>
+                                <td align="center"><b>286</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>KR</b></td>
@@ -137,7 +137,7 @@
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>890</b></td>
+                            <td align="center"><b>889</b></td>
                             <td align="center"><b>1840</b></td>
                         <td>&nbsp;</td>
         </tr>
