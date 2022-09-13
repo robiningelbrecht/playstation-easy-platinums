@@ -1196,14 +1196,14 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17535-kruger-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17535.png"
+            <td><a href="https://psnprofiles.com/trophies/18069-kruger-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18069.png"
                             alt="Kruger 2" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17535-kruger-2">Kruger 2</a>
+                <a href="https://psnprofiles.com/trophies/18069-kruger-2">Kruger 2</a>
                 <kbd>PS4</kbd>
             </td>
-            <td align="center">8 min</td>
+            <td align="center">6 min</td>
             <td align="center">$2.99</td>
             <td align="center">23</td>
             <td align="center">8</td>
