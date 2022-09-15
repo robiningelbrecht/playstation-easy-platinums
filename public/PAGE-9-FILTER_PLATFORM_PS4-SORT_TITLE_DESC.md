@@ -1516,14 +1516,14 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17786-pacmaga"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17786.png"
+            <td><a href="https://psnprofiles.com/trophies/18114-pacmaga"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18114.png"
                             alt="Pacmaga" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17786-pacmaga">Pacmaga</a>
+                <a href="https://psnprofiles.com/trophies/18114-pacmaga">Pacmaga</a>
                 <kbd>PS4</kbd>
             </td>
-            <td align="center">4 min</td>
+            <td align="center">1 min</td>
             <td align="center">$2.49</td>
             <td align="center">23</td>
             <td align="center">9</td>

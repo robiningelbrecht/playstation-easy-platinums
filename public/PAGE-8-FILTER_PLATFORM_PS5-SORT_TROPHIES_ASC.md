@@ -1116,11 +1116,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17785-pacmaga"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17785.png"
+            <td><a href="https://psnprofiles.com/trophies/18116-pacmaga"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18116.png"
                             alt="Pacmaga" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17785-pacmaga">Pacmaga</a>
+                <a href="https://psnprofiles.com/trophies/18116-pacmaga">Pacmaga</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">2 min</td>
