@@ -7,8 +7,8 @@
 
         
 <p align="center">
-    Completing all these games would take you about <kbd>793 hours</kbd>
-    or <kbd>34 days</kbd> and cost you approximately <kbd>$8,407.67</kbd> and <kbd>€4,553.26</kbd>
+    Completing all these games would take you about <kbd>794 hours</kbd>
+    or <kbd>34 days</kbd> and cost you approximately <kbd>$8,417.12</kbd> and <kbd>€4,553.26</kbd>
 </p>
 
 ------
@@ -28,9 +28,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">1</td>
-                <td align="center">25</td>
-                <td align="center">1 350</td>
+                <td align="center">5</td>
+                <td align="center">91</td>
+                <td align="center">6 630</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -40,9 +40,9 @@
             </tr>
                     <tr>
                 <td align="center">September 2022</td>
-                <td align="center">106</td>
-                <td align="center">2 504</td>
-                <td align="center">141 750</td>
+                <td align="center">110</td>
+                <td align="center">2 570</td>
+                <td align="center">147 030</td>
             </tr>
                     <tr>
                 <td align="center">August 2022</td>
@@ -58,11 +58,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 746</b>
+            <td align="center"><b>2 750</b>
             </td>
             <td align="center">
-                <b>51 826</b></td>
-            <td align="center"><b>3 631 575</b></td>
+                <b>51 892</b></td>
+            <td align="center"><b>3 636 855</b></td>
         </tr>
         </tbody>
     </table>
@@ -131,14 +131,14 @@
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">152</td>
-                                    <td align="center">122</td>
-                                <td align="center"><b>274</b></td>
+                                    <td align="center">154</td>
+                                    <td align="center">124</td>
+                                <td align="center"><b>278</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>1849</b></td>
-                            <td align="center"><b>897</b></td>
+                            <td align="center"><b>1851</b></td>
+                            <td align="center"><b>899</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
