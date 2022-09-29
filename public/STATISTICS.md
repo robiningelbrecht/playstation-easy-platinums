@@ -7,8 +7,8 @@
 
         
 <p align="center">
-    Completing all these games would take you about <kbd>807 hours</kbd>
-    or <kbd>34 days</kbd> and cost you approximately <kbd>$8,656.19</kbd> and <kbd>€4,643.09</kbd>
+    Completing all these games would take you about <kbd>808 hours</kbd>
+    or <kbd>34 days</kbd> and cost you approximately <kbd>$8,664.18</kbd> and <kbd>€4,651.08</kbd>
 </p>
 
 ------
@@ -28,9 +28,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">1</td>
-                <td align="center">71</td>
-                <td align="center">1 350</td>
+                <td align="center">3</td>
+                <td align="center">107</td>
+                <td align="center">4 050</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -40,9 +40,9 @@
             </tr>
                     <tr>
                 <td align="center">September 2022</td>
-                <td align="center">194</td>
-                <td align="center">4 760</td>
-                <td align="center">259 260</td>
+                <td align="center">196</td>
+                <td align="center">4 796</td>
+                <td align="center">261 960</td>
             </tr>
                     <tr>
                 <td align="center">August 2022</td>
@@ -58,11 +58,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>2 831</b>
+            <td align="center"><b>2 833</b>
             </td>
             <td align="center">
-                <b>54 019</b></td>
-            <td align="center"><b>3 745 035</b></td>
+                <b>54 055</b></td>
+            <td align="center"><b>3 747 735</b></td>
         </tr>
         </tbody>
     </table>
@@ -95,9 +95,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>EU</b></td>
-                                    <td align="center">626</td>
+                                    <td align="center">627</td>
                                     <td align="center">290</td>
-                                <td align="center"><b>916</b></td>
+                                <td align="center"><b>917</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>HK</b></td>
@@ -119,9 +119,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>NA</b></td>
-                                    <td align="center">628</td>
+                                    <td align="center">629</td>
                                     <td align="center">293</td>
-                                <td align="center"><b>921</b></td>
+                                <td align="center"><b>922</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>RR</b></td>
@@ -137,7 +137,7 @@
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>1900</b></td>
+                            <td align="center"><b>1902</b></td>
                             <td align="center"><b>931</b></td>
                         <td>&nbsp;</td>
         </tr>
