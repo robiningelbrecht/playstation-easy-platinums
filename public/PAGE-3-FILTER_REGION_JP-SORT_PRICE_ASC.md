@@ -652,6 +652,38 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18410-サクラmmo２-明かされし事実"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18410.png"
+                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18410-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18411.png"
+                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/8358-ノラと皇女と野良猫ハート-hd"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8358.png"
                             alt="ノラと皇女と野良猫ハート HD" width="60"></a></td>
@@ -1082,6 +1114,22 @@
             <td align="center">3</td>
             <td align="center">0</td>
             <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18406-となりに彼女のいる幸せi-fight-with-summer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18406.png"
+                            alt="となりに彼女のいる幸せ～I Fight With Summer～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18406-となりに彼女のいる幸せi-fight-with-summer">となりに彼女のいる幸せ～I Fight With Summer～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1</td>
+            <td align="center">1275</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/7931-まいてつ-pure-station"><img

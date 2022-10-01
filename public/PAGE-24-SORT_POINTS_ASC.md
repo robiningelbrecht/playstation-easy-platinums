@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14909-a-year-of-springs"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14909.png"
+                            alt="A Year of Springs" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14909-a-year-of-springs">A Year of Springs</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">22</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14908-a-year-of-springs"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14908.png"
+                            alt="A Year of Springs" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14908-a-year-of-springs">A Year of Springs</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">22</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18410-サクラmmo２-明かされし事実"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18410.png"
+                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18410-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18411.png"
+                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15604-アイドルカフェを経営しませんか２"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15604.png"
                             alt="アイドルカフェを経営しませんか？２" width="60"></a></td>
@@ -216,6 +280,54 @@
             <td align="center">18</td>
             <td align="center">10</td>
             <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18422-sakura-mmo-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18422.png"
+                            alt="Sakura MMO 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18422-sakura-mmo-2">Sakura MMO 2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18416-sakura-mmo-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18416.png"
+                            alt="Sakura MMO 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18416-sakura-mmo-2">Sakura MMO 2</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18413-sakura-mmo-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18413.png"
+                            alt="Sakura MMO 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18413-sakura-mmo-2">Sakura MMO 2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
             <td align="center">4</td>
             <td align="center">1350</td>
         </tr>
@@ -1372,12 +1484,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17610-organic-engine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17610.png"
+            <td><a href="https://psnprofiles.com/trophies/17611-organic-engine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17611.png"
                             alt="Organic Engine" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17610-organic-engine">Organic Engine</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17611-organic-engine">Organic Engine</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$0.99</td>
@@ -1388,12 +1500,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17611-organic-engine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17611.png"
+            <td><a href="https://psnprofiles.com/trophies/17610-organic-engine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17610.png"
                             alt="Organic Engine" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17611-organic-engine">Organic Engine</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/17610-organic-engine">Organic Engine</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$0.99</td>
@@ -1529,118 +1641,6 @@
             <td align="center">11</td>
             <td align="center">1</td>
             <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13927-highschool-romance"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13927.png"
-                            alt="Highschool Romance" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13927-highschool-romance">Highschool Romance</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$12.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13926-highschool-romance"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13926.png"
-                            alt="Highschool Romance" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13926-highschool-romance">Highschool Romance</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$12.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15514-dr-oil"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15514.png"
-                            alt="Dr. Oil" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15514-dr-oil">Dr. Oil</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15641-disco-cannon-airlines"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15641.png"
-                            alt="Disco Cannon Airlines" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15641-disco-cannon-airlines">Disco Cannon Airlines</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15609-disco-cannon-airlines"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15609.png"
-                            alt="Disco Cannon Airlines" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15609-disco-cannon-airlines">Disco Cannon Airlines</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15597-disco-cannon-airlines"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15597.png"
-                            alt="Disco Cannon Airlines" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15597-disco-cannon-airlines">Disco Cannon Airlines</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13950-baseball-bout-otterrific-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13950.png"
-                            alt="Baseball Bout: Otterrific Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13950-baseball-bout-otterrific-arcade">Baseball Bout: Otterrific Arcade</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">45</td>
-            <td align="center">3</td>
-            <td align="center">11</td>
-            <td align="center">30</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

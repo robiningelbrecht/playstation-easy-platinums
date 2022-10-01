@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/12995-hentai-vs-evil"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12995.png"
+                            alt="Hentai vs. Evil" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12995-hentai-vs-evil">Hentai vs. Evil</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13017-hentai-vs-evil"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13017.png"
+                            alt="Hentai vs. Evil" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13017-hentai-vs-evil">Hentai vs. Evil</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13712-sakura-succubus-4"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13712.png"
                             alt="Sakura Succubus 4" width="60"></a></td>
@@ -1610,38 +1642,6 @@
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11129-jisei"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11129.png"
-                            alt="Jisei" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11129-jisei">Jisei</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">22 min</td>
-            <td align="center"></td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11232-theme-park-simulator"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11232.png"
-                            alt="Theme Park Simulator" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11232-theme-park-simulator">Theme Park Simulator</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">52 min</td>
-            <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

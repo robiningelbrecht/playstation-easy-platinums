@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18405-the-sheep-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18405.png"
+                            alt="The Sheep Quiz" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18405-the-sheep-quiz">The Sheep Quiz</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18328-the-pig-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18328.png"
+                            alt="The Pig Quiz" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18328-the-pig-quiz">The Pig Quiz</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17475-the-pig-quiz"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17475.png"
                             alt="The Pig Quiz" width="60"></a></td>
@@ -1212,12 +1244,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17182-bump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17182.png"
+            <td><a href="https://psnprofiles.com/trophies/17183-bump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17183.png"
                             alt="Bump Jump" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17182-bump-jump">Bump Jump</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17183-bump-jump">Bump Jump</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
@@ -1228,12 +1260,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17183-bump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17183.png"
+            <td><a href="https://psnprofiles.com/trophies/17182-bump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17182.png"
                             alt="Bump Jump" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17183-bump-jump">Bump Jump</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17182-bump-jump">Bump Jump</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
@@ -1604,38 +1636,6 @@
                 <kbd>PS4</kbd>
             </td>
             <td align="center">6 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">36</td>
-            <td align="center">5</td>
-            <td align="center">10</td>
-            <td align="center">20</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17280-softball-4-player-cooperation-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17280.png"
-                            alt="Softball (4 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17280-softball-4-player-cooperation-edition-breakthrough-gaming-arcade">Softball (4 Player Cooperation Edit...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">36</td>
-            <td align="center">5</td>
-            <td align="center">10</td>
-            <td align="center">20</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18180-softball-3-player-cooperation-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18180.png"
-                            alt="Softball (3 Player Cooperation Edition) - Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18180-softball-3-player-cooperation-edition-breakthrough-gaming-arcade">Softball (3 Player Cooperation Edit...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">5 min</td>
             <td align="center">$0.99</td>
             <td align="center">36</td>
             <td align="center">5</td>

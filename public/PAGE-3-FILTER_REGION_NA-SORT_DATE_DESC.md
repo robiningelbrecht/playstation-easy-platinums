@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16277-rage-among-the-stars"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16277.png"
+                            alt="Rage Among The Stars" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16277-rage-among-the-stars">Rage Among The Stars</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">9 min</td>
+            <td align="center">$3.49</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16276-rage-among-the-stars"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16276.png"
+                            alt="Rage Among The Stars" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16276-rage-among-the-stars">Rage Among The Stars</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$3.49</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16271-the-jumping-burger"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16271.png"
                             alt="The Jumping Burger" width="60"></a></td>
@@ -1610,38 +1642,6 @@
             <td align="center">8</td>
             <td align="center">28</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15628-racing-2-player-challenge-mode-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15628.png"
-                            alt="Racing (2 Player Challenge Mode): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15628-racing-2-player-challenge-mode-breakthrough-gaming-arcade">Racing (2 Player Challenge Mode): B...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15615-saint-patricks-day-run"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15615.png"
-                            alt="Saint Patrick&#039;s Day Run" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15615-saint-patricks-day-run">Saint Patrick&#039;s Day Run</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

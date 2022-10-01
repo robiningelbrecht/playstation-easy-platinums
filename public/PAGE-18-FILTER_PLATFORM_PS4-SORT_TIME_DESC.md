@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15591-round-invaders"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15591.png"
+                            alt="Round Invaders" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15591-round-invaders">Round Invaders</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$2.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15235-round-invaders"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15235.png"
+                            alt="Round Invaders" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15235-round-invaders">Round Invaders</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€2.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16204-rock-paper-scissors-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16204.png"
+                            alt="Rock Paper Scissors: Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16204-rock-paper-scissors-breakthrough-gaming-arcade">Rock Paper Scissors: Breakthrough G...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16202-rock-paper-scissors-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16202.png"
+                            alt="Rock Paper Scissors: Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16202-rock-paper-scissors-breakthrough-gaming-arcade">Rock Paper Scissors: Breakthrough G...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15794-richys-nightmares"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15794.png"
                             alt="Richy’s Nightmares" width="60"></a></td>
@@ -604,12 +668,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17182-bump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17182.png"
+            <td><a href="https://psnprofiles.com/trophies/17183-bump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17183.png"
                             alt="Bump Jump" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17182-bump-jump">Bump Jump</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17183-bump-jump">Bump Jump</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
@@ -620,12 +684,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17183-bump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17183.png"
+            <td><a href="https://psnprofiles.com/trophies/17182-bump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17182.png"
                             alt="Bump Jump" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17183-bump-jump">Bump Jump</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17182-bump-jump">Bump Jump</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
@@ -1578,70 +1642,6 @@
             <td align="center">5</td>
             <td align="center">6</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17174-the-jumping-brownie-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17174.png"
-                            alt="The Jumping Brownie: TURBO" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17174-the-jumping-brownie-turbo">The Jumping Brownie: TURBO</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18244-the-cow-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18244.png"
-                            alt="The Cow Quiz" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18244-the-cow-quiz">The Cow Quiz</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18032-the-chicken-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18032.png"
-                            alt="The Chicken Quiz" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18032-the-chicken-quiz">The Chicken Quiz</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17445-taco-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17445.png"
-                            alt="Taco Fun" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17445-taco-fun">Taco Fun</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€2.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

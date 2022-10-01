@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/11083-zero-strain"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11083.png"
+                            alt="Zero Strain" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11083-zero-strain">Zero Strain</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">41 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11082-zero-strain"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11082.png"
+                            alt="Zero Strain" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11082-zero-strain">Zero Strain</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">39 min</td>
+            <td align="center">€9.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/10339-zero-zero-zero-zero"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10339.png"
                             alt="Zero Zero Zero Zero" width="60"></a></td>
@@ -604,6 +636,22 @@
             <td align="center">1275</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18406-となりに彼女のいる幸せi-fight-with-summer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18406.png"
+                            alt="となりに彼女のいる幸せ～I Fight With Summer～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18406-となりに彼女のいる幸せi-fight-with-summer">となりに彼女のいる幸せ～I Fight With Summer～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1</td>
+            <td align="center">1275</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/10151-はつゆきさくら"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10151.png"
                             alt="はつゆきさくら" width="60"></a></td>
@@ -917,6 +965,22 @@
             </td>
             <td align="center">4 min</td>
             <td align="center">$7.99</td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18411.png"
+                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
             <td align="center">16</td>
             <td align="center">11</td>
             <td align="center">0</td>
@@ -1576,70 +1640,6 @@
             <td align="center">24</td>
             <td align="center">5</td>
             <td align="center">18</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12044-幻想牢獄のカレイドスコープ"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12044.png"
-                            alt="幻想牢獄のカレイドスコープ" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12044-幻想牢獄のカレイドスコープ">幻想牢獄のカレイドスコープ</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center"></td>
-            <td align="center">29</td>
-            <td align="center">3</td>
-            <td align="center">24</td>
-            <td align="center">1</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13464-恋愛借りちゃいました"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13464.png"
-                            alt="恋愛、借りちゃいました" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13464-恋愛借りちゃいました">恋愛、借りちゃいました</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">45 min</td>
-            <td align="center"></td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">1</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13467-戦国恋姫-乙女絢爛戦国絵巻-限定版"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13467.png"
-                            alt="戦国†恋姫 ~乙女絢爛☆戦国絵巻~ 限定版" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13467-戦国恋姫-乙女絢爛戦国絵巻-限定版">戦国†恋姫 ~乙女絢爛☆戦国絵巻~ 限定版</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">49 min</td>
-            <td align="center"></td>
-            <td align="center">20</td>
-            <td align="center">8</td>
-            <td align="center">6</td>
-            <td align="center">5</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/6862-月に寄りそう乙女の作法-ひだまりの日々"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/6862.png"
-                            alt="月に寄りそう乙女の作法 ～ひだまりの日々～" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/6862-月に寄りそう乙女の作法-ひだまりの日々">月に寄りそう乙女の作法 ～ひだまりの日々～</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">34 min</td>
-            <td align="center"></td>
-            <td align="center">18</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
             <td align="center">0</td>
             <td align="center">1290</td>
         </tr>

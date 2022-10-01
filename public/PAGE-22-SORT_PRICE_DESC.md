@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14682-the-pig-d"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14682.png"
+                            alt="The Pig D" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14682-the-pig-d">The Pig D</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14676-the-pig-d"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14676.png"
+                            alt="The Pig D" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14676-the-pig-d">The Pig D</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17928-the-penguin-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17928.png"
+                            alt="The Penguin P" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17928-the-penguin-p">The Penguin P</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17949-the-penguin-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17949.png"
+                            alt="The Penguin P" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17949-the-penguin-p">The Penguin P</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17948-the-penguin-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17948.png"
+                            alt="The Penguin P" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17948-the-penguin-p">The Penguin P</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17927-the-penguin-p"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17927.png"
                             alt="The Penguin P" width="60"></a></td>
@@ -60,12 +140,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17948-the-penguin-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17948.png"
+            <td><a href="https://psnprofiles.com/trophies/17950-the-penguin-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17950.png"
                             alt="The Penguin P" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17948-the-penguin-p">The Penguin P</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/17950-the-penguin-p">The Penguin P</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -108,12 +188,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17950-the-penguin-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17950.png"
-                            alt="The Penguin P" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/17678-the-llama-l"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17678.png"
+                            alt="The Llama L" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17950-the-penguin-p">The Penguin P</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17678-the-llama-l">The Llama L</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -130,22 +210,6 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/17672-the-llama-l">The Llama L</a>
                 <kbd>PS5</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17678-the-llama-l"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17678.png"
-                            alt="The Llama L" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17678-the-llama-l">The Llama L</a>
-                <kbd>PS4</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -1500,12 +1564,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18405-the-sheep-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18405.png"
+            <td><a href="https://psnprofiles.com/trophies/18409-the-sheep-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18409.png"
                             alt="The Sheep Quiz" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18405-the-sheep-quiz">The Sheep Quiz</a>
-                <kbd>PS4</kbd>
+                <a href="https://psnprofiles.com/trophies/18409-the-sheep-quiz">The Sheep Quiz</a>
+                <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1516,12 +1580,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18409-the-sheep-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18409.png"
+            <td><a href="https://psnprofiles.com/trophies/18405-the-sheep-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18405.png"
                             alt="The Sheep Quiz" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18409-the-sheep-quiz">The Sheep Quiz</a>
-                <kbd>PS5</kbd>
+                <a href="https://psnprofiles.com/trophies/18405-the-sheep-quiz">The Sheep Quiz</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1570,70 +1634,6 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/17451-the-pig-quiz">The Pig Quiz</a>
                 <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17475-the-pig-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17475.png"
-                            alt="The Pig Quiz" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17475-the-pig-quiz">The Pig Quiz</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17476-the-pig-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17476.png"
-                            alt="The Pig Quiz" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17476-the-pig-quiz">The Pig Quiz</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17282-the-jumping-sushi"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17282.png"
-                            alt="The Jumping Sushi" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17282-the-jumping-sushi">The Jumping Sushi</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18244-the-cow-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18244.png"
-                            alt="The Cow Quiz" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18244-the-cow-quiz">The Cow Quiz</a>
-                <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>

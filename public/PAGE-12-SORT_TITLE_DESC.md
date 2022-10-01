@@ -44,6 +44,118 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16665-rock-paper-scissors-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16665.png"
+                            alt="Rock Paper Scissors (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16665-rock-paper-scissors-challenge-mode-edition-breakthrough-gaming-arcade">Rock Paper Scissors (Challenge Mode...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11013-robozarro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11013.png"
+                            alt="Robozarro" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11013-robozarro">Robozarro</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11012-robozarro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11012.png"
+                            alt="Robozarro" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11012-robozarro">Robozarro</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">29 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11011-robozarro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11011.png"
+                            alt="Robozarro" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11011-robozarro">Robozarro</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11010-robozarro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11010.png"
+                            alt="Robozarro" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11010-robozarro">Robozarro</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17504-robbys-adventure"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17504.png"
+                            alt="Robby&#039;s Adventure" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17504-robbys-adventure">Robby&#039;s Adventure</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">17</td>
+            <td align="center">9</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18282-roar-of-revenge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18282.png"
+                            alt="Roar of Revenge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18282-roar-of-revenge">Roar of Revenge</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">35 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/18279-roar-of-revenge"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18279.png"
                             alt="Roar of Revenge" width="60"></a></td>
@@ -1260,12 +1372,12 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17837-rainbow-mix-advanced"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17837.png"
+            <td><a href="https://psnprofiles.com/trophies/17808-rainbow-mix-advanced"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17808.png"
                             alt="Rainbow Mix Advanced" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17837-rainbow-mix-advanced">Rainbow Mix Advanced</a>
-                <kbd>PS4</kbd>
+                <a href="https://psnprofiles.com/trophies/17808-rainbow-mix-advanced">Rainbow Mix Advanced</a>
+                <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1276,12 +1388,12 @@
             <td align="center">1335</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17808-rainbow-mix-advanced"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17808.png"
+            <td><a href="https://psnprofiles.com/trophies/17837-rainbow-mix-advanced"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17837.png"
                             alt="Rainbow Mix Advanced" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17808-rainbow-mix-advanced">Rainbow Mix Advanced</a>
-                <kbd>PS5</kbd>
+                <a href="https://psnprofiles.com/trophies/17837-rainbow-mix-advanced">Rainbow Mix Advanced</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1530,118 +1642,6 @@
             <td align="center">2</td>
             <td align="center">0</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16276-rage-among-the-stars"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16276.png"
-                            alt="Rage Among The Stars" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16276-rage-among-the-stars">Rage Among The Stars</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$3.49</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16273-rage-among-the-stars"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16273.png"
-                            alt="Rage Among The Stars" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16273-rage-among-the-stars">Rage Among The Stars</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">€3.49</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16272-rage-among-the-stars"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16272.png"
-                            alt="Rage Among The Stars" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16272-rage-among-the-stars">Rage Among The Stars</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">€3.49</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15680-radioactive-dwarfs-evil-from-the-sewers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15680.png"
-                            alt="Radioactive Dwarfs: Evil From the Sewers" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15680-radioactive-dwarfs-evil-from-the-sewers">Radioactive Dwarfs: Evil From the S...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">1</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15679-radioactive-dwarfs-evil-from-the-sewers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15679.png"
-                            alt="Radioactive Dwarfs: Evil From the Sewers" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15679-radioactive-dwarfs-evil-from-the-sewers">Radioactive Dwarfs: Evil From the S...</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">1</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15675-radioactive-dwarfs-evil-from-the-sewers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15675.png"
-                            alt="Radioactive Dwarfs: Evil From the Sewers" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15675-radioactive-dwarfs-evil-from-the-sewers">Radioactive Dwarfs: Evil From the S...</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">1</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10953-radio-squid"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10953.png"
-                            alt="Radio Squid" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10953-radio-squid">Radio Squid</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">22 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/7931-まいてつ-pure-station"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7931.png"
+                            alt="まいてつ Pure Station" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/7931-まいてつ-pure-station">まいてつ Pure Station</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">48 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10151-はつゆきさくら"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10151.png"
+                            alt="はつゆきさくら" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10151-はつゆきさくら">はつゆきさくら</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">60 min</td>
+            <td align="center"></td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18406-となりに彼女のいる幸せi-fight-with-summer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18406.png"
+                            alt="となりに彼女のいる幸せ～I Fight With Summer～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18406-となりに彼女のいる幸せi-fight-with-summer">となりに彼女のいる幸せ～I Fight With Summer～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1</td>
+            <td align="center">1275</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15019-さくらの雲スカアレットの恋"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15019.png"
                             alt="さくらの雲＊スカアレットの恋" width="60"></a></td>
@@ -412,12 +460,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17930-the-penguin-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17930.png"
+            <td><a href="https://psnprofiles.com/trophies/17950-the-penguin-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17950.png"
                             alt="The Penguin P" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17930-the-penguin-p">The Penguin P</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17950-the-penguin-p">The Penguin P</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -428,12 +476,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17950-the-penguin-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17950.png"
+            <td><a href="https://psnprofiles.com/trophies/17930-the-penguin-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17930.png"
                             alt="The Penguin P" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17950-the-penguin-p">The Penguin P</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17930-the-penguin-p">The Penguin P</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -1356,22 +1404,6 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16908-parasite-pack"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16908.png"
-                            alt="Parasite Pack" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16908-parasite-pack">Parasite Pack</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/16978-parasite-pack"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16978.png"
                             alt="Parasite Pack" width="60"></a></td>
@@ -1380,6 +1412,22 @@
                 <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">12 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16908-parasite-pack"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16908.png"
+                            alt="Parasite Pack" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16908-parasite-pack">Parasite Pack</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">11 min</td>
             <td align="center">$7.99</td>
             <td align="center">14</td>
             <td align="center">11</td>
@@ -1593,54 +1641,6 @@
             <td align="center">8</td>
             <td align="center">10</td>
             <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13943-love-choice-愛の選択"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13943.png"
-                            alt="Love Choice 愛の選択" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13943-love-choice-愛の選択">Love Choice 愛の選択</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">39 min</td>
-            <td align="center"></td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12001-lost-wing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12001.png"
-                            alt="Lost Wing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12001-lost-wing">Lost Wing</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12711-kingdom-of-arcadia"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12711.png"
-                            alt="Kingdom of Arcadia" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12711-kingdom-of-arcadia">Kingdom of Arcadia</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">34 min</td>
-            <td align="center">$2.39</td>
-            <td align="center">22</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

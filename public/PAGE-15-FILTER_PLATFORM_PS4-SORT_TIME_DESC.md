@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13418-track-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13418.png"
+                            alt="Track (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13418-track-challenge-mode-edition-breakthrough-gaming-arcade">Track (Challenge Mode Edition): Bre...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13588-tokyo-run"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13588.png"
+                            alt="Tokyo Run" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13588-tokyo-run">Tokyo Run</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13586-tokyo-run"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13586.png"
+                            alt="Tokyo Run" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13586-tokyo-run">Tokyo Run</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13585-tokyo-run"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13585.png"
+                            alt="Tokyo Run" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13585-tokyo-run">Tokyo Run</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/9810-tic-tac-letters-by-powgi"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9810.png"
                             alt="Tic-Tac-Letters by POWGI" width="60"></a></td>
@@ -556,12 +620,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17610-organic-engine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17610.png"
+            <td><a href="https://psnprofiles.com/trophies/17611-organic-engine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17611.png"
                             alt="Organic Engine" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17610-organic-engine">Organic Engine</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17611-organic-engine">Organic Engine</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$0.99</td>
@@ -572,12 +636,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17611-organic-engine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17611.png"
+            <td><a href="https://psnprofiles.com/trophies/17610-organic-engine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17610.png"
                             alt="Organic Engine" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17611-organic-engine">Organic Engine</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/17610-organic-engine">Organic Engine</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$0.99</td>
@@ -1578,70 +1642,6 @@
             <td align="center">23</td>
             <td align="center">4</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17798-the-wine-story"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17798.png"
-                            alt="The Wine Story" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17798-the-wine-story">The Wine Story</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17764-the-volleyball-b"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17764.png"
-                            alt="The Volleyball B" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17764-the-volleyball-b">The Volleyball B</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18265-the-tiger-t"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18265.png"
-                            alt="The Tiger T" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18265-the-tiger-t">The Tiger T</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18264-the-tiger-t"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18264.png"
-                            alt="The Tiger T" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18264-the-tiger-t">The Tiger T</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

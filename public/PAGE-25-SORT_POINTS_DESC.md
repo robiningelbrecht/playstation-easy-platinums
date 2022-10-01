@@ -44,6 +44,102 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14904-space-kabaam"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14904.png"
+                            alt="Space KaBAAM" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14904-space-kabaam">Space KaBAAM</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14901-space-kabaam"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14901.png"
+                            alt="Space KaBAAM" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14901-space-kabaam">Space KaBAAM</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14800-space-kabaam"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14800.png"
+                            alt="Space KaBAAM" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14800-space-kabaam">Space KaBAAM</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14799-space-kabaam"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14799.png"
+                            alt="Space KaBAAM" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14799-space-kabaam">Space KaBAAM</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14798-space-kabaam"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14798.png"
+                            alt="Space KaBAAM" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14798-space-kabaam">Space KaBAAM</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14400-soulfrost"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14400.png"
+                            alt="SoulFrost" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14400-soulfrost">SoulFrost</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17219-on-sunday"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17219.png"
                             alt="On Sunday" width="60"></a></td>
@@ -1545,102 +1641,6 @@
             <td align="center">8</td>
             <td align="center">6</td>
             <td align="center">6</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16415-space-2-3-player-cooperation-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16415.png"
-                            alt="Space 2 (3 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16415-space-2-3-player-cooperation-edition-breakthrough-gaming-arcade">Space 2 (3 Player Cooperation Editi...</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16576-space-2-2-player-cooperation-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16576.png"
-                            alt="Space 2 (2 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16576-space-2-2-player-cooperation-edition-breakthrough-gaming-arcade">Space 2 (2 Player Cooperation Editi...</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14388-sakura-nova"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14388.png"
-                            alt="Sakura Nova" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14388-sakura-nova">Sakura Nova</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€11.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14387-sakura-nova"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14387.png"
-                            alt="Sakura Nova" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14387-sakura-nova">Sakura Nova</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$11.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15615-saint-patricks-day-run"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15615.png"
-                            alt="Saint Patrick&#039;s Day Run" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15615-saint-patricks-day-run">Saint Patrick&#039;s Day Run</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15068-racing-3-player-cooperation-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15068.png"
-                            alt="Racing (3 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15068-racing-3-player-cooperation-edition-breakthrough-gaming-arcade">Racing (3 Player Cooperation Editio...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
             <td align="center">1290</td>
         </tr>
         </tbody>

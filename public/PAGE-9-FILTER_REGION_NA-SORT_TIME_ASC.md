@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/11732-the-perplexing-orb-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11732.png"
+                            alt="The Perplexing Orb 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11732-the-perplexing-orb-2">The Perplexing Orb 2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">37 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">28</td>
+            <td align="center">7</td>
+            <td align="center">8</td>
+            <td align="center">12</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10877-superhero-x"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10877.png"
+                            alt="Superhero-X" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10877-superhero-x">Superhero-X</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">37 min</td>
+            <td align="center">$19.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">1</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13780-one-eyed-lee-and-the-dinner-party"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13780.png"
                             alt="One-Eyed Lee and the Dinner Party" width="60"></a></td>
@@ -1610,38 +1642,6 @@
             <td align="center">3</td>
             <td align="center">1</td>
             <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10126-word-maze-by-powgi"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10126.png"
-                            alt="Word Maze by POWGI" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10126-word-maze-by-powgi">Word Maze by POWGI</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">55 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">33</td>
-            <td align="center">1</td>
-            <td align="center">31</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15118-summertime-madness"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15118.png"
-                            alt="Summertime Madness" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15118-summertime-madness">Summertime Madness</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">55 min</td>
-            <td align="center">$14.99</td>
-            <td align="center">15</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1260</td>
         </tr>
         </tbody>
 </table>

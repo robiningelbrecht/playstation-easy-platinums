@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13935-a-day-without-me"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13935.png"
+                            alt="A Day Without Me" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13935-a-day-without-me">A Day Without Me</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13757-sun-wukong-vs-robot"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13757.png"
+                            alt="Sun Wukong VS Robot" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13757-sun-wukong-vs-robot">Sun Wukong VS Robot</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14011-earth-marines"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14011.png"
+                            alt="Earth Marines" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14011-earth-marines">Earth Marines</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12698-bullet-beat"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12698.png"
+                            alt="Bullet Beat" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12698-bullet-beat">Bullet Beat</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12827-skatemasta-tcheco"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12827.png"
                             alt="Skatemasta Tcheco" width="60"></a></td>
@@ -1578,70 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14152-space-revenge"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14152.png"
-                            alt="Space Revenge" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14152-space-revenge">Space Revenge</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$4.94</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14258-racing-bros"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14258.png"
-                            alt="Racing Bros" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14258-racing-bros">Racing Bros</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">22 min</td>
-            <td align="center">€4.88</td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">4</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14301-gleylancer"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14301.png"
-                            alt="Gleylancer" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14301-gleylancer">Gleylancer</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">39 min</td>
-            <td align="center">€4.88</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14317-gleylancer"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14317.png"
-                            alt="Gleylancer" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14317-gleylancer">Gleylancer</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center">€4.88</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

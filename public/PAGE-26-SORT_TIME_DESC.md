@@ -44,6 +44,118 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16204-rock-paper-scissors-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16204.png"
+                            alt="Rock Paper Scissors: Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16204-rock-paper-scissors-breakthrough-gaming-arcade">Rock Paper Scissors: Breakthrough G...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16202-rock-paper-scissors-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16202.png"
+                            alt="Rock Paper Scissors: Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16202-rock-paper-scissors-breakthrough-gaming-arcade">Rock Paper Scissors: Breakthrough G...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15794-richys-nightmares"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15794.png"
+                            alt="Richy’s Nightmares" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15794-richys-nightmares">Richy’s Nightmares</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13224-racing-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13224.png"
+                            alt="Racing: Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13224-racing-breakthrough-gaming-arcade">Racing: Breakthrough Gaming Arcade</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18190-qump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18190.png"
+                            alt="Qump Jump" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18190-qump-jump">Qump Jump</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18189-qump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18189.png"
+                            alt="Qump Jump" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18189-qump-jump">Qump Jump</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18092-platty-bird-6"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18092.png"
+                            alt="Platty Bird 6" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18092-platty-bird-6">Platty Bird 6</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">31</td>
+            <td align="center">7</td>
+            <td align="center">5</td>
+            <td align="center">18</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/18047-platty-bird-5"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18047.png"
                             alt="Platty Bird 5" width="60"></a></td>
@@ -972,22 +1084,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17184-bump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17184.png"
-                            alt="Bump Jump" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17184-bump-jump">Bump Jump</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/17181-bump-jump"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17181.png"
                             alt="Bump Jump" width="60"></a></td>
@@ -1004,12 +1100,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17182-bump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17182.png"
+            <td><a href="https://psnprofiles.com/trophies/17184-bump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17184.png"
                             alt="Bump Jump" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17182-bump-jump">Bump Jump</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17184-bump-jump">Bump Jump</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
@@ -1026,6 +1122,22 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/17183-bump-jump">Bump Jump</a>
                 <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17182-bump-jump"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17182.png"
+                            alt="Bump Jump" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17182-bump-jump">Bump Jump</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
@@ -1530,118 +1642,6 @@
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18309-zj-the-ball-calculator"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18309.png"
-                            alt="ZJ the Ball Calculator" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18309-zj-the-ball-calculator">ZJ the Ball Calculator</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17383-xump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17383.png"
-                            alt="Xump Jump" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17383-xump-jump">Xump Jump</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16349-welcome-to-the-world-of-zj-the-ball"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16349.png"
-                            alt="Welcome to the World of ZJ the Ball" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16349-welcome-to-the-world-of-zj-the-ball">Welcome to the World of ZJ the Ball</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16343-welcome-to-the-world-of-zj-the-ball"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16343.png"
-                            alt="Welcome to the World of ZJ the Ball" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16343-welcome-to-the-world-of-zj-the-ball">Welcome to the World of ZJ the Ball</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€0.49</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17086-welcome-to-pammys-story-in-the-world-of-project-summer-ice-visual-novel"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17086.png"
-                            alt="Welcome to Pammy&#039;s Story in the World of Project: Summer Ice (Visual Novel)" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17086-welcome-to-pammys-story-in-the-world-of-project-summer-ice-visual-novel">Welcome to Pammy&#039;s Story in the Wor...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$0.49</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17087-welcome-to-pammys-story-in-the-world-of-project-summer-ice"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17087.png"
-                            alt="Welcome to Pammy&#039;s Story in the World of Project: Summer Ice" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17087-welcome-to-pammys-story-in-the-world-of-project-summer-ice">Welcome to Pammy&#039;s Story in the Wor...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$0.49</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17283-welcome-to-marks-story-in-the-world-of-project-summer-ice-visual-novel"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17283.png"
-                            alt="Welcome to Mark&#039;s Story in the World of Project: Summer Ice (Visual Novel)" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17283-welcome-to-marks-story-in-the-world-of-project-summer-ice-visual-novel">Welcome to Mark&#039;s Story in the Worl...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$0.49</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

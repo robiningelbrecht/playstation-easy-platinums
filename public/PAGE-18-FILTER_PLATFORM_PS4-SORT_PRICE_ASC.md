@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/12616-c14-dating"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12616.png"
+                            alt="C14 Dating" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12616-c14-dating">C14 Dating</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">37 min</td>
+            <td align="center">$19.98</td>
+            <td align="center">35</td>
+            <td align="center">4</td>
+            <td align="center">16</td>
+            <td align="center">14</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13550-c14-dating"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13550.png"
+                            alt="C14 Dating" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13550-c14-dating">C14 Dating</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">35 min</td>
+            <td align="center">$19.98</td>
+            <td align="center">35</td>
+            <td align="center">4</td>
+            <td align="center">16</td>
+            <td align="center">14</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15864-fall-guys-ultimate-knockout"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15864.png"
                             alt="Fall Guys: Ultimate Knockout" width="60"></a></td>
@@ -1610,38 +1642,6 @@
             <td align="center">7</td>
             <td align="center">1</td>
             <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/7405-ダルセーニョ"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7405.png"
-                            alt="ダル・セーニョ" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/7405-ダルセーニョ">ダル・セーニョ</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">47 min</td>
-            <td align="center"></td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">1</td>
-            <td align="center">6</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/8665-スキとスキとでサンカク恋愛"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8665.png"
-                            alt="スキとスキとでサンカク恋愛" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/8665-スキとスキとでサンカク恋愛">スキとスキとでサンカク恋愛</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center"></td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">2</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

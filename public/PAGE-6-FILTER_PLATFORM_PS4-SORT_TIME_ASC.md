@@ -1356,6 +1356,22 @@
             <td align="center">1305</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18411.png"
+                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14279-zippy-the-circle-levels-5-6-7"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14279.png"
                             alt="Zippy the Circle: Levels 5, 6, &amp; 7" width="60"></a></td>
@@ -1612,11 +1628,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17462-sakura-mmo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17462.png"
-                            alt="Sakura MMO" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/18422-sakura-mmo-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18422.png"
+                            alt="Sakura MMO 2" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17462-sakura-mmo">Sakura MMO</a>
+                <a href="https://psnprofiles.com/trophies/18422-sakura-mmo-2">Sakura MMO 2</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">6 min</td>
@@ -1626,22 +1642,6 @@
             <td align="center">0</td>
             <td align="center">4</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15603-saint-patricks-day-run"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15603.png"
-                            alt="Saint Patrick&#039;s Day Run" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15603-saint-patricks-day-run">Saint Patrick&#039;s Day Run</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

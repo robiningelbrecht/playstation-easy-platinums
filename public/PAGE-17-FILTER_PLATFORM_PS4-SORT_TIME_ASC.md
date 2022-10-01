@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/10757-active-neurons"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10757.png"
+                            alt="Active Neurons" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10757-active-neurons">Active Neurons</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">35 min</td>
+            <td align="center"></td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">6</td>
+            <td align="center">3</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11385-a-hero-and-a-garden"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11385.png"
+                            alt="A Hero and a Garden" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11385-a-hero-and-a-garden">A Hero and a Garden</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">35 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15815-アイキス3-cute"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15815.png"
+                            alt="アイキス3 Cute" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15815-アイキス3-cute">アイキス3 Cute</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center"></td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11085-zero-strain"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11085.png"
+                            alt="Zero Strain" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11085-zero-strain">Zero Strain</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12427-the-lost-cube"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12427.png"
                             alt="The Lost Cube" width="60"></a></td>
@@ -1578,70 +1642,6 @@
             <td align="center">13</td>
             <td align="center">2</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12032-freddy-spaghetti"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12032.png"
-                            alt="Freddy Spaghetti" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12032-freddy-spaghetti">Freddy Spaghetti</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">42 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">56</td>
-            <td align="center">1</td>
-            <td align="center">10</td>
-            <td align="center">44</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15364-el-gancho"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15364.png"
-                            alt="El Gancho" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15364-el-gancho">El Gancho</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">42 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13032-crossbow-crusade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13032.png"
-                            alt="Crossbow Crusade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13032-crossbow-crusade">Crossbow Crusade</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">42 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">22</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12235-caves-and-castles-underworld"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12235.png"
-                            alt="Caves and Castles: Underworld" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12235-caves-and-castles-underworld">Caves and Castles: Underworld</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">42 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">23</td>
-            <td align="center">7</td>
-            <td align="center">11</td>
-            <td align="center">4</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

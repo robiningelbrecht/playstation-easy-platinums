@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13677-zj-the-ball-level-1"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13677.png"
+                            alt="ZJ the Ball: Level 1" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13677-zj-the-ball-level-1">ZJ the Ball: Level 1</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13748-zj-the-ball-level-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13748.png"
+                            alt="ZJ the Ball: Level 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13748-zj-the-ball-level-2">ZJ the Ball: Level 2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13745-zj-the-ball-level-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13745.png"
+                            alt="ZJ the Ball: Level 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13745-zj-the-ball-level-2">ZJ the Ball: Level 2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13838-zj-the-ball-level-3"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13838.png"
+                            alt="ZJ the Ball: Level 3" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13838-zj-the-ball-level-3">ZJ the Ball: Level 3</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13837-zj-the-ball-level-3"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13837.png"
                             alt="ZJ the Ball: Level 3" width="60"></a></td>
@@ -812,6 +876,22 @@
             <td align="center">1275</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18406-となりに彼女のいる幸せi-fight-with-summer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18406.png"
+                            alt="となりに彼女のいる幸せ～I Fight With Summer～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18406-となりに彼女のいる幸せi-fight-with-summer">となりに彼女のいる幸せ～I Fight With Summer～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1</td>
+            <td align="center">1275</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/10151-はつゆきさくら"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10151.png"
                             alt="はつゆきさくら" width="60"></a></td>
@@ -1244,6 +1324,38 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18410-サクラmmo２-明かされし事実"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18410.png"
+                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18410-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18411.png"
+                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12784-サクラサキュバス-モテ期は唐突に"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12784.png"
                             alt="サクラ・サキュバス ～モテ期は唐突に～" width="60"></a></td>
@@ -1524,118 +1636,6 @@
                 <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">14 min</td>
-            <td align="center"></td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/4134-シュタインズゲート-ゼロ"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/4134.png"
-                            alt="シュタインズ・ゲート ゼロ" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/4134-シュタインズゲート-ゼロ">シュタインズ・ゲート ゼロ</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">59 min</td>
-            <td align="center"></td>
-            <td align="center">28</td>
-            <td align="center">5</td>
-            <td align="center">12</td>
-            <td align="center">10</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/8665-スキとスキとでサンカク恋愛"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8665.png"
-                            alt="スキとスキとでサンカク恋愛" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/8665-スキとスキとでサンカク恋愛">スキとスキとでサンカク恋愛</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center"></td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">2</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14186-タコリタミーツポテト"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14186.png"
-                            alt="タコリタ・ミーツ・ポテト" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14186-タコリタミーツポテト">タコリタ・ミーツ・ポテト</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center"></td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14185-タコリタミーツポテト"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14185.png"
-                            alt="タコリタ・ミーツ・ポテト" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14185-タコリタミーツポテト">タコリタ・ミーツ・ポテト</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center"></td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10771-タスクフォース-カンパス"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10771.png"
-                            alt="タスクフォース カンパス" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10771-タスクフォース-カンパス">タスクフォース カンパス</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center"></td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12673-タリアの伝説-女騎士アルカディア"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12673.png"
-                            alt="タリアの伝説 女騎士アルカディア" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12673-タリアの伝説-女騎士アルカディア">タリアの伝説 女騎士アルカディア</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center"></td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12670-タリアの伝説-女騎士アルカディア"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12670.png"
-                            alt="タリアの伝説 女騎士アルカディア" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12670-タリアの伝説-女騎士アルカディア">タリアの伝説 女騎士アルカディア</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">1 min</td>
             <td align="center"></td>
             <td align="center">14</td>
             <td align="center">11</td>

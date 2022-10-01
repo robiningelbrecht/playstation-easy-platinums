@@ -1132,6 +1132,38 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18410-サクラmmo２-明かされし事実"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18410.png"
+                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18410-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18411.png"
+                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18411-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17463-サクラmmo-リアルな現実離れ"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17463.png"
                             alt="サクラ・MMO ～リアルな現実離れ～" width="60"></a></td>
@@ -1605,38 +1637,6 @@
             </td>
             <td align="center">17 min</td>
             <td align="center"></td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13918-poker-pretty-girls-battle-texas-holdem"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13918.png"
-                            alt="Poker Pretty Girls Battle: Texas Hold&#039;em" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13918-poker-pretty-girls-battle-texas-holdem">Poker Pretty Girls Battle: Texas Ho...</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">17 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11300-fullblast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11300.png"
-                            alt="FullBlast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11300-fullblast">FullBlast</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">15 min</td>
-            <td align="center">$2.99</td>
             <td align="center">14</td>
             <td align="center">11</td>
             <td align="center">2</td>

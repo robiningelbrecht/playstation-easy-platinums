@@ -44,6 +44,118 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14706-void-gore"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14706.png"
+                            alt="Void Gore" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14706-void-gore">Void Gore</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14703-void-gore"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14703.png"
+                            alt="Void Gore" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14703-void-gore">Void Gore</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12391-ultragoodness-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12391.png"
+                            alt="UltraGoodness 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12391-ultragoodness-2">UltraGoodness 2</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12307-ultragoodness-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12307.png"
+                            alt="UltraGoodness 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12307-ultragoodness-2">UltraGoodness 2</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15481-cattch"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15481.png"
+                            alt="Cattch" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15481-cattch">Cattch</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">19 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16670-cattch"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16670.png"
+                            alt="Cattch" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16670-cattch">Cattch</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12390-ultragoodness-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12390.png"
+                            alt="UltraGoodness 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12390-ultragoodness-2">UltraGoodness 2</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17744-aquadine"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17744.png"
                             alt="Aquadine" width="60"></a></td>
@@ -188,12 +300,12 @@
             <td align="center">1335</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17837-rainbow-mix-advanced"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17837.png"
+            <td><a href="https://psnprofiles.com/trophies/17808-rainbow-mix-advanced"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17808.png"
                             alt="Rainbow Mix Advanced" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17837-rainbow-mix-advanced">Rainbow Mix Advanced</a>
-                <kbd>PS4</kbd>
+                <a href="https://psnprofiles.com/trophies/17808-rainbow-mix-advanced">Rainbow Mix Advanced</a>
+                <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -204,12 +316,12 @@
             <td align="center">1335</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17808-rainbow-mix-advanced"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17808.png"
+            <td><a href="https://psnprofiles.com/trophies/17837-rainbow-mix-advanced"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17837.png"
                             alt="Rainbow Mix Advanced" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17808-rainbow-mix-advanced">Rainbow Mix Advanced</a>
-                <kbd>PS5</kbd>
+                <a href="https://psnprofiles.com/trophies/17837-rainbow-mix-advanced">Rainbow Mix Advanced</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1530,118 +1642,6 @@
             <td align="center">6</td>
             <td align="center">4</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14129-サクラ水泳部-転校生の決意"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14129.png"
-                            alt="サクラ水泳部 ～転校生の決意～" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14129-サクラ水泳部-転校生の決意">サクラ水泳部 ～転校生の決意～</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center"></td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14059-sakura-swim-club"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14059.png"
-                            alt="Sakura Swim Club" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14059-sakura-swim-club">Sakura Swim Club</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14057-sakura-swim-club"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14057.png"
-                            alt="Sakura Swim Club" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14057-sakura-swim-club">Sakura Swim Club</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€9.99</td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17826-round-invaders-rush"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17826.png"
-                            alt="Round Invaders Rush" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17826-round-invaders-rush">Round Invaders Rush</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.99</td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18012-the-button-be-unexpected"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18012.png"
-                            alt="The Button Be: Unexpected" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18012-the-button-be-unexpected">The Button Be: Unexpected</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">5</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13467-戦国恋姫-乙女絢爛戦国絵巻-限定版"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13467.png"
-                            alt="戦国†恋姫 ~乙女絢爛☆戦国絵巻~ 限定版" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13467-戦国恋姫-乙女絢爛戦国絵巻-限定版">戦国†恋姫 ~乙女絢爛☆戦国絵巻~ 限定版</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">49 min</td>
-            <td align="center"></td>
-            <td align="center">20</td>
-            <td align="center">8</td>
-            <td align="center">6</td>
-            <td align="center">5</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13796-かけぬけ青春スパーキング"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13796.png"
-                            alt="かけぬけ★青春スパーキング！" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13796-かけぬけ青春スパーキング">かけぬけ★青春スパーキング！</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">37 min</td>
-            <td align="center"></td>
-            <td align="center">20</td>
-            <td align="center">8</td>
-            <td align="center">6</td>
-            <td align="center">5</td>
-            <td align="center">1275</td>
         </tr>
         </tbody>
 </table>

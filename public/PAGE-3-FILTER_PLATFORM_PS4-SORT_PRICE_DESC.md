@@ -444,6 +444,38 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18422-sakura-mmo-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18422.png"
+                            alt="Sakura MMO 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18422-sakura-mmo-2">Sakura MMO 2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18413-sakura-mmo-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18413.png"
+                            alt="Sakura MMO 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18413-sakura-mmo-2">Sakura MMO 2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17462-sakura-mmo"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17462.png"
                             alt="Sakura MMO" width="60"></a></td>
@@ -572,12 +604,12 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16649-thunder-kid-ii-null-mission"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16649.png"
+            <td><a href="https://psnprofiles.com/trophies/16686-thunder-kid-ii-null-mission"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16686.png"
                             alt="Thunder Kid II: Null Mission" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16649-thunder-kid-ii-null-mission">Thunder Kid II: Null Mission</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/16686-thunder-kid-ii-null-mission">Thunder Kid II: Null Mission</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">21 min</td>
             <td align="center">$7.99</td>
@@ -588,12 +620,12 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16686-thunder-kid-ii-null-mission"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16686.png"
+            <td><a href="https://psnprofiles.com/trophies/16649-thunder-kid-ii-null-mission"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16649.png"
                             alt="Thunder Kid II: Null Mission" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16686-thunder-kid-ii-null-mission">Thunder Kid II: Null Mission</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/16649-thunder-kid-ii-null-mission">Thunder Kid II: Null Mission</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">21 min</td>
             <td align="center">$7.99</td>
@@ -1601,38 +1633,6 @@
                             alt="Space Break Head to Head" width="60"></a></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/12190-space-break-head-to-head">Space Break Head to Head</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13027-dragon-break-classic-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13027.png"
-                            alt="Dragon Break Classic Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13027-dragon-break-classic-head-to-head">Dragon Break Classic Head to Head</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11800-christmas-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11800.png"
-                            alt="Christmas Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11800-christmas-break-head-to-head">Christmas Break Head to Head</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">21 min</td>

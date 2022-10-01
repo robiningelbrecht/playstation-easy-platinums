@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17950-the-penguin-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17950.png"
+                            alt="The Penguin P" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17950-the-penguin-p">The Penguin P</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17944-drag-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17944.png"
+                            alt="Drag Journey" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17944-drag-journey">Drag Journey</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17917-the-mysteries-of-ranko-togawa-murder-on-the-marine-express"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17917.png"
+                            alt="The Mysteries of Ranko Togawa: Murder on the Marine Express" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17917-the-mysteries-of-ranko-togawa-murder-on-the-marine-express">The Mysteries of Ranko Togawa: Murd...</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17934-platty-bird-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17934.png"
+                            alt="Platty Bird 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17934-platty-bird-2">Platty Bird 2</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.50</td>
+            <td align="center">31</td>
+            <td align="center">7</td>
+            <td align="center">5</td>
+            <td align="center">18</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17922-the-pigeon-p"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17922.png"
                             alt="The Pigeon P" width="60"></a></td>
@@ -108,22 +172,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17898-shapeu"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17898.png"
-                            alt="Shapeu" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17898-shapeu">Shapeu</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">30</td>
-            <td align="center">5</td>
-            <td align="center">16</td>
-            <td align="center">8</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/17896-shapeu"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17896.png"
                             alt="Shapeu" width="60"></a></td>
@@ -148,6 +196,22 @@
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">30</td>
+            <td align="center">5</td>
+            <td align="center">16</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17898-shapeu"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17898.png"
+                            alt="Shapeu" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17898-shapeu">Shapeu</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">2 min</td>
             <td align="center">$1.49</td>
             <td align="center">30</td>
             <td align="center">5</td>
@@ -1004,12 +1068,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17610-organic-engine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17610.png"
+            <td><a href="https://psnprofiles.com/trophies/17611-organic-engine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17611.png"
                             alt="Organic Engine" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17610-organic-engine">Organic Engine</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17611-organic-engine">Organic Engine</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$0.99</td>
@@ -1020,12 +1084,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17611-organic-engine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17611.png"
+            <td><a href="https://psnprofiles.com/trophies/17610-organic-engine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17610.png"
                             alt="Organic Engine" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17611-organic-engine">Organic Engine</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/17610-organic-engine">Organic Engine</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$0.99</td>
@@ -1578,70 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16971-the-enigma-machine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16971.png"
-                            alt="The Enigma Machine" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16971-the-enigma-machine">The Enigma Machine</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17485-tump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17485.png"
-                            alt="Tump Jump" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17485-tump-jump">Tump Jump</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17488-tump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17488.png"
-                            alt="Tump Jump" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17488-tump-jump">Tump Jump</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17496-tump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17496.png"
-                            alt="Tump Jump" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17496-tump-jump">Tump Jump</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13356-bai-qu-hundreds-of-melodies"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13356.png"
+                            alt="Bai Qu: Hundreds of Melodies" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13356-bai-qu-hundreds-of-melodies">Bai Qu: Hundreds of Melodies</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">€9.99</td>
+            <td align="center">17</td>
+            <td align="center">9</td>
+            <td align="center">7</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15029-0-degrees"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15029.png"
+                            alt="0 Degrees" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15029-0-degrees">0 Degrees</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14704-void-gore"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14704.png"
+                            alt="Void Gore" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14704-void-gore">Void Gore</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16651-thunder-kid-ii-null-mission"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16651.png"
                             alt="Thunder Kid II: Null Mission" width="60"></a></td>
@@ -1592,54 +1640,6 @@
             <td align="center">17</td>
             <td align="center">9</td>
             <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15147-active-neurons"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15147.png"
-                            alt="Active Neurons" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15147-active-neurons">Active Neurons</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">32 min</td>
-            <td align="center"></td>
-            <td align="center">19</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">3</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13645-zero-strain"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13645.png"
-                            alt="Zero Strain" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13645-zero-strain">Zero Strain</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">33 min</td>
-            <td align="center">€9.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15336-takotan"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15336.png"
-                            alt="Takotan" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15336-takotan">Takotan</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">33 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
             <td align="center">0</td>
             <td align="center">1320</td>
         </tr>

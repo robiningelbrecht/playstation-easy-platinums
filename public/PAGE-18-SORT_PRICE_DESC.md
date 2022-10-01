@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16169-waifu-impact"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16169.png"
+                            alt="Waifu Impact" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16169-waifu-impact">Waifu Impact</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">53 min</td>
+            <td align="center">$3.49</td>
+            <td align="center">24</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16177-waifu-impact"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16177.png"
+                            alt="Waifu Impact" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16177-waifu-impact">Waifu Impact</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">48 min</td>
+            <td align="center">$3.49</td>
+            <td align="center">24</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16176-waifu-impact"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16176.png"
+                            alt="Waifu Impact" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16176-waifu-impact">Waifu Impact</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">47 min</td>
+            <td align="center">€3.49</td>
+            <td align="center">24</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14466-nowhere-girl"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14466.png"
+                            alt="Nowhere Girl" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14466-nowhere-girl">Nowhere Girl</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$3.49</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14465-nowhere-girl"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14465.png"
                             alt="Nowhere Girl" width="60"></a></td>
@@ -1276,12 +1340,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17903-the-jumping-coffee-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17903.png"
+            <td><a href="https://psnprofiles.com/trophies/17736-the-jumping-coffee-turbo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17736.png"
                             alt="The Jumping Coffee: TURBO" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17903-the-jumping-coffee-turbo">The Jumping Coffee: TURBO</a>
-                <kbd>PS4</kbd>
+                <a href="https://psnprofiles.com/trophies/17736-the-jumping-coffee-turbo">The Jumping Coffee: TURBO</a>
+                <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -1292,12 +1356,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17736-the-jumping-coffee-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17736.png"
+            <td><a href="https://psnprofiles.com/trophies/17903-the-jumping-coffee-turbo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17903.png"
                             alt="The Jumping Coffee: TURBO" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17736-the-jumping-coffee-turbo">The Jumping Coffee: TURBO</a>
-                <kbd>PS5</kbd>
+                <a href="https://psnprofiles.com/trophies/17903-the-jumping-coffee-turbo">The Jumping Coffee: TURBO</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -1484,12 +1548,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17601-snow-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17601.png"
+            <td><a href="https://psnprofiles.com/trophies/17659-snow-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17659.png"
                             alt="Snow Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17601-snow-journey-nitro">Snow Journey: Nitro</a>
-                <kbd>PS5</kbd>
+                <a href="https://psnprofiles.com/trophies/17659-snow-journey-nitro">Snow Journey: Nitro</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -1500,12 +1564,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17659-snow-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17659.png"
+            <td><a href="https://psnprofiles.com/trophies/17601-snow-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17601.png"
                             alt="Snow Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17659-snow-journey-nitro">Snow Journey: Nitro</a>
-                <kbd>PS4</kbd>
+                <a href="https://psnprofiles.com/trophies/17601-snow-journey-nitro">Snow Journey: Nitro</a>
+                <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -1573,70 +1637,6 @@
             </td>
             <td align="center">1 min</td>
             <td align="center">€2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18200-italian-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18200.png"
-                            alt="Italian Journey: Nitro" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18200-italian-journey-nitro">Italian Journey: Nitro</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18199-italian-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18199.png"
-                            alt="Italian Journey: Nitro" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18199-italian-journey-nitro">Italian Journey: Nitro</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17791-drift-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17791.png"
-                            alt="Drift Journey: Nitro" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17791-drift-journey-nitro">Drift Journey: Nitro</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17724-drift-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17724.png"
-                            alt="Drift Journey: Nitro" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17724-drift-journey-nitro">Drift Journey: Nitro</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
             <td align="center">21</td>
             <td align="center">9</td>
             <td align="center">5</td>
