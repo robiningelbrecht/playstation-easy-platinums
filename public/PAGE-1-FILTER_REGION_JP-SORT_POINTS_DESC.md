@@ -1604,7 +1604,7 @@
                 <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">6 min</td>
-            <td align="center"></td>
+            <td align="center">$7.99</td>
             <td align="center">16</td>
             <td align="center">11</td>
             <td align="center">0</td>
