@@ -8,7 +8,7 @@
         
 <p align="center">
     Completing all these games would take you about <kbd>837 hours</kbd>
-    or <kbd>35 days</kbd> and cost you approximately <kbd>$9,207.49</kbd> and <kbd>€4,790.77</kbd>
+    or <kbd>35 days</kbd> and cost you approximately <kbd>$9,212.48</kbd> and <kbd>€4,790.77</kbd>
 </p>
 
 ------
