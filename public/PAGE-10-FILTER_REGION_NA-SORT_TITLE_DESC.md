@@ -660,7 +660,7 @@
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">28 min</td>
-            <td align="center"></td>
+            <td align="center">$11.99</td>
             <td align="center">14</td>
             <td align="center">10</td>
             <td align="center">2</td>
