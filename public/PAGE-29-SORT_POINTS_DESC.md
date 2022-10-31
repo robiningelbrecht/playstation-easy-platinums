@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16923-oriana-story-one-my-first-date-rpg"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16923.png"
+                            alt="Oriana: Story One - My First Date RPG" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16923-oriana-story-one-my-first-date-rpg">Oriana: Story One - My First Date R...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16424-oktoberfest-run"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16424.png"
                             alt="Oktoberfest Run" width="60"></a></td>
@@ -268,12 +284,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18211-dragon-run-classic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18211.png"
+            <td><a href="https://psnprofiles.com/trophies/18277-dragon-run-classic"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18277.png"
                             alt="Dragon Run Classic" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18211-dragon-run-classic">Dragon Run Classic</a>
-                <kbd>PS5</kbd>
+                <a href="https://psnprofiles.com/trophies/18277-dragon-run-classic">Dragon Run Classic</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$6.99</td>
@@ -284,12 +300,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18277-dragon-run-classic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18277.png"
+            <td><a href="https://psnprofiles.com/trophies/18211-dragon-run-classic"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18211.png"
                             alt="Dragon Run Classic" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18277-dragon-run-classic">Dragon Run Classic</a>
-                <kbd>PS4</kbd>
+                <a href="https://psnprofiles.com/trophies/18211-dragon-run-classic">Dragon Run Classic</a>
+                <kbd>PS5</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$6.99</td>
@@ -1617,22 +1633,6 @@
                             alt="Welcome to Pammy&#039;s Story in the World of Project: Summer Ice" width="60"></a></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/17087-welcome-to-pammys-story-in-the-world-of-project-summer-ice">Welcome to Pammy&#039;s Story in the Wor...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$0.49</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17283-welcome-to-marks-story-in-the-world-of-project-summer-ice-visual-novel"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17283.png"
-                            alt="Welcome to Mark&#039;s Story in the World of Project: Summer Ice (Visual Novel)" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17283-welcome-to-marks-story-in-the-world-of-project-summer-ice-visual-novel">Welcome to Mark&#039;s Story in the Worl...</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>

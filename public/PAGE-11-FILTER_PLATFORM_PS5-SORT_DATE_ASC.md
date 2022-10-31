@@ -1020,14 +1020,14 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19102-the-halloween-story"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19102.png"
+            <td><a href="https://psnprofiles.com/trophies/19108-the-halloween-story"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19108.png"
                             alt="The Halloween Story" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19102-the-halloween-story">The Halloween Story</a>
+                <a href="https://psnprofiles.com/trophies/19108-the-halloween-story">The Halloween Story</a>
                 <kbd>PS5</kbd>
             </td>
-            <td align="center">3 min</td>
+            <td align="center">2 min</td>
             <td align="center">$1.49</td>
             <td align="center">18</td>
             <td align="center">10</td>

@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18742-stroke-the-spider"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18742.png"
+                            alt="Stroke The Spider" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18742-stroke-the-spider">Stroke The Spider</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/18391-stroke-the-snake"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18391.png"
                             alt="Stroke The Snake" width="60"></a></td>
@@ -1617,22 +1633,6 @@
                             alt="Softball (4 Player Cooperation Edition) - Breakthrough Gaming Arcade" width="60"></a></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/17284-softball-4-player-cooperation-edition-breakthrough-gaming-arcade">Softball (4 Player Cooperation Edit...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">36</td>
-            <td align="center">5</td>
-            <td align="center">10</td>
-            <td align="center">20</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18176-softball-3-player-cooperation-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18176.png"
-                            alt="Softball (3 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18176-softball-3-player-cooperation-edition-breakthrough-gaming-arcade">Softball (3 Player Cooperation Edit...</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">3 min</td>

@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17690-dont-fall-aleph"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17690.png"
+                            alt="Don&#039;t Fall: aleph" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17690-dont-fall-aleph">Don&#039;t Fall: aleph</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.59</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17044-on-sunday"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17044.png"
                             alt="on Sunday" width="60"></a></td>
@@ -1580,12 +1596,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18915-the-jumping-burger-halloween-edition-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18915.png"
+            <td><a href="https://psnprofiles.com/trophies/18724-the-jumping-burger-halloween-edition-turbo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18724.png"
                             alt="The Jumping Burger - Halloween Edition: TURBO" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18915-the-jumping-burger-halloween-edition-turbo">The Jumping Burger - Halloween Edit...</a>
-                <kbd>PS4</kbd>
+                <a href="https://psnprofiles.com/trophies/18724-the-jumping-burger-halloween-edition-turbo">The Jumping Burger - Halloween Edit...</a>
+                <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -1596,12 +1612,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18724-the-jumping-burger-halloween-edition-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18724.png"
+            <td><a href="https://psnprofiles.com/trophies/18915-the-jumping-burger-halloween-edition-turbo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18915.png"
                             alt="The Jumping Burger - Halloween Edition: TURBO" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18724-the-jumping-burger-halloween-edition-turbo">The Jumping Burger - Halloween Edit...</a>
-                <kbd>PS5</kbd>
+                <a href="https://psnprofiles.com/trophies/18915-the-jumping-burger-halloween-edition-turbo">The Jumping Burger - Halloween Edit...</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -1620,22 +1636,6 @@
                 <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">10 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12899-rift-racoon"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12899.png"
-                            alt="Rift Racoon" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12899-rift-racoon">Rift Racoon</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">8 min</td>
             <td align="center">$2.49</td>
             <td align="center">17</td>
             <td align="center">10</td>

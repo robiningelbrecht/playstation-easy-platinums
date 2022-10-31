@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13450-ウィズンザブレード"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13450.png"
+                            alt="ウィズン･ザ･ブレード" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13450-ウィズンザブレード">ウィズン･ザ･ブレード</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">48 min</td>
+            <td align="center"></td>
+            <td align="center">32</td>
+            <td align="center">4</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13417-ウィズンザブレード"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13417.png"
                             alt="ウィズン･ザ･ブレード" width="60"></a></td>
@@ -1618,22 +1634,6 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/9946-stretch">Stretch</a>
                 <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">31 min</td>
-            <td align="center"></td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13684-heal"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13684.png"
-                            alt="Heal" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13684-heal">Heal</a>
-                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">31 min</td>
             <td align="center"></td>
