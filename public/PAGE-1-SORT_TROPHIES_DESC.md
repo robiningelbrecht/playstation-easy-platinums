@@ -1068,11 +1068,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18793-mermaidio"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18793.png"
+            <td><a href="https://psnprofiles.com/trophies/19317-mermaidio"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19317.png"
                             alt="Mermaidio" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18793-mermaidio">Mermaidio</a>
+                <a href="https://psnprofiles.com/trophies/19317-mermaidio">Mermaidio</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
