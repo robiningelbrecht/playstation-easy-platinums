@@ -1548,11 +1548,11 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17403-round-invaders"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17403.png"
+            <td><a href="https://psnprofiles.com/trophies/19334-round-invaders"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19334.png"
                             alt="Round Invaders" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17403-round-invaders">Round Invaders</a>
+                <a href="https://psnprofiles.com/trophies/19334-round-invaders">Round Invaders</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">3 min</td>
