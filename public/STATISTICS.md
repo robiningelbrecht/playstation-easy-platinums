@@ -40,9 +40,9 @@
             </tr>
                     <tr>
                 <td align="center">November 2022</td>
-                <td align="center">199</td>
-                <td align="center">5 835</td>
-                <td align="center">266 430</td>
+                <td align="center">198</td>
+                <td align="center">5 820</td>
+                <td align="center">265 170</td>
             </tr>
                     <tr>
                 <td align="center">October 2022</td>
@@ -70,11 +70,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>3 310</b>
+            <td align="center"><b>3 309</b>
             </td>
             <td align="center">
-                <b>66 427</b></td>
-            <td align="center"><b>4 385 595</b></td>
+                <b>66 412</b></td>
+            <td align="center"><b>4 384 335</b></td>
         </tr>
         </tbody>
     </table>
@@ -107,9 +107,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>EU</b></td>
-                                    <td align="center">681</td>
+                                    <td align="center">680</td>
                                     <td align="center">328</td>
-                                <td align="center"><b>1009</b></td>
+                                <td align="center"><b>1008</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>HK</b></td>
@@ -149,7 +149,7 @@
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>2168</b></td>
+                            <td align="center"><b>2167</b></td>
                             <td align="center"><b>1142</b></td>
                         <td>&nbsp;</td>
         </tr>
