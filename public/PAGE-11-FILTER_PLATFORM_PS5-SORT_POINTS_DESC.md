@@ -1596,11 +1596,11 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19686-unicorn-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19686.png"
+            <td><a href="https://psnprofiles.com/trophies/19696-unicorn-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19696.png"
                             alt="Unicorn Fun" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19686-unicorn-fun">Unicorn Fun</a>
+                <a href="https://psnprofiles.com/trophies/19696-unicorn-fun">Unicorn Fun</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
