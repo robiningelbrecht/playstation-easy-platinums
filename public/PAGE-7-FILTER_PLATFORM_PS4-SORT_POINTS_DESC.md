@@ -908,11 +908,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19824-the-jumping-choco-santa"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19824.png"
+            <td><a href="https://psnprofiles.com/trophies/19829-the-jumping-choco-santa"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19829.png"
                             alt="The Jumping Choco Santa" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19824-the-jumping-choco-santa">The Jumping Choco Santa</a>
+                <a href="https://psnprofiles.com/trophies/19829-the-jumping-choco-santa">The Jumping Choco Santa</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">3 min</td>
