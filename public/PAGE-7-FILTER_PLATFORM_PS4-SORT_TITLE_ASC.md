@@ -92,15 +92,15 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19814-fast-riders"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19814.png"
+            <td><a href="https://psnprofiles.com/trophies/19823-fast-riders"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19823.png"
                             alt="Fast Riders" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19814-fast-riders">Fast Riders</a>
+                <a href="https://psnprofiles.com/trophies/19823-fast-riders">Fast Riders</a>
                 <kbd>PS4</kbd>
             </td>
-            <td align="center">11 min</td>
-            <td align="center"></td>
+            <td align="center">12 min</td>
+            <td align="center">$2.99</td>
             <td align="center">20</td>
             <td align="center">9</td>
             <td align="center">6</td>
