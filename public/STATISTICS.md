@@ -8,7 +8,7 @@
         
 <p align="center">
     Completing all these games would take you about <kbd>880 hours</kbd>
-    or <kbd>37 days</kbd> and cost you approximately <kbd>$10,164.34</kbd> and <kbd>€5,026.23</kbd>
+    or <kbd>37 days</kbd> and cost you approximately <kbd>$10,172.33</kbd> and <kbd>€5,026.23</kbd>
 </p>
 
 ------
@@ -93,70 +93,70 @@
         <thead>
         <tr>
             <th>Platform /<br/>Region</th>
-                            <th>PS4</th>
                             <th>PS5</th>
+                            <th>PS4</th>
                         <th>&nbsp;</th>
         </tr>
         </thead>
         <tbody>
                     <tr>
                 <td align="center"><b>AS</b></td>
-                                    <td align="center">303</td>
                                     <td align="center">151</td>
+                                    <td align="center">303</td>
                                 <td align="center"><b>454</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>CN</b></td>
-                                    <td align="center">1</td>
                                     <td align="center">0</td>
+                                    <td align="center">1</td>
                                 <td align="center"><b>1</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>EU</b></td>
-                                    <td align="center">689</td>
                                     <td align="center">334</td>
+                                    <td align="center">689</td>
                                 <td align="center"><b>1023</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>HK</b></td>
-                                    <td align="center">1</td>
                                     <td align="center">0</td>
+                                    <td align="center">1</td>
                                 <td align="center"><b>1</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>JP</b></td>
-                                    <td align="center">242</td>
                                     <td align="center">132</td>
+                                    <td align="center">242</td>
                                 <td align="center"><b>374</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>KR</b></td>
-                                    <td align="center">3</td>
                                     <td align="center">0</td>
+                                    <td align="center">3</td>
                                 <td align="center"><b>3</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>NA</b></td>
-                                    <td align="center">692</td>
                                     <td align="center">336</td>
+                                    <td align="center">692</td>
                                 <td align="center"><b>1028</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>RR</b></td>
-                                    <td align="center">3</td>
                                     <td align="center">0</td>
+                                    <td align="center">3</td>
                                 <td align="center"><b>3</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">310</td>
                                     <td align="center">242</td>
+                                    <td align="center">310</td>
                                 <td align="center"><b>552</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>2244</b></td>
                             <td align="center"><b>1195</b></td>
+                            <td align="center"><b>2244</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
