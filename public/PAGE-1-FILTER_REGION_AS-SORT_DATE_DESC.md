@@ -52,7 +52,7 @@
                 <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">38 min</td>
-            <td align="center"></td>
+            <td align="center">$2.99</td>
             <td align="center">17</td>
             <td align="center">10</td>
             <td align="center">3</td>
