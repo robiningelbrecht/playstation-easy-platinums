@@ -8,7 +8,7 @@
         
 <p align="center">
     Completing all these games would take you about <kbd>880 hours</kbd>
-    or <kbd>37 days</kbd> and cost you approximately <kbd>$10,150.37</kbd> and <kbd>€5,018.24</kbd>
+    or <kbd>37 days</kbd> and cost you approximately <kbd>$10,156.35</kbd> and <kbd>€5,018.24</kbd>
 </p>
 
 ------
@@ -28,9 +28,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">10</td>
-                <td align="center">188</td>
-                <td align="center">13 365</td>
+                <td align="center">14</td>
+                <td align="center">372</td>
+                <td align="center">18 765</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -40,9 +40,9 @@
             </tr>
                     <tr>
                 <td align="center">December 2022</td>
-                <td align="center">29</td>
-                <td align="center">760</td>
-                <td align="center">38 700</td>
+                <td align="center">33</td>
+                <td align="center">944</td>
+                <td align="center">44 100</td>
             </tr>
                     <tr>
                 <td align="center">November 2022</td>
@@ -64,9 +64,9 @@
             </tr>
                     <tr>
                 <td align="center">August 2022</td>
-                <td align="center">210</td>
-                <td align="center">3 915</td>
-                <td align="center">280 440</td>
+                <td align="center">208</td>
+                <td align="center">3 873</td>
+                <td align="center">277 740</td>
             </tr>
                     <tr>
                 <td align="center">July 2022</td>
@@ -76,11 +76,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>3 437</b>
+            <td align="center"><b>3 439</b>
             </td>
             <td align="center">
-                <b>70 300</b></td>
-            <td align="center"><b>4 555 620</b></td>
+                <b>70 442</b></td>
+            <td align="center"><b>4 558 320</b></td>
         </tr>
         </tbody>
     </table>
@@ -149,14 +149,14 @@
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">241</td>
-                                    <td align="center">309</td>
-                                <td align="center"><b>550</b></td>
+                                    <td align="center">242</td>
+                                    <td align="center">310</td>
+                                <td align="center"><b>552</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>1194</b></td>
-                            <td align="center"><b>2243</b></td>
+                            <td align="center"><b>1195</b></td>
+                            <td align="center"><b>2244</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>

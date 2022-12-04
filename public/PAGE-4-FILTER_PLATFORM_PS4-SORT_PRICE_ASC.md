@@ -988,11 +988,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17326-the-jumping-nuggets"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17326.png"
+            <td><a href="https://psnprofiles.com/trophies/19895-the-jumping-nuggets"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19895.png"
                             alt="The Jumping Nuggets" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17326-the-jumping-nuggets">The Jumping Nuggets</a>
+                <a href="https://psnprofiles.com/trophies/19895-the-jumping-nuggets">The Jumping Nuggets</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">3 min</td>

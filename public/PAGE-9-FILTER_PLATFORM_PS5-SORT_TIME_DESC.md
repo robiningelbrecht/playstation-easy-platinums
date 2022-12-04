@@ -1132,11 +1132,11 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19888-driverio-3"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19888.png"
+            <td><a href="https://psnprofiles.com/trophies/19889-driverio-3"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19889.png"
                             alt="Driverio 3" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19888-driverio-3">Driverio 3</a>
+                <a href="https://psnprofiles.com/trophies/19889-driverio-3">Driverio 3</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">3 min</td>
