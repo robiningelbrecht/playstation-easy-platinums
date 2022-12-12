@@ -7,7 +7,7 @@
 
         
 <p align="center">
-    Completing all these games would take you about <kbd>891 hours</kbd>
+    Completing all these games would take you about <kbd>890 hours</kbd>
     or <kbd>38 days</kbd> and cost you approximately <kbd>$10,379.17</kbd> and <kbd>€5,065.63</kbd>
 </p>
 
@@ -40,9 +40,9 @@
             </tr>
                     <tr>
                 <td align="center">December 2022</td>
-                <td align="center">113</td>
-                <td align="center">3 248</td>
-                <td align="center">150 795</td>
+                <td align="center">112</td>
+                <td align="center">3 215</td>
+                <td align="center">149 445</td>
             </tr>
                     <tr>
                 <td align="center">November 2022</td>
@@ -76,11 +76,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>3 514</b>
+            <td align="center"><b>3 513</b>
             </td>
             <td align="center">
-                <b>72 591</b></td>
-            <td align="center"><b>4 658 265</b></td>
+                <b>72 558</b></td>
+            <td align="center"><b>4 656 915</b></td>
         </tr>
         </tbody>
     </table>
@@ -149,13 +149,13 @@
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">323</td>
+                                    <td align="center">322</td>
                                     <td align="center">248</td>
-                                <td align="center"><b>571</b></td>
+                                <td align="center"><b>570</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>2286</b></td>
+                            <td align="center"><b>2285</b></td>
                             <td align="center"><b>1228</b></td>
                         <td>&nbsp;</td>
         </tr>
