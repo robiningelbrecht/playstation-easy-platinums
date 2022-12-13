@@ -8,7 +8,7 @@
         
 <p align="center">
     Completing all these games would take you about <kbd>890 hours</kbd>
-    or <kbd>38 days</kbd> and cost you approximately <kbd>$10,401.57</kbd> and <kbd>€5,117.59</kbd>
+    or <kbd>38 days</kbd> and cost you approximately <kbd>$10,401.57</kbd> and <kbd>€5,077.60</kbd>
 </p>
 
 ------
@@ -34,15 +34,15 @@
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
-                <td align="center">18</td>
-                <td align="center">761</td>
-                <td align="center">24 015</td>
+                <td align="center">17</td>
+                <td align="center">714</td>
+                <td align="center">22 710</td>
             </tr>
                     <tr>
                 <td align="center">December 2022</td>
-                <td align="center">120</td>
-                <td align="center">3 619</td>
-                <td align="center">160 200</td>
+                <td align="center">119</td>
+                <td align="center">3 572</td>
+                <td align="center">158 895</td>
             </tr>
                     <tr>
                 <td align="center">November 2022</td>
@@ -76,11 +76,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>3 521</b>
+            <td align="center"><b>3 520</b>
             </td>
             <td align="center">
-                <b>72 962</b></td>
-            <td align="center"><b>4 667 670</b></td>
+                <b>72 915</b></td>
+            <td align="center"><b>4 666 365</b></td>
         </tr>
         </tbody>
     </table>
@@ -114,8 +114,8 @@
                     <tr>
                 <td align="center"><b>EU</b></td>
                                     <td align="center">696</td>
-                                    <td align="center">340</td>
-                                <td align="center"><b>1036</b></td>
+                                    <td align="center">339</td>
+                                <td align="center"><b>1035</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>HK</b></td>
@@ -156,7 +156,7 @@
                 <tr>
             <td>&nbsp;</td>
                             <td align="center"><b>2289</b></td>
-                            <td align="center"><b>1232</b></td>
+                            <td align="center"><b>1231</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
