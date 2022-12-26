@@ -8,7 +8,7 @@
         
 <p align="center">
     Completing all these games would take you about <kbd>903 hours</kbd>
-    or <kbd>38 days</kbd> and cost you approximately <kbd>$10,710.59</kbd> and <kbd>€5,112.95</kbd>
+    or <kbd>38 days</kbd> and cost you approximately <kbd>$10,728.05</kbd> and <kbd>€5,124.43</kbd>
 </p>
 
 ------
@@ -28,9 +28,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">10</td>
-                <td align="center">437</td>
-                <td align="center">13 290</td>
+                <td align="center">18</td>
+                <td align="center">799</td>
+                <td align="center">24 090</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -40,21 +40,21 @@
             </tr>
                     <tr>
                 <td align="center">December 2022</td>
-                <td align="center">243</td>
-                <td align="center">7 640</td>
-                <td align="center">324 930</td>
+                <td align="center">251</td>
+                <td align="center">8 002</td>
+                <td align="center">335 730</td>
             </tr>
                     <tr>
                 <td align="center">November 2022</td>
-                <td align="center">298</td>
-                <td align="center">8 915</td>
-                <td align="center">399 075</td>
+                <td align="center">297</td>
+                <td align="center">8 862</td>
+                <td align="center">397 725</td>
             </tr>
                     <tr>
                 <td align="center">October 2022</td>
-                <td align="center">289</td>
-                <td align="center">6 856</td>
-                <td align="center">386 505</td>
+                <td align="center">288</td>
+                <td align="center">6 803</td>
+                <td align="center">385 155</td>
             </tr>
                     <tr>
                 <td align="center">September 2022</td>
@@ -76,11 +76,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>3 637</b>
+            <td align="center"><b>3 643</b>
             </td>
             <td align="center">
-                <b>76 825</b></td>
-            <td align="center"><b>4 823 010</b></td>
+                <b>77 081</b></td>
+            <td align="center"><b>4 831 110</b></td>
         </tr>
         </tbody>
     </table>
@@ -113,9 +113,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>EU</b></td>
-                                    <td align="center">701</td>
+                                    <td align="center">703</td>
                                     <td align="center">349</td>
-                                <td align="center"><b>1050</b></td>
+                                <td align="center"><b>1052</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>HK</b></td>
@@ -137,9 +137,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>NA</b></td>
-                                    <td align="center">708</td>
+                                    <td align="center">710</td>
                                     <td align="center">350</td>
-                                <td align="center"><b>1058</b></td>
+                                <td align="center"><b>1060</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>RR</b></td>
@@ -149,14 +149,14 @@
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">340</td>
-                                    <td align="center">263</td>
-                                <td align="center"><b>603</b></td>
+                                    <td align="center">341</td>
+                                    <td align="center">264</td>
+                                <td align="center"><b>605</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>2345</b></td>
-                            <td align="center"><b>1292</b></td>
+                            <td align="center"><b>2350</b></td>
+                            <td align="center"><b>1293</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
