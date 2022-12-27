@@ -468,7 +468,7 @@
                 <kbd>PS4</kbd>
             </td>
             <td align="center">28 min</td>
-            <td align="center"></td>
+            <td align="center">$7.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>
