@@ -1572,7 +1572,7 @@
                 <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">47 min</td>
-            <td align="center"></td>
+            <td align="center">$4.99</td>
             <td align="center">18</td>
             <td align="center">9</td>
             <td align="center">5</td>
