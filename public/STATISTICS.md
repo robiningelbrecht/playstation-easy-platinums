@@ -7,8 +7,8 @@
 
         
 <p align="center">
-    Completing all these games would take you about <kbd>921 hours</kbd>
-    or <kbd>39 days</kbd> and cost you approximately <kbd>$10,929.03</kbd> and <kbd>€5,168.30</kbd>
+    Completing all these games would take you about <kbd>920 hours</kbd>
+    or <kbd>39 days</kbd> and cost you approximately <kbd>$10,889.04</kbd> and <kbd>€5,168.30</kbd>
 </p>
 
 ------
@@ -46,9 +46,9 @@
             </tr>
                     <tr>
                 <td align="center">December 2022</td>
-                <td align="center">314</td>
-                <td align="center">10 038</td>
-                <td align="center">419 295</td>
+                <td align="center">313</td>
+                <td align="center">10 026</td>
+                <td align="center">418 005</td>
             </tr>
                     <tr>
                 <td align="center">November 2022</td>
@@ -82,11 +82,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>3 711</b>
+            <td align="center"><b>3 710</b>
             </td>
             <td align="center">
-                <b>79 222</b></td>
-            <td align="center"><b>4 921 365</b></td>
+                <b>79 210</b></td>
+            <td align="center"><b>4 920 075</b></td>
         </tr>
         </tbody>
     </table>
@@ -155,13 +155,13 @@
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">344</td>
+                                    <td align="center">343</td>
                                     <td align="center">266</td>
-                                <td align="center"><b>610</b></td>
+                                <td align="center"><b>609</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>2384</b></td>
+                            <td align="center"><b>2383</b></td>
                             <td align="center"><b>1327</b></td>
                         <td>&nbsp;</td>
         </tr>
