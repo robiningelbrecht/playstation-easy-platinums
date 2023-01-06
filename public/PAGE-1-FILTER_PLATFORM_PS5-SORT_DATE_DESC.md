@@ -44,11 +44,11 @@
     </thead>
     <tbody>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19853-the-jumping-muffin"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19853.png"
+            <td><a href="https://psnprofiles.com/trophies/19855-the-jumping-muffin"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19855.png"
                             alt="The Jumping Muffin" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19853-the-jumping-muffin">The Jumping Muffin</a>
+                <a href="https://psnprofiles.com/trophies/19855-the-jumping-muffin">The Jumping Muffin</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">3 min</td>
