@@ -8,7 +8,7 @@
         
 <p align="center">
     Completing all these games would take you about <kbd>941 hours</kbd>
-    or <kbd>40 days</kbd> and cost you approximately <kbd>$11,142.44</kbd> and <kbd>€5,238.68</kbd>
+    or <kbd>40 days</kbd> and cost you approximately <kbd>$11,148.40</kbd> and <kbd>€5,241.66</kbd>
 </p>
 
 ------
@@ -28,21 +28,21 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
+                <td align="center">6</td>
+                <td align="center">126</td>
+                <td align="center">8 100</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
-                <td align="center">7</td>
-                <td align="center">128</td>
-                <td align="center">9 255</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
             </tr>
                     <tr>
                 <td align="center">January 2023</td>
-                <td align="center">79</td>
-                <td align="center">1 876</td>
-                <td align="center">105 765</td>
+                <td align="center">85</td>
+                <td align="center">2 002</td>
+                <td align="center">113 865</td>
             </tr>
                     <tr>
                 <td align="center">December 2022</td>
@@ -82,11 +82,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>3 782</b>
+            <td align="center"><b>3 788</b>
             </td>
             <td align="center">
-                <b>80 909</b></td>
-            <td align="center"><b>5 016 450</b></td>
+                <b>81 035</b></td>
+            <td align="center"><b>5 024 550</b></td>
         </tr>
         </tbody>
     </table>
@@ -99,70 +99,70 @@
         <thead>
         <tr>
             <th>Platform /<br/>Region</th>
-                            <th>PS4</th>
                             <th>PS5</th>
+                            <th>PS4</th>
                         <th>&nbsp;</th>
         </tr>
         </thead>
         <tbody>
                     <tr>
                 <td align="center"><b>AS</b></td>
-                                    <td align="center">340</td>
-                                    <td align="center">193</td>
-                                <td align="center"><b>533</b></td>
+                                    <td align="center">194</td>
+                                    <td align="center">341</td>
+                                <td align="center"><b>535</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>CN</b></td>
-                                    <td align="center">1</td>
                                     <td align="center">0</td>
+                                    <td align="center">1</td>
                                 <td align="center"><b>1</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>EU</b></td>
-                                    <td align="center">717</td>
-                                    <td align="center">361</td>
-                                <td align="center"><b>1078</b></td>
+                                    <td align="center">362</td>
+                                    <td align="center">718</td>
+                                <td align="center"><b>1080</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>HK</b></td>
-                                    <td align="center">1</td>
                                     <td align="center">0</td>
+                                    <td align="center">1</td>
                                 <td align="center"><b>1</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>JP</b></td>
-                                    <td align="center">279</td>
                                     <td align="center">172</td>
-                                <td align="center"><b>451</b></td>
+                                    <td align="center">280</td>
+                                <td align="center"><b>452</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>KR</b></td>
-                                    <td align="center">3</td>
                                     <td align="center">0</td>
+                                    <td align="center">3</td>
                                 <td align="center"><b>3</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>NA</b></td>
+                                    <td align="center">363</td>
                                     <td align="center">730</td>
-                                    <td align="center">362</td>
-                                <td align="center"><b>1092</b></td>
+                                <td align="center"><b>1093</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>RR</b></td>
-                                    <td align="center">3</td>
                                     <td align="center">0</td>
+                                    <td align="center">3</td>
                                 <td align="center"><b>3</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">348</td>
                                     <td align="center">272</td>
+                                    <td align="center">348</td>
                                 <td align="center"><b>620</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>2422</b></td>
-                            <td align="center"><b>1360</b></td>
+                            <td align="center"><b>1363</b></td>
+                            <td align="center"><b>2425</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
