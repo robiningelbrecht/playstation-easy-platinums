@@ -404,7 +404,7 @@
                 <kbd>PS5</kbd>
             </td>
             <td align="center">9 min</td>
-            <td align="center"></td>
+            <td align="center">$19.99</td>
             <td align="center">18</td>
             <td align="center">9</td>
             <td align="center">8</td>
