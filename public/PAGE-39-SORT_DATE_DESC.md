@@ -44,22 +44,6 @@
     </thead>
     <tbody>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/5889-dying-reborn"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/5889.png"
-                            alt="Dying: Reborn" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/5889-dying-reborn">Dying: Reborn</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">46 min</td>
-            <td align="center">$19.98</td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/5785-蒼の彼方のフォーリズム"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/5785.png"
                             alt="蒼の彼方のフォーリズム" width="60"></a></td>

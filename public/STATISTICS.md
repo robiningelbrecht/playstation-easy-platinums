@@ -34,15 +34,15 @@
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
-                <td align="center">2</td>
-                <td align="center">122</td>
-                <td align="center">2 685</td>
+                <td align="center">1</td>
+                <td align="center">71</td>
+                <td align="center">1 350</td>
             </tr>
                     <tr>
                 <td align="center">January 2023</td>
-                <td align="center">103</td>
-                <td align="center">2 501</td>
-                <td align="center">138 030</td>
+                <td align="center">102</td>
+                <td align="center">2 450</td>
+                <td align="center">136 695</td>
             </tr>
                     <tr>
                 <td align="center">December 2022</td>
@@ -82,11 +82,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>3 806</b>
+            <td align="center"><b>3 805</b>
             </td>
             <td align="center">
-                <b>81 534</b></td>
-            <td align="center"><b>5 048 715</b></td>
+                <b>81 483</b></td>
+            <td align="center"><b>5 047 380</b></td>
         </tr>
         </tbody>
     </table>
@@ -155,13 +155,13 @@
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">274</td>
+                                    <td align="center">273</td>
                                     <td align="center">352</td>
-                                <td align="center"><b>626</b></td>
+                                <td align="center"><b>625</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>1371</b></td>
+                            <td align="center"><b>1370</b></td>
                             <td align="center"><b>2435</b></td>
                         <td>&nbsp;</td>
         </tr>
