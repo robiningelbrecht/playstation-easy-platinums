@@ -13,9 +13,6 @@ return [
         'timeout' => false,
     ]),
     \GuzzleHttp\Client::class => function(){
-        $client = new \GuzzleHttp\Client(['cookies' => new \GuzzleHttp\Cookie\FileCookieJar('cookies.txt')]);
-        $client->getConfig('handler')->push(\App\CloudflareMiddleware::create());
-
-        return $client;
+        return new \GuzzleHttp\Client();
     }
 ];
