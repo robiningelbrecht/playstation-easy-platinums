@@ -34,9 +34,9 @@
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
-                <td align="center">1</td>
-                <td align="center">16</td>
-                <td align="center">1 290</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
             </tr>
                     <tr>
                 <td align="center">January 2023</td>
