@@ -284,11 +284,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20502-quiz-thiz-france-bronze-editon"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20502.png"
+            <td><a href="https://psnprofiles.com/trophies/20503-quiz-thiz-france-bronze-editon"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20503.png"
                             alt="Quiz Thiz France: Bronze Editon" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20502-quiz-thiz-france-bronze-editon">Quiz Thiz France: Bronze Editon</a>
+                <a href="https://psnprofiles.com/trophies/20503-quiz-thiz-france-bronze-editon">Quiz Thiz France: Bronze Editon</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
