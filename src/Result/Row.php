@@ -6,12 +6,10 @@ use App\Clock\Clock;
 use App\Filter\FilterField;
 use App\MoneyFormatter;
 use App\Sort\SortField;
-use Money\Currencies\ISOCurrencies;
 use Money\Currency;
-use Money\Formatter\IntlMoneyFormatter;
 use Money\Money;
 
-class Row
+class Row implements \JsonSerializable
 {
 
     private function __construct(
@@ -150,5 +148,26 @@ class Row
     public static function fromArray(array $data): self
     {
         return new self($data);
+    }
+
+    public function jsonSerialize(): array
+    {
+        return [
+            'id' => $this->getId(),
+            'title' => $this->getTitle(),
+            'region' => $this->getRegion(),
+            'platform' => $this->getPlatform(),
+            'thumbnail' => $this->getThumbnail(),
+            'uri' => $this->getUri(),
+            'approximateTime' => $this->getApproximateTime(),
+            'price' => $this->getPrice(),
+            'priceFormatted' => $this->getPriceFormattedAsMoney(),
+            'points' => $this->getPoints(),
+            'trophiesTotal' => $this->getTrophiesTotal(),
+            'trophiesGold' => $this->getTrophiesGold(),
+            'trophiesSilver' => $this->getTrophiesSilver(),
+            'trophiesBronze' => $this->getTrophiesBronze(),
+            'addedOn' => $this->getAddedOn(),
+        ];
     }
 }

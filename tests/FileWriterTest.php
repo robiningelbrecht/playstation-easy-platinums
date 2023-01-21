@@ -37,7 +37,7 @@ class FileWriterTest extends TestCase
             ->willReturnOnConsecutiveCalls(['EU'], ['PS4', 'PS5']);
 
         $this->fileContentsWrapper
-            ->expects($this->exactly(50))
+            ->expects($this->exactly(51))
             ->method('put')
             ->willReturnCallback(function (string $file, string $content) {
                 $this->assertMatchesJsonSnapshot(json_encode($file));

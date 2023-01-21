@@ -21,6 +21,7 @@ class FileWriter
 {
     public const README_FILE = 'README.md';
     public const STATISTICS_FILE = 'public/STATISTICS.md';
+    public const CHROME_EXTENSION = 'public/chrome-extension.json';
 
     public function __construct(
         private readonly FileContentsWrapper $fileContentsWrapper,
@@ -58,6 +59,12 @@ class FileWriter
             'filterFields' => $filterFields,
             'filter' => null,
         ]));
+
+        // Write first page to json file. Chrome extension will use this as API call.
+        $this->fileContentsWrapper->put(
+            self::CHROME_EXTENSION,
+            json_encode(array_slice($resultSet->getRows(), 0, Paging::PAGE_SIZE)),
+        );
 
         // Render all pages for all possible sorts.
         foreach (SortField::cases() as $sortField) {
