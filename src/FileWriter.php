@@ -63,7 +63,10 @@ class FileWriter
         // Write first page to json file. Chrome extension will use this as API call.
         $this->fileContentsWrapper->put(
             self::CHROME_EXTENSION,
-            json_encode(array_slice($resultSet->getRows(), 0, Paging::PAGE_SIZE)),
+            json_encode([
+                'lastUpdate' => $resultSet->getRows()[0]->getAddedOn(),
+                'games' => array_slice($resultSet->getRows(), 0, Paging::PAGE_SIZE),
+            ]),
         );
 
         // Render all pages for all possible sorts.
