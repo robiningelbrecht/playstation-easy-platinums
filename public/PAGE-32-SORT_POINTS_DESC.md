@@ -7,8 +7,8 @@
 
 <p align="center">
     This repository is a collection of easy and quick (< 1h) obtainable PlayStation platinum trophies. It is updated
-    daily.
-    <br /><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/STATISTICS.md">Some statistics</a>
+    daily. For an even quicker and easier access to this list, use our <a href="https://chrome.google.com/webstore/detail/playstation-easy-platinum/heibjckoneaikdbfbmikjkildkjdnmel">Chrome extension</a>.
+    <br /><br /><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/STATISTICS.md">Some statistics</a>
 </p>
 
 ------
