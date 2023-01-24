@@ -1,6 +1,6 @@
 name: Easy platinums
 env:
-  DEFAULT_PROFILE_NAMES: ViensDanser,Fluttezuhher,chris_play1,IBadDriverI,roots52,The-Ricksterr,Hakoom,ikemenzi
+  DEFAULT_PROFILE_NAMES: caro3c-gabber9,Fluttezuhher,chris_play1,IBadDriverI,roots52,The-Ricksterr,Hakoom,ikemenzi
 on:
   workflow_dispatch:
     inputs:
@@ -10,7 +10,7 @@ on:
         required: true
         default: 'ViensDanser'
         options:
-          - ViensDanser
+          - caro3c-gabber9
           - Fluttezuhher
           - chris_play1
           - IBadDriverI
@@ -18,7 +18,7 @@ on:
           - The-Ricksterr
           - Hakoom
           - ikemenzi
-          - ViensDanser,Fluttezuhher,chris_play1,IBadDriverI,roots52,The-Ricksterr,Hakoom,ikemenzi
+          - caro3c-gabber9,Fluttezuhher,chris_play1,IBadDriverI,roots52,The-Ricksterr,Hakoom,ikemenzi
   schedule:
     - cron:  '30 */4 * * *'
 jobs:
