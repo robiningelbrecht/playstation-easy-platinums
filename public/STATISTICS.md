@@ -28,9 +28,9 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">1</td>
-                <td align="center">21</td>
-                <td align="center">1 350</td>
+                <td align="center">4</td>
+                <td align="center">176</td>
+                <td align="center">5 370</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
@@ -40,9 +40,9 @@
             </tr>
                     <tr>
                 <td align="center">January 2023</td>
-                <td align="center">193</td>
-                <td align="center">4 777</td>
-                <td align="center">258 750</td>
+                <td align="center">196</td>
+                <td align="center">4 932</td>
+                <td align="center">262 770</td>
             </tr>
                     <tr>
                 <td align="center">December 2022</td>
@@ -82,11 +82,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>3 893</b>
+            <td align="center"><b>3 896</b>
             </td>
             <td align="center">
-                <b>83 747</b></td>
-            <td align="center"><b>5 165 385</b></td>
+                <b>83 902</b></td>
+            <td align="center"><b>5 169 405</b></td>
         </tr>
         </tbody>
     </table>
@@ -107,9 +107,9 @@
         <tbody>
                     <tr>
                 <td align="center"><b>AS</b></td>
-                                    <td align="center">349</td>
+                                    <td align="center">350</td>
                                     <td align="center">201</td>
-                                <td align="center"><b>550</b></td>
+                                <td align="center"><b>551</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>CN</b></td>
@@ -131,9 +131,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>JP</b></td>
-                                    <td align="center">288</td>
+                                    <td align="center">289</td>
                                     <td align="center">179</td>
-                                <td align="center"><b>467</b></td>
+                                <td align="center"><b>468</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>KR</b></td>
@@ -155,13 +155,13 @@
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">358</td>
+                                    <td align="center">359</td>
                                     <td align="center">281</td>
-                                <td align="center"><b>639</b></td>
+                                <td align="center"><b>640</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>2482</b></td>
+                            <td align="center"><b>2485</b></td>
                             <td align="center"><b>1411</b></td>
                         <td>&nbsp;</td>
         </tr>
