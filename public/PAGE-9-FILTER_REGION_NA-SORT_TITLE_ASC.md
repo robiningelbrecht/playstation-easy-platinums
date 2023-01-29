@@ -604,12 +604,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17467-taco-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17467.png"
+            <td><a href="https://psnprofiles.com/trophies/17394-taco-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17394.png"
                             alt="Taco Fun" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17467-taco-fun">Taco Fun</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17394-taco-fun">Taco Fun</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -620,12 +620,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17394-taco-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17394.png"
+            <td><a href="https://psnprofiles.com/trophies/17467-taco-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17467.png"
                             alt="Taco Fun" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17394-taco-fun">Taco Fun</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17467-taco-fun">Taco Fun</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -1324,22 +1324,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16995-the-czech-run"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16995.png"
-                            alt="The Czech Run" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16995-the-czech-run">The Czech Run</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/16979-the-czech-run"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16979.png"
                             alt="The Czech Run" width="60"></a></td>
@@ -1348,6 +1332,22 @@
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">9 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">18</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16995-the-czech-run"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16995.png"
+                            alt="The Czech Run" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16995-the-czech-run">The Czech Run</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">11 min</td>
             <td align="center">$1.49</td>
             <td align="center">18</td>
             <td align="center">10</td>
@@ -1436,12 +1436,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20194-the-elephant-e"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20194.png"
+            <td><a href="https://psnprofiles.com/trophies/20201-the-elephant-e"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20201.png"
                             alt="The Elephant E" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20194-the-elephant-e">The Elephant E</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/20201-the-elephant-e">The Elephant E</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -1452,12 +1452,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20201-the-elephant-e"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20201.png"
+            <td><a href="https://psnprofiles.com/trophies/20194-the-elephant-e"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20194.png"
                             alt="The Elephant E" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20201-the-elephant-e">The Elephant E</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/20194-the-elephant-e">The Elephant E</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>

@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17974-maggie-the-magnet"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17974.png"
+                            alt="Maggie the Magnet" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17974-maggie-the-magnet">Maggie the Magnet</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">39 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13946-lovechoice"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13946.png"
                             alt="LoveChoice" width="60"></a></td>
@@ -636,12 +652,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20772-the-jumping-onigiri"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20772.png"
+            <td><a href="https://psnprofiles.com/trophies/20328-the-jumping-onigiri"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20328.png"
                             alt="The Jumping Onigiri" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20772-the-jumping-onigiri">The Jumping Onigiri</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20328-the-jumping-onigiri">The Jumping Onigiri</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
@@ -652,12 +668,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20328-the-jumping-onigiri"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20328.png"
+            <td><a href="https://psnprofiles.com/trophies/20772-the-jumping-onigiri"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20772.png"
                             alt="The Jumping Onigiri" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20328-the-jumping-onigiri">The Jumping Onigiri</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20772-the-jumping-onigiri">The Jumping Onigiri</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
@@ -844,12 +860,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20195-the-elephant-e"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20195.png"
+            <td><a href="https://psnprofiles.com/trophies/20203-the-elephant-e"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20203.png"
                             alt="The Elephant E" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20195-the-elephant-e">The Elephant E</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20203-the-elephant-e">The Elephant E</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
@@ -860,12 +876,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20203-the-elephant-e"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20203.png"
+            <td><a href="https://psnprofiles.com/trophies/20195-the-elephant-e"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20195.png"
                             alt="The Elephant E" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20203-the-elephant-e">The Elephant E</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20195-the-elephant-e">The Elephant E</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
@@ -908,12 +924,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20436-the-cricket-c"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20436.png"
+            <td><a href="https://psnprofiles.com/trophies/20435-the-cricket-c"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20435.png"
                             alt="The Cricket C" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20436-the-cricket-c">The Cricket C</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20435-the-cricket-c">The Cricket C</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
@@ -924,12 +940,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20435-the-cricket-c"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20435.png"
+            <td><a href="https://psnprofiles.com/trophies/20436-the-cricket-c"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20436.png"
                             alt="The Cricket C" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20435-the-cricket-c">The Cricket C</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20436-the-cricket-c">The Cricket C</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
@@ -1116,12 +1132,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18748-the-taco-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18748.png"
+            <td><a href="https://psnprofiles.com/trophies/18777-the-taco-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18777.png"
                             alt="The Taco Quiz" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18748-the-taco-quiz">The Taco Quiz</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/18777-the-taco-quiz">The Taco Quiz</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€1.49</td>
@@ -1132,12 +1148,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18777-the-taco-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18777.png"
+            <td><a href="https://psnprofiles.com/trophies/18748-the-taco-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18748.png"
                             alt="The Taco Quiz" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18777-the-taco-quiz">The Taco Quiz</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/18748-the-taco-quiz">The Taco Quiz</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€1.49</td>
@@ -1618,22 +1634,6 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/18824-the-basketball-quiz">The Basketball Quiz</a>
                 <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18832-the-basketball-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18832.png"
-                            alt="The Basketball Quiz" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18832-the-basketball-quiz">The Basketball Quiz</a>
-                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€1.49</td>

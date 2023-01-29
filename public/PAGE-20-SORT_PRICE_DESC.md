@@ -60,22 +60,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20657-stroke-the-horse"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20657.png"
-                            alt="Stroke The Horse" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20657-stroke-the-horse">Stroke The Horse</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€3.99</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/20661-stroke-the-horse"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20661.png"
                             alt="Stroke The Horse" width="60"></a></td>
@@ -92,15 +76,15 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19656-stroke-the-hedgehog"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19656.png"
-                            alt="Stroke The Hedgehog" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/20657-stroke-the-horse"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20657.png"
+                            alt="Stroke The Horse" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19656-stroke-the-hedgehog">Stroke The Hedgehog</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/20657-stroke-the-horse">Stroke The Horse</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">2 min</td>
-            <td align="center">$3.99</td>
+            <td align="center">€3.99</td>
             <td align="center">71</td>
             <td align="center">0</td>
             <td align="center">0</td>
@@ -114,6 +98,22 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/19660-stroke-the-hedgehog">Stroke The Hedgehog</a>
                 <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19656-stroke-the-hedgehog"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19656.png"
+                            alt="Stroke The Hedgehog" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19656-stroke-the-hedgehog">Stroke The Hedgehog</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$3.99</td>

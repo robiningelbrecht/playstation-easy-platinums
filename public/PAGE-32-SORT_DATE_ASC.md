@@ -188,22 +188,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19101-the-monkey-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19101.png"
-                            alt="The Monkey P" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19101-the-monkey-p">The Monkey P</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/19156-the-monkey-p"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19156.png"
                             alt="The Monkey P" width="60"></a></td>
@@ -213,6 +197,22 @@
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19101-the-monkey-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19101.png"
+                            alt="The Monkey P" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19101-the-monkey-p">The Monkey P</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.49</td>
             <td align="center">21</td>
             <td align="center">9</td>
             <td align="center">5</td>
@@ -1420,22 +1420,6 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19265-the-letter-classic-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19265.png"
-                            alt="The Letter: Classic Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19265-the-letter-classic-edition">The Letter: Classic Edition</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">17 min</td>
-            <td align="center">$1.99</td>
-            <td align="center">27</td>
-            <td align="center">7</td>
-            <td align="center">8</td>
-            <td align="center">11</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/19263-the-letter-classic-edition"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19263.png"
                             alt="The Letter: Classic Edition" width="60"></a></td>
@@ -1445,6 +1429,22 @@
             </td>
             <td align="center">11 min</td>
             <td align="center">€1.99</td>
+            <td align="center">27</td>
+            <td align="center">7</td>
+            <td align="center">8</td>
+            <td align="center">11</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19265-the-letter-classic-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19265.png"
+                            alt="The Letter: Classic Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19265-the-letter-classic-edition">The Letter: Classic Edition</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$1.99</td>
             <td align="center">27</td>
             <td align="center">7</td>
             <td align="center">8</td>
@@ -1468,22 +1468,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19304-the-czech-run"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19304.png"
-                            alt="The Czech Run" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19304-the-czech-run">The Czech Run</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/19305-the-czech-run"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19305.png"
                             alt="The Czech Run" width="60"></a></td>
@@ -1492,6 +1476,22 @@
                 <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">8 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">18</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19304-the-czech-run"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19304.png"
+                            alt="The Czech Run" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19304-the-czech-run">The Czech Run</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">10 min</td>
             <td align="center">$1.49</td>
             <td align="center">18</td>
             <td align="center">10</td>

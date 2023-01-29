@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13950-baseball-bout-otterrific-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13950.png"
+                            alt="Baseball Bout: Otterrific Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13950-baseball-bout-otterrific-arcade">Baseball Bout: Otterrific Arcade</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">45</td>
+            <td align="center">3</td>
+            <td align="center">11</td>
+            <td align="center">30</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13255-サクラサキュバス３-魔性の支配者"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13255.png"
                             alt="サクラ･サキュバス３ ～魔性の支配者～" width="60"></a></td>
@@ -300,12 +316,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20720-the-zebra-z"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20720.png"
+            <td><a href="https://psnprofiles.com/trophies/20721-the-zebra-z"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20721.png"
                             alt="The Zebra Z" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20720-the-zebra-z">The Zebra Z</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/20721-the-zebra-z">The Zebra Z</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -332,12 +348,28 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20721-the-zebra-z"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20721.png"
+            <td><a href="https://psnprofiles.com/trophies/20720-the-zebra-z"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20720.png"
                             alt="The Zebra Z" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20721-the-zebra-z">The Zebra Z</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/20720-the-zebra-z">The Zebra Z</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20715-the-zebra-z"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20715.png"
+                            alt="The Zebra Z" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20715-the-zebra-z">The Zebra Z</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -357,22 +389,6 @@
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20715-the-zebra-z"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20715.png"
-                            alt="The Zebra Z" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20715-the-zebra-z">The Zebra Z</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
             <td align="center">21</td>
             <td align="center">9</td>
             <td align="center">5</td>
@@ -860,12 +876,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17508-the-sheep-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17508.png"
+            <td><a href="https://psnprofiles.com/trophies/17505-the-sheep-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17505.png"
                             alt="The Sheep P" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17508-the-sheep-p">The Sheep P</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/17505-the-sheep-p">The Sheep P</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -876,12 +892,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17505-the-sheep-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17505.png"
+            <td><a href="https://psnprofiles.com/trophies/17508-the-sheep-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17508.png"
                             alt="The Sheep P" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17505-the-sheep-p">The Sheep P</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17508-the-sheep-p">The Sheep P</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -1500,12 +1516,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20473-the-monkey-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20473.png"
+            <td><a href="https://psnprofiles.com/trophies/20468-the-monkey-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20468.png"
                             alt="The Monkey P" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20473-the-monkey-p">The Monkey P</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/20468-the-monkey-p">The Monkey P</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -1516,12 +1532,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20468-the-monkey-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20468.png"
+            <td><a href="https://psnprofiles.com/trophies/20473-the-monkey-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20473.png"
                             alt="The Monkey P" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20468-the-monkey-p">The Monkey P</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/20473-the-monkey-p">The Monkey P</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -1548,22 +1564,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19101-the-monkey-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19101.png"
-                            alt="The Monkey P" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19101-the-monkey-p">The Monkey P</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/19156-the-monkey-p"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19156.png"
                             alt="The Monkey P" width="60"></a></td>
@@ -1573,6 +1573,22 @@
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19101-the-monkey-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19101.png"
+                            alt="The Monkey P" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19101-the-monkey-p">The Monkey P</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.49</td>
             <td align="center">21</td>
             <td align="center">9</td>
             <td align="center">5</td>
@@ -1618,22 +1634,6 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/19021-the-llama-l">The Llama L</a>
                 <kbd>PS5</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19019-the-llama-l"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19019.png"
-                            alt="The Llama L" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19019-the-llama-l">The Llama L</a>
-                <kbd>PS4</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>

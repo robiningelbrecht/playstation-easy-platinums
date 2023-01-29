@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18157-stroke-the-dog"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18157.png"
+                            alt="Stroke The Dog" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18157-stroke-the-dog">Stroke The Dog</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€3.99</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/18913-stroke-the-hamster"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18913.png"
                             alt="Stroke The Hamster" width="60"></a></td>
@@ -108,12 +124,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20657-stroke-the-horse"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20657.png"
+            <td><a href="https://psnprofiles.com/trophies/20661-stroke-the-horse"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20661.png"
                             alt="Stroke The Horse" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20657-stroke-the-horse">Stroke The Horse</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20661-stroke-the-horse">Stroke The Horse</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">€3.99</td>
@@ -124,12 +140,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20661-stroke-the-horse"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20661.png"
+            <td><a href="https://psnprofiles.com/trophies/20657-stroke-the-horse"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20657.png"
                             alt="Stroke The Horse" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20661-stroke-the-horse">Stroke The Horse</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20657-stroke-the-horse">Stroke The Horse</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">€3.99</td>
@@ -1372,12 +1388,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20436-the-cricket-c"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20436.png"
+            <td><a href="https://psnprofiles.com/trophies/20435-the-cricket-c"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20435.png"
                             alt="The Cricket C" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20436-the-cricket-c">The Cricket C</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20435-the-cricket-c">The Cricket C</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
@@ -1388,12 +1404,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20435-the-cricket-c"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20435.png"
+            <td><a href="https://psnprofiles.com/trophies/20436-the-cricket-c"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20436.png"
                             alt="The Cricket C" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20435-the-cricket-c">The Cricket C</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20436-the-cricket-c">The Cricket C</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
@@ -1500,12 +1516,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20195-the-elephant-e"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20195.png"
+            <td><a href="https://psnprofiles.com/trophies/20203-the-elephant-e"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20203.png"
                             alt="The Elephant E" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20195-the-elephant-e">The Elephant E</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20203-the-elephant-e">The Elephant E</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
@@ -1516,12 +1532,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20203-the-elephant-e"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20203.png"
+            <td><a href="https://psnprofiles.com/trophies/20195-the-elephant-e"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20195.png"
                             alt="The Elephant E" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20203-the-elephant-e">The Elephant E</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20195-the-elephant-e">The Elephant E</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>
@@ -1625,22 +1641,6 @@
             <td align="center">9</td>
             <td align="center">5</td>
             <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19283-the-iron-age"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19283.png"
-                            alt="The Iron Age" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19283-the-iron-age">The Iron Age</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
         </tbody>
