@@ -28,15 +28,15 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">8</td>
-                <td align="center">378</td>
-                <td align="center">10 680</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
-                <td align="center">10</td>
-                <td align="center">207</td>
-                <td align="center">13 440</td>
+                <td align="center">8</td>
+                <td align="center">378</td>
+                <td align="center">10 680</td>
             </tr>
                     <tr>
                 <td align="center">January 2023</td>
