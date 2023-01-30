@@ -1628,14 +1628,14 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/10209-without-escape"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10209.png"
-                            alt="Without Escape" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/20238-panda-punch"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20238.png"
+                            alt="Panda Punch" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/10209-without-escape">Without Escape</a>
+                <a href="https://psnprofiles.com/trophies/20238-panda-punch">Panda Punch</a>
                 <kbd>PS4 • EU</kbd>
             </td>
-            <td align="center">18 min</td>
+            <td align="center">48 min</td>
             <td align="center">€2.49</td>
             <td align="center">13</td>
             <td align="center">11</td>
