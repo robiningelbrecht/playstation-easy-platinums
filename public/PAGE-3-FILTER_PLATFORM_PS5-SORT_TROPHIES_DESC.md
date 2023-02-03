@@ -700,14 +700,14 @@
             <td align="center">1305</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20387-mr-hibbl"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20387.png"
+            <td><a href="https://psnprofiles.com/trophies/20388-mr-hibbl"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20388.png"
                             alt="Mr. Hibbl" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20387-mr-hibbl">Mr. Hibbl</a>
+                <a href="https://psnprofiles.com/trophies/20388-mr-hibbl">Mr. Hibbl</a>
                 <kbd>PS5</kbd>
             </td>
-            <td align="center">45 min</td>
+            <td align="center">32 min</td>
             <td align="center"></td>
             <td align="center">29</td>
             <td align="center">6</td>
