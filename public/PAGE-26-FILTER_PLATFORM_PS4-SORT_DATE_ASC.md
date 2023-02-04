@@ -283,6 +283,22 @@
             <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19228-divine-knockout"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19228.png"
+                            alt="Divine Knockout" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19228-divine-knockout">Divine Knockout</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center"></td>
+            <td align="center">20</td>
+            <td align="center">7</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
         </tbody>
 </table>
 <p align="center">
