@@ -40,9 +40,9 @@
             </tr>
                     <tr>
                 <td align="center">February 2023</td>
-                <td align="center">41</td>
-                <td align="center">1 240</td>
-                <td align="center">54 855</td>
+                <td align="center">40</td>
+                <td align="center">1 220</td>
+                <td align="center">53 595</td>
             </tr>
                     <tr>
                 <td align="center">January 2023</td>
@@ -88,11 +88,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>3 977</b>
+            <td align="center"><b>3 976</b>
             </td>
             <td align="center">
-                <b>86 207</b></td>
-            <td align="center"><b>5 277 600</b></td>
+                <b>86 187</b></td>
+            <td align="center"><b>5 276 340</b></td>
         </tr>
         </tbody>
     </table>
@@ -162,13 +162,13 @@
                     <tr>
                 <td align="center"><b>No region</b></td>
                                     <td align="center">292</td>
-                                    <td align="center">367</td>
-                                <td align="center"><b>659</b></td>
+                                    <td align="center">366</td>
+                                <td align="center"><b>658</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
                             <td align="center"><b>1452</b></td>
-                            <td align="center"><b>2525</b></td>
+                            <td align="center"><b>2524</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
