@@ -908,6 +908,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/20992-looking-for-aliens"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20992.png"
+                            alt="Looking for Aliens" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20992-looking-for-aliens">Looking for Aliens</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">59</td>
+            <td align="center">2</td>
+            <td align="center">2</td>
+            <td align="center">54</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16230-energy-cycle"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16230.png"
                             alt="Energy Cycle" width="60"></a></td>
@@ -1624,22 +1640,6 @@
             <td align="center">22</td>
             <td align="center">7</td>
             <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11300-fullblast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11300.png"
-                            alt="FullBlast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11300-fullblast">FullBlast</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">15 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
             <td align="center">0</td>
             <td align="center">1350</td>
         </tr>

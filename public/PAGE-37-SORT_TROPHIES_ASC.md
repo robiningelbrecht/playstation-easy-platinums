@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/12247-valentine-candy-break"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12247.png"
+                            alt="Valentine Candy Break" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12247-valentine-candy-break">Valentine Candy Break</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">38</td>
+            <td align="center">4</td>
+            <td align="center">7</td>
+            <td align="center">26</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13563-unicorn-break"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13563.png"
                             alt="Unicorn Break" width="60"></a></td>
@@ -1621,22 +1637,6 @@
             </td>
             <td align="center">10 min</td>
             <td align="center">€6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13036-dragon-break-classic-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13036.png"
-                            alt="Dragon Break Classic Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13036-dragon-break-classic-head-to-head">Dragon Break Classic Head to Head</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$6.99</td>
             <td align="center">40</td>
             <td align="center">4</td>
             <td align="center">7</td>

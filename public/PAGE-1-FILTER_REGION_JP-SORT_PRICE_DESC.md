@@ -604,6 +604,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/20992-looking-for-aliens"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20992.png"
+                            alt="Looking for Aliens" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20992-looking-for-aliens">Looking for Aliens</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">59</td>
+            <td align="center">2</td>
+            <td align="center">2</td>
+            <td align="center">54</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16389-burger-break"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16389.png"
                             alt="Burger Break" width="60"></a></td>
@@ -1276,6 +1292,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17545-pretty-girls-four-kings-solitaire"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17545.png"
+                            alt="Pretty Girls: Four Kings Solitaire" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17545-pretty-girls-four-kings-solitaire">Pretty Girls: Four Kings Solitaire</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">48 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16632-a-winters-daydream"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16632.png"
                             alt="A Winter&#039;s Daydream" width="60"></a></td>
@@ -1609,38 +1641,6 @@
             <td align="center">9</td>
             <td align="center">8</td>
             <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15613-null-drifter"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15613.png"
-                            alt="Null Drifter" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15613-null-drifter">Null Drifter</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">19 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10614-null-drifter"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10614.png"
-                            alt="Null Drifter" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10614-null-drifter">Null Drifter</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

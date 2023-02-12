@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/20220-race-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20220.png"
+                            alt="Race Journey: Nitro" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20220-race-journey-nitro">Race Journey: Nitro</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.99</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/18527-race-journey-nitro"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18527.png"
                             alt="Race Journey: Nitro" width="60"></a></td>
@@ -220,22 +236,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19979-quiz-thiz-united-kingdom"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19979.png"
-                            alt="Quiz Thiz United Kingdom" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19979-quiz-thiz-united-kingdom">Quiz Thiz United Kingdom</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/19982-quiz-thiz-united-kingdom"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19982.png"
                             alt="Quiz Thiz United Kingdom" width="60"></a></td>
@@ -252,12 +252,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19981-quiz-thiz-united-kingdom"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19981.png"
+            <td><a href="https://psnprofiles.com/trophies/19979-quiz-thiz-united-kingdom"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19979.png"
                             alt="Quiz Thiz United Kingdom" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19981-quiz-thiz-united-kingdom">Quiz Thiz United Kingdom</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19979-quiz-thiz-united-kingdom">Quiz Thiz United Kingdom</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -274,6 +274,22 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/20035-quiz-thiz-united-kingdom">Quiz Thiz United Kingdom</a>
                 <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19981-quiz-thiz-united-kingdom"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19981.png"
+                            alt="Quiz Thiz United Kingdom" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19981-quiz-thiz-united-kingdom">Quiz Thiz United Kingdom</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -364,22 +380,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20914-quiz-thiz-spain"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20914.png"
-                            alt="Quiz Thiz Spain" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20914-quiz-thiz-spain">Quiz Thiz Spain</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/20887-quiz-thiz-spain"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20887.png"
                             alt="Quiz Thiz Spain" width="60"></a></td>
@@ -396,12 +396,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20911-quiz-thiz-spain"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20911.png"
+            <td><a href="https://psnprofiles.com/trophies/20914-quiz-thiz-spain"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20914.png"
                             alt="Quiz Thiz Spain" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20911-quiz-thiz-spain">Quiz Thiz Spain</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/20914-quiz-thiz-spain">Quiz Thiz Spain</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -412,12 +412,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20691-quiz-thiz-spain"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20691.png"
+            <td><a href="https://psnprofiles.com/trophies/20911-quiz-thiz-spain"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20911.png"
                             alt="Quiz Thiz Spain" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20691-quiz-thiz-spain">Quiz Thiz Spain</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/20911-quiz-thiz-spain">Quiz Thiz Spain</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -444,12 +444,44 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/20691-quiz-thiz-spain"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20691.png"
+                            alt="Quiz Thiz Spain" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20691-quiz-thiz-spain">Quiz Thiz Spain</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/20484-quiz-thiz-france"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20484.png"
                             alt="Quiz Thiz France" width="60"></a></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/20484-quiz-thiz-france">Quiz Thiz France</a>
                 <kbd>PS5</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20465-quiz-thiz-france"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20465.png"
+                            alt="Quiz Thiz France" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20465-quiz-thiz-france">Quiz Thiz France</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -469,22 +501,6 @@
             </td>
             <td align="center">1 min</td>
             <td align="center">€2.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20465-quiz-thiz-france"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20465.png"
-                            alt="Quiz Thiz France" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20465-quiz-thiz-france">Quiz Thiz France</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.49</td>
             <td align="center">21</td>
             <td align="center">9</td>
             <td align="center">5</td>
@@ -588,12 +604,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17492-monument-journey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17492.png"
+            <td><a href="https://psnprofiles.com/trophies/17450-monument-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17450.png"
                             alt="Monument Journey" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17492-monument-journey">Monument Journey</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17450-monument-journey">Monument Journey</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -604,12 +620,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17450-monument-journey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17450.png"
+            <td><a href="https://psnprofiles.com/trophies/17492-monument-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17492.png"
                             alt="Monument Journey" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17450-monument-journey">Monument Journey</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17492-monument-journey">Monument Journey</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -636,22 +652,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17470-monument-journey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17470.png"
-                            alt="Monument Journey" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17470-monument-journey">Monument Journey</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/17449-monument-journey"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17449.png"
                             alt="Monument Journey" width="60"></a></td>
@@ -661,6 +661,22 @@
             </td>
             <td align="center">1 min</td>
             <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17470-monument-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17470.png"
+                            alt="Monument Journey" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17470-monument-journey">Monument Journey</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
             <td align="center">21</td>
             <td align="center">9</td>
             <td align="center">5</td>
@@ -764,22 +780,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18200-italian-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18200.png"
-                            alt="Italian Journey: Nitro" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18200-italian-journey-nitro">Italian Journey: Nitro</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/18228-italian-journey-nitro"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18228.png"
                             alt="Italian Journey: Nitro" width="60"></a></td>
@@ -789,6 +789,22 @@
             </td>
             <td align="center">1 min</td>
             <td align="center">€2.99</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18200-italian-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18200.png"
+                            alt="Italian Journey: Nitro" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18200-italian-journey-nitro">Italian Journey: Nitro</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.99</td>
             <td align="center">21</td>
             <td align="center">9</td>
             <td align="center">5</td>
@@ -812,12 +828,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18626-italian-journey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18626.png"
+            <td><a href="https://psnprofiles.com/trophies/18625-italian-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18625.png"
                             alt="Italian Journey" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18626-italian-journey">Italian Journey</a>
-                <kbd>PS4</kbd>
+                <a href="https://psnprofiles.com/trophies/18625-italian-journey">Italian Journey</a>
+                <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -828,12 +844,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18625-italian-journey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18625.png"
+            <td><a href="https://psnprofiles.com/trophies/18626-italian-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18626.png"
                             alt="Italian Journey" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18625-italian-journey">Italian Journey</a>
-                <kbd>PS5</kbd>
+                <a href="https://psnprofiles.com/trophies/18626-italian-journey">Italian Journey</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -860,22 +876,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18192-italian-journey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18192.png"
-                            alt="Italian Journey" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18192-italian-journey">Italian Journey</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/18197-italian-journey"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18197.png"
                             alt="Italian Journey" width="60"></a></td>
@@ -885,6 +885,22 @@
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18192-italian-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18192.png"
+                            alt="Italian Journey" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18192-italian-journey">Italian Journey</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€1.49</td>
             <td align="center">21</td>
             <td align="center">9</td>
             <td align="center">5</td>
@@ -956,12 +972,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17791-drift-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17791.png"
+            <td><a href="https://psnprofiles.com/trophies/17724-drift-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17724.png"
                             alt="Drift Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17791-drift-journey-nitro">Drift Journey: Nitro</a>
-                <kbd>PS4</kbd>
+                <a href="https://psnprofiles.com/trophies/17724-drift-journey-nitro">Drift Journey: Nitro</a>
+                <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -972,12 +988,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17724-drift-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17724.png"
+            <td><a href="https://psnprofiles.com/trophies/17791-drift-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17791.png"
                             alt="Drift Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17724-drift-journey-nitro">Drift Journey: Nitro</a>
-                <kbd>PS5</kbd>
+                <a href="https://psnprofiles.com/trophies/17791-drift-journey-nitro">Drift Journey: Nitro</a>
+                <kbd>PS4</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -1436,22 +1452,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19271-classic-journey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19271.png"
-                            alt="Classic Journey" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19271-classic-journey">Classic Journey</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/19274-classic-journey"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19274.png"
                             alt="Classic Journey" width="60"></a></td>
@@ -1474,6 +1474,22 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/19273-classic-journey">Classic Journey</a>
                 <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19271-classic-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19271.png"
+                            alt="Classic Journey" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19271-classic-journey">Classic Journey</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1602,22 +1618,6 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/19556-caravan-journey-nitro">Caravan Journey: Nitro</a>
                 <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19550.png"
-                            alt="Caravan Journey: Nitro" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro">Caravan Journey: Nitro</a>
-                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>

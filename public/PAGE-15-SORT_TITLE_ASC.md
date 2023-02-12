@@ -844,6 +844,22 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/20992-looking-for-aliens"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20992.png"
+                            alt="Looking for Aliens" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20992-looking-for-aliens">Looking for Aliens</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">59</td>
+            <td align="center">2</td>
+            <td align="center">2</td>
+            <td align="center">54</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/20993-looking-for-aliens"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20993.png"
                             alt="Looking for Aliens" width="60"></a></td>
@@ -1621,22 +1637,6 @@
             </td>
             <td align="center">51 min</td>
             <td align="center">$4.99</td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17974-maggie-the-magnet"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17974.png"
-                            alt="Maggie the Magnet" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17974-maggie-the-magnet">Maggie the Magnet</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">39 min</td>
-            <td align="center">€4.99</td>
             <td align="center">21</td>
             <td align="center">8</td>
             <td align="center">10</td>

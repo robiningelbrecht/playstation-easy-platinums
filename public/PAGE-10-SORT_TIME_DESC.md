@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13695-rogue-explorer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13695.png"
+                            alt="Rogue Explorer" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13695-rogue-explorer">Rogue Explorer</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">25 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16474-pretty-girls-speed"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16474.png"
                             alt="Pretty Girls Speed" width="60"></a></td>
@@ -1625,22 +1641,6 @@
             <td align="center">10</td>
             <td align="center">5</td>
             <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14574-henchman-story"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14574.png"
-                            alt="Henchman Story" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14574-henchman-story">Henchman Story</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">23 min</td>
-            <td align="center">€14.99</td>
-            <td align="center">27</td>
-            <td align="center">5</td>
-            <td align="center">19</td>
-            <td align="center">2</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

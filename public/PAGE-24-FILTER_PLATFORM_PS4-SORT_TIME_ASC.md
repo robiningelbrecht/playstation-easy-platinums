@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14396-zombo-buster-rising"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14396.png"
+                            alt="Zombo Buster Rising" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14396-zombo-buster-rising">Zombo Buster Rising</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">43 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">25</td>
+            <td align="center">6</td>
+            <td align="center">15</td>
+            <td align="center">3</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/7551-survive-mr-cube"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7551.png"
                             alt="Survive! Mr. Cube" width="60"></a></td>
@@ -1196,6 +1212,22 @@
             <td align="center">1320</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17545-pretty-girls-four-kings-solitaire"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17545.png"
+                            alt="Pretty Girls: Four Kings Solitaire" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17545-pretty-girls-four-kings-solitaire">Pretty Girls: Four Kings Solitaire</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">48 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15999-pretty-girls-rivers"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15999.png"
                             alt="Pretty Girls Rivers" width="60"></a></td>
@@ -1610,38 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18842-tempus"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18842.png"
-                            alt="Tempus" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18842-tempus">Tempus</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">50 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16915-quintus-and-the-absent-truth"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16915.png"
-                            alt="Quintus and the Absent Truth" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16915-quintus-and-the-absent-truth">Quintus and the Absent Truth</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">50 min</td>
-            <td align="center">€9.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

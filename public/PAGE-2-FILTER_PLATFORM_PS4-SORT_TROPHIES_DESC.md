@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/12032-freddy-spaghetti"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12032.png"
+                            alt="Freddy Spaghetti" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12032-freddy-spaghetti">Freddy Spaghetti</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">42 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">56</td>
+            <td align="center">1</td>
+            <td align="center">10</td>
+            <td align="center">44</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12034-freddy-spaghetti"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12034.png"
                             alt="Freddy Spaghetti" width="60"></a></td>
@@ -108,12 +124,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20803-rocketio-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20803.png"
+            <td><a href="https://psnprofiles.com/trophies/20806-rocketio-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20806.png"
                             alt="Rocketio 2" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20803-rocketio-2">Rocketio 2</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20806-rocketio-2">Rocketio 2</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.99</td>
@@ -124,12 +140,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20806-rocketio-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20806.png"
+            <td><a href="https://psnprofiles.com/trophies/20803-rocketio-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20803.png"
                             alt="Rocketio 2" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20806-rocketio-2">Rocketio 2</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/20803-rocketio-2">Rocketio 2</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.99</td>
@@ -1620,22 +1636,6 @@
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">11 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13152-independence-day-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13152.png"
-                            alt="Independence Day Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13152-independence-day-break-head-to-head">Independence Day Break Head to Head</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
             <td align="center">$6.99</td>
             <td align="center">40</td>
             <td align="center">4</td>

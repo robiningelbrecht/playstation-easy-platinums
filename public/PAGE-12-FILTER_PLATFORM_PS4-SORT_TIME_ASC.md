@@ -1100,6 +1100,22 @@
             <td align="center">1320</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/20992-looking-for-aliens"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20992.png"
+                            alt="Looking for Aliens" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20992-looking-for-aliens">Looking for Aliens</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">59</td>
+            <td align="center">2</td>
+            <td align="center">2</td>
+            <td align="center">54</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17656-kid-ball-adventure"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17656.png"
                             alt="Kid Ball Adventure" width="60"></a></td>
@@ -1626,22 +1642,6 @@
             <td align="center">14</td>
             <td align="center">0</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10986-デスマッチラブコメ"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10986.png"
-                            alt="デスマッチラブコメ！" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10986-デスマッチラブコメ">デスマッチラブコメ！</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center"></td>
-            <td align="center">27</td>
-            <td align="center">6</td>
-            <td align="center">8</td>
-            <td align="center">12</td>
-            <td align="center">1260</td>
         </tr>
         </tbody>
 </table>

@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13631-space-intervention"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13631.png"
+                            alt="Space Intervention" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13631-space-intervention">Space Intervention</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13630-crimson-spires"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13630.png"
+                            alt="Crimson Spires" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13630-crimson-spires">Crimson Spires</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">34 min</td>
+            <td align="center">$19.98</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13622-bowling-story-three-pammy-version-project-summer-ice"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13622.png"
                             alt="Bowling: Story Three (Pammy Version) - Project: Summer Ice" width="60"></a></td>
@@ -1610,38 +1642,6 @@
             <td align="center">2</td>
             <td align="center">0</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13247-sugarstyle"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13247.png"
-                            alt="Sugar*Style" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13247-sugarstyle">Sugar*Style</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center"></td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13246-ハミダシクリエイティブ"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13246.png"
-                            alt="ハミダシクリエイティブ" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13246-ハミダシクリエイティブ">ハミダシクリエイティブ</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">54 min</td>
-            <td align="center"></td>
-            <td align="center">18</td>
-            <td align="center">8</td>
-            <td align="center">8</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
         </tr>
         </tbody>
 </table>

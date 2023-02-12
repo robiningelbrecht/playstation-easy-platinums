@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18093-platty-bird-6"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18093.png"
+                            alt="Platty Bird 6" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18093-platty-bird-6">Platty Bird 6</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">31</td>
+            <td align="center">7</td>
+            <td align="center">5</td>
+            <td align="center">18</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16049-pizza-break"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16049.png"
+                            alt="Pizza Break" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16049-pizza-break">Pizza Break</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">38</td>
+            <td align="center">4</td>
+            <td align="center">7</td>
+            <td align="center">26</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/19527-pinball-challenge-mode-edition-breakthrough-gaming-arcade"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19527.png"
                             alt="Pinball (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
@@ -1609,38 +1641,6 @@
             <td align="center">10</td>
             <td align="center">4</td>
             <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12895-rift-racoon"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12895.png"
-                            alt="Rift Racoon" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12895-rift-racoon">Rift Racoon</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">€2.49</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18814-repentless"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18814.png"
-                            alt="Repentless" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18814-repentless">Repentless</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">24</td>
-            <td align="center">8</td>
-            <td align="center">7</td>
-            <td align="center">8</td>
             <td align="center">1350</td>
         </tr>
         </tbody>
