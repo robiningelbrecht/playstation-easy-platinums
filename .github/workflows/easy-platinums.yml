@@ -45,7 +45,7 @@ jobs:
 
       - name: Fetch new easy platinums
         run: |
-          PROFILES=${{ github.event.inputs.profile-name || env.DEFAULT_PROFILE_NAMES }}
+          PROFILES=caro3c-gabber9,Fluttezuhher,chris_play1,IBadDriverI,roots52,The-Ricksterr,Hakoom,ikemenzi
           export COMMIT_MESSAGE=$(bin/easy-platinums games:fetch $PROFILES)
           echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
 
