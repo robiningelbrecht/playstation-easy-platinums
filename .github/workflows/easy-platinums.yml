@@ -1,8 +1,6 @@
 name: Easy platinums
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '30 */4 * * *'
 jobs:
   update:
     name: Update list of easy platinums
