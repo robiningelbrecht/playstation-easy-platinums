@@ -28,21 +28,21 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
+                <td align="center">1</td>
+                <td align="center">13</td>
+                <td align="center">1 320</td>
+            </tr>
+                    <tr>
+                <td align="center">Yesterday</td>
                 <td align="center">9</td>
                 <td align="center">205</td>
                 <td align="center">12 000</td>
             </tr>
                     <tr>
-                <td align="center">Yesterday</td>
-                <td align="center">1</td>
-                <td align="center">21</td>
-                <td align="center">1 260</td>
-            </tr>
-                    <tr>
                 <td align="center">February 2023</td>
-                <td align="center">131</td>
-                <td align="center">3 995</td>
-                <td align="center">175 545</td>
+                <td align="center">132</td>
+                <td align="center">4 008</td>
+                <td align="center">176 865</td>
             </tr>
                     <tr>
                 <td align="center">January 2023</td>
@@ -88,11 +88,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>4 063</b>
+            <td align="center"><b>4 064</b>
             </td>
             <td align="center">
-                <b>88 878</b></td>
-            <td align="center"><b>5 392 890</b></td>
+                <b>88 891</b></td>
+            <td align="center"><b>5 394 210</b></td>
         </tr>
         </tbody>
     </table>
@@ -149,9 +149,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>NA</b></td>
-                                    <td align="center">767</td>
+                                    <td align="center">768</td>
                                     <td align="center">389</td>
-                                <td align="center"><b>1156</b></td>
+                                <td align="center"><b>1157</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>RR</b></td>
@@ -167,7 +167,7 @@
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>2575</b></td>
+                            <td align="center"><b>2576</b></td>
                             <td align="center"><b>1488</b></td>
                         <td>&nbsp;</td>
         </tr>
