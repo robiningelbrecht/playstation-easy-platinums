@@ -900,7 +900,7 @@
                 <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">20 min</td>
-            <td align="center"></td>
+            <td align="center">$14.99</td>
             <td align="center">16</td>
             <td align="center">11</td>
             <td align="center">0</td>
