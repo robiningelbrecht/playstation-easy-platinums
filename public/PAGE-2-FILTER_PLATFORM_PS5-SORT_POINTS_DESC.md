@@ -340,7 +340,7 @@
                 <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">27 min</td>
-            <td align="center"></td>
+            <td align="center">€4.99</td>
             <td align="center">14</td>
             <td align="center">11</td>
             <td align="center">2</td>
