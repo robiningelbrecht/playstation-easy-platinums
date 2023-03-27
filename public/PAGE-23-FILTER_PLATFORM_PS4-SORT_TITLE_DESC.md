@@ -628,7 +628,7 @@
                 <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">30 min</td>
-            <td align="center"></td>
+            <td align="center">$14.99</td>
             <td align="center">13</td>
             <td align="center">10</td>
             <td align="center">2</td>
