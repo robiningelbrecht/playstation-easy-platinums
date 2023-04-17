@@ -276,7 +276,7 @@
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">5 min</td>
-            <td align="center"></td>
+            <td align="center">$3.99</td>
             <td align="center">61</td>
             <td align="center">1</td>
             <td align="center">5</td>
