@@ -972,11 +972,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21844-space-defend"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21844.png"
+            <td><a href="https://psnprofiles.com/trophies/21845-space-defend"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21845.png"
                             alt="Space Defend" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21844-space-defend">Space Defend</a>
+                <a href="https://psnprofiles.com/trophies/21845-space-defend">Space Defend</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">4 min</td>
