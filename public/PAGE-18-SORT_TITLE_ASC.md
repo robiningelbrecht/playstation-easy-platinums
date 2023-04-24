@@ -308,7 +308,7 @@
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">4 min</td>
-            <td align="center"></td>
+            <td align="center">€4.99</td>
             <td align="center">21</td>
             <td align="center">8</td>
             <td align="center">10</td>
