@@ -52,7 +52,7 @@
                 <kbd>PS4</kbd>
             </td>
             <td align="center">47 min</td>
-            <td align="center"></td>
+            <td align="center">$26.99</td>
             <td align="center">14</td>
             <td align="center">10</td>
             <td align="center">3</td>
