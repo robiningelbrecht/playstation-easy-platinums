@@ -7,8 +7,8 @@
 
         
 <p align="center">
-    Completing all these games would take you about <kbd>1068 hours</kbd>
-    or <kbd>45 days</kbd> and cost you approximately <kbd>$13,023.36</kbd> and <kbd>€5,944.91</kbd>
+    Completing all these games would take you about <kbd>1070 hours</kbd>
+    or <kbd>45 days</kbd> and cost you approximately <kbd>$13,038.34</kbd> and <kbd>€5,954.89</kbd>
 </p>
 
 ------
@@ -29,20 +29,20 @@
                     <tr>
                 <td align="center">Today</td>
                 <td align="center">5</td>
+                <td align="center">71</td>
+                <td align="center">6 540</td>
+            </tr>
+                    <tr>
+                <td align="center">Yesterday</td>
+                <td align="center">5</td>
                 <td align="center">188</td>
                 <td align="center">6 660</td>
             </tr>
                     <tr>
-                <td align="center">Yesterday</td>
-                <td align="center">10</td>
-                <td align="center">345</td>
-                <td align="center">13 215</td>
-            </tr>
-                    <tr>
                 <td align="center">May 2023</td>
-                <td align="center">26</td>
-                <td align="center">859</td>
-                <td align="center">34 545</td>
+                <td align="center">31</td>
+                <td align="center">930</td>
+                <td align="center">41 085</td>
             </tr>
                     <tr>
                 <td align="center">April 2023</td>
@@ -106,11 +106,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>4 382</b>
+            <td align="center"><b>4 387</b>
             </td>
             <td align="center">
-                <b>97 453</b></td>
-            <td align="center"><b>5 816 445</b></td>
+                <b>97 524</b></td>
+            <td align="center"><b>5 822 985</b></td>
         </tr>
         </tbody>
     </table>
@@ -143,9 +143,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>EU</b></td>
-                                    <td align="center">430</td>
-                                    <td align="center">805</td>
-                                <td align="center"><b>1235</b></td>
+                                    <td align="center">431</td>
+                                    <td align="center">806</td>
+                                <td align="center"><b>1237</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>HK</b></td>
@@ -168,8 +168,8 @@
                     <tr>
                 <td align="center"><b>NA</b></td>
                                     <td align="center">428</td>
-                                    <td align="center">818</td>
-                                <td align="center"><b>1246</b></td>
+                                    <td align="center">819</td>
+                                <td align="center"><b>1247</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>RR</b></td>
@@ -179,14 +179,14 @@
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">330</td>
-                                    <td align="center">394</td>
-                                <td align="center"><b>724</b></td>
+                                    <td align="center">331</td>
+                                    <td align="center">395</td>
+                                <td align="center"><b>726</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>1634</b></td>
-                            <td align="center"><b>2748</b></td>
+                            <td align="center"><b>1636</b></td>
+                            <td align="center"><b>2751</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
