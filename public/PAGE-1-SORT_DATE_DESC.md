@@ -452,7 +452,7 @@
                 <kbd>PS5</kbd>
             </td>
             <td align="center">6 min</td>
-            <td align="center"></td>
+            <td align="center">$1.49</td>
             <td align="center">34</td>
             <td align="center">1</td>
             <td align="center">32</td>
