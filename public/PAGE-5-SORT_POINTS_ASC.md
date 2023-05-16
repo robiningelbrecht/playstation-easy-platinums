@@ -1460,7 +1460,7 @@
                 <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">14 min</td>
-            <td align="center"></td>
+            <td align="center">$0.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>
