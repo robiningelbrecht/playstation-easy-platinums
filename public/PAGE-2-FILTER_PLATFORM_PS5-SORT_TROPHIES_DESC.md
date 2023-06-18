@@ -492,15 +492,15 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/22575-power-the-light"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22575.png"
+            <td><a href="https://psnprofiles.com/trophies/22592-power-the-light"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22592.png"
                             alt="Power the Light" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/22575-power-the-light">Power the Light</a>
+                <a href="https://psnprofiles.com/trophies/22592-power-the-light">Power the Light</a>
                 <kbd>PS5</kbd>
             </td>
-            <td align="center">13 min</td>
-            <td align="center">$3.99</td>
+            <td align="center">26 min</td>
+            <td align="center"></td>
             <td align="center">52</td>
             <td align="center">2</td>
             <td align="center">9</td>
