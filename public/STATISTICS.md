@@ -7,8 +7,8 @@
 
         
 <p align="center">
-    Completing all these games would take you about <kbd>1155 hours</kbd>
-    or <kbd>49 days</kbd> and cost you approximately <kbd>$14,022.61</kbd> and <kbd>€6,248.22</kbd>
+    Completing all these games would take you about <kbd>1159 hours</kbd>
+    or <kbd>49 days</kbd> and cost you approximately <kbd>$14,043.51</kbd> and <kbd>€6,267.17</kbd>
 </p>
 
 ------
@@ -28,21 +28,21 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">5</td>
-                <td align="center">156</td>
-                <td align="center">6 690</td>
+                <td align="center">17</td>
+                <td align="center">424</td>
+                <td align="center">22 545</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
-                <td align="center">2</td>
-                <td align="center">28</td>
-                <td align="center">2 700</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
             </tr>
                     <tr>
                 <td align="center">July 2023</td>
-                <td align="center">98</td>
-                <td align="center">2 048</td>
-                <td align="center">129 795</td>
+                <td align="center">115</td>
+                <td align="center">2 472</td>
+                <td align="center">152 340</td>
             </tr>
                     <tr>
                 <td align="center">June 2023</td>
@@ -118,11 +118,11 @@
             </tr>
                 <tr>
             <td align="center"><b>Total</b></td>
-            <td align="center"><b>4 680</b>
+            <td align="center"><b>4 697</b>
             </td>
             <td align="center">
-                <b>104 042</b></td>
-            <td align="center"><b>6 210 585</b></td>
+                <b>104 466</b></td>
+            <td align="center"><b>6 233 130</b></td>
         </tr>
         </tbody>
     </table>
@@ -155,9 +155,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>EU</b></td>
-                                    <td align="center">458</td>
-                                    <td align="center">846</td>
-                                <td align="center"><b>1304</b></td>
+                                    <td align="center">461</td>
+                                    <td align="center">848</td>
+                                <td align="center"><b>1309</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>HK</b></td>
@@ -179,9 +179,9 @@
             </tr>
                     <tr>
                 <td align="center"><b>NA</b></td>
-                                    <td align="center">454</td>
+                                    <td align="center">457</td>
                                     <td align="center">858</td>
-                                <td align="center"><b>1312</b></td>
+                                <td align="center"><b>1315</b></td>
             </tr>
                     <tr>
                 <td align="center"><b>RR</b></td>
@@ -191,14 +191,14 @@
             </tr>
                     <tr>
                 <td align="center"><b>No region</b></td>
-                                    <td align="center">377</td>
-                                    <td align="center">445</td>
-                                <td align="center"><b>822</b></td>
+                                    <td align="center">381</td>
+                                    <td align="center">450</td>
+                                <td align="center"><b>831</b></td>
             </tr>
                 <tr>
             <td>&nbsp;</td>
-                            <td align="center"><b>1760</b></td>
-                            <td align="center"><b>2920</b></td>
+                            <td align="center"><b>1770</b></td>
+                            <td align="center"><b>2927</b></td>
                         <td>&nbsp;</td>
         </tr>
         </tbody>
