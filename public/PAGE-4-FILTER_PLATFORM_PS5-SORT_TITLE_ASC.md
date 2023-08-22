@@ -1620,7 +1620,7 @@
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">5 min</td>
-            <td align="center"></td>
+            <td align="center">$18.99</td>
             <td align="center">21</td>
             <td align="center">8</td>
             <td align="center">10</td>
