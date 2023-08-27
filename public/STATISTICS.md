@@ -8,7 +8,7 @@
         
 <p align="center">
     Completing all these games would take you about <kbd>1188 hours</kbd>
-    or <kbd>50 days</kbd> and cost you approximately <kbd>$14,398.45</kbd> and <kbd>€6,428.72</kbd>
+    or <kbd>50 days</kbd> and cost you approximately <kbd>$14,404.44</kbd> and <kbd>€6,428.72</kbd>
 </p>
 
 ------
@@ -28,15 +28,15 @@
         <tbody>
                     <tr>
                 <td align="center">Today</td>
-                <td align="center">10</td>
-                <td align="center">222</td>
-                <td align="center">13 500</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
             </tr>
                     <tr>
                 <td align="center">Yesterday</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
-                <td align="center">0</td>
+                <td align="center">10</td>
+                <td align="center">222</td>
+                <td align="center">13 500</td>
             </tr>
                     <tr>
                 <td align="center">August 2023</td>
