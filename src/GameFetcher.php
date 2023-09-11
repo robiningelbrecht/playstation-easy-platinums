@@ -6,15 +6,15 @@ use App\Clock\Clock;
 use App\Result\Row;
 use GuzzleHttp\Client;
 
-class GameFetcher
+readonly class GameFetcher
 {
 
     public function __construct(
-        private readonly Client $client,
-        private readonly FileContentsWrapper $fileContentsWrapper,
-        private readonly GameRepository $gameRepository,
-        private readonly PriceFetcher $priceFetcher,
-        private readonly Clock $clock,
+        private Client $client,
+        private FileContentsWrapper $fileContentsWrapper,
+        private GameRepository $gameRepository,
+        private PriceFetcher $priceFetcher,
+        private Clock $clock,
     )
     {
     }

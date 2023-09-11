@@ -5,10 +5,10 @@ namespace App\Statistics;
 use App\Result\ResultSet;
 use App\Result\Row;
 
-class PlatformRegionMatrix
+readonly class PlatformRegionMatrix
 {
     private function __construct(
-        private readonly ResultSet $resultSet
+        private ResultSet $resultSet
     )
     {
     }

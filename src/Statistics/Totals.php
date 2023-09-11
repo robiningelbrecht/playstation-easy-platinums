@@ -7,10 +7,10 @@ use App\Result\ResultSet;
 use App\Result\Row;
 use Money\Money;
 
-class Totals
+readonly class Totals
 {
     private function __construct(
-        private readonly ResultSet $resultSet
+        private ResultSet $resultSet
     )
     {
     }

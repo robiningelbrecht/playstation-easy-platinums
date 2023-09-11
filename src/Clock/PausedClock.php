@@ -2,10 +2,10 @@
 
 namespace App\Clock;
 
-class PausedClock implements Clock
+readonly class PausedClock implements Clock
 {
     private function __construct(
-        private readonly \DateTimeImmutable $pausedOn
+        private \DateTimeImmutable $pausedOn
     )
     {
 

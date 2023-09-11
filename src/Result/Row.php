@@ -9,7 +9,7 @@ use App\Sort\SortField;
 use Money\Currency;
 use Money\Money;
 
-class Row implements \JsonSerializable
+readonly class Row implements \JsonSerializable
 {
 
     private function __construct(

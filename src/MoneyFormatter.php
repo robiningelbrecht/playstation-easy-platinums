@@ -6,7 +6,7 @@ use Money\Currencies\ISOCurrencies;
 use Money\Formatter\IntlMoneyFormatter;
 use Money\Money;
 
-class MoneyFormatter
+readonly class MoneyFormatter
 {
     public function __construct(
         private ISOCurrencies $currencies = new ISOCurrencies()

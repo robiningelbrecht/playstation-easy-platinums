@@ -2,7 +2,7 @@
 
 namespace App\Filter;
 
-class FilterField
+readonly class FilterField
 {
     public const FIELD_REGION = 'region';
     public const FIELD_PLATFORM = 'platform';

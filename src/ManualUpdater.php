@@ -6,11 +6,11 @@ use App\Clock\Clock;
 use App\Result\Row;
 use Money\Money;
 
-class ManualUpdater
+readonly class ManualUpdater
 {
     public function __construct(
-        private readonly GameRepository $gameRepository,
-        private readonly Clock $clock
+        private GameRepository $gameRepository,
+        private Clock $clock
     )
     {
     }

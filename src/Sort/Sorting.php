@@ -2,11 +2,11 @@
 
 namespace App\Sort;
 
-class Sorting
+readonly class Sorting
 {
     private function __construct(
-        private readonly SortField $sortField,
-        private readonly SortDirection $sortDirection,
+        private SortField $sortField,
+        private SortDirection $sortDirection,
     )
     {
     }

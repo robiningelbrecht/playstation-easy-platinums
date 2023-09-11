@@ -2,7 +2,7 @@
 
 namespace App\Filter;
 
-class Filter
+readonly class Filter
 {
     private function __construct(
         private FilterField $filterField,

@@ -6,11 +6,11 @@ use App\Clock\Clock;
 use App\Result\ResultSet;
 use App\Sort\Sorting;
 
-class MonthlyStatistics
+readonly class MonthlyStatistics
 {
     private function __construct(
-        private readonly ResultSet $resultSet,
-        private readonly \DateTimeImmutable $now,
+        private ResultSet $resultSet,
+        private \DateTimeImmutable $now,
     )
     {
     }
