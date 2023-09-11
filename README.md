@@ -180,7 +180,7 @@
                 <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">1 min</td>
-            <td align="center"></td>
+            <td align="center">€3.99</td>
             <td align="center">36</td>
             <td align="center">6</td>
             <td align="center">5</td>
@@ -196,7 +196,7 @@
                 <kbd>PS4</kbd>
             </td>
             <td align="center">15 min</td>
-            <td align="center"></td>
+            <td align="center">$3.99</td>
             <td align="center">36</td>
             <td align="center">6</td>
             <td align="center">5</td>
@@ -212,7 +212,7 @@
                 <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>
-            <td align="center"></td>
+            <td align="center">$3.99</td>
             <td align="center">36</td>
             <td align="center">6</td>
             <td align="center">5</td>
