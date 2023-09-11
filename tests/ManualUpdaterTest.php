@@ -67,7 +67,7 @@ class ManualUpdaterTest extends TestCase
                 'addedOn' => '2022-07-05 07:48:54',
                 'price' => ['amount' => 199, 'currency' => 'USD'],
             ]),
-            $this->manualUpdater->updatePriceForId('16927', 199)
+            $this->manualUpdater->updatePriceForId(['16927'], 199)
         );
     }
 

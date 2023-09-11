@@ -51,7 +51,7 @@ $app
     ->argument('<id>', 'PSN Profile game id to set price for')
     ->argument('<amountInCents>', 'The price in cents')
     ->action(function (string $id, int $amountInCents) use($container) {
-        $updatedRow = ($container->get(ManualUpdater::class))->updatePriceForId($id, $amountInCents);
+        $updatedRow = ($container->get(ManualUpdater::class))->updatePriceForId(array_map('trim', explode(',', $id)), $amountInCents);
 
         echo sprintf(
             'Manual price update for %s to %s via workflow',
