@@ -1140,7 +1140,7 @@
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">56 min</td>
-            <td align="center"></td>
+            <td align="center">$9.99</td>
             <td align="center">44</td>
             <td align="center">0</td>
             <td align="center">27</td>
