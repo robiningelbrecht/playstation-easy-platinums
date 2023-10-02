@@ -556,14 +556,14 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23804-mimi-the-cat-mimis-scratcher"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23804.png"
+            <td><a href="https://psnprofiles.com/trophies/23809-mimi-the-cat-mimis-scratcher"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23809.png"
                             alt="Mimi the Cat: Mimi&#039;s Scratcher" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23804-mimi-the-cat-mimis-scratcher">Mimi the Cat: Mimi&#039;s Scratcher</a>
+                <a href="https://psnprofiles.com/trophies/23809-mimi-the-cat-mimis-scratcher">Mimi the Cat: Mimi&#039;s Scratcher</a>
                 <kbd>PS5</kbd>
             </td>
-            <td align="center">9 min</td>
+            <td align="center">8 min</td>
             <td align="center">$4.99</td>
             <td align="center">18</td>
             <td align="center">9</td>

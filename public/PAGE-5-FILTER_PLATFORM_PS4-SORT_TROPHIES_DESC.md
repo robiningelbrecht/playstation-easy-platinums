@@ -1036,11 +1036,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/22382-eperon-defend"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22382.png"
+            <td><a href="https://psnprofiles.com/trophies/23906-eperon-defend"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23906.png"
                             alt="Eperon Defend" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/22382-eperon-defend">Eperon Defend</a>
+                <a href="https://psnprofiles.com/trophies/23906-eperon-defend">Eperon Defend</a>
                 <kbd>PS4</kbd>
             </td>
             <td align="center">4 min</td>
