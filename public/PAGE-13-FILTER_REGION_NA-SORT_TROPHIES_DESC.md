@@ -44,6 +44,134 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13331-bowling-story-one-jane-version-project-summer-ice"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13331.png"
+                            alt="Bowling: Story One (Jane Version) - Project: Summer Ice" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13331-bowling-story-one-jane-version-project-summer-ice">Bowling: Story One (Jane Version) -...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15066-zj-the-ball-challenge-level-3c"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15066.png"
+                            alt="ZJ the Ball Challenge: Level 3C" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15066-zj-the-ball-challenge-level-3c">ZJ the Ball Challenge: Level 3C</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13419-track-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13419.png"
+                            alt="Track (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13419-track-challenge-mode-edition-breakthrough-gaming-arcade">Track (Challenge Mode Edition): Bre...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23412-totoge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23412.png"
+                            alt="Totoge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23412-totoge">Totoge</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/8967-super-weekend-mode"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8967.png"
+                            alt="Super Weekend Mode" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/8967-super-weekend-mode">Super Weekend Mode</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14904-space-kabaam"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14904.png"
+                            alt="Space KaBAAM" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14904-space-kabaam">Space KaBAAM</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14799-space-kabaam"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14799.png"
+                            alt="Space KaBAAM" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14799-space-kabaam">Space KaBAAM</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23213-on-sunday"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23213.png"
+                            alt="On Sunday" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23213-on-sunday">On Sunday</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17219-on-sunday"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17219.png"
                             alt="On Sunday" width="60"></a></td>
@@ -876,12 +1004,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23043-drift-city"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23043.png"
+            <td><a href="https://psnprofiles.com/trophies/23101-drift-city"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23101.png"
                             alt="Drift City" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23043-drift-city">Drift City</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/23101-drift-city">Drift City</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$6.99</td>
@@ -892,12 +1020,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23101-drift-city"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23101.png"
+            <td><a href="https://psnprofiles.com/trophies/23043-drift-city"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23043.png"
                             alt="Drift City" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23101-drift-city">Drift City</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/23043-drift-city">Drift City</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$6.99</td>
@@ -1508,134 +1636,6 @@
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">3 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18629-basketball-challenge-mode-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18629.png"
-                            alt="Basketball (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18629-basketball-challenge-mode-edition-breakthrough-gaming-arcade">Basketball (Challenge Mode Edition)...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21490-alpha-warrior"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21490.png"
-                            alt="Alpha Warrior" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21490-alpha-warrior">Alpha Warrior</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16051-alienzix"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16051.png"
-                            alt="Alienzix" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16051-alienzix">Alienzix</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14346-zippy-the-circle-levels-8-9-10"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14346.png"
-                            alt="Zippy the Circle: Levels 8, 9, &amp; 10" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14346-zippy-the-circle-levels-8-9-10">Zippy the Circle: Levels 8, 9, &amp; 10</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14198-zippy-the-circle-level-3-level-4"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14198.png"
-                            alt="Zippy the Circle: Level 3 &amp; Level 4" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14198-zippy-the-circle-level-3-level-4">Zippy the Circle: Level 3 &amp; Level 4</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15418-zippy-the-circle-challenge-levels-11c-12c-13c"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15418.png"
-                            alt="Zippy the Circle Challenge: Levels 11C, 12C, &amp; 13C" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15418-zippy-the-circle-challenge-levels-11c-12c-13c">Zippy the Circle Challenge: Levels ...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15214-zippy-the-circle-challenge-level-3c-4c"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15214.png"
-                            alt="Zippy the Circle Challenge: Level 3C &amp; 4C" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15214-zippy-the-circle-challenge-level-3c-4c">Zippy the Circle Challenge: Level 3...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center"></td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13956-zj-the-ball-level-5"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13956.png"
-                            alt="ZJ the Ball: Level 5" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13956-zj-the-ball-level-5">ZJ the Ball: Level 5</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
             <td align="center">$0.99</td>
             <td align="center">12</td>
             <td align="center">11</td>

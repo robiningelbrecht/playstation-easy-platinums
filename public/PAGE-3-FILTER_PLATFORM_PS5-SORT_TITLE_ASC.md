@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/20075-cario-3"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20075.png"
+                            alt="Cario 3" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20075-cario-3">Cario 3</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20405-cario-4"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20405.png"
+                            alt="Cario 4" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20405-cario-4">Cario 4</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20404-cario-4"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20404.png"
+                            alt="Cario 4" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20404-cario-4">Cario 4</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/21877-carrion"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21877.png"
                             alt="Carrion" width="60"></a></td>
@@ -1594,54 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16195-dandy-randy-dx"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16195.png"
-                            alt="Dandy &amp; Randy DX" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16195-dandy-randy-dx">Dandy &amp; Randy DX</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">41 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16193-dandy-randy-dx"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16193.png"
-                            alt="Dandy &amp; Randy DX" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16193-dandy-randy-dx">Dandy &amp; Randy DX</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">40 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13784-darker-skies"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13784.png"
-                            alt="Darker Skies" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13784-darker-skies">Darker Skies</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">46 min</td>
-            <td align="center">€17.99</td>
-            <td align="center">13</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1260</td>
         </tr>
         </tbody>
 </table>

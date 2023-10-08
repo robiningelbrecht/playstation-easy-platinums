@@ -812,22 +812,6 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/22841-zen-pong"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22841.png"
-                            alt="Zen Pong" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22841-zen-pong">Zen Pong</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/22838-zen-pong"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22838.png"
                             alt="Zen Pong" width="60"></a></td>
@@ -836,6 +820,22 @@
                 <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">3 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22841-zen-pong"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22841.png"
+                            alt="Zen Pong" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22841-zen-pong">Zen Pong</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">4 min</td>
             <td align="center">$1.49</td>
             <td align="center">34</td>
             <td align="center">1</td>
@@ -1258,6 +1258,70 @@
             <td align="center">14</td>
             <td align="center">0</td>
             <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23829-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23829.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23829-sokolab">Sokolab</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23953-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23953.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23953-sokolab">Sokolab</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23996-blackjack-waifu-tour"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23996.png"
+                            alt="Blackjack: Waifu Tour" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23996-blackjack-waifu-tour">Blackjack: Waifu Tour</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">43 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23903-blackjack-waifu-tour"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23903.png"
+                            alt="Blackjack: Waifu Tour" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23903-blackjack-waifu-tour">Blackjack: Waifu Tour</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

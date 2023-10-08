@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17445-taco-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17445.png"
+                            alt="Taco Fun" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17445-taco-fun">Taco Fun</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€2.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17395-taco-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17395.png"
+                            alt="Taco Fun" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17395-taco-fun">Taco Fun</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€2.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14841-sushi-run"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14841.png"
+                            alt="Sushi Run" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14841-sushi-run">Sushi Run</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14789-sushi-run"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14789.png"
                             alt="Sushi Run" width="60"></a></td>
@@ -268,12 +316,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17499-ninja-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17499.png"
+            <td><a href="https://psnprofiles.com/trophies/17557-ninja-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17557.png"
                             alt="Ninja Fun" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17499-ninja-fun">Ninja Fun</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/17557-ninja-fun">Ninja Fun</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€2.99</td>
@@ -284,12 +332,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17557-ninja-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17557.png"
+            <td><a href="https://psnprofiles.com/trophies/17499-ninja-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17499.png"
                             alt="Ninja Fun" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17557-ninja-fun">Ninja Fun</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/17499-ninja-fun">Ninja Fun</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€2.99</td>
@@ -1589,54 +1637,6 @@
             </td>
             <td align="center">37 min</td>
             <td align="center">€5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12310-retrace-memories-of-death"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12310.png"
-                            alt="Retrace: Memories of Death" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12310-retrace-memories-of-death">Retrace: Memories of Death</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">37 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20234-panda-punch"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20234.png"
-                            alt="Panda Punch" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20234-panda-punch">Panda Punch</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">37 min</td>
-            <td align="center">€3.49</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14605-gynoug"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14605.png"
-                            alt="Gynoug" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14605-gynoug">Gynoug</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">37 min</td>
-            <td align="center">€4.88</td>
             <td align="center">13</td>
             <td align="center">11</td>
             <td align="center">1</td>

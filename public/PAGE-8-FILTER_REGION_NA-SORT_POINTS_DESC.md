@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13263-mighty-aphid"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13263.png"
+                            alt="Mighty Aphid" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13263-mighty-aphid">Mighty Aphid</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15191-kinduo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15191.png"
+                            alt="Kinduo" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15191-kinduo">Kinduo</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14608-gynoug"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14608.png"
+                            alt="Gynoug" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14608-gynoug">Gynoug</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$4.88</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14603-gynoug"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14603.png"
+                            alt="Gynoug" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14603-gynoug">Gynoug</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$4.88</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11393-case-animatronics"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11393.png"
                             alt="CASE: Animatronics" width="60"></a></td>
@@ -1576,70 +1640,6 @@
             <td align="center">21</td>
             <td align="center">7</td>
             <td align="center">13</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10816-pity-pit"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10816.png"
-                            alt="Pity Pit" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10816-pity-pit">Pity Pit</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">19</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17165-dungeon-slime-collection"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17165.png"
-                            alt="Dungeon Slime Collection" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17165-dungeon-slime-collection">Dungeon Slime Collection</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14678-20-bunnies"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14678.png"
-                            alt="20 Bunnies" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14678-20-bunnies">20 Bunnies</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11252-prehistoric-dude"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11252.png"
-                            alt="Prehistoric Dude" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11252-prehistoric-dude">Prehistoric Dude</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
         </tr>

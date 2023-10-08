@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/19254-saint-patricks-day-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19254.png"
+                            alt="Saint Patrick&#039;s Day Fun" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19254-saint-patricks-day-fun">Saint Patrick&#039;s Day Fun</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19096-saint-patricks-day-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19096.png"
+                            alt="Saint Patrick&#039;s Day Fun" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19096-saint-patricks-day-fun">Saint Patrick&#039;s Day Fun</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19097-saint-patricks-day-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19097.png"
+                            alt="Saint Patrick&#039;s Day Fun" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19097-saint-patricks-day-fun">Saint Patrick&#039;s Day Fun</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€2.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/18213-pizza-fun"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18213.png"
                             alt="Pizza Fun" width="60"></a></td>
@@ -1276,22 +1324,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19656-stroke-the-hedgehog"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19656.png"
-                            alt="Stroke The Hedgehog" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19656-stroke-the-hedgehog">Stroke The Hedgehog</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/19660-stroke-the-hedgehog"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19660.png"
                             alt="Stroke The Hedgehog" width="60"></a></td>
@@ -1308,12 +1340,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18975-stroke-the-hedgehog"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18975.png"
+            <td><a href="https://psnprofiles.com/trophies/19656-stroke-the-hedgehog"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19656.png"
                             alt="Stroke The Hedgehog" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18975-stroke-the-hedgehog">Stroke The Hedgehog</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19656-stroke-the-hedgehog">Stroke The Hedgehog</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$3.99</td>
@@ -1333,6 +1365,22 @@
             </td>
             <td align="center">2 min</td>
             <td align="center">€3.99</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18975-stroke-the-hedgehog"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18975.png"
+                            alt="Stroke The Hedgehog" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18975-stroke-the-hedgehog">Stroke The Hedgehog</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$3.99</td>
             <td align="center">71</td>
             <td align="center">0</td>
             <td align="center">0</td>
@@ -1593,54 +1641,6 @@
             <td align="center">2</td>
             <td align="center">2</td>
             <td align="center">54</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23666-blind-postman"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23666.png"
-                            alt="Blind Postman" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23666-blind-postman">Blind Postman</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">24 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">59</td>
-            <td align="center">2</td>
-            <td align="center">2</td>
-            <td align="center">54</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23665-blind-postman"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23665.png"
-                            alt="Blind Postman" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23665-blind-postman">Blind Postman</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">24 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">59</td>
-            <td align="center">2</td>
-            <td align="center">2</td>
-            <td align="center">54</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22592-power-the-light"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22592.png"
-                            alt="Power the Light" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22592-power-the-light">Power the Light</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">26 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">52</td>
-            <td align="center">2</td>
-            <td align="center">9</td>
-            <td align="center">40</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

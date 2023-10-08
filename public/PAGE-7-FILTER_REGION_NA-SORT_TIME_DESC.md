@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13672-barry-the-bunny"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13672.png"
+                            alt="Barry the Bunny" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13672-barry-the-bunny">Barry the Bunny</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14678-20-bunnies"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14678.png"
+                            alt="20 Bunnies" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14678-20-bunnies">20 Bunnies</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12680-yoko-yuki-dr-rats-revenge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12680.png"
+                            alt="Yoko &amp; Yuki: Dr. Rat&#039;s Revenge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12680-yoko-yuki-dr-rats-revenge">Yoko &amp; Yuki: Dr. Rat&#039;s Revenge</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">3</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15971-wild-west-crops"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15971.png"
+                            alt="Wild West Crops" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15971-wild-west-crops">Wild West Crops</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15226-super-onion-boy-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15226.png"
+                            alt="Super Onion Boy 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15226-super-onion-boy-2">Super Onion Boy 2</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/22738-rocket-lift"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22738.png"
                             alt="Rocket Lift" width="60"></a></td>
@@ -426,6 +506,22 @@
             <td align="center">2</td>
             <td align="center">0</td>
             <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23922-age-of-sokoban"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23922.png"
+                            alt="Age of Sokoban" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23922-age-of-sokoban">Age of Sokoban</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/9028-zeroptian-invasion"><img
@@ -1546,102 +1642,6 @@
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14919-alexio"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14919.png"
-                            alt="Alexio" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14919-alexio">Alexio</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14920-a-year-of-springs"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14920.png"
-                            alt="A Year of Springs" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14920-a-year-of-springs">A Year of Springs</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">22</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9756-a-winters-daydream"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9756.png"
-                            alt="A Winter&#039;s Daydream" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9756-a-winters-daydream">A Winter&#039;s Daydream</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13023-a-little-lily-princess"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13023.png"
-                            alt="A Little Lily Princess" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13023-a-little-lily-princess">A Little Lily Princess</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$14.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14629-20-bunnies"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14629.png"
-                            alt="20 Bunnies" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14629-20-bunnies">20 Bunnies</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15341-valentine-candy-break-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15341.png"
-                            alt="Valentine Candy Break 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15341-valentine-candy-break-2">Valentine Candy Break 2</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

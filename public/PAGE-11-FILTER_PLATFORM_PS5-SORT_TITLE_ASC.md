@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/19970-quiz-thiz-united-kingdom-gold-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19970.png"
+                            alt="Quiz Thiz United Kingdom: Gold Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19970-quiz-thiz-united-kingdom-gold-edition">Quiz Thiz United Kingdom: Gold Edit...</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€2.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19969-quiz-thiz-united-kingdom-gold-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19969.png"
+                            alt="Quiz Thiz United Kingdom: Gold Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19969-quiz-thiz-united-kingdom-gold-edition">Quiz Thiz United Kingdom: Gold Edit...</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19972-quiz-thiz-united-kingdom-silver-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19972.png"
+                            alt="Quiz Thiz United Kingdom: Silver Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19972-quiz-thiz-united-kingdom-silver-edition">Quiz Thiz United Kingdom: Silver Ed...</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">36</td>
+            <td align="center">0</td>
+            <td align="center">35</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/19974-quiz-thiz-united-kingdom-silver-edition"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19974.png"
                             alt="Quiz Thiz United Kingdom: Silver Edition" width="60"></a></td>
@@ -988,22 +1036,6 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18279-roar-of-revenge"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18279.png"
-                            alt="Roar of Revenge" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18279-roar-of-revenge">Roar of Revenge</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/18280-roar-of-revenge"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18280.png"
                             alt="Roar of Revenge" width="60"></a></td>
@@ -1013,6 +1045,22 @@
             </td>
             <td align="center">13 min</td>
             <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18279-roar-of-revenge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18279.png"
+                            alt="Roar of Revenge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18279-roar-of-revenge">Roar of Revenge</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$4.99</td>
             <td align="center">14</td>
             <td align="center">11</td>
             <td align="center">2</td>
@@ -1588,54 +1636,6 @@
                 <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">14 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21510-runbean-galactic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21510.png"
-                            alt="RunBean Galactic" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21510-runbean-galactic">RunBean Galactic</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">15 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21525-runbean-galactic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21525.png"
-                            alt="RunBean Galactic" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21525-runbean-galactic">RunBean Galactic</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">19 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21511-runbean-galactic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21511.png"
-                            alt="RunBean Galactic" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21511-runbean-galactic">RunBean Galactic</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">15 min</td>
             <td align="center">$4.99</td>
             <td align="center">15</td>
             <td align="center">10</td>

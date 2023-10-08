@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16756-square-keeper"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16756.png"
+                            alt="Square Keeper" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16756-square-keeper">Square Keeper</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16752-square-keeper"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16752.png"
+                            alt="Square Keeper" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16752-square-keeper">Square Keeper</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12190-space-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12190.png"
+                            alt="Space Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12190-space-break-head-to-head">Space Break Head to Head</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">40</td>
+            <td align="center">4</td>
+            <td align="center">7</td>
+            <td align="center">28</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22948-shadow-samurai-revenge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22948.png"
+                            alt="Shadow Samurai Revenge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22948-shadow-samurai-revenge">Shadow Samurai Revenge</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21168-seven-doors"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21168.png"
+                            alt="Seven Doors" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21168-seven-doors">Seven Doors</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">8</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13703-rogue-explorer"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13703.png"
                             alt="Rogue Explorer" width="60"></a></td>
@@ -1561,86 +1641,6 @@
             <td align="center">10</td>
             <td align="center">0</td>
             <td align="center">10</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17981-wind-of-shuriken"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17981.png"
-                            alt="Wind of Shuriken" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17981-wind-of-shuriken">Wind of Shuriken</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22354-waifu-space-conquest"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22354.png"
-                            alt="Waifu Space Conquest" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22354-waifu-space-conquest">Waifu Space Conquest</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17121-ultra-mission"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17121.png"
-                            alt="Ultra Mission" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17121-ultra-mission">Ultra Mission</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10880-strawberry-vinegar"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10880.png"
-                            alt="Strawberry Vinegar" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10880-strawberry-vinegar">Strawberry Vinegar</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">29</td>
-            <td align="center">6</td>
-            <td align="center">12</td>
-            <td align="center">10</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18670-space-roguelike-adventure"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18670.png"
-                            alt="Space Roguelike Adventure" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18670-space-roguelike-adventure">Space Roguelike Adventure</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

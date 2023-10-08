@@ -44,6 +44,102 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14079-dont-touch-this-button"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14079.png"
+                            alt="Don&#039;t Touch This Button!" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14079-dont-touch-this-button">Don&#039;t Touch This Button!</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23102-demonic-supremacy"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23102.png"
+                            alt="Demonic Supremacy" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23102-demonic-supremacy">Demonic Supremacy</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">51</td>
+            <td align="center">2</td>
+            <td align="center">10</td>
+            <td align="center">38</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10841-concept-destruction"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10841.png"
+                            alt="Concept Destruction" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10841-concept-destruction">Concept Destruction</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22812-boat-trip"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22812.png"
+                            alt="Boat Trip" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22812-boat-trip">Boat Trip</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15463-word-mesh"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15463.png"
+                            alt="Word Mesh" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15463-word-mesh">Word Mesh</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15459-task-force-kampas"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15459.png"
+                            alt="Task Force Kampas" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15459-task-force-kampas">Task Force Kampas</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/10768-task-force-kampas"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10768.png"
                             alt="Task Force Kampas" width="60"></a></td>
@@ -1545,102 +1641,6 @@
             <td align="center">10</td>
             <td align="center">3</td>
             <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16347-steam-engine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16347.png"
-                            alt="Steam Engine" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16347-steam-engine">Steam Engine</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19534-pinball-challenge-mode-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19534.png"
-                            alt="Pinball (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19534-pinball-challenge-mode-edition-breakthrough-gaming-arcade">Pinball (Challenge Mode Edition): B...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">36</td>
-            <td align="center">5</td>
-            <td align="center">10</td>
-            <td align="center">20</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13415-funny-truck"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13415.png"
-                            alt="Funny Truck" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13415-funny-truck">Funny Truck</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9848-deep-space-rush"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9848.png"
-                            alt="Deep Space Rush" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9848-deep-space-rush">Deep Space Rush</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16254-the-slovak-run"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16254.png"
-                            alt="The Slovak Run" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16254-the-slovak-run">The Slovak Run</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13902-rally-racing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13902.png"
-                            alt="Rally Racing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13902-rally-racing">Rally Racing</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

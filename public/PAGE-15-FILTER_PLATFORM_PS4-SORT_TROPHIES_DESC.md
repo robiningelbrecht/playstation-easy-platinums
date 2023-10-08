@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/10811-pity-pit"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10811.png"
+                            alt="Pity Pit" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10811-pity-pit">Pity Pit</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11911-my-aunt-is-a-witch"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11911.png"
+                            alt="My Aunt is a Witch" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11911-my-aunt-is-a-witch">My Aunt is a Witch</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">1</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12058-my-aunt-is-a-witch"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12058.png"
+                            alt="My Aunt is a Witch" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12058-my-aunt-is-a-witch">My Aunt is a Witch</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">29 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">1</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11910-my-aunt-is-a-witch"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11910.png"
+                            alt="My Aunt is a Witch" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11910-my-aunt-is-a-witch">My Aunt is a Witch</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">€9.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">1</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/8763-添いカノ"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8763.png"
+                            alt="添いカノ" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/8763-添いカノ">添いカノ</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center"></td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">1</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/18075-the-button-be-fields"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18075.png"
                             alt="The Button Be Fields" width="60"></a></td>
@@ -1557,86 +1637,6 @@
             </td>
             <td align="center">15 min</td>
             <td align="center">$4.99</td>
-            <td align="center">18</td>
-            <td align="center">8</td>
-            <td align="center">8</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/8631-planet-rix-13"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8631.png"
-                            alt="Planet RIX-13" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/8631-planet-rix-13">Planet RIX-13</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">18</td>
-            <td align="center">8</td>
-            <td align="center">8</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22748-ill-kill-her"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22748.png"
-                            alt="I&#039;ll Kill Her" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22748-ill-kill-her">I&#039;ll Kill Her</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">18</td>
-            <td align="center">8</td>
-            <td align="center">8</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22747-ill-kill-her"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22747.png"
-                            alt="I&#039;ll Kill Her" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22747-ill-kill-her">I&#039;ll Kill Her</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">18</td>
-            <td align="center">8</td>
-            <td align="center">8</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22718-ill-kill-her"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22718.png"
-                            alt="I&#039;ll Kill Her" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22718-ill-kill-her">I&#039;ll Kill Her</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">18</td>
-            <td align="center">8</td>
-            <td align="center">8</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22734-ill-kill-her"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22734.png"
-                            alt="I&#039;ll Kill Her" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22734-ill-kill-her">I&#039;ll Kill Her</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">€3.99</td>
             <td align="center">18</td>
             <td align="center">8</td>
             <td align="center">8</td>

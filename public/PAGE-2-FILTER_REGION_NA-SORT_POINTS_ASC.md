@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/11927-donut-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11927.png"
+                            alt="Donut Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11927-donut-break-head-to-head">Donut Break Head to Head</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">40</td>
+            <td align="center">4</td>
+            <td align="center">7</td>
+            <td align="center">28</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16569-ten"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16569.png"
+                            alt="Ten" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16569-ten">Ten</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">34 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14204-energy-cycle-edge"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14204.png"
                             alt="Energy Cycle Edge" width="60"></a></td>
@@ -421,6 +453,22 @@
             </td>
             <td align="center">26 min</td>
             <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22894-garlic"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22894.png"
+                            alt="Garlic" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22894-garlic">Garlic</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">26 min</td>
+            <td align="center"></td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>
@@ -1593,54 +1641,6 @@
             <td align="center">4</td>
             <td align="center">8</td>
             <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14265-bouncy-bullets-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14265.png"
-                            alt="Bouncy Bullets 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14265-bouncy-bullets-2">Bouncy Bullets 2</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19080-bones-of-halloween"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19080.png"
-                            alt="Bones of Halloween" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19080-bones-of-halloween">Bones of Halloween</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9028-zeroptian-invasion"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9028.png"
-                            alt="Zeroptian Invasion" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9028-zeroptian-invasion">Zeroptian Invasion</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$1.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
             <td align="center">1290</td>
         </tr>
         </tbody>

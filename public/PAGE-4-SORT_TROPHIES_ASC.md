@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18631-project-summer-ice-bowling-online"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18631.png"
+                            alt="Project: Summer Ice Bowling Online" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18631-project-summer-ice-bowling-online">Project: Summer Ice Bowling Online</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12496-pinkman"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12496.png"
+                            alt="Pinkman+" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12496-pinkman">Pinkman+</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21356-mythology-waifus-mahjong"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21356.png"
+                            alt="Mythology Waifus Mahjong" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21356-mythology-waifus-mahjong">Mythology Waifus Mahjong</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€3.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21503-happi-basudei"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21503.png"
+                            alt="Happi Basudei" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21503-happi-basudei">Happi Basudei</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/22810-everlune"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22810.png"
                             alt="Everlune" width="60"></a></td>
@@ -101,6 +165,22 @@
             </td>
             <td align="center">14 min</td>
             <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23915-age-of-sokoban"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23915.png"
+                            alt="Age of Sokoban" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23915-age-of-sokoban">Age of Sokoban</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€1.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>
@@ -789,6 +869,22 @@
             </td>
             <td align="center">12 min</td>
             <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23922-age-of-sokoban"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23922.png"
+                            alt="Age of Sokoban" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23922-age-of-sokoban">Age of Sokoban</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$1.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>
@@ -1541,102 +1637,6 @@
             </td>
             <td align="center">10 min</td>
             <td align="center">$6.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23489-legions"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23489.png"
-                            alt="Legions" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23489-legions">Legions</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/8131-jack-n-jill-dx"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8131.png"
-                            alt="Jack N&#039; Jill DX" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/8131-jack-n-jill-dx">Jack N&#039; Jill DX</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9715-gravity-duck"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9715.png"
-                            alt="Gravity Duck" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9715-gravity-duck">Gravity Duck</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9490-gravity-duck"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9490.png"
-                            alt="Gravity Duck" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9490-gravity-duck">Gravity Duck</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21353-evilup"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21353.png"
-                            alt="EvilUp" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21353-evilup">EvilUp</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$2.09</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22681-casino-roulette-royal"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22681.png"
-                            alt="Casino Roulette Royal" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22681-casino-roulette-royal">Casino Roulette Royal</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$3.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>

@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16356-cubic-lines"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16356.png"
+                            alt="Cubic Lines" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16356-cubic-lines">Cubic Lines</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">33 min</td>
+            <td align="center">€2.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13602-bone-marrow"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13602.png"
+                            alt="Bone Marrow" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13602-bone-marrow">Bone Marrow</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">33 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/22101-blackjack-waifu-tour"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22101.png"
                             alt="Blackjack: Waifu Tour" width="60"></a></td>
@@ -1324,6 +1356,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23915-age-of-sokoban"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23915.png"
+                            alt="Age of Sokoban" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23915-age-of-sokoban">Age of Sokoban</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/10338-zero-zero-zero-zero"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10338.png"
                             alt="Zero Zero Zero Zero" width="60"></a></td>
@@ -1593,54 +1641,6 @@
             <td align="center">11</td>
             <td align="center">0</td>
             <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20029-petite-adventure"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20029.png"
-                            alt="Petite Adventure" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20029-petite-adventure">Petite Adventure</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20489-neon-souls"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20489.png"
-                            alt="Neon Souls" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20489-neon-souls">Neon Souls</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13141-independence-day-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13141.png"
-                            alt="Independence Day Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13141-independence-day-break-head-to-head">Independence Day Break Head to Head</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
             <td align="center">1290</td>
         </tr>
         </tbody>

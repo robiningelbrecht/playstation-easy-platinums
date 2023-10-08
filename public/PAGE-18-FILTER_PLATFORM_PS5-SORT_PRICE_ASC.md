@@ -44,6 +44,118 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14547-venus-improbable-dream"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14547.png"
+                            alt="Venus: Improbable Dream" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14547-venus-improbable-dream">Venus: Improbable Dream</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€9.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14546-venus-improbable-dream"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14546.png"
+                            alt="Venus: Improbable Dream" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14546-venus-improbable-dream">Venus: Improbable Dream</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14545-venus-improbable-dream"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14545.png"
+                            alt="Venus: Improbable Dream" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14545-venus-improbable-dream">Venus: Improbable Dream</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14717-would-you-like-to-run-an-idol-café"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14717.png"
+                            alt="Would You Like to Run an Idol Café?" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14717-would-you-like-to-run-an-idol-café">Would You Like to Run an Idol Café?</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14712-would-you-like-to-run-an-idol-café"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14712.png"
+                            alt="Would You Like to Run an Idol Café?" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14712-would-you-like-to-run-an-idol-café">Would You Like to Run an Idol Café?</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€9.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13595-dating-life-miley-x-emily"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13595.png"
+                            alt="Dating Life: Miley X Emily" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13595-dating-life-miley-x-emily">Dating Life: Miley X Emily</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€9.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13594-dating-life-miley-x-emily"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13594.png"
+                            alt="Dating Life: Miley X Emily" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13594-dating-life-miley-x-emily">Dating Life: Miley X Emily</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12782-sakura-succubus"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12782.png"
                             alt="Sakura Succubus" width="60"></a></td>
@@ -1530,118 +1642,6 @@
             <td align="center">8</td>
             <td align="center">26</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13450-ウィズンザブレード"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13450.png"
-                            alt="ウィズン･ザ･ブレード" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13450-ウィズンザブレード">ウィズン･ザ･ブレード</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">48 min</td>
-            <td align="center"></td>
-            <td align="center">32</td>
-            <td align="center">4</td>
-            <td align="center">19</td>
-            <td align="center">8</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15490-モトローダーmc"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15490.png"
-                            alt="モトローダーMC" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15490-モトローダーmc">モトローダーMC</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center"></td>
-            <td align="center">26</td>
-            <td align="center">5</td>
-            <td align="center">20</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14361-アーキタイプアーカディア"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14361.png"
-                            alt="アーキタイプ・アーカディア" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14361-アーキタイプアーカディア">アーキタイプ・アーカディア</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center"></td>
-            <td align="center">26</td>
-            <td align="center">6</td>
-            <td align="center">13</td>
-            <td align="center">6</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15583-ワンナイトスタンド"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15583.png"
-                            alt="ワン・ナイト・スタンド" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15583-ワンナイトスタンド">ワン・ナイト・スタンド</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">39 min</td>
-            <td align="center"></td>
-            <td align="center">25</td>
-            <td align="center">6</td>
-            <td align="center">16</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21974-イハナシの魔女"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21974.png"
-                            alt="イハナシの魔女" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21974-イハナシの魔女">イハナシの魔女</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">48 min</td>
-            <td align="center"></td>
-            <td align="center">24</td>
-            <td align="center">5</td>
-            <td align="center">17</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17975-maggie-the-magnet"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17975.png"
-                            alt="Maggie the Magnet" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17975-maggie-the-magnet">Maggie the Magnet</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">45 min</td>
-            <td align="center"></td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13943-love-choice-愛の選択"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13943.png"
-                            alt="Love Choice 愛の選択" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13943-love-choice-愛の選択">Love Choice 愛の選択</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">39 min</td>
-            <td align="center"></td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

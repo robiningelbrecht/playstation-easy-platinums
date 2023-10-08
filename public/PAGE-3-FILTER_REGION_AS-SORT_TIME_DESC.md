@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15530-pretty-girls-breakers"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15530.png"
+                            alt="Pretty Girls Breakers!" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15530-pretty-girls-breakers">Pretty Girls Breakers!</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12675-one-escape"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12675.png"
+                            alt="One Escape" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12675-one-escape">One Escape</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15611-null-drifter"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15611.png"
+                            alt="Null Drifter" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15611-null-drifter">Null Drifter</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12982-infestor"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12982.png"
                             alt="Infestor" width="60"></a></td>
@@ -1084,6 +1132,22 @@
             <td align="center">1320</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23903-blackjack-waifu-tour"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23903.png"
+                            alt="Blackjack: Waifu Tour" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23903-blackjack-waifu-tour">Blackjack: Waifu Tour</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/8754-access-denied"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8754.png"
                             alt="Access Denied" width="60"></a></td>
@@ -1578,70 +1642,6 @@
             <td align="center">5</td>
             <td align="center">0</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15057-castle-of-pixel-skulls"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15057.png"
-                            alt="Castle of Pixel Skulls" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15057-castle-of-pixel-skulls">Castle of Pixel Skulls</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13766-akinofa"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13766.png"
-                            alt="Akinofa" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13766-akinofa">Akinofa</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14176-without-escape"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14176.png"
-                            alt="Without Escape" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14176-without-escape">Without Escape</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15791-thunder-kid-hunt-for-the-robot-emperor"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15791.png"
-                            alt="Thunder Kid: Hunt for the Robot Emperor" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15791-thunder-kid-hunt-for-the-robot-emperor">Thunder Kid: Hunt for the Robot Emp...</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$4.79</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

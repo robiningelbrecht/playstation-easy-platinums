@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/12496-pinkman"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12496.png"
+                            alt="Pinkman+" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12496-pinkman">Pinkman+</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19400-neon-mine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19400.png"
+                            alt="Neon Mine" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19400-neon-mine">Neon Mine</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21356-mythology-waifus-mahjong"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21356.png"
+                            alt="Mythology Waifus Mahjong" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21356-mythology-waifus-mahjong">Mythology Waifus Mahjong</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€3.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22151-mathland"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22151.png"
+                            alt="Mathland" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22151-mathland">Mathland</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">13</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16122-many-faces"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16122.png"
                             alt="Many Faces" width="60"></a></td>
@@ -202,6 +266,22 @@
             <td align="center">2</td>
             <td align="center">0</td>
             <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23915-age-of-sokoban"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23915.png"
+                            alt="Age of Sokoban" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23915-age-of-sokoban">Age of Sokoban</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/23683-twin-p"><img
@@ -778,6 +858,22 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23830-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23830.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23830-sokolab">Sokolab</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/21770-sables-grimoire-a-dragons-treasure"><img
@@ -1546,102 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22476-kuroi-tsubasa"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22476.png"
-                            alt="Kuroi Tsubasa" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22476-kuroi-tsubasa">Kuroi Tsubasa</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12277-how-to-take-off-your-mask"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12277.png"
-                            alt="How to Take Off Your Mask" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12277-how-to-take-off-your-mask">How to Take Off Your Mask</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center"></td>
-            <td align="center">25</td>
-            <td align="center">6</td>
-            <td align="center">16</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14319-henchman-story"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14319.png"
-                            alt="Henchman Story" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14319-henchman-story">Henchman Story</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center">€14.99</td>
-            <td align="center">27</td>
-            <td align="center">5</td>
-            <td align="center">19</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20981-go-go-pogogirl"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20981.png"
-                            alt="Go! Go! PogoGirl" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20981-go-go-pogogirl">Go! Go! PogoGirl</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/7980-fullblast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7980.png"
-                            alt="FullBlast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/7980-fullblast">FullBlast</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center">€2.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13494-freddy-spaghetti-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13494.png"
-                            alt="Freddy Spaghetti 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13494-freddy-spaghetti-2">Freddy Spaghetti 2</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">41</td>
-            <td align="center">2</td>
-            <td align="center">20</td>
-            <td align="center">18</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

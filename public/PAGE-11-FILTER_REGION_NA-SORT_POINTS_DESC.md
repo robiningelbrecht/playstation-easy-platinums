@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/20289-headbangers-in-holiday-hell"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20289.png"
+                            alt="Headbangers in Holiday Hell" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20289-headbangers-in-holiday-hell">Headbangers in Holiday Hell</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">24 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12378-bullet-beat"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12378.png"
+                            alt="Bullet Beat" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12378-bullet-beat">Bullet Beat</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">24 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19216-alterity-experience"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19216.png"
+                            alt="Alterity Experience" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19216-alterity-experience">Alterity Experience</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">24 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10457-super-destronaut-land-wars"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10457.png"
+                            alt="Super Destronaut: Land Wars" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10457-super-destronaut-land-wars">Super Destronaut: Land Wars</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14534-stilstand"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14534.png"
+                            alt="Stilstand" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14534-stilstand">Stilstand</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">$2.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/22191-casino-roulette-royal"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22191.png"
                             alt="Casino Roulette Royal" width="60"></a></td>
@@ -1004,6 +1084,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23922-age-of-sokoban"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23922.png"
+                            alt="Age of Sokoban" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23922-age-of-sokoban">Age of Sokoban</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/9028-zeroptian-invasion"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9028.png"
                             alt="Zeroptian Invasion" width="60"></a></td>
@@ -1545,102 +1641,6 @@
             <td align="center">11</td>
             <td align="center">0</td>
             <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9756-a-winters-daydream"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9756.png"
-                            alt="A Winter&#039;s Daydream" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9756-a-winters-daydream">A Winter&#039;s Daydream</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15341-valentine-candy-break-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15341.png"
-                            alt="Valentine Candy Break 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15341-valentine-candy-break-2">Valentine Candy Break 2</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16826-the-psychoduck"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16826.png"
-                            alt="The Psychoduck" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16826-the-psychoduck">The Psychoduck</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16824-the-psychoduck"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16824.png"
-                            alt="The Psychoduck" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16824-the-psychoduck">The Psychoduck</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11454-tamiku"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11454.png"
-                            alt="Tamiku" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11454-tamiku">Tamiku</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14341-space-break-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14341.png"
-                            alt="Space Break 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14341-space-break-2">Space Break 2</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
             <td align="center">1290</td>
         </tr>
         </tbody>

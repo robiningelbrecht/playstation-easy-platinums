@@ -44,6 +44,166 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/10126-word-maze-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10126.png"
+                            alt="Word Maze by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10126-word-maze-by-powgi">Word Maze by POWGI</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">55 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">33</td>
+            <td align="center">1</td>
+            <td align="center">31</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10847-crypto-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10847.png"
+                            alt="Crypto by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10847-crypto-by-powgi">Crypto by POWGI</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">37 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">33</td>
+            <td align="center">1</td>
+            <td align="center">31</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10796-crypto-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10796.png"
+                            alt="Crypto by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10796-crypto-by-powgi">Crypto by POWGI</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">33</td>
+            <td align="center">1</td>
+            <td align="center">31</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10839-crypto-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10839.png"
+                            alt="Crypto by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10839-crypto-by-powgi">Crypto by POWGI</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">29 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">33</td>
+            <td align="center">1</td>
+            <td align="center">31</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/8580-one-word-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8580.png"
+                            alt="One Word by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/8580-one-word-by-powgi">One Word by POWGI</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">33</td>
+            <td align="center">1</td>
+            <td align="center">31</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/8579-one-word-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8579.png"
+                            alt="One Word by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/8579-one-word-by-powgi">One Word by POWGI</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">33</td>
+            <td align="center">1</td>
+            <td align="center">31</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/9312-one-word-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9312.png"
+                            alt="One Word by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9312-one-word-by-powgi">One Word by POWGI</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">33</td>
+            <td align="center">1</td>
+            <td align="center">31</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11309-alphaset-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11309.png"
+                            alt="Alphaset by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11309-alphaset-by-powgi">Alphaset by POWGI</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">37 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">32</td>
+            <td align="center">2</td>
+            <td align="center">27</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11268-alphaset-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11268.png"
+                            alt="Alphaset by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11268-alphaset-by-powgi">Alphaset by POWGI</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">32</td>
+            <td align="center">2</td>
+            <td align="center">27</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11316-alphaset-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11316.png"
+                            alt="Alphaset by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11316-alphaset-by-powgi">Alphaset by POWGI</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">34 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">32</td>
+            <td align="center">2</td>
+            <td align="center">27</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13445-gaps-by-powgi"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13445.png"
                             alt="Gaps by POWGI" width="60"></a></td>
@@ -1482,166 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22298-dofamine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22298.png"
-                            alt="Dofamine" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22298-dofamine">Dofamine</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20358-wildtrax-racing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20358.png"
-                            alt="WildTrax Racing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20358-wildtrax-racing">WildTrax Racing</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">28 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22568-balloon-girl"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22568.png"
-                            alt="Balloon Girl" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22568-balloon-girl">Balloon Girl</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">28 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12003-lost-wing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12003.png"
-                            alt="Lost Wing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12003-lost-wing">Lost Wing</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12167-balancelot"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12167.png"
-                            alt="Balancelot" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12167-balancelot">Balancelot</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12001-lost-wing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12001.png"
-                            alt="Lost Wing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12001-lost-wing">Lost Wing</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12165-balancelot"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12165.png"
-                            alt="Balancelot" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12165-balancelot">Balancelot</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14752-twogether-project-indigos-chapter-1"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14752.png"
-                            alt="Twogether: Project Indigos Chapter 1" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14752-twogether-project-indigos-chapter-1">Twogether: Project Indigos Chapter ...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">41 min</td>
-            <td align="center">$8.99</td>
-            <td align="center">33</td>
-            <td align="center">4</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17752-witch-college-bundle"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17752.png"
-                            alt="Witch College Bundle" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17752-witch-college-bundle">Witch College Bundle</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">22 min</td>
-            <td align="center">€8.99</td>
-            <td align="center">21</td>
-            <td align="center">10</td>
-            <td align="center">0</td>
-            <td align="center">10</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17749-witch-college-bundle"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17749.png"
-                            alt="Witch College Bundle" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17749-witch-college-bundle">Witch College Bundle</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$8.99</td>
-            <td align="center">21</td>
-            <td align="center">10</td>
-            <td align="center">0</td>
-            <td align="center">10</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13735-orbibot"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13735.png"
+                            alt="Orbibot" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13735-orbibot">Orbibot</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">15</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22914-otoko-cross-pretty-boys-breakup"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22914.png"
+                            alt="Otoko Cross: Pretty Boys Breakup!" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22914-otoko-cross-pretty-boys-breakup">Otoko Cross: Pretty Boys Breakup!</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23444-otoko-cross-pretty-boys-dropout"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23444.png"
+                            alt="Otoko Cross: Pretty Boys Dropout!" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23444-otoko-cross-pretty-boys-dropout">Otoko Cross: Pretty Boys Dropout!</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/18116-pacmaga"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18116.png"
                             alt="Pacmaga" width="60"></a></td>
@@ -1084,22 +1132,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18918-pretty-bird-7"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18918.png"
-                            alt="Pretty Bird 7" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18918-pretty-bird-7">Pretty Bird 7</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">31</td>
-            <td align="center">7</td>
-            <td align="center">5</td>
-            <td align="center">18</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/18919-pretty-bird-7"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18919.png"
                             alt="Pretty Bird 7" width="60"></a></td>
@@ -1109,6 +1141,22 @@
             </td>
             <td align="center">2 min</td>
             <td align="center">€2.49</td>
+            <td align="center">31</td>
+            <td align="center">7</td>
+            <td align="center">5</td>
+            <td align="center">18</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18918-pretty-bird-7"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18918.png"
+                            alt="Pretty Bird 7" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18918-pretty-bird-7">Pretty Bird 7</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
             <td align="center">31</td>
             <td align="center">7</td>
             <td align="center">5</td>
@@ -1592,54 +1640,6 @@
             <td align="center">21</td>
             <td align="center">7</td>
             <td align="center">13</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15958-pretty-girls-rivers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15958.png"
-                            alt="Pretty Girls Rivers" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15958-pretty-girls-rivers">Pretty Girls Rivers</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">53 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15957-pretty-girls-rivers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15957.png"
-                            alt="Pretty Girls Rivers" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15957-pretty-girls-rivers">Pretty Girls Rivers</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">48 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16465-pretty-girls-speed"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16465.png"
-                            alt="Pretty Girls Speed" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16465-pretty-girls-speed">Pretty Girls Speed</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">25 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
         </tr>

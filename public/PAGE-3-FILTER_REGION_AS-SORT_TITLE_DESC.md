@@ -44,27 +44,11 @@
     </thead>
     <tbody>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19719-stroke-the-snake"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19719.png"
+            <td><a href="https://psnprofiles.com/trophies/19716-stroke-the-snake"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19716.png"
                             alt="Stroke The Snake" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19719-stroke-the-snake">Stroke The Snake</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20086-stroke-the-rabbit"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20086.png"
-                            alt="Stroke The Rabbit" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20086-stroke-the-rabbit">Stroke The Rabbit</a>
+                <a href="https://psnprofiles.com/trophies/19716-stroke-the-snake">Stroke The Snake</a>
                 <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">2 min</td>
@@ -82,6 +66,22 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/20085-stroke-the-rabbit">Stroke The Rabbit</a>
                 <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20086-stroke-the-rabbit"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20086.png"
+                            alt="Stroke The Rabbit" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20086-stroke-the-rabbit">Stroke The Rabbit</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$3.99</td>
@@ -540,6 +540,38 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23829-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23829.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23829-sokolab">Sokolab</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23953-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23953.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23953-sokolab">Sokolab</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17501-snow-journey"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17501.png"
                             alt="Snow Journey" width="60"></a></td>
@@ -956,22 +988,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20991-rocketio-3"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20991.png"
-                            alt="Rocketio 3" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20991-rocketio-3">Rocketio 3</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$1.99</td>
-            <td align="center">53</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">46</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/20989-rocketio-3"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20989.png"
                             alt="Rocketio 3" width="60"></a></td>
@@ -980,6 +996,22 @@
                 <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">2 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">53</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">46</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20991-rocketio-3"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20991.png"
+                            alt="Rocketio 3" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20991-rocketio-3">Rocketio 3</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">4 min</td>
             <td align="center">$1.99</td>
             <td align="center">53</td>
             <td align="center">3</td>
@@ -1609,38 +1641,6 @@
             <td align="center">9</td>
             <td align="center">5</td>
             <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20035-quiz-thiz-united-kingdom"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20035.png"
-                            alt="Quiz Thiz United Kingdom" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20035-quiz-thiz-united-kingdom">Quiz Thiz United Kingdom</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20681-quiz-thiz-spain-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20681.png"
-                            alt="Quiz Thiz Spain: Silver Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20681-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

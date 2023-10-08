@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14335-dungeon-escape"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14335.png"
+                            alt="Dungeon Escape" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14335-dungeon-escape">Dungeon Escape</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14334-dungeon-escape"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14334.png"
+                            alt="Dungeon Escape" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14334-dungeon-escape">Dungeon Escape</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">9 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14333-dungeon-escape"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14333.png"
+                            alt="Dungeon Escape" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14333-dungeon-escape">Dungeon Escape</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14332-dungeon-escape"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14332.png"
                             alt="Dungeon Escape" width="60"></a></td>
@@ -1068,12 +1116,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23439-fly-the-plane"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23439.png"
+            <td><a href="https://psnprofiles.com/trophies/23434-fly-the-plane"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23434.png"
                             alt="Fly the Plane" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23439-fly-the-plane">Fly the Plane</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/23434-fly-the-plane">Fly the Plane</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">8 min</td>
             <td align="center">$1.49</td>
@@ -1084,12 +1132,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23434-fly-the-plane"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23434.png"
+            <td><a href="https://psnprofiles.com/trophies/23439-fly-the-plane"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23439.png"
                             alt="Fly the Plane" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23434-fly-the-plane">Fly the Plane</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/23439-fly-the-plane">Fly the Plane</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">8 min</td>
             <td align="center">$1.49</td>
@@ -1308,12 +1356,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17005-frogo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17005.png"
+            <td><a href="https://psnprofiles.com/trophies/17008-frogo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17008.png"
                             alt="Frogo" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17005-frogo">Frogo</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/17008-frogo">Frogo</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$0.99</td>
@@ -1340,12 +1388,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17008-frogo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17008.png"
+            <td><a href="https://psnprofiles.com/trophies/17005-frogo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17005.png"
                             alt="Frogo" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17008-frogo">Frogo</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17005-frogo">Frogo</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$0.99</td>
@@ -1594,54 +1642,6 @@
             <td align="center">8</td>
             <td align="center">0</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16085-galactic-wars-ex"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16085.png"
-                            alt="Galactic Wars EX" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16085-galactic-wars-ex">Galactic Wars EX</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">44 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">8</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13443-gaps-by-powgi"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13443.png"
-                            alt="Gaps by POWGI" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13443-gaps-by-powgi">Gaps by POWGI</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">32</td>
-            <td align="center">2</td>
-            <td align="center">26</td>
-            <td align="center">3</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13436-gaps-by-powgi"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13436.png"
-                            alt="Gaps by POWGI" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13436-gaps-by-powgi">Gaps by POWGI</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">32</td>
-            <td align="center">2</td>
-            <td align="center">26</td>
-            <td align="center">3</td>
-            <td align="center">1305</td>
         </tr>
         </tbody>
 </table>

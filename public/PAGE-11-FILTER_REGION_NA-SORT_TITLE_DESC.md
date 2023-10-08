@@ -44,12 +44,76 @@
     </thead>
     <tbody>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20949-falling-blocks"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20949.png"
+            <td><a href="https://psnprofiles.com/trophies/14641-finger-fitness"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14641.png"
+                            alt="Finger Fitness" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14641-finger-fitness">Finger Fitness</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">1</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/9535-fifty-words-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9535.png"
+                            alt="Fifty Words by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9535-fifty-words-by-powgi">Fifty Words by POWGI</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">38 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">31</td>
+            <td align="center">3</td>
+            <td align="center">22</td>
+            <td align="center">5</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20807-fashion-police-squad"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20807.png"
+                            alt="Fashion Police Squad" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20807-fashion-police-squad">Fashion Police Squad</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$19.99</td>
+            <td align="center">24</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13149-farm-frenzy-refreshed"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13149.png"
+                            alt="Farm Frenzy: Refreshed" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13149-farm-frenzy-refreshed">Farm Frenzy: Refreshed</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">32 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">4</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20968-falling-blocks"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20968.png"
                             alt="Falling Blocks" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20949-falling-blocks">Falling Blocks</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/20968-falling-blocks">Falling Blocks</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -60,12 +124,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20968-falling-blocks"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20968.png"
+            <td><a href="https://psnprofiles.com/trophies/20949-falling-blocks"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20949.png"
                             alt="Falling Blocks" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20968-falling-blocks">Falling Blocks</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/20949-falling-blocks">Falling Blocks</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -844,12 +908,12 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23043-drift-city"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23043.png"
+            <td><a href="https://psnprofiles.com/trophies/23101-drift-city"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23101.png"
                             alt="Drift City" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23043-drift-city">Drift City</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/23101-drift-city">Drift City</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$6.99</td>
@@ -860,12 +924,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23101-drift-city"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23101.png"
+            <td><a href="https://psnprofiles.com/trophies/23043-drift-city"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23043.png"
                             alt="Drift City" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23101-drift-city">Drift City</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/23043-drift-city">Drift City</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$6.99</td>
@@ -1578,70 +1642,6 @@
             <td align="center">10</td>
             <td align="center">38</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9848-deep-space-rush"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9848.png"
-                            alt="Deep Space Rush" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9848-deep-space-rush">Deep Space Rush</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17871-decaylore"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17871.png"
-                            alt="DecayLore" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17871-decaylore">DecayLore</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">46</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">39</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19602-dead-station"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19602.png"
-                            alt="Dead Station" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19602-dead-station">Dead Station</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">17 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">23</td>
-            <td align="center">7</td>
-            <td align="center">13</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13600-dating-life-miley-x-emily"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13600.png"
-                            alt="Dating Life: Miley X Emily" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13600-dating-life-miley-x-emily">Dating Life: Miley X Emily</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

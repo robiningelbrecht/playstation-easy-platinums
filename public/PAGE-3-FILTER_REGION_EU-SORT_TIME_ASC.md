@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/21440-sister"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21440.png"
+                            alt="Sister" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21440-sister">Sister</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">37</td>
+            <td align="center">1</td>
+            <td align="center">29</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17867-shapeu"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17867.png"
                             alt="Shapeu" width="60"></a></td>
@@ -1100,6 +1116,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23994-alien-returns"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23994.png"
+                            alt="Alien Returns" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23994-alien-returns">Alien Returns</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11336-a-hero-and-a-garden"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11336.png"
                             alt="A Hero and a Garden" width="60"></a></td>
@@ -1602,38 +1634,6 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/14682-the-pig-d">The Pig D</a>
                 <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17928-the-penguin-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17928.png"
-                            alt="The Penguin P" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17928-the-penguin-p">The Penguin P</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17949-the-penguin-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17949.png"
-                            alt="The Penguin P" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17949-the-penguin-p">The Penguin P</a>
-                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.49</td>

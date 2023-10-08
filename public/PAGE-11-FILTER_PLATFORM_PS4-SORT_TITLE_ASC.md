@@ -44,6 +44,134 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/9709-himno"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9709.png"
+                            alt="Himno" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9709-himno">Himno</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/9595-himno"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9595.png"
+                            alt="Himno" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9595-himno">Himno</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/9593-himno"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9593.png"
+                            alt="Himno" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9593-himno">Himno</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22885-hit-the-color"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22885.png"
+                            alt="Hit the Color" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22885-hit-the-color">Hit the Color</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/9415-hoggy2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9415.png"
+                            alt="Hoggy2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9415-hoggy2">Hoggy2</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">26 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/9414-hoggy2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9414.png"
+                            alt="Hoggy2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9414-hoggy2">Hoggy2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/9413-hoggy2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9413.png"
+                            alt="Hoggy2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9413-hoggy2">Hoggy2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15006-horatio-goes-snowboarding"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15006.png"
+                            alt="Horatio Goes Snowboarding" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15006-horatio-goes-snowboarding">Horatio Goes Snowboarding</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">56 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">24</td>
+            <td align="center">7</td>
+            <td align="center">11</td>
+            <td align="center">5</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12970-horned-knight"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12970.png"
                             alt="Horned Knight" width="60"></a></td>
@@ -668,22 +796,6 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/15863-ikai"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15863.png"
-                            alt="Ikai" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15863-ikai">Ikai</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">56 min</td>
-            <td align="center">$14.99</td>
-            <td align="center">21</td>
-            <td align="center">7</td>
-            <td align="center">12</td>
-            <td align="center">1</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/15851-ikai"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15851.png"
                             alt="Ikai" width="60"></a></td>
@@ -693,6 +805,22 @@
             </td>
             <td align="center">53 min</td>
             <td align="center">€14.99</td>
+            <td align="center">21</td>
+            <td align="center">7</td>
+            <td align="center">12</td>
+            <td align="center">1</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15863-ikai"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15863.png"
+                            alt="Ikai" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15863-ikai">Ikai</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">56 min</td>
+            <td align="center">$14.99</td>
             <td align="center">21</td>
             <td align="center">7</td>
             <td align="center">12</td>
@@ -1180,22 +1308,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23184-item-tower"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23184.png"
-                            alt="Item Tower" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23184-item-tower">Item Tower</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/23183-item-tower"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23183.png"
                             alt="Item Tower" width="60"></a></td>
@@ -1204,6 +1316,22 @@
                 <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">9 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23184-item-tower"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23184.png"
+                            alt="Item Tower" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23184-item-tower">Item Tower</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">5 min</td>
             <td align="center">$1.49</td>
             <td align="center">22</td>
             <td align="center">7</td>
@@ -1514,134 +1642,6 @@
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19316-john-fart-text-iverse-of-crazyness"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19316.png"
-                            alt="John Fart: Text-iverse of Crazyness" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19316-john-fart-text-iverse-of-crazyness">John Fart: Text-iverse of Crazyness</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">52 min</td>
-            <td align="center"></td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">8</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11127-jump-step-step"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11127.png"
-                            alt="Jump Step Step" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11127-jump-step-step">Jump Step Step</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">43 min</td>
-            <td align="center"></td>
-            <td align="center">24</td>
-            <td align="center">7</td>
-            <td align="center">10</td>
-            <td align="center">6</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20335-jurassic-pinball"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20335.png"
-                            alt="Jurassic Pinball" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20335-jurassic-pinball">Jurassic Pinball</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">27 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">1</td>
-            <td align="center">4</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9824-just-ignore-them"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9824.png"
-                            alt="Just Ignore Them" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9824-just-ignore-them">Just Ignore Them</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">52 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">34</td>
-            <td align="center">6</td>
-            <td align="center">7</td>
-            <td align="center">20</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9821-just-ignore-them"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9821.png"
-                            alt="Just Ignore Them" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9821-just-ignore-them">Just Ignore Them</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">41 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">34</td>
-            <td align="center">6</td>
-            <td align="center">7</td>
-            <td align="center">20</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10306-just-a-phrase-by-powgi"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10306.png"
-                            alt="Just a Phrase by POWGI" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10306-just-a-phrase-by-powgi">Just a Phrase by POWGI</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">59 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">9</td>
-            <td align="center">26</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10303-just-a-phrase-by-powgi"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10303.png"
-                            alt="Just a Phrase by POWGI" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10303-just-a-phrase-by-powgi">Just a Phrase by POWGI</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">59 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">9</td>
-            <td align="center">26</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23519-kalinur"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23519.png"
-                            alt="Kalinur" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23519-kalinur">Kalinur</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">44 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

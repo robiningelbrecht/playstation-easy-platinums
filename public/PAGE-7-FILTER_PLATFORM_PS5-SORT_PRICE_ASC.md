@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/21390-quiz-thiz-croatia"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21390.png"
+                            alt="Quiz Thiz Croatia" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21390-quiz-thiz-croatia">Quiz Thiz Croatia</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€2.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21388-quiz-thiz-croatia"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21388.png"
+                            alt="Quiz Thiz Croatia" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21388-quiz-thiz-croatia">Quiz Thiz Croatia</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21235-quiz-thiz-austria"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21235.png"
+                            alt="Quiz Thiz Austria" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21235-quiz-thiz-austria">Quiz Thiz Austria</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/21238-quiz-thiz-austria"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21238.png"
                             alt="Quiz Thiz Austria" width="60"></a></td>
@@ -1585,54 +1633,6 @@
                             alt="The Jumping Nuggets: TURBO" width="60"></a></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/19732-the-jumping-nuggets-turbo">The Jumping Nuggets: TURBO</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19917-the-jumping-noodles-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19917.png"
-                            alt="The Jumping Noodles: TURBO" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19917-the-jumping-noodles-turbo">The Jumping Noodles: TURBO</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19919-the-jumping-noodles-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19919.png"
-                            alt="The Jumping Noodles: TURBO" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19919-the-jumping-noodles-turbo">The Jumping Noodles: TURBO</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17353-the-jumping-noodles-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17353.png"
-                            alt="The Jumping Noodles: TURBO" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17353-the-jumping-noodles-turbo">The Jumping Noodles: TURBO</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">1 min</td>

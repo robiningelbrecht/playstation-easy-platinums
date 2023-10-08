@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13438-bishoujo-battle-mahjong-solitaire"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13438.png"
+                            alt="Bishoujo Battle Mahjong Solitaire" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13438-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">47 min</td>
+            <td align="center">€3.59</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17052-black-death-a-tragic-dirge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17052.png"
+                            alt="Black Death: A Tragic Dirge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17052-black-death-a-tragic-dirge">Black Death: A Tragic Dirge</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">6</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16874-black-wolf"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16874.png"
+                            alt="Black Wolf" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16874-black-wolf">Black Wolf</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">€2.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16810-black-wolf"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16810.png"
                             alt="Black Wolf" width="60"></a></td>
@@ -1244,12 +1292,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19551-caravan-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19551.png"
+            <td><a href="https://psnprofiles.com/trophies/19549-caravan-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19549.png"
                             alt="Caravan Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19551-caravan-journey-nitro">Caravan Journey: Nitro</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/19549-caravan-journey-nitro">Caravan Journey: Nitro</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€2.99</td>
@@ -1260,12 +1308,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19549-caravan-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19549.png"
+            <td><a href="https://psnprofiles.com/trophies/19551-caravan-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19551.png"
                             alt="Caravan Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19549-caravan-journey-nitro">Caravan Journey: Nitro</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/19551-caravan-journey-nitro">Caravan Journey: Nitro</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€2.99</td>
@@ -1340,12 +1388,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20406-cario-4"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20406.png"
+            <td><a href="https://psnprofiles.com/trophies/20405-cario-4"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20405.png"
                             alt="Cario 4" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20406-cario-4">Cario 4</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20405-cario-4">Cario 4</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.99</td>
@@ -1356,12 +1404,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20405-cario-4"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20405.png"
+            <td><a href="https://psnprofiles.com/trophies/20406-cario-4"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20406.png"
                             alt="Cario 4" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20405-cario-4">Cario 4</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20406-cario-4">Cario 4</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">€1.99</td>
@@ -1593,54 +1641,6 @@
             <td align="center">9</td>
             <td align="center">7</td>
             <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14139-catty-batty-the-spirit-guide"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14139.png"
-                            alt="Catty &amp; Batty: The Spirit Guide" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14139-catty-batty-the-spirit-guide">Catty &amp; Batty: The Spirit Guide</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">48 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13967-catty-batty-the-spirit-guide"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13967.png"
-                            alt="Catty &amp; Batty: The Spirit Guide" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13967-catty-batty-the-spirit-guide">Catty &amp; Batty: The Spirit Guide</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">31 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14516-cave-bad"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14516.png"
-                            alt="Cave Bad" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14516-cave-bad">Cave Bad</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

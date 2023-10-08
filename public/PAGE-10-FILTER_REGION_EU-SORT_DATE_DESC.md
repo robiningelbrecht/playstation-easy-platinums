@@ -44,6 +44,134 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14582-a-pretty-odd-bunny"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14582.png"
+                            alt="A Pretty Odd Bunny" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14582-a-pretty-odd-bunny">A Pretty Odd Bunny</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">57 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14574-henchman-story"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14574.png"
+                            alt="Henchman Story" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14574-henchman-story">Henchman Story</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">€14.99</td>
+            <td align="center">27</td>
+            <td align="center">5</td>
+            <td align="center">19</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14572-the-prince-of-landis"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14572.png"
+                            alt="The Prince of Landis" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14572-the-prince-of-landis">The Prince of Landis</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">24 min</td>
+            <td align="center">€4.79</td>
+            <td align="center">36</td>
+            <td align="center">3</td>
+            <td align="center">18</td>
+            <td align="center">14</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14569-the-prince-of-landis"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14569.png"
+                            alt="The Prince of Landis" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14569-the-prince-of-landis">The Prince of Landis</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">24 min</td>
+            <td align="center">€4.79</td>
+            <td align="center">36</td>
+            <td align="center">3</td>
+            <td align="center">18</td>
+            <td align="center">14</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14566-bowling-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14566.png"
+                            alt="Bowling: Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14566-bowling-breakthrough-gaming-arcade">Bowling: Breakthrough Gaming Arcade</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14548-pukan-bye-bye"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14548.png"
+                            alt="Pukan, Bye-Bye!" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14548-pukan-bye-bye">Pukan, Bye-Bye!</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">4</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14547-venus-improbable-dream"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14547.png"
+                            alt="Venus: Improbable Dream" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14547-venus-improbable-dream">Venus: Improbable Dream</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€9.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14539-christmas-break-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14539.png"
+                            alt="Christmas Break 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14539-christmas-break-2">Christmas Break 2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">11 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">39</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">26</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14519-pretty-girls-panic-plus"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14519.png"
                             alt="Pretty Girls Panic! PLUS" width="60"></a></td>
@@ -1514,134 +1642,6 @@
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13837-zj-the-ball-level-3"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13837.png"
-                            alt="ZJ the Ball: Level 3" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13837-zj-the-ball-level-3">ZJ the Ball: Level 3</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13835-rally-racing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13835.png"
-                            alt="Rally Racing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13835-rally-racing">Rally Racing</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13824-horror-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13824.png"
-                            alt="Horror Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13824-horror-break">Horror Break</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">38</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">26</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13822-one-eyed-lee-and-the-dinner-party"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13822.png"
-                            alt="One-Eyed Lee and the Dinner Party" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13822-one-eyed-lee-and-the-dinner-party">One-Eyed Lee and the Dinner Party</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13794-pretty-girls-panic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13794.png"
-                            alt="Pretty Girls Panic!" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13794-pretty-girls-panic">Pretty Girls Panic!</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13781-one-eyed-lee-and-the-dinner-party"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13781.png"
-                            alt="One-Eyed Lee and the Dinner Party" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13781-one-eyed-lee-and-the-dinner-party">One-Eyed Lee and the Dinner Party</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">25 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13777-pretty-girls-panic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13777.png"
-                            alt="Pretty Girls Panic!" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13777-pretty-girls-panic">Pretty Girls Panic!</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13774-rally-racing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13774.png"
-                            alt="Rally Racing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13774-rally-racing">Rally Racing</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

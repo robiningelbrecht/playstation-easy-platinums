@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/21560-alpha-warrior"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21560.png"
+                            alt="Alpha Warrior" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21560-alpha-warrior">Alpha Warrior</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16388-space-run"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16388.png"
+                            alt="Space Run" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16388-space-run">Space Run</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16238-pizza-run"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16238.png"
+                            alt="Pizza Run" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16238-pizza-run">Pizza Run</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15415-nape-retroverse-collection"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15415.png"
+                            alt="Nape Retroverse Collection" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15415-nape-retroverse-collection">Nape Retroverse Collection</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/21283-gunman-tales"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21283.png"
                             alt="Gunman Tales" width="60"></a></td>
@@ -1572,70 +1636,6 @@
                 <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">55 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14825-pretty-girls-mahjong-solitaire-green"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14825.png"
-                            alt="Pretty Girls Mahjong Solitaire [Green]" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14825-pretty-girls-mahjong-solitaire-green">Pretty Girls Mahjong Solitaire [Gre...</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">54 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13969-minigolf-tour"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13969.png"
-                            alt="Minigolf Tour" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13969-minigolf-tour">Minigolf Tour</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">51 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14819-pretty-girls-mahjong-solitaire-blue"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14819.png"
-                            alt="Pretty Girls Mahjong Solitaire [Blue]" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14819-pretty-girls-mahjong-solitaire-blue">Pretty Girls Mahjong Solitaire [Blu...</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">50 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15999-pretty-girls-rivers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15999.png"
-                            alt="Pretty Girls Rivers" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15999-pretty-girls-rivers">Pretty Girls Rivers</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">48 min</td>
             <td align="center">$5.99</td>
             <td align="center">13</td>
             <td align="center">11</td>

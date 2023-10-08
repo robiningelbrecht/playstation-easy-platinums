@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14182-takorita-meets-fries"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14182.png"
+                            alt="Takorita Meets Fries" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14182-takorita-meets-fries">Takorita Meets Fries</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14181-takorita-meets-fries"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14181.png"
                             alt="Takorita Meets Fries" width="60"></a></td>
@@ -396,22 +412,6 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17880-super-sunny-island"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17880.png"
-                            alt="Super Sunny Island" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17880-super-sunny-island">Super Sunny Island</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">42 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/17878-super-sunny-island"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17878.png"
                             alt="Super Sunny Island" width="60"></a></td>
@@ -420,6 +420,22 @@
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">25 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17880-super-sunny-island"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17880.png"
+                            alt="Super Sunny Island" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17880-super-sunny-island">Super Sunny Island</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">42 min</td>
             <td align="center">€4.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
@@ -748,12 +764,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20657-stroke-the-horse"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20657.png"
+            <td><a href="https://psnprofiles.com/trophies/20661-stroke-the-horse"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20661.png"
                             alt="Stroke The Horse" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20657-stroke-the-horse">Stroke The Horse</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20661-stroke-the-horse">Stroke The Horse</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">€3.99</td>
@@ -764,12 +780,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20661-stroke-the-horse"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20661.png"
+            <td><a href="https://psnprofiles.com/trophies/20657-stroke-the-horse"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20657.png"
                             alt="Stroke The Horse" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20661-stroke-the-horse">Stroke The Horse</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20657-stroke-the-horse">Stroke The Horse</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">€3.99</td>
@@ -1002,6 +1018,22 @@
             <td align="center">7</td>
             <td align="center">2</td>
             <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/24027-steampunk-voyage"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/24027.png"
+                            alt="Steampunk Voyage" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/24027-steampunk-voyage">Steampunk Voyage</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">8</td>
+            <td align="center">4</td>
+            <td align="center">1320</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/16342-steam-engine"><img
@@ -1604,38 +1636,6 @@
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">5 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16415-space-2-3-player-cooperation-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16415.png"
-                            alt="Space 2 (3 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16415-space-2-3-player-cooperation-edition-breakthrough-gaming-arcade">Space 2 (3 Player Cooperation Editi...</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16576-space-2-2-player-cooperation-edition-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16576.png"
-                            alt="Space 2 (2 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16576-space-2-2-player-cooperation-edition-breakthrough-gaming-arcade">Space 2 (2 Player Cooperation Editi...</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
             <td align="center">€0.99</td>
             <td align="center">12</td>
             <td align="center">11</td>

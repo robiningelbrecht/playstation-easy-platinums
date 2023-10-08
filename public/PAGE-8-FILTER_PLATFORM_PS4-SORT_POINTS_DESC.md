@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/11311-road-bustle"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11311.png"
+                            alt="Road Bustle" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11311-road-bustle">Road Bustle</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12896-rift-racoon"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12896.png"
+                            alt="Rift Racoon" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12896-rift-racoon">Rift Racoon</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">€2.49</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18814-repentless"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18814.png"
+                            alt="Repentless" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18814-repentless">Repentless</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$2.99</td>
+            <td align="center">24</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23707-rally-racing-cars-drift-mania"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23707.png"
+                            alt="Rally Racing: Cars &amp; Drift Mania" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23707-rally-racing-cars-drift-mania">Rally Racing: Cars &amp; Drift Mania</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23620-rally-racing-cars-drift-mania"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23620.png"
+                            alt="Rally Racing: Cars &amp; Drift Mania" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23620-rally-racing-cars-drift-mania">Rally Racing: Cars &amp; Drift Mania</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/19162-microarcade-applepie"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19162.png"
                             alt="Microarcade Applepie" width="60"></a></td>
@@ -972,12 +1052,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17610-organic-engine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17610.png"
+            <td><a href="https://psnprofiles.com/trophies/17611-organic-engine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17611.png"
                             alt="Organic Engine" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17610-organic-engine">Organic Engine</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/17611-organic-engine">Organic Engine</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$0.99</td>
@@ -988,12 +1068,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17611-organic-engine"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17611.png"
+            <td><a href="https://psnprofiles.com/trophies/17610-organic-engine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17610.png"
                             alt="Organic Engine" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17611-organic-engine">Organic Engine</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/17610-organic-engine">Organic Engine</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$0.99</td>
@@ -1561,86 +1641,6 @@
             <td align="center">0</td>
             <td align="center">35</td>
             <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20039-bilmo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20039.png"
-                            alt="Bilmo" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20039-bilmo">Bilmo</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€1.99</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13950-baseball-bout-otterrific-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13950.png"
-                            alt="Baseball Bout: Otterrific Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13950-baseball-bout-otterrific-arcade">Baseball Bout: Otterrific Arcade</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">45</td>
-            <td align="center">3</td>
-            <td align="center">11</td>
-            <td align="center">30</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13255-サクラサキュバス３-魔性の支配者"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13255.png"
-                            alt="サクラ･サキュバス３ ～魔性の支配者～" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13255-サクラサキュバス３-魔性の支配者">サクラ･サキュバス３ ～魔性の支配者～</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center"></td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22838-zen-pong"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22838.png"
-                            alt="Zen Pong" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22838-zen-pong">Zen Pong</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18131-weben-blocks-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18131.png"
-                            alt="Weben Blocks 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18131-weben-blocks-2">Weben Blocks 2</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

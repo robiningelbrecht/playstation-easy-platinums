@@ -540,6 +540,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23996-blackjack-waifu-tour"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23996.png"
+                            alt="Blackjack: Waifu Tour" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23996-blackjack-waifu-tour">Blackjack: Waifu Tour</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">43 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/20694-trenches"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20694.png"
                             alt="Trenches" width="60"></a></td>
@@ -869,6 +885,22 @@
             </td>
             <td align="center">36 min</td>
             <td align="center">€7.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23988-diorama-dungeoncrawl-master-of-the-living-castle"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23988.png"
+                            alt="Diorama Dungeoncrawl: Master of the Living Castle" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23988-diorama-dungeoncrawl-master-of-the-living-castle">Diorama Dungeoncrawl: Master of the...</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$9.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>
@@ -1601,38 +1633,6 @@
                             alt="Hoggy2" width="60"></a></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/9415-hoggy2">Hoggy2</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">26 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16335-hellgunner"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16335.png"
-                            alt="HellGunner" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16335-hellgunner">HellGunner</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">26 min</td>
-            <td align="center">€3.49</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21507-happi-basudei"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21507.png"
-                            alt="Happi Basudei" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21507-happi-basudei">Happi Basudei</a>
                 <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">26 min</td>

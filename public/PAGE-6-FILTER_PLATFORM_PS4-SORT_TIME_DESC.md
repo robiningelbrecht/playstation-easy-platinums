@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16448-zombo-buster-advance"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16448.png"
+                            alt="Zombo Buster Advance" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16448-zombo-buster-advance">Zombo Buster Advance</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">33 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">8</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15652-wordbreaker-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15652.png"
+                            alt="Wordbreaker by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15652-wordbreaker-by-powgi">Wordbreaker by POWGI</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">33 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">38</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">27</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/7892-the-path-of-motus"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7892.png"
+                            alt="The Path of Motus" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/7892-the-path-of-motus">The Path of Motus</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">33 min</td>
+            <td align="center">€14.99</td>
+            <td align="center">16</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11402-takotan"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11402.png"
+                            alt="Takotan" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11402-takotan">Takotan</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">33 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">15</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/9458-sagebrush"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9458.png"
                             alt="Sagebrush" width="60"></a></td>
@@ -1180,6 +1244,22 @@
             <td align="center">1320</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23953-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23953.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23953-sokolab">Sokolab</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16498-pretty-girls-speed"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16498.png"
                             alt="Pretty Girls Speed" width="60"></a></td>
@@ -1562,86 +1642,6 @@
             <td align="center">4</td>
             <td align="center">2</td>
             <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16761-tales-of-aravorn-seasons-of-the-wolf"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16761.png"
-                            alt="Tales of Aravorn: Seasons of the Wolf" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16761-tales-of-aravorn-seasons-of-the-wolf">Tales of Aravorn: Seasons of the Wo...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center">$19.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11404-takotan"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11404.png"
-                            alt="Takotan" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11404-takotan">Takotan</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11403-takotan"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11403.png"
-                            alt="Takotan" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11403-takotan">Takotan</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11401-takotan"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11401.png"
-                            alt="Takotan" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11401-takotan">Takotan</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15460-space-robinson"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15460.png"
-                            alt="Space Robinson" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15460-space-robinson">Space Robinson</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

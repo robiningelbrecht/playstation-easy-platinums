@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15671-retro-pixel-racers"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15671.png"
+                            alt="Retro Pixel Racers" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15671-retro-pixel-racers">Retro Pixel Racers</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">38 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13196-pretty-girls-klondike-solitaire"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13196.png"
+                            alt="Pretty Girls Klondike Solitaire" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13196-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">38 min</td>
+            <td align="center">$3.59</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17801-oktoberfest-break"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17801.png"
+                            alt="Oktoberfest Break" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17801-oktoberfest-break">Oktoberfest Break</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">38 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">39</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">26</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/9037-murder-detective-jack-the-ripper"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9037.png"
                             alt="Murder Detective: Jack the Ripper" width="60"></a></td>
@@ -1292,6 +1340,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23988-diorama-dungeoncrawl-master-of-the-living-castle"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23988.png"
+                            alt="Diorama Dungeoncrawl: Master of the Living Castle" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23988-diorama-dungeoncrawl-master-of-the-living-castle">Diorama Dungeoncrawl: Master of the...</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/22789-chronobreach-ultra"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22789.png"
                             alt="ChronoBreach Ultra" width="60"></a></td>
@@ -1578,70 +1642,6 @@
             <td align="center">12</td>
             <td align="center">10</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22448-mighty-mage"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22448.png"
-                            alt="Mighty Mage" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22448-mighty-mage">Mighty Mage</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">35 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">3</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/7315-midnight-deluxe"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7315.png"
-                            alt="Midnight Deluxe" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/7315-midnight-deluxe">Midnight Deluxe</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">35 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22477-kuroi-tsubasa"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22477.png"
-                            alt="Kuroi Tsubasa" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22477-kuroi-tsubasa">Kuroi Tsubasa</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">35 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14604-gynoug"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14604.png"
-                            alt="Gynoug" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14604-gynoug">Gynoug</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">35 min</td>
-            <td align="center">€4.88</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/21672-hermits-tic-tac-toe"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21672.png"
+                            alt="Hermit&#039;s Tic-Tac-Toe" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21672-hermits-tic-tac-toe">Hermit&#039;s Tic-Tac-Toe</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15796-richys-nightmares"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15796.png"
+                            alt="Richy’s Nightmares" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15796-richys-nightmares">Richy’s Nightmares</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12007-kauils-treasure"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12007.png"
+                            alt="Kauil&#039;s Treasure" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12007-kauils-treasure">Kauil&#039;s Treasure</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$5.49</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">8</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16119-catana"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16119.png"
+                            alt="Catana" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16119-catana">Catana</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$5.59</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16120-neonlore"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16120.png"
+                            alt="NeonLore" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16120-neonlore">NeonLore</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">45</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">36</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/8817-awesome-pea"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8817.png"
                             alt="Awesome Pea" width="60"></a></td>
@@ -1556,86 +1636,6 @@
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">8 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15046-futbol-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15046.png"
-                            alt="Futbol Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15046-futbol-break">Futbol Break</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16829-coffee-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16829.png"
-                            alt="Coffee Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16829-coffee-break">Coffee Break</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16767-coffee-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16767.png"
-                            alt="Coffee Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16767-coffee-break">Coffee Break</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15723-burger-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15723.png"
-                            alt="Burger Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15723-burger-break">Burger Break</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15292-valentine-candy-break-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15292.png"
-                            alt="Valentine Candy Break 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15292-valentine-candy-break-2">Valentine Candy Break 2</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">7 min</td>
             <td align="center">$6.99</td>
             <td align="center">39</td>
             <td align="center">4</td>

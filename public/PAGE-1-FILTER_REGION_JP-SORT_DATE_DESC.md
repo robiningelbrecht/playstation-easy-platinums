@@ -12,7 +12,7 @@
 </p>
 
 ------
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 <kbd>Region</kbd> : <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_DATE_DESC.md">All</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_AS-SORT_DATE_DESC.md">AS</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_CN-SORT_DATE_DESC.md">CN</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_EU-SORT_DATE_DESC.md">EU</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_HK-SORT_DATE_DESC.md">HK</a></kbd> | <kbd>JP</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_KR-SORT_DATE_DESC.md">KR</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_NA-SORT_DATE_DESC.md">NA</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_RR-SORT_DATE_DESC.md">RR</a></kbd>
                                                                                                                                                                                             
 <kbd>Platform</kbd> : <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_DATE_DESC.md">All</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_PLATFORM_PS4-SORT_DATE_DESC.md">PS4</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_PLATFORM_PS5-SORT_DATE_DESC.md">PS5</a></kbd>
@@ -20,7 +20,7 @@
 ------
 
 <p align="center">
-    <kbd>1</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_DATE_DESC.md">2</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-3-FILTER_REGION_JP-SORT_DATE_DESC.md">3</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-4-FILTER_REGION_JP-SORT_DATE_DESC.md">4</a></kbd> | ... | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6-FILTER_REGION_JP-SORT_DATE_DESC.md">6</a></kbd>
+    <kbd>1</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_DATE_DESC.md">2</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-3-FILTER_REGION_JP-SORT_DATE_DESC.md">3</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-4-FILTER_REGION_JP-SORT_DATE_DESC.md">4</a></kbd> | ... | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-7-FILTER_REGION_JP-SORT_DATE_DESC.md">7</a></kbd>
 </p>
 
 <table>
@@ -43,6 +43,38 @@
     </tr>
     </thead>
     <tbody>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23947-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23947.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23947-sokolab">Sokolab</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23828-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23828.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23828-sokolab">Sokolab</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/23691-rally-racing-cars-drift-mania"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23691.png"
@@ -812,22 +844,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19511-bloodwash"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19511.png"
-                            alt="Bloodwash" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19511-bloodwash">Bloodwash</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">35 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/18508-unichrome-a-1-bit-unicorn-adventure"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18508.png"
                             alt="Unichrome: A 1-Bit Unicorn Adventure" width="60"></a></td>
@@ -841,6 +857,22 @@
             <td align="center">8</td>
             <td align="center">9</td>
             <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19511-bloodwash"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19511.png"
+                            alt="Bloodwash" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19511-bloodwash">Bloodwash</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">35 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
             <tr>
@@ -1611,40 +1643,8 @@
             <td align="center">5</td>
             <td align="center">1275</td>
         </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21142-紅月ゆれる恋あかり"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21142.png"
-                            alt="紅月ゆれる恋あかり" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21142-紅月ゆれる恋あかり">紅月ゆれる恋あかり</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">19 min</td>
-            <td align="center"></td>
-            <td align="center">23</td>
-            <td align="center">8</td>
-            <td align="center">6</td>
-            <td align="center">8</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21216-quiz-thiz-spain-gold-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21216.png"
-                            alt="Quiz Thiz Spain: Gold Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21216-quiz-thiz-spain-gold-edition">Quiz Thiz Spain: Gold Edition</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
         </tbody>
 </table>
 <p align="center">
-    <kbd>1</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_DATE_DESC.md">2</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-3-FILTER_REGION_JP-SORT_DATE_DESC.md">3</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-4-FILTER_REGION_JP-SORT_DATE_DESC.md">4</a></kbd> | ... | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6-FILTER_REGION_JP-SORT_DATE_DESC.md">6</a></kbd>
+    <kbd>1</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_DATE_DESC.md">2</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-3-FILTER_REGION_JP-SORT_DATE_DESC.md">3</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-4-FILTER_REGION_JP-SORT_DATE_DESC.md">4</a></kbd> | ... | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-7-FILTER_REGION_JP-SORT_DATE_DESC.md">7</a></kbd>
 </p>

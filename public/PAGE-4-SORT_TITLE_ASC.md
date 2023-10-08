@@ -44,6 +44,102 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/20867-beveron"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20867.png"
+                            alt="Beveron" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20867-beveron">Beveron</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20869-beveron"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20869.png"
+                            alt="Beveron" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20869-beveron">Beveron</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20875-beveron"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20875.png"
+                            alt="Beveron" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20875-beveron">Beveron</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20870-beveron"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20870.png"
+                            alt="Beveron" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20870-beveron">Beveron</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20871-beveron"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20871.png"
+                            alt="Beveron" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20871-beveron">Beveron</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20873-beveron"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20873.png"
+                            alt="Beveron" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20873-beveron">Beveron</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/20872-beveron"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20872.png"
                             alt="Beveron" width="60"></a></td>
@@ -714,6 +810,38 @@
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23903-blackjack-waifu-tour"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23903.png"
+                            alt="Blackjack: Waifu Tour" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23903-blackjack-waifu-tour">Blackjack: Waifu Tour</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23996-blackjack-waifu-tour"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23996.png"
+                            alt="Blackjack: Waifu Tour" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23996-blackjack-waifu-tour">Blackjack: Waifu Tour</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">43 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/22851-blackjack-waifu-tour"><img
@@ -1514,134 +1642,6 @@
             <td align="center">5</td>
             <td align="center">6</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22824-boat-trip"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22824.png"
-                            alt="Boat Trip" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22824-boat-trip">Boat Trip</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23501-bomb-up"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23501.png"
-                            alt="Bomb Up" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23501-bomb-up">Bomb Up</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13610-bone-marrow"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13610.png"
-                            alt="Bone Marrow" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13610-bone-marrow">Bone Marrow</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">52 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13609-bone-marrow"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13609.png"
-                            alt="Bone Marrow" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13609-bone-marrow">Bone Marrow</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13603-bone-marrow"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13603.png"
-                            alt="Bone Marrow" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13603-bone-marrow">Bone Marrow</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">22 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13602-bone-marrow"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13602.png"
-                            alt="Bone Marrow" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13602-bone-marrow">Bone Marrow</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">33 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19083-bones-of-halloween"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19083.png"
-                            alt="Bones of Halloween" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19083-bones-of-halloween">Bones of Halloween</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19082-bones-of-halloween"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19082.png"
-                            alt="Bones of Halloween" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19082-bones-of-halloween">Bones of Halloween</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

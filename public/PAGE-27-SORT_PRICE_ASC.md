@@ -44,6 +44,118 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17939-active-neurons"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17939.png"
+                            alt="Active Neurons" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17939-active-neurons">Active Neurons</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">34 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">6</td>
+            <td align="center">3</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10451-red-death"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10451.png"
+                            alt="Red Death" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10451-red-death">Red Death</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15772-red-death"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15772.png"
+                            alt="Red Death" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15772-red-death">Red Death</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15770-red-death"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15770.png"
+                            alt="Red Death" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15770-red-death">Red Death</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10450-red-death"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10450.png"
+                            alt="Red Death" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10450-red-death">Red Death</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10816-pity-pit"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10816.png"
+                            alt="Pity Pit" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10816-pity-pit">Pity Pit</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15769-red-death"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15769.png"
+                            alt="Red Death" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15769-red-death">Red Death</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/10455-red-death"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10455.png"
                             alt="Red Death" width="60"></a></td>
@@ -940,6 +1052,134 @@
             <td align="center">1275</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23953-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23953.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23953-sokolab">Sokolab</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23831-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23831.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23831-sokolab">Sokolab</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">25 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23832-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23832.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23832-sokolab">Sokolab</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23833-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23833.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23833-sokolab">Sokolab</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23829-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23829.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23829-sokolab">Sokolab</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23828-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23828.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23828-sokolab">Sokolab</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23947-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23947.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23947-sokolab">Sokolab</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23830-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23830.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23830-sokolab">Sokolab</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11627-crosskrush"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11627.png"
                             alt="CrossKrush" width="60"></a></td>
@@ -1402,246 +1642,6 @@
             <td align="center">7</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13750-alveole"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13750.png"
-                            alt="Alveole" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13750-alveole">Alveole</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">26 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13718-alveole"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13718.png"
-                            alt="Alveole" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13718-alveole">Alveole</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">24 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13720-alveole"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13720.png"
-                            alt="Alveole" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13720-alveole">Alveole</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">22 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14913-memories-of-east-coast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14913.png"
-                            alt="Memories of East Coast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14913-memories-of-east-coast">Memories of East Coast</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14907-memories-of-east-coast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14907.png"
-                            alt="Memories of East Coast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14907-memories-of-east-coast">Memories of East Coast</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14868-memories-of-east-coast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14868.png"
-                            alt="Memories of East Coast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14868-memories-of-east-coast">Memories of East Coast</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14849-memories-of-east-coast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14849.png"
-                            alt="Memories of East Coast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14849-memories-of-east-coast">Memories of East Coast</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14848-memories-of-east-coast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14848.png"
-                            alt="Memories of East Coast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14848-memories-of-east-coast">Memories of East Coast</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14847-memories-of-east-coast"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14847.png"
-                            alt="Memories of East Coast" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14847-memories-of-east-coast">Memories of East Coast</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16982-gav-gav-odyssey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16982.png"
-                            alt="Gav-Gav Odyssey" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16982-gav-gav-odyssey">Gav-Gav Odyssey</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">1</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15325-gav-gav-odyssey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15325.png"
-                            alt="Gav-Gav Odyssey" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15325-gav-gav-odyssey">Gav-Gav Odyssey</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">1</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15234-gav-gav-odyssey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15234.png"
-                            alt="Gav-Gav Odyssey" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15234-gav-gav-odyssey">Gav-Gav Odyssey</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">1</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15232-gav-gav-odyssey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15232.png"
-                            alt="Gav-Gav Odyssey" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15232-gav-gav-odyssey">Gav-Gav Odyssey</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">1</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12264-roombo-first-blood"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12264.png"
-                            alt="Roombo: First Blood" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12264-roombo-first-blood">Roombo: First Blood</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">57 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">3</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12262-roombo-first-blood"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12262.png"
-                            alt="Roombo: First Blood" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12262-roombo-first-blood">Roombo: First Blood</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">36 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">3</td>
-            <td align="center">1275</td>
         </tr>
         </tbody>
 </table>

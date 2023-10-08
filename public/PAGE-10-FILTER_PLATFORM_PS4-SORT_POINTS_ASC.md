@@ -44,6 +44,166 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15839-richys-nightmares"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15839.png"
+                            alt="Richy’s Nightmares" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15839-richys-nightmares">Richy’s Nightmares</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15796-richys-nightmares"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15796.png"
+                            alt="Richy’s Nightmares" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15796-richys-nightmares">Richy’s Nightmares</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14872-racing-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14872.png"
+                            alt="Racing (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14872-racing-challenge-mode-edition-breakthrough-gaming-arcade">Racing (Challenge Mode Edition): Br...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14871-racing-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14871.png"
+                            alt="Racing (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14871-racing-challenge-mode-edition-breakthrough-gaming-arcade">Racing (Challenge Mode Edition): Br...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20412-quiz-thiz-united-kingdom-gold-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20412.png"
+                            alt="Quiz Thiz United Kingdom: Gold Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20412-quiz-thiz-united-kingdom-gold-edition">Quiz Thiz United Kingdom: Gold Edit...</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20414-quiz-thiz-united-kingdom-gold-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20414.png"
+                            alt="Quiz Thiz United Kingdom: Gold Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20414-quiz-thiz-united-kingdom-gold-edition">Quiz Thiz United Kingdom: Gold Edit...</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20413-quiz-thiz-united-kingdom-gold-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20413.png"
+                            alt="Quiz Thiz United Kingdom: Gold Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20413-quiz-thiz-united-kingdom-gold-edition">Quiz Thiz United Kingdom: Gold Edit...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19961-quiz-thiz-united-kingdom-gold-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19961.png"
+                            alt="Quiz Thiz United Kingdom: Gold Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19961-quiz-thiz-united-kingdom-gold-edition">Quiz Thiz United Kingdom: Gold Edit...</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19841-quiz-thiz-usa-gold-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19841.png"
+                            alt="Quiz Thiz USA: Gold Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19841-quiz-thiz-usa-gold-edition">Quiz Thiz USA: Gold Edition</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20886-quiz-thiz-spain-gold-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20886.png"
+                            alt="Quiz Thiz Spain: Gold Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20886-quiz-thiz-spain-gold-edition">Quiz Thiz Spain: Gold Edition</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€2.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/21215-quiz-thiz-spain-gold-edition"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21215.png"
                             alt="Quiz Thiz Spain: Gold Edition" width="60"></a></td>
@@ -1481,166 +1641,6 @@
             <td align="center">8</td>
             <td align="center">7</td>
             <td align="center">5</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23297-pandaty"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23297.png"
-                            alt="Pandaty" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23297-pandaty">Pandaty</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">17 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">1</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12679-yoko-yuki-dr-rats-revenge"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12679.png"
-                            alt="Yoko &amp; Yuki: Dr. Rat&#039;s Revenge" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12679-yoko-yuki-dr-rats-revenge">Yoko &amp; Yuki: Dr. Rat&#039;s Revenge</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">3</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17113-im-in-love-with-your-dead-grandmother"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17113.png"
-                            alt="I&#039;m in Love With Your Dead Grandmother" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17113-im-in-love-with-your-dead-grandmother">I&#039;m in Love With Your Dead Grandmot...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">1</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17871-decaylore"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17871.png"
-                            alt="DecayLore" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17871-decaylore">DecayLore</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">46</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">39</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22126-boss-rush-mythology"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22126.png"
-                            alt="Boss Rush: Mythology" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22126-boss-rush-mythology">Boss Rush: Mythology</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">7</td>
-            <td align="center">5</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13445-gaps-by-powgi"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13445.png"
-                            alt="Gaps by POWGI" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13445-gaps-by-powgi">Gaps by POWGI</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">15 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">32</td>
-            <td align="center">2</td>
-            <td align="center">26</td>
-            <td align="center">3</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12819-ladders-by-powgi"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12819.png"
-                            alt="Ladders by POWGI" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12819-ladders-by-powgi">Ladders by POWGI</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">43</td>
-            <td align="center">3</td>
-            <td align="center">10</td>
-            <td align="center">29</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12746-ladders-by-powgi"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12746.png"
-                            alt="Ladders by POWGI" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12746-ladders-by-powgi">Ladders by POWGI</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">43</td>
-            <td align="center">3</td>
-            <td align="center">10</td>
-            <td align="center">29</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12680-yoko-yuki-dr-rats-revenge"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12680.png"
-                            alt="Yoko &amp; Yuki: Dr. Rat&#039;s Revenge" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12680-yoko-yuki-dr-rats-revenge">Yoko &amp; Yuki: Dr. Rat&#039;s Revenge</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">3</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14012-oktoberfest-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14012.png"
-                            alt="Oktoberfest Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14012-oktoberfest-break-head-to-head">Oktoberfest Break Head to Head</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">41</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">29</td>
             <td align="center">1305</td>
         </tr>
         </tbody>

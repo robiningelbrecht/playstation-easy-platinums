@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/12479-dreaming-sarah"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12479.png"
+                            alt="Dreaming Sarah" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12479-dreaming-sarah">Dreaming Sarah</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">25 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">23</td>
+            <td align="center">7</td>
+            <td align="center">13</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23089-cubic-lines"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23089.png"
+                            alt="Cubic Lines" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23089-cubic-lines">Cubic Lines</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">25 min</td>
+            <td align="center">€2.99</td>
+            <td align="center">51</td>
+            <td align="center">1</td>
+            <td align="center">14</td>
+            <td align="center">35</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/23664-blind-postman"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23664.png"
                             alt="Blind Postman" width="60"></a></td>
@@ -444,6 +476,22 @@
             <td align="center">1320</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23833-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23833.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23833-sokolab">Sokolab</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14480-shinrai-broken-beyond-despair"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14480.png"
                             alt="SHINRAI: Broken Beyond Despair" width="60"></a></td>
@@ -634,6 +682,22 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23829-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23829.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23829-sokolab">Sokolab</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/17361-roll-the-cat"><img
@@ -1578,70 +1642,6 @@
             <td align="center">5</td>
             <td align="center">0</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14335-dungeon-escape"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14335.png"
-                            alt="Dungeon Escape" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14335-dungeon-escape">Dungeon Escape</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">20 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21083-cyberheroes-arena-dx"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21083.png"
-                            alt="CyberHeroes Arena DX" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21083-cyberheroes-arena-dx">CyberHeroes Arena DX</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">20 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18330-casual-challenge-players-club"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18330.png"
-                            alt="Casual Challenge Players&#039; Club" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18330-casual-challenge-players-club">Casual Challenge Players&#039; Club</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">20 min</td>
-            <td align="center">$5.59</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18863-フィンガーフィットネス"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18863.png"
-                            alt="フィンガーフィットネス" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18863-フィンガーフィットネス">フィンガーフィットネス</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">19 min</td>
-            <td align="center"></td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">1</td>
-            <td align="center">1335</td>
         </tr>
         </tbody>
 </table>

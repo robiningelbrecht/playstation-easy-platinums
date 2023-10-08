@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23372-detective-inspector-mysterious-clues"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23372.png"
+                            alt="Detective Inspector: Mysterious Clues" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23372-detective-inspector-mysterious-clues">Detective Inspector: Mysterious Clu...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13084-paradox-error"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13084.png"
+                            alt="Paradox Error" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13084-paradox-error">Paradox Error</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22988-plumber-puzzles"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22988.png"
+                            alt="Plumber Puzzles" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22988-plumber-puzzles">Plumber Puzzles</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22891-metadude"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22891.png"
+                            alt="MetaDude" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22891-metadude">MetaDude</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22958-metadude"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22958.png"
+                            alt="MetaDude" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22958-metadude">MetaDude</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/22937-metadude"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22937.png"
                             alt="MetaDude" width="60"></a></td>
@@ -252,6 +332,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23915-age-of-sokoban"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23915.png"
+                            alt="Age of Sokoban" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23915-age-of-sokoban">Age of Sokoban</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16144-space-kabaam"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16144.png"
                             alt="Space KaBAAM" width="60"></a></td>
@@ -290,6 +386,22 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/22816-everlune">Everlune</a>
                 <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23922-age-of-sokoban"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23922.png"
+                            alt="Age of Sokoban" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23922-age-of-sokoban">Age of Sokoban</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">12 min</td>
             <td align="center">$1.99</td>
@@ -1340,12 +1452,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21515-quiz-thiz-germany-bronze-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21515.png"
+            <td><a href="https://psnprofiles.com/trophies/21513-quiz-thiz-germany-bronze-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21513.png"
                             alt="Quiz Thiz Germany: Bronze Edition" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21515-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/21513-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -1356,12 +1468,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21513-quiz-thiz-germany-bronze-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21513.png"
+            <td><a href="https://psnprofiles.com/trophies/21515-quiz-thiz-germany-bronze-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21515.png"
                             alt="Quiz Thiz Germany: Bronze Edition" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21513-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/21515-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -1484,12 +1596,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20681-quiz-thiz-spain-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20681.png"
+            <td><a href="https://psnprofiles.com/trophies/21095-quiz-thiz-spain-silver-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21095.png"
                             alt="Quiz Thiz Spain: Silver Edition" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20681-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/21095-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$2.49</td>
@@ -1500,12 +1612,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21095-quiz-thiz-spain-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21095.png"
+            <td><a href="https://psnprofiles.com/trophies/20681-quiz-thiz-spain-silver-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20681.png"
                             alt="Quiz Thiz Spain: Silver Edition" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21095-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/20681-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$2.49</td>
@@ -1524,118 +1636,6 @@
                 <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">3 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21342-quiz-thiz-austria-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21342.png"
-                            alt="Quiz Thiz Austria: Silver Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21342-quiz-thiz-austria-silver-edition">Quiz Thiz Austria: Silver Edition</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21229-quiz-thiz-austria-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21229.png"
-                            alt="Quiz Thiz Austria: Silver Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21229-quiz-thiz-austria-silver-edition">Quiz Thiz Austria: Silver Edition</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21093-quiz-thiz-spain-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21093.png"
-                            alt="Quiz Thiz Spain: Silver Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21093-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20682-quiz-thiz-spain-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20682.png"
-                            alt="Quiz Thiz Spain: Silver Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20682-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21552-quiz-thiz-germany-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21552.png"
-                            alt="Quiz Thiz Germany: Silver Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21552-quiz-thiz-germany-silver-edition">Quiz Thiz Germany: Silver Edition</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21553-quiz-thiz-germany-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21553.png"
-                            alt="Quiz Thiz Germany: Silver Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21553-quiz-thiz-germany-silver-edition">Quiz Thiz Germany: Silver Edition</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21556-quiz-thiz-germany-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21556.png"
-                            alt="Quiz Thiz Germany: Silver Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21556-quiz-thiz-germany-silver-edition">Quiz Thiz Germany: Silver Edition</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
             <td align="center">$2.49</td>
             <td align="center">36</td>
             <td align="center">0</td>

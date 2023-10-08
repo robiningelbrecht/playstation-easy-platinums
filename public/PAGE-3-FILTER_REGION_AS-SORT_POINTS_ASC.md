@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/11270-prehistoric-dude"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11270.png"
+                            alt="Prehistoric Dude" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11270-prehistoric-dude">Prehistoric Dude</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/8816-heroes-trials"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8816.png"
+                            alt="Heroes Trials" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/8816-heroes-trials">Heroes Trials</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13073-dungeon-escape"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13073.png"
+                            alt="Dungeon Escape" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13073-dungeon-escape">Dungeon Escape</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/9222-cybarian-the-time-travelling-warrior"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9222.png"
+                            alt="Cybarian: The Time Travelling Warrior" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9222-cybarian-the-time-travelling-warrior">Cybarian: The Time Travelling Warri...</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">6</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15743-thunder-kid-hunt-for-the-robot-emperor"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15743.png"
                             alt="Thunder Kid: Hunt for the Robot Emperor" width="60"></a></td>
@@ -1577,70 +1641,6 @@
             <td align="center">10</td>
             <td align="center">5</td>
             <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10408-grizzland"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10408.png"
-                            alt="Grizzland" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10408-grizzland">Grizzland</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">37 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23168-fluffy-milo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23168.png"
-                            alt="Fluffy Milo" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23168-fluffy-milo">Fluffy Milo</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">37 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13648-zero-strain"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13648.png"
-                            alt="Zero Strain" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13648-zero-strain">Zero Strain</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">36 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10608-random-heroes-gold-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10608.png"
-                            alt="Random Heroes: Gold Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10608-random-heroes-gold-edition">Random Heroes: Gold Edition</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">36 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">37</td>
-            <td align="center">5</td>
-            <td align="center">9</td>
-            <td align="center">22</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

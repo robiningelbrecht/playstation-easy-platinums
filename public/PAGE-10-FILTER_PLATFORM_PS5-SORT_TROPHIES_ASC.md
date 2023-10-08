@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13216-arkan-the-dog-adventurer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13216.png"
+                            alt="Arkan: The Dog Adventurer" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13216-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">38 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">3</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13214-arkan-the-dog-adventurer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13214.png"
+                            alt="Arkan: The Dog Adventurer" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13214-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">37 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">3</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17644-arkan-the-dog-adventurer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17644.png"
+                            alt="Arkan: The Dog Adventurer" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17644-arkan-the-dog-adventurer">Arkan: The Dog Adventurer</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">3</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/23557-wild-seas"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23557.png"
                             alt="Wild Seas" width="60"></a></td>
@@ -181,6 +229,70 @@
             </td>
             <td align="center">44 min</td>
             <td align="center">$10.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23833-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23833.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23833-sokolab">Sokolab</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23829-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23829.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23829-sokolab">Sokolab</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23828-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23828.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23828-sokolab">Sokolab</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23830-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23830.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23830-sokolab">Sokolab</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">€4.99</td>
             <td align="center">18</td>
             <td align="center">8</td>
             <td align="center">7</td>
@@ -1525,118 +1637,6 @@
             </td>
             <td align="center">14 min</td>
             <td align="center">$3.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22899-boat-trip"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22899.png"
-                            alt="Boat Trip" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22899-boat-trip">Boat Trip</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23439-fly-the-plane"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23439.png"
-                            alt="Fly the Plane" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23439-fly-the-plane">Fly the Plane</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23434-fly-the-plane"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23434.png"
-                            alt="Fly the Plane" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23434-fly-the-plane">Fly the Plane</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23440-fly-the-plane"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23440.png"
-                            alt="Fly the Plane" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23440-fly-the-plane">Fly the Plane</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18647-the-jumping-fries-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18647.png"
-                            alt="The Jumping Fries: TURBO" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18647-the-jumping-fries-turbo">The Jumping Fries: TURBO</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21277-microarcade-shapeswarm"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21277.png"
-                            alt="Microarcade ShapeSwarm" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21277-microarcade-shapeswarm">Microarcade ShapeSwarm</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center">$1.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22466-do-not-crash"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22466.png"
-                            alt="Do Not Crash" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22466-do-not-crash">Do Not Crash</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center">$1.49</td>
             <td align="center">21</td>
             <td align="center">9</td>
             <td align="center">5</td>

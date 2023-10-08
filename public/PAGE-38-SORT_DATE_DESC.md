@@ -44,6 +44,438 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14279-zippy-the-circle-levels-5-6-7"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14279.png"
+                            alt="Zippy the Circle: Levels 5, 6, &amp; 7" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14279-zippy-the-circle-levels-5-6-7">Zippy the Circle: Levels 5, 6, &amp; 7</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14278-zippy-the-circle-levels-5-6-7"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14278.png"
+                            alt="Zippy the Circle: Levels 5, 6, &amp; 7" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14278-zippy-the-circle-levels-5-6-7">Zippy the Circle: Levels 5, 6, &amp; 7</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14273-bouncy-bullets-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14273.png"
+                            alt="Bouncy Bullets 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14273-bouncy-bullets-2">Bouncy Bullets 2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14272-bouncy-bullets-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14272.png"
+                            alt="Bouncy Bullets 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14272-bouncy-bullets-2">Bouncy Bullets 2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14271-bouncy-bullets-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14271.png"
+                            alt="Bouncy Bullets 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14271-bouncy-bullets-2">Bouncy Bullets 2</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">11 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14265-bouncy-bullets-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14265.png"
+                            alt="Bouncy Bullets 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14265-bouncy-bullets-2">Bouncy Bullets 2</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14263-lord-of-the-click-ii"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14263.png"
+                            alt="Lord of the Click II" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14263-lord-of-the-click-ii">Lord of the Click II</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">60 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14261-the-marauder-chronicles-curse-over-valdria"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14261.png"
+                            alt="The Marauder Chronicles: Curse Over Valdria" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14261-the-marauder-chronicles-curse-over-valdria">The Marauder Chronicles: Curse Over...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14258-racing-bros"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14258.png"
+                            alt="Racing Bros" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14258-racing-bros">Racing Bros</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">€4.88</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14255-the-marauder-chronicles-curse-over-valdria"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14255.png"
+                            alt="The Marauder Chronicles: Curse Over Valdria" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14255-the-marauder-chronicles-curse-over-valdria">The Marauder Chronicles: Curse Over...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14254-the-marauder-chronicles-curse-over-valdria"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14254.png"
+                            alt="The Marauder Chronicles: Curse Over Valdria" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14254-the-marauder-chronicles-curse-over-valdria">The Marauder Chronicles: Curse Over...</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14253-the-marauder-chronicles-curse-over-valdria"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14253.png"
+                            alt="The Marauder Chronicles: Curse Over Valdria" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14253-the-marauder-chronicles-curse-over-valdria">The Marauder Chronicles: Curse Over...</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14246-catty-batty-the-spirit-guide"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14246.png"
+                            alt="Catty &amp; Batty: The Spirit Guide" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14246-catty-batty-the-spirit-guide">Catty &amp; Batty: The Spirit Guide</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">42 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14244-super-arcade-soccer-2021"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14244.png"
+                            alt="Super Arcade Soccer 2021" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14244-super-arcade-soccer-2021">Super Arcade Soccer 2021</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">60 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14227-donut-break-2-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14227.png"
+                            alt="Donut Break 2 Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14227-donut-break-2-head-to-head">Donut Break 2 Head to Head</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14223-pretty-girls-mahjong-solitaire-red"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14223.png"
+                            alt="Pretty Girls Mahjong Solitaire [Red]" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14223-pretty-girls-mahjong-solitaire-red">Pretty Girls Mahjong Solitaire [Red...</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">59 min</td>
+            <td align="center"></td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14221-pretty-girls-mahjong-solitaire-red"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14221.png"
+                            alt="Pretty Girls Mahjong Solitaire [Red]" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14221-pretty-girls-mahjong-solitaire-red">Pretty Girls Mahjong Solitaire [Red...</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">54 min</td>
+            <td align="center"></td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14213-donut-break-2-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14213.png"
+                            alt="Donut Break 2 Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14213-donut-break-2-head-to-head">Donut Break 2 Head to Head</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14210-dojoran"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14210.png"
+                            alt="Dojoran" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14210-dojoran">Dojoran</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14204-energy-cycle-edge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14204.png"
+                            alt="Energy Cycle Edge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14204-energy-cycle-edge">Energy Cycle Edge</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">34 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">6</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14198-zippy-the-circle-level-3-level-4"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14198.png"
+                            alt="Zippy the Circle: Level 3 &amp; Level 4" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14198-zippy-the-circle-level-3-level-4">Zippy the Circle: Level 3 &amp; Level 4</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14197-zippy-the-circle-level-3-level-4"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14197.png"
+                            alt="Zippy the Circle: Level 3 &amp; Level 4" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14197-zippy-the-circle-level-3-level-4">Zippy the Circle: Level 3 &amp; Level 4</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14195-space-revenge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14195.png"
+                            alt="Space Revenge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14195-space-revenge">Space Revenge</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">11 min</td>
+            <td align="center">$4.94</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14194-space-revenge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14194.png"
+                            alt="Space Revenge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14194-space-revenge">Space Revenge</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">€4.94</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14192-ascendshaft"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14192.png"
+                            alt="Ascendshaft" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14192-ascendshaft">Ascendshaft</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">$0.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14191-blaze-and-the-monster-machines-axle-city-racers"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14191.png"
+                            alt="Blaze and the Monster Machines: Axle City Racers" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14191-blaze-and-the-monster-machines-axle-city-racers">Blaze and the Monster Machines: Axl...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">54 min</td>
+            <td align="center">€23.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14188-blaze-and-the-monster-machines-axle-city-racers"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14188.png"
+                            alt="Blaze and the Monster Machines: Axle City Racers" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14188-blaze-and-the-monster-machines-axle-city-racers">Blaze and the Monster Machines: Axl...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">45 min</td>
+            <td align="center">$23.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14187-takorita-meets-fries"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14187.png"
                             alt="Takorita Meets Fries" width="60"></a></td>
@@ -1210,438 +1642,6 @@
             <td align="center">7</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13969-minigolf-tour"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13969.png"
-                            alt="Minigolf Tour" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13969-minigolf-tour">Minigolf Tour</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">51 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13968-catty-batty-the-spirit-guide"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13968.png"
-                            alt="Catty &amp; Batty: The Spirit Guide" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13968-catty-batty-the-spirit-guide">Catty &amp; Batty: The Spirit Guide</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">28 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13967-catty-batty-the-spirit-guide"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13967.png"
-                            alt="Catty &amp; Batty: The Spirit Guide" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13967-catty-batty-the-spirit-guide">Catty &amp; Batty: The Spirit Guide</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">31 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13962-minigolf-tour"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13962.png"
-                            alt="Minigolf Tour" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13962-minigolf-tour">Minigolf Tour</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">30 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13960-poker-pretty-girls-battle-texas-holdem"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13960.png"
-                            alt="Poker Pretty Girls Battle: Texas Hold&#039;em" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13960-poker-pretty-girls-battle-texas-holdem">Poker Pretty Girls Battle: Texas Ho...</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13956-zj-the-ball-level-5"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13956.png"
-                            alt="ZJ the Ball: Level 5" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13956-zj-the-ball-level-5">ZJ the Ball: Level 5</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13955-zj-the-ball-level-5"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13955.png"
-                            alt="ZJ the Ball: Level 5" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13955-zj-the-ball-level-5">ZJ the Ball: Level 5</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13951-baseball-bout-otterrific-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13951.png"
-                            alt="Baseball Bout: Otterrific Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13951-baseball-bout-otterrific-arcade">Baseball Bout: Otterrific Arcade</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">45</td>
-            <td align="center">3</td>
-            <td align="center">11</td>
-            <td align="center">30</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13950-baseball-bout-otterrific-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13950.png"
-                            alt="Baseball Bout: Otterrific Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13950-baseball-bout-otterrific-arcade">Baseball Bout: Otterrific Arcade</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">45</td>
-            <td align="center">3</td>
-            <td align="center">11</td>
-            <td align="center">30</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13949-poker-pretty-girls-battle-texas-holdem"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13949.png"
-                            alt="Poker Pretty Girls Battle: Texas Hold&#039;em" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13949-poker-pretty-girls-battle-texas-holdem">Poker Pretty Girls Battle: Texas Ho...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13946-lovechoice"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13946.png"
-                            alt="LoveChoice" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13946-lovechoice">LoveChoice</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13945-lovechoice"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13945.png"
-                            alt="LoveChoice" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13945-lovechoice">LoveChoice</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">42 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13944-love-choice-愛の選択"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13944.png"
-                            alt="Love Choice 愛の選択" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13944-love-choice-愛の選択">Love Choice 愛の選択</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center"></td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13943-love-choice-愛の選択"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13943.png"
-                            alt="Love Choice 愛の選択" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13943-love-choice-愛の選択">Love Choice 愛の選択</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">39 min</td>
-            <td align="center"></td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13942-lovechoice"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13942.png"
-                            alt="LoveChoice" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13942-lovechoice">LoveChoice</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">37 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13941-lovechoice"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13941.png"
-                            alt="LoveChoice" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13941-lovechoice">LoveChoice</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">33 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13939-oktoberfest-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13939.png"
-                            alt="Oktoberfest Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13939-oktoberfest-break">Oktoberfest Break</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">27</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13937-a-day-without-me"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13937.png"
-                            alt="A Day Without Me" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13937-a-day-without-me">A Day Without Me</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13935-a-day-without-me"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13935.png"
-                            alt="A Day Without Me" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13935-a-day-without-me">A Day Without Me</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">17 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13931-oktoberfest-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13931.png"
-                            alt="Oktoberfest Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13931-oktoberfest-break">Oktoberfest Break</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">27</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13929-highschool-romance"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13929.png"
-                            alt="Highschool Romance" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13929-highschool-romance">Highschool Romance</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€12.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13928-highschool-romance"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13928.png"
-                            alt="Highschool Romance" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13928-highschool-romance">Highschool Romance</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€12.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13927-highschool-romance"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13927.png"
-                            alt="Highschool Romance" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13927-highschool-romance">Highschool Romance</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$12.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13926-highschool-romance"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13926.png"
-                            alt="Highschool Romance" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13926-highschool-romance">Highschool Romance</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$12.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13920-poker-pretty-girls-battle-texas-holdem"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13920.png"
-                            alt="Poker Pretty Girls Battle: Texas Hold&#039;em" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13920-poker-pretty-girls-battle-texas-holdem">Poker Pretty Girls Battle: Texas Ho...</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">17 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13919-poker-pretty-girls-battle-texas-holdem"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13919.png"
-                            alt="Poker Pretty Girls Battle: Texas Hold&#039;em" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13919-poker-pretty-girls-battle-texas-holdem">Poker Pretty Girls Battle: Texas Ho...</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13918-poker-pretty-girls-battle-texas-holdem"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13918.png"
-                            alt="Poker Pretty Girls Battle: Texas Hold&#039;em" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13918-poker-pretty-girls-battle-texas-holdem">Poker Pretty Girls Battle: Texas Ho...</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">17 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

@@ -732,6 +732,22 @@
             <td align="center">1260</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23953-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23953.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23953-sokolab">Sokolab</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14161-cotton-2"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14161.png"
                             alt="Cotton 2" width="60"></a></td>
@@ -908,6 +924,22 @@
             <td align="center">1260</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23831-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23831.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23831-sokolab">Sokolab</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">25 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11289-normans-great-illusion"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11289.png"
                             alt="Norman&#039;s Great Illusion" width="60"></a></td>
@@ -988,6 +1020,38 @@
             <td align="center">1260</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23832-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23832.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23832-sokolab">Sokolab</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23833-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23833.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23833-sokolab">Sokolab</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12918-rabisco"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12918.png"
                             alt="Rabisco+" width="60"></a></td>
@@ -1033,6 +1097,22 @@
             <td align="center">9</td>
             <td align="center">3</td>
             <td align="center">4</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23829-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23829.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23829-sokolab">Sokolab</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
             <td align="center">1260</td>
         </tr>
             <tr>
@@ -1132,6 +1212,22 @@
             <td align="center">1260</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23828-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23828.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23828-sokolab">Sokolab</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/21047-loopers"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21047.png"
                             alt="Loopers" width="60"></a></td>
@@ -1145,6 +1241,22 @@
             <td align="center">6</td>
             <td align="center">14</td>
             <td align="center">0</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23947-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23947.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23947-sokolab">Sokolab</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
             <td align="center">1260</td>
         </tr>
             <tr>
@@ -1176,6 +1288,22 @@
             <td align="center">16</td>
             <td align="center">9</td>
             <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23830-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23830.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23830-sokolab">Sokolab</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
             <td align="center">2</td>
             <td align="center">1260</td>
         </tr>
@@ -1513,134 +1641,6 @@
             <td align="center">7</td>
             <td align="center">6</td>
             <td align="center">10</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20712-napoleon-maiden-episode-1-a-maiden-without-the-word-impossible"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20712.png"
-                            alt="Napoleon Maiden Episode 1: A Maiden Without the Word Impossible" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20712-napoleon-maiden-episode-1-a-maiden-without-the-word-impossible">Napoleon Maiden Episode 1: A Maiden...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$19.99</td>
-            <td align="center">19</td>
-            <td align="center">7</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12837-dragon-break-classic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12837.png"
-                            alt="Dragon Break Classic" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12837-dragon-break-classic">Dragon Break Classic</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">38</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">26</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13404-pizza-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13404.png"
-                            alt="Pizza Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13404-pizza-break">Pizza Break</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">38</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">26</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19883-napoleon-maiden-episode-1-a-maiden-without-the-word-impossible"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19883.png"
-                            alt="Napoleon Maiden Episode 1: A Maiden Without the Word Impossible" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19883-napoleon-maiden-episode-1-a-maiden-without-the-word-impossible">Napoleon Maiden Episode 1: A Maiden...</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$19.99</td>
-            <td align="center">19</td>
-            <td align="center">7</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22149-mathland"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22149.png"
-                            alt="Mathland" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22149-mathland">Mathland</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">13</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12621-easter-candy-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12621.png"
-                            alt="Easter Candy Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12621-easter-candy-break">Easter Candy Break</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">38</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">26</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10986-デスマッチラブコメ"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10986.png"
-                            alt="デスマッチラブコメ！" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10986-デスマッチラブコメ">デスマッチラブコメ！</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center"></td>
-            <td align="center">27</td>
-            <td align="center">6</td>
-            <td align="center">8</td>
-            <td align="center">12</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13566-unicorn-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13566.png"
-                            alt="Unicorn Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13566-unicorn-break">Unicorn Break</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">38</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">26</td>
             <td align="center">1260</td>
         </tr>
         </tbody>

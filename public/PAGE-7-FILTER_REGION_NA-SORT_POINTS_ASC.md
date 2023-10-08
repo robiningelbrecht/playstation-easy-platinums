@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15631-saint-patricks-day-break-2-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15631.png"
+                            alt="Saint Patrick&#039;s Day Break 2 Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15631-saint-patricks-day-break-2-head-to-head">Saint Patrick&#039;s Day Break 2 Head to...</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center"></td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17360-roll-the-cat"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17360.png"
+                            alt="Roll The Cat" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17360-roll-the-cat">Roll The Cat</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15102-queeny-army"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15102.png"
+                            alt="Queeny Army" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15102-queeny-army">Queeny Army</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13590-enter-digiton-heart-of-corruption"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13590.png"
+                            alt="Enter Digiton: Heart of Corruption" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13590-enter-digiton-heart-of-corruption">Enter Digiton: Heart of Corruption</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13582-castle-of-pixel-skulls"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13582.png"
                             alt="Castle of Pixel Skulls" width="60"></a></td>
@@ -1578,70 +1642,6 @@
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13594-dating-life-miley-x-emily"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13594.png"
-                            alt="Dating Life: Miley X Emily" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13594-dating-life-miley-x-emily">Dating Life: Miley X Emily</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15401-blackberry-honey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15401.png"
-                            alt="Blackberry Honey" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15401-blackberry-honey">Blackberry Honey</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$12.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12782-sakura-succubus"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12782.png"
-                            alt="Sakura Succubus" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12782-sakura-succubus">Sakura Succubus</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10802-fluxteria"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10802.png"
-                            alt="Fluxteria" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10802-fluxteria">Fluxteria</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">57 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
-            <td align="center">3</td>
-            <td align="center">1335</td>
         </tr>
         </tbody>
 </table>

@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14010-oktoberfest-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14010.png"
+                            alt="Oktoberfest Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14010-oktoberfest-break-head-to-head">Oktoberfest Break Head to Head</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">25 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">7</td>
+            <td align="center">29</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17800-oktoberfest-break"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17800.png"
+                            alt="Oktoberfest Break" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17800-oktoberfest-break">Oktoberfest Break</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">34 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">39</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">26</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13931-oktoberfest-break"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13931.png"
+                            alt="Oktoberfest Break" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13931-oktoberfest-break">Oktoberfest Break</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">9 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">39</td>
+            <td align="center">4</td>
+            <td align="center">7</td>
+            <td align="center">27</td>
+            <td align="center">1275</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15612-null-drifter"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15612.png"
+                            alt="Null Drifter" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15612-null-drifter">Null Drifter</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">18</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10615-null-drifter"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10615.png"
+                            alt="Null Drifter" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10615-null-drifter">Null Drifter</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">18</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14472-nowhere-girl"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14472.png"
                             alt="Nowhere Girl" width="60"></a></td>
@@ -124,12 +204,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17499-ninja-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17499.png"
+            <td><a href="https://psnprofiles.com/trophies/17557-ninja-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17557.png"
                             alt="Ninja Fun" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17499-ninja-fun">Ninja Fun</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/17557-ninja-fun">Ninja Fun</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€2.99</td>
@@ -140,12 +220,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17557-ninja-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17557.png"
+            <td><a href="https://psnprofiles.com/trophies/17499-ninja-fun"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17499.png"
                             alt="Ninja Fun" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17557-ninja-fun">Ninja Fun</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/17499-ninja-fun">Ninja Fun</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€2.99</td>
@@ -1562,86 +1642,6 @@
             <td align="center">2</td>
             <td align="center">0</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14432-lucid-cycle"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14432.png"
-                            alt="Lucid Cycle" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14432-lucid-cycle">Lucid Cycle</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">50 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14363-lucid-cycle"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14363.png"
-                            alt="Lucid Cycle" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14363-lucid-cycle">Lucid Cycle</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">47 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13946-lovechoice"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13946.png"
-                            alt="LoveChoice" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13946-lovechoice">LoveChoice</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13941-lovechoice"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13941.png"
-                            alt="LoveChoice" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13941-lovechoice">LoveChoice</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">33 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11166-lost-wing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11166.png"
-                            alt="Lost Wing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11166-lost-wing">Lost Wing</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">36 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

@@ -44,6 +44,198 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23783-rayland-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23783.png"
+                            alt="Rayland 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23783-rayland-2">Rayland 2</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">28 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19727-reckless-auto-racing"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19727.png"
+                            alt="Reckless Auto Racing" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19727-reckless-auto-racing">Reckless Auto Racing</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">59 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20545-reckless-auto-racing"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20545.png"
+                            alt="Reckless Auto Racing" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20545-reckless-auto-racing">Reckless Auto Racing</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19728-reckless-auto-racing"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19728.png"
+                            alt="Reckless Auto Racing" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19728-reckless-auto-racing">Reckless Auto Racing</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20553-reckless-auto-racing"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20553.png"
+                            alt="Reckless Auto Racing" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20553-reckless-auto-racing">Reckless Auto Racing</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19705-reckless-auto-racing-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19705.png"
+                            alt="Reckless Auto Racing 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19705-reckless-auto-racing-2">Reckless Auto Racing 2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19387-reckless-auto-racing-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19387.png"
+                            alt="Reckless Auto Racing 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19387-reckless-auto-racing-2">Reckless Auto Racing 2</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19704-reckless-auto-racing-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19704.png"
+                            alt="Reckless Auto Racing 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19704-reckless-auto-racing-2">Reckless Auto Racing 2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19386-reckless-auto-racing-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19386.png"
+                            alt="Reckless Auto Racing 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19386-reckless-auto-racing-2">Reckless Auto Racing 2</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10236-red-bow"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10236.png"
+                            alt="Red Bow" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10236-red-bow">Red Bow</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">43 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">38</td>
+            <td align="center">5</td>
+            <td align="center">8</td>
+            <td align="center">24</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10234-red-bow"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10234.png"
+                            alt="Red Bow" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10234-red-bow">Red Bow</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">40 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">38</td>
+            <td align="center">5</td>
+            <td align="center">8</td>
+            <td align="center">24</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10233-red-bow"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10233.png"
+                            alt="Red Bow" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10233-red-bow">Red Bow</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">32 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">38</td>
+            <td align="center">5</td>
+            <td align="center">8</td>
+            <td align="center">24</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15772-red-death"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15772.png"
                             alt="Red Death" width="60"></a></td>
@@ -1164,22 +1356,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18279-roar-of-revenge"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18279.png"
-                            alt="Roar of Revenge" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18279-roar-of-revenge">Roar of Revenge</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/18280-roar-of-revenge"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18280.png"
                             alt="Roar of Revenge" width="60"></a></td>
@@ -1189,6 +1365,22 @@
             </td>
             <td align="center">13 min</td>
             <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18279-roar-of-revenge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18279.png"
+                            alt="Roar of Revenge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18279-roar-of-revenge">Roar of Revenge</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$4.99</td>
             <td align="center">14</td>
             <td align="center">11</td>
             <td align="center">2</td>
@@ -1450,198 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22726-rocket-lift"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22726.png"
-                            alt="Rocket Lift" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22726-rocket-lift">Rocket Lift</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22725-rocket-lift"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22725.png"
-                            alt="Rocket Lift" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22725-rocket-lift">Rocket Lift</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22738-rocket-lift"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22738.png"
-                            alt="Rocket Lift" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22738-rocket-lift">Rocket Lift</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22739-rocket-lift"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22739.png"
-                            alt="Rocket Lift" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22739-rocket-lift">Rocket Lift</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22066-rocket-swing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22066.png"
-                            alt="Rocket Swing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22066-rocket-swing">Rocket Swing</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22044-rocket-swing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22044.png"
-                            alt="Rocket Swing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22044-rocket-swing">Rocket Swing</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22050-rocket-swing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22050.png"
-                            alt="Rocket Swing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22050-rocket-swing">Rocket Swing</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22043-rocket-swing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22043.png"
-                            alt="Rocket Swing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22043-rocket-swing">Rocket Swing</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19775-rocketio"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19775.png"
-                            alt="Rocketio" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19775-rocketio">Rocketio</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">53</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">46</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19777-rocketio"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19777.png"
-                            alt="Rocketio" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19777-rocketio">Rocketio</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">53</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">46</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19776-rocketio"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19776.png"
-                            alt="Rocketio" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19776-rocketio">Rocketio</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">53</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">46</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19774-rocketio"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19774.png"
-                            alt="Rocketio" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19774-rocketio">Rocketio</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">53</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">46</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

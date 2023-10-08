@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/22958-metadude"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22958.png"
+                            alt="MetaDude" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22958-metadude">MetaDude</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22937-metadude"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22937.png"
+                            alt="MetaDude" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22937-metadude">MetaDude</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22893-metadude"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22893.png"
+                            alt="MetaDude" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22893-metadude">MetaDude</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13290-memory-lane-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13290.png"
+                            alt="Memory Lane 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13290-memory-lane-2">Memory Lane 2</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€3.99</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">3</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14665-mastho-is-together"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14665.png"
                             alt="Mastho is Together" width="60"></a></td>
@@ -860,12 +924,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23043-drift-city"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23043.png"
+            <td><a href="https://psnprofiles.com/trophies/23101-drift-city"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23101.png"
                             alt="Drift City" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23043-drift-city">Drift City</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/23101-drift-city">Drift City</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$6.99</td>
@@ -876,12 +940,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23101-drift-city"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23101.png"
+            <td><a href="https://psnprofiles.com/trophies/23043-drift-city"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23043.png"
                             alt="Drift City" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23101-drift-city">Drift City</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/23043-drift-city">Drift City</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">4 min</td>
             <td align="center">$6.99</td>
@@ -1578,70 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15801-アイドルカフェを経営しませんか２"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15801.png"
-                            alt="アイドルカフェを経営しませんか？２" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15801-アイドルカフェを経営しませんか２">アイドルカフェを経営しませんか？２</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center"></td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20313-となりに彼女のいる幸せin-first-snow-with-her"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20313.png"
-                            alt="となりに彼女のいる幸せ～in first snow with her～" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20313-となりに彼女のいる幸せin-first-snow-with-her">となりに彼女のいる幸せ～in first snow with her～</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center"></td>
-            <td align="center">14</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15019-さくらの雲スカアレットの恋"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15019.png"
-                            alt="さくらの雲＊スカアレットの恋" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15019-さくらの雲スカアレットの恋">さくらの雲＊スカアレットの恋</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center"></td>
-            <td align="center">20</td>
-            <td align="center">8</td>
-            <td align="center">6</td>
-            <td align="center">5</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20363-zippy-the-circle-special"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20363.png"
-                            alt="Zippy the Circle Special" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20363-zippy-the-circle-special">Zippy the Circle Special</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">€9.99</td>
-            <td align="center">36</td>
-            <td align="center">5</td>
-            <td align="center">10</td>
-            <td align="center">20</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

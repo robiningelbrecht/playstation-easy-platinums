@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/19997-weben-blocks"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19997.png"
+                            alt="Weben Blocks" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19997-weben-blocks">Weben Blocks</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">18</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19441-the-whiskey-story"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19441.png"
+                            alt="The Whiskey Story" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19441-the-whiskey-story">The Whiskey Story</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">18</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15272-the-ketchup-story"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15272.png"
+                            alt="The Ketchup Story" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15272-the-ketchup-story">The Ketchup Story</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">18</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/19108-the-halloween-story"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19108.png"
                             alt="The Halloween Story" width="60"></a></td>
@@ -1588,54 +1636,6 @@
                 <kbd>PS5</kbd>
             </td>
             <td align="center">10 min</td>
-            <td align="center">$1.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22891-metadude"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22891.png"
-                            alt="MetaDude" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22891-metadude">MetaDude</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$1.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22958-metadude"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22958.png"
-                            alt="MetaDude" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22958-metadude">MetaDude</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€1.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22893-metadude"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22893.png"
-                            alt="MetaDude" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22893-metadude">MetaDude</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">4 min</td>
             <td align="center">$1.99</td>
             <td align="center">13</td>
             <td align="center">11</td>

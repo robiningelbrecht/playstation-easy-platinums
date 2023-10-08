@@ -44,6 +44,166 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13317-drunken-fist"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13317.png"
+                            alt="Drunken Fist" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13317-drunken-fist">Drunken Fist</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">6</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13312-drunken-fist"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13312.png"
+                            alt="Drunken Fist" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13312-drunken-fist">Drunken Fist</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">19 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">6</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13306-drunken-fist"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13306.png"
+                            alt="Drunken Fist" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13306-drunken-fist">Drunken Fist</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">6</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13305-drunken-fist"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13305.png"
+                            alt="Drunken Fist" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13305-drunken-fist">Drunken Fist</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">35 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">6</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12076-drunken-fist"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12076.png"
+                            alt="Drunken Fist" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12076-drunken-fist">Drunken Fist</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">58 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">6</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12030-drunken-fist"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12030.png"
+                            alt="Drunken Fist" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12030-drunken-fist">Drunken Fist</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">6</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12029-drunken-fist"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12029.png"
+                            alt="Drunken Fist" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12029-drunken-fist">Drunken Fist</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">31 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">6</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12028-drunken-fist"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12028.png"
+                            alt="Drunken Fist" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12028-drunken-fist">Drunken Fist</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">24 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">6</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16783-drunken-fist-2-zombie-hangover"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16783.png"
+                            alt="Drunken Fist 2: Zombie Hangover" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16783-drunken-fist-2-zombie-hangover">Drunken Fist 2: Zombie Hangover</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">23</td>
+            <td align="center">8</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16778-drunken-fist-2-zombie-hangover"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16778.png"
+                            alt="Drunken Fist 2: Zombie Hangover" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16778-drunken-fist-2-zombie-hangover">Drunken Fist 2: Zombie Hangover</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">23</td>
+            <td align="center">8</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16732-drunken-fist-2-zombie-hangover"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16732.png"
                             alt="Drunken Fist 2: Zombie Hangover" width="60"></a></td>
@@ -1482,166 +1642,6 @@
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13576-enter-digiton-heart-of-corruption"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13576.png"
-                            alt="Enter Digiton: Heart of Corruption" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13576-enter-digiton-heart-of-corruption">Enter Digiton: Heart of Corruption</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13575-enter-digiton-heart-of-corruption"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13575.png"
-                            alt="Enter Digiton: Heart of Corruption" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13575-enter-digiton-heart-of-corruption">Enter Digiton: Heart of Corruption</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23219-envasion"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23219.png"
-                            alt="Envasion" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23219-envasion">Envasion</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23908-eperon-defend"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23908.png"
-                            alt="Eperon Defend" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23908-eperon-defend">Eperon Defend</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23906-eperon-defend"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23906.png"
-                            alt="Eperon Defend" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23906-eperon-defend">Eperon Defend</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22402-eperon-defend"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22402.png"
-                            alt="Eperon defend" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22402-eperon-defend">Eperon defend</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19047-escape-string"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19047.png"
-                            alt="Escape String" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19047-escape-string">Escape String</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">1</td>
-            <td align="center">1335</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23583-escape-from-terror-city"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23583.png"
-                            alt="Escape from Terror City" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23583-escape-from-terror-city">Escape from Terror City</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">42 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23577-escape-from-terror-city"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23577.png"
-                            alt="Escape from Terror City" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23577-escape-from-terror-city">Escape from Terror City</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">25 min</td>
-            <td align="center">€9.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23594-escape-from-terror-city"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23594.png"
-                            alt="Escape from Terror City" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23594-escape-from-terror-city">Escape from Terror City</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

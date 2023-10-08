@@ -44,6 +44,38 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/21165-zen-pong"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21165.png"
+                            alt="Zen Pong" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21165-zen-pong">Zen Pong</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21164-zen-pong"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21164.png"
+                            alt="Zen Pong" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21164-zen-pong">Zen Pong</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13677-zj-the-ball-level-1"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13677.png"
                             alt="ZJ the Ball: Level 1" width="60"></a></td>
@@ -1228,6 +1260,22 @@
             <td align="center">1335</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/24027-steampunk-voyage"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/24027.png"
+                            alt="Steampunk Voyage" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/24027-steampunk-voyage">Steampunk Voyage</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">8</td>
+            <td align="center">4</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16523-space-kabaam-2"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16523.png"
                             alt="Space KaBAAM 2" width="60"></a></td>
@@ -1594,54 +1642,6 @@
             <td align="center">8</td>
             <td align="center">0</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20443-burrow-of-the-fallen-bear"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20443.png"
-                            alt="Burrow of the Fallen Bear" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20443-burrow-of-the-fallen-bear">Burrow of the Fallen Bear</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">€19.99</td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">8</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16103-burger-run"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16103.png"
-                            alt="Burger Run" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16103-burger-run">Burger Run</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15724-burger-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15724.png"
-                            alt="Burger Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15724-burger-break">Burger Break</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

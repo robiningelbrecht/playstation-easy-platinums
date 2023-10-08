@@ -44,6 +44,118 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18912-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18912.png"
+                            alt="Welcome to James&#039; story in the World of Our Church and Halloween (Visual Novel)" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18912-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel">Welcome to James&#039; story in the Worl...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19234-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19234.png"
+                            alt="Welcome to Scott&#039;s story in the World of Our Church and Halloween (Visual Novel)" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19234-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel">Welcome to Scott&#039;s story in the Wor...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20478-welcome-to-the-world-of-nik-and-kit"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20478.png"
+                            alt="Welcome to the World of Nik and Kit" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20478-welcome-to-the-world-of-nik-and-kit">Welcome to the World of Nik and Kit</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16343-welcome-to-the-world-of-zj-the-ball"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16343.png"
+                            alt="Welcome to the World of ZJ the Ball" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16343-welcome-to-the-world-of-zj-the-ball">Welcome to the World of ZJ the Ball</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20058-welcome-to-the-world-of-zippy-the-circle-visual-novel"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20058.png"
+                            alt="Welcome to the World of Zippy the Circle (Visual Novel)" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20058-welcome-to-the-world-of-zippy-the-circle-visual-novel">Welcome to the World of Zippy the C...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13654-whiskey-mafia-franks-story"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13654.png"
+                            alt="Whiskey Mafia: Frank&#039;s Story" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13654-whiskey-mafia-franks-story">Whiskey Mafia: Frank&#039;s Story</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">28 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14623-whiskey-mafia-leos-family"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14623.png"
+                            alt="Whiskey Mafia: Leo&#039;s Family" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14623-whiskey-mafia-leos-family">Whiskey Mafia: Leo&#039;s Family</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15973-wild-west-crops"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15973.png"
                             alt="Wild West Crops" width="60"></a></td>
@@ -122,6 +234,22 @@
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23726-wire-lips"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23726.png"
+                            alt="Wire Lips" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23726-wire-lips">Wire Lips</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">47 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/17752-witch-college-bundle"><img

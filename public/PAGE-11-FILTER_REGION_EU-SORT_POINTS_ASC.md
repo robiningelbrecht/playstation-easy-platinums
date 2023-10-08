@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16911-parasite-pack"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16911.png"
+                            alt="Parasite Pack" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16911-parasite-pack">Parasite Pack</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23058-meteor-crusher"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23058.png"
+                            alt="Meteor Crusher" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23058-meteor-crusher">Meteor Crusher</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">36</td>
+            <td align="center">0</td>
+            <td align="center">35</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19714-cronostase-electric-collection"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19714.png"
+                            alt="Cronostase Electric Collection" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19714-cronostase-electric-collection">Cronostase Electric Collection</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15221-cake-invaders"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15221.png"
+                            alt="Cake Invaders" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15221-cake-invaders">Cake Invaders</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15160-cake-invaders"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15160.png"
+                            alt="Cake Invaders" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15160-cake-invaders">Cake Invaders</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16263-the-slovak-run"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16263.png"
                             alt="The Slovak Run" width="60"></a></td>
@@ -680,6 +760,22 @@
             <td align="center">34</td>
             <td align="center">1</td>
             <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23607-rally-racing-cars-drift-mania"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23607.png"
+                            alt="Rally Racing: Cars &amp; Drift Mania" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23607-rally-racing-cars-drift-mania">Rally Racing: Cars &amp; Drift Mania</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">€9.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
             <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
@@ -1545,102 +1641,6 @@
             <td align="center">5</td>
             <td align="center">10</td>
             <td align="center">20</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19121-driverio-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19121.png"
-                            alt="Driverio 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19121-driverio-2">Driverio 2</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€1.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20917-dodge-the-ball"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20917.png"
-                            alt="Dodge the Ball" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20917-dodge-the-ball">Dodge the Ball</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20918-dodge-the-ball"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20918.png"
-                            alt="Dodge the Ball" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20918-dodge-the-ball">Dodge the Ball</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15597-disco-cannon-airlines"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15597.png"
-                            alt="Disco Cannon Airlines" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15597-disco-cannon-airlines">Disco Cannon Airlines</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22216-descending"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22216.png"
-                            alt="Descending" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22216-descending">Descending</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22225-descending"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22225.png"
-                            alt="Descending" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22225-descending">Descending</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

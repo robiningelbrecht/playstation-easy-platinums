@@ -44,6 +44,102 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14183-takorita-meets-fries"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14183.png"
+                            alt="Takorita Meets Fries" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14183-takorita-meets-fries">Takorita Meets Fries</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14182-takorita-meets-fries"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14182.png"
+                            alt="Takorita Meets Fries" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14182-takorita-meets-fries">Takorita Meets Fries</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14181-takorita-meets-fries"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14181.png"
+                            alt="Takorita Meets Fries" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14181-takorita-meets-fries">Takorita Meets Fries</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/11752-hardcube"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11752.png"
+                            alt="HardCube" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11752-hardcube">HardCube</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14186-タコリタミーツポテト"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14186.png"
+                            alt="タコリタ・ミーツ・ポテト" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14186-タコリタミーツポテト">タコリタ・ミーツ・ポテト</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14185-タコリタミーツポテト"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14185.png"
+                            alt="タコリタ・ミーツ・ポテト" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14185-タコリタミーツポテト">タコリタ・ミーツ・ポテト</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center"></td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12971-サクラサキュバス２-止まらぬ出会い"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12971.png"
                             alt="サクラ･サキュバス２ ～止まらぬ出会い～" width="60"></a></td>
@@ -1540,102 +1636,6 @@
                 <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">30 min</td>
-            <td align="center"></td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13685-heal"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13685.png"
-                            alt="Heal" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13685-heal">Heal</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">30 min</td>
-            <td align="center"></td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12744-heal"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12744.png"
-                            alt="Heal" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12744-heal">Heal</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">30 min</td>
-            <td align="center"></td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13273-loopindex"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13273.png"
-                            alt="Loopindex" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13273-loopindex">Loopindex</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12742-heal"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12742.png"
-                            alt="Heal" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12742-heal">Heal</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center"></td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13272-loopindex"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13272.png"
-                            alt="Loopindex" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13272-loopindex">Loopindex</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">28 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12741-heal"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12741.png"
-                            alt="Heal" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12741-heal">Heal</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">28 min</td>
             <td align="center"></td>
             <td align="center">15</td>
             <td align="center">11</td>

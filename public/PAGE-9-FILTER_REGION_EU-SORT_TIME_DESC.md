@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/8920-metagal"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8920.png"
+                            alt="Metagal" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/8920-metagal">Metagal</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15474-mages-and-treasures"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15474.png"
+                            alt="Mages and Treasures" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15474-mages-and-treasures">Mages and Treasures</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16616-legend-of-arcadieu-bundle"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16616.png"
+                            alt="Legend of Arcadieu Bundle" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16616-legend-of-arcadieu-bundle">Legend of Arcadieu Bundle</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">27</td>
+            <td align="center">5</td>
+            <td align="center">19</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13576-enter-digiton-heart-of-corruption"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13576.png"
+                            alt="Enter Digiton: Heart of Corruption" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13576-enter-digiton-heart-of-corruption">Enter Digiton: Heart of Corruption</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">€7.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/17162-dungeon-slime-collection"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17162.png"
                             alt="Dungeon Slime Collection" width="60"></a></td>
@@ -440,6 +504,22 @@
             <td align="center">34</td>
             <td align="center">1</td>
             <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23607-rally-racing-cars-drift-mania"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23607.png"
+                            alt="Rally Racing: Cars &amp; Drift Mania" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23607-rally-racing-cars-drift-mania">Rally Racing: Cars &amp; Drift Mania</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">€9.99</td>
+            <td align="center">22</td>
+            <td align="center">7</td>
+            <td align="center">14</td>
             <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
@@ -970,6 +1050,22 @@
             <td align="center">7</td>
             <td align="center">25</td>
             <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/24027-steampunk-voyage"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/24027.png"
+                            alt="Steampunk Voyage" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/24027-steampunk-voyage">Steampunk Voyage</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">8</td>
+            <td align="center">4</td>
+            <td align="center">1320</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/16523-space-kabaam-2"><img
@@ -1546,102 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21165-zen-pong"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21165.png"
-                            alt="Zen Pong" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21165-zen-pong">Zen Pong</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21164-zen-pong"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21164.png"
-                            alt="Zen Pong" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21164-zen-pong">Zen Pong</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13677-zj-the-ball-level-1"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13677.png"
-                            alt="ZJ the Ball: Level 1" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13677-zj-the-ball-level-1">ZJ the Ball: Level 1</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15095-zj-the-ball-challenge-level-4c"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15095.png"
-                            alt="ZJ the Ball Challenge: Level 4C" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15095-zj-the-ball-challenge-level-4c">ZJ the Ball Challenge: Level 4C</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15862-vengeful-heart"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15862.png"
-                            alt="Vengeful Heart" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15862-vengeful-heart">Vengeful Heart</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€9.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21707-try-to-fit"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21707.png"
-                            alt="Try to Fit" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21707-try-to-fit">Try to Fit</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

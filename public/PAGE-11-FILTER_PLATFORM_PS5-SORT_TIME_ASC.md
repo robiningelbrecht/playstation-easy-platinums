@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16894-squad-killer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16894.png"
+                            alt="Squad Killer" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16894-squad-killer">Squad Killer</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15935-space-break"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15935.png"
+                            alt="Space Break" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15935-space-break">Space Break</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">38</td>
+            <td align="center">4</td>
+            <td align="center">7</td>
+            <td align="center">26</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12838-skatemasta-tcheco"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12838.png"
+                            alt="Skatemasta Tcheco" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12838-skatemasta-tcheco">Skatemasta Tcheco</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12828-skatemasta-tcheco"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12828.png"
                             alt="Skatemasta Tcheco" width="60"></a></td>
@@ -300,12 +348,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23439-fly-the-plane"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23439.png"
+            <td><a href="https://psnprofiles.com/trophies/23434-fly-the-plane"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23434.png"
                             alt="Fly the Plane" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23439-fly-the-plane">Fly the Plane</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/23434-fly-the-plane">Fly the Plane</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">8 min</td>
             <td align="center">$1.49</td>
@@ -316,12 +364,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/23434-fly-the-plane"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23434.png"
+            <td><a href="https://psnprofiles.com/trophies/23439-fly-the-plane"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23439.png"
                             alt="Fly the Plane" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/23434-fly-the-plane">Fly the Plane</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/23439-fly-the-plane">Fly the Plane</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">8 min</td>
             <td align="center">$1.49</td>
@@ -1594,54 +1642,6 @@
             <td align="center">7</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14296-crazy-gravity"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14296.png"
-                            alt="Crazy Gravity" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14296-crazy-gravity">Crazy Gravity</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22681-casino-roulette-royal"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22681.png"
-                            alt="Casino Roulette Royal" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22681-casino-roulette-royal">Casino Roulette Royal</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15160-cake-invaders"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15160.png"
-                            alt="Cake Invaders" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15160-cake-invaders">Cake Invaders</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

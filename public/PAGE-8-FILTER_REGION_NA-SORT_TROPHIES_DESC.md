@@ -44,6 +44,102 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13700-rogue-explorer"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13700.png"
+                            alt="Rogue Explorer" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13700-rogue-explorer">Rogue Explorer</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">21 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12560-one-escape"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12560.png"
+                            alt="One Escape" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12560-one-escape">One Escape</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10399-knightin"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10399.png"
+                            alt="Knightin&#039;+" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10399-knightin">Knightin&#039;+</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13017-hentai-vs-evil"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13017.png"
+                            alt="Hentai vs. Evil" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13017-hentai-vs-evil">Hentai vs. Evil</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15199-jack-n-hat"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15199.png"
+                            alt="Jack &#039;n&#039; Hat" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15199-jack-n-hat">Jack &#039;n&#039; Hat</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">19 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">16</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12549-hellbreachers"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12549.png"
+                            alt="Hellbreachers" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12549-hellbreachers">Hellbreachers</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11032-clash-force"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11032.png"
                             alt="Clash Force" width="60"></a></td>
@@ -1541,102 +1637,6 @@
             </td>
             <td align="center">47 min</td>
             <td align="center">$7.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17101-long-live-the-queen"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17101.png"
-                            alt="Long Live The Queen" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17101-long-live-the-queen">Long Live The Queen</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">47 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17723-back-again"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17723.png"
-                            alt="Back Again" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17723-back-again">Back Again</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">46 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16248-chefy-chef"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16248.png"
-                            alt="Chefy-Chef" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16248-chefy-chef">Chefy-Chef</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">41 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20544-salamander-county-public-television"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20544.png"
-                            alt="Salamander County Public Television" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20544-salamander-county-public-television">Salamander County Public Television</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">40 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13880-virtuous-western"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13880.png"
-                            alt="Virtuous Western" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13880-virtuous-western">Virtuous Western</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15671-retro-pixel-racers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15671.png"
-                            alt="Retro Pixel Racers" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15671-retro-pixel-racers">Retro Pixel Racers</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center">$4.99</td>
             <td align="center">14</td>
             <td align="center">11</td>
             <td align="center">2</td>

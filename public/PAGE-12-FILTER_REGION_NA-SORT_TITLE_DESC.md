@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/9848-deep-space-rush"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9848.png"
+                            alt="Deep Space Rush" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9848-deep-space-rush">Deep Space Rush</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">11 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17871-decaylore"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17871.png"
+                            alt="DecayLore" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17871-decaylore">DecayLore</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">46</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">39</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19602-dead-station"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19602.png"
+                            alt="Dead Station" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19602-dead-station">Dead Station</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">23</td>
+            <td align="center">7</td>
+            <td align="center">13</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13600-dating-life-miley-x-emily"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13600.png"
+                            alt="Dating Life: Miley X Emily" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13600-dating-life-miley-x-emily">Dating Life: Miley X Emily</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13594-dating-life-miley-x-emily"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13594.png"
                             alt="Dating Life: Miley X Emily" width="60"></a></td>
@@ -185,6 +249,22 @@
             <td align="center">7</td>
             <td align="center">14</td>
             <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23850-cyber-citizen-shockman-2-a-new-menace"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23850.png"
+                            alt="Cyber Citizen Shockman 2: A New Menace" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23850-cyber-citizen-shockman-2-a-new-menace">Cyber Citizen Shockman 2: A New Men...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">26 min</td>
+            <td align="center"></td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
             <td align="center">1350</td>
         </tr>
             <tr>
@@ -1372,12 +1452,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19550.png"
+            <td><a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19553.png"
                             alt="Caravan Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro">Caravan Journey: Nitro</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro">Caravan Journey: Nitro</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -1388,12 +1468,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19553.png"
+            <td><a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19550.png"
                             alt="Caravan Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro">Caravan Journey: Nitro</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro">Caravan Journey: Nitro</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -1562,86 +1642,6 @@
             <td align="center">16</td>
             <td align="center">14</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12615-c14-dating"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12615.png"
-                            alt="C14 Dating" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12615-c14-dating">C14 Dating</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">32 min</td>
-            <td align="center">$19.98</td>
-            <td align="center">35</td>
-            <td align="center">4</td>
-            <td align="center">16</td>
-            <td align="center">14</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16126-burger-run"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16126.png"
-                            alt="Burger Run" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16126-burger-run">Burger Run</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16080-burger-run"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16080.png"
-                            alt="Burger Run" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16080-burger-run">Burger Run</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16730-burger-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16730.png"
-                            alt="Burger Fun" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16730-burger-fun">Burger Fun</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16673-burger-fun"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16673.png"
-                            alt="Burger Fun" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16673-burger-fun">Burger Fun</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
         </tr>
         </tbody>
 </table>

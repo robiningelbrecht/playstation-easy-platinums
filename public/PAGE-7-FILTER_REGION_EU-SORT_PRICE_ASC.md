@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/7868-tetras-escape"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7868.png"
+                            alt="Tetra&#039;s Escape" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/7868-tetras-escape">Tetra&#039;s Escape</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">22</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10571-duck-souls"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10571.png"
+                            alt="Duck Souls+" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10571-duck-souls">Duck Souls+</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">25 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">22</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14917-a-year-of-springs"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14917.png"
+                            alt="A Year of Springs" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14917-a-year-of-springs">A Year of Springs</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">22</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14911-a-year-of-springs"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14911.png"
+                            alt="A Year of Springs" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14911-a-year-of-springs">A Year of Springs</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">22</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/9221-cybarian-the-time-travelling-warrior"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9221.png"
                             alt="Cybarian: The Time Travelling Warrior" width="60"></a></td>
@@ -796,6 +860,38 @@
             <td align="center">1275</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23832-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23832.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23832-sokolab">Sokolab</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23830-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23830.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23830-sokolab">Sokolab</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11627-crosskrush"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11627.png"
                             alt="CrossKrush" width="60"></a></td>
@@ -1546,102 +1642,6 @@
             <td align="center">1</td>
             <td align="center">2</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10034-foxyland"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10034.png"
-                            alt="FoxyLand" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10034-foxyland">FoxyLand</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14407-reminiscence-in-the-night"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14407.png"
-                            alt="Reminiscence in the Night" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14407-reminiscence-in-the-night">Reminiscence in the Night</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14406-reminiscence-in-the-night"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14406.png"
-                            alt="Reminiscence in the Night" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14406-reminiscence-in-the-night">Reminiscence in the Night</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">15</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21510-runbean-galactic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21510.png"
-                            alt="RunBean Galactic" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21510-runbean-galactic">RunBean Galactic</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">15 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21606-runbean-galactic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21606.png"
-                            alt="RunBean Galactic" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21606-runbean-galactic">RunBean Galactic</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">15 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16122-many-faces"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16122.png"
-                            alt="Many Faces" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16122-many-faces">Many Faces</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

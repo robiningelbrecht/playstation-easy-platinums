@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16692-drunken-fist-2-zombie-hangover"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16692.png"
+                            alt="Drunken Fist 2: Zombie Hangover" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16692-drunken-fist-2-zombie-hangover">Drunken Fist 2: Zombie Hangover</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">32 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">23</td>
+            <td align="center">8</td>
+            <td align="center">8</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/19573-cubic-lines"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19573.png"
                             alt="Cubic Lines" width="60"></a></td>
@@ -250,6 +266,22 @@
             <td align="center">20</td>
             <td align="center">11</td>
             <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23953-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23953.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23953-sokolab">Sokolab</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/12278-how-to-take-off-your-mask"><img
@@ -1244,6 +1276,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23829-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23829.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23829-sokolab">Sokolab</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">22 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13696-rogue-explorer"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13696.png"
                             alt="Rogue Explorer" width="60"></a></td>
@@ -1594,54 +1642,6 @@
             <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15530-pretty-girls-breakers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15530.png"
-                            alt="Pretty Girls Breakers!" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15530-pretty-girls-breakers">Pretty Girls Breakers!</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">20 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12675-one-escape"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12675.png"
-                            alt="One Escape" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12675-one-escape">One Escape</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">20 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15611-null-drifter"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15611.png"
-                            alt="Null Drifter" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15611-null-drifter">Null Drifter</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">20 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

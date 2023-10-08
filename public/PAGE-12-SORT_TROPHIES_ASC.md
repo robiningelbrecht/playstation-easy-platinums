@@ -44,6 +44,102 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14748-drizzlepath-deja-vu"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14748.png"
+                            alt="Drizzlepath: Deja Vu" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14748-drizzlepath-deja-vu">Drizzlepath: Deja Vu</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">$4.19</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14746-drizzlepath-deja-vu"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14746.png"
+                            alt="Drizzlepath: Deja Vu" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14746-drizzlepath-deja-vu">Drizzlepath: Deja Vu</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">€4.19</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14667-drizzlepath-deja-vu"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14667.png"
+                            alt="Drizzlepath: Deja Vu" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14667-drizzlepath-deja-vu">Drizzlepath: Deja Vu</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">€4.19</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13627-crimson-spires"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13627.png"
+                            alt="Crimson Spires" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13627-crimson-spires">Crimson Spires</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">$19.98</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22041-color-pals"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22041.png"
+                            alt="Color Pals" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22041-color-pals">Color Pals</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18323-bunny-reversi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18323.png"
+                            alt="Bunny Reversi" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18323-bunny-reversi">Bunny Reversi</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15028-0-degrees"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15028.png"
                             alt="0 Degrees" width="60"></a></td>
@@ -1541,102 +1637,6 @@
             </td>
             <td align="center">17 min</td>
             <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10207-without-escape"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10207.png"
-                            alt="Without Escape" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10207-without-escape">Without Escape</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17981-wind-of-shuriken"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17981.png"
-                            alt="Wind of Shuriken" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17981-wind-of-shuriken">Wind of Shuriken</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17363-roll-the-cat"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17363.png"
-                            alt="Roll The Cat" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17363-roll-the-cat">Roll The Cat</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23006-otoko-cross-pretty-boys-breakup"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23006.png"
-                            alt="Otoko Cross: Pretty Boys Breakup!" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23006-otoko-cross-pretty-boys-breakup">Otoko Cross: Pretty Boys Breakup!</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15128-kansei-the-second-turn"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15128.png"
-                            alt="Kansei: The Second Turn" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15128-kansei-the-second-turn">Kansei: The Second Turn</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center"></td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15132-kansei-豪邸殺人事件"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15132.png"
-                            alt="Kansei ～豪邸殺人事件～" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15132-kansei-豪邸殺人事件">Kansei ～豪邸殺人事件～</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center"></td>
             <td align="center">13</td>
             <td align="center">11</td>
             <td align="center">1</td>

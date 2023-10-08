@@ -12,7 +12,7 @@
 </p>
 
 ------
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 <kbd>Region</kbd> : <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_TITLE_DESC.md">All</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_AS-SORT_TITLE_DESC.md">AS</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_CN-SORT_TITLE_DESC.md">CN</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_EU-SORT_TITLE_DESC.md">EU</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_HK-SORT_TITLE_DESC.md">HK</a></kbd> | <kbd>JP</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_KR-SORT_TITLE_DESC.md">KR</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_NA-SORT_TITLE_DESC.md">NA</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_RR-SORT_TITLE_DESC.md">RR</a></kbd>
                                                                                                                                                                                             
 <kbd>Platform</kbd> : <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_TITLE_DESC.md">All</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_PLATFORM_PS4-SORT_TITLE_DESC.md">PS4</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_PLATFORM_PS5-SORT_TITLE_DESC.md">PS5</a></kbd>
@@ -20,7 +20,7 @@
 ------
 
 <p align="center">
-    <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_JP-SORT_TITLE_DESC.md">1</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_TITLE_DESC.md">2</a></kbd> | <kbd>3</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-4-FILTER_REGION_JP-SORT_TITLE_DESC.md">4</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-5-FILTER_REGION_JP-SORT_TITLE_DESC.md">5</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6-FILTER_REGION_JP-SORT_TITLE_DESC.md">6</a></kbd>
+    <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_JP-SORT_TITLE_DESC.md">1</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_TITLE_DESC.md">2</a></kbd> | <kbd>3</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-4-FILTER_REGION_JP-SORT_TITLE_DESC.md">4</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-5-FILTER_REGION_JP-SORT_TITLE_DESC.md">5</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6-FILTER_REGION_JP-SORT_TITLE_DESC.md">6</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-7-FILTER_REGION_JP-SORT_TITLE_DESC.md">7</a></kbd>
 </p>
 
 <table>
@@ -60,12 +60,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19920-the-jumping-noodles"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19920.png"
+            <td><a href="https://psnprofiles.com/trophies/19962-the-jumping-noodles"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19962.png"
                             alt="The Jumping Noodles" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19920-the-jumping-noodles">The Jumping Noodles</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/19962-the-jumping-noodles">The Jumping Noodles</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -76,12 +76,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19962-the-jumping-noodles"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19962.png"
+            <td><a href="https://psnprofiles.com/trophies/19920-the-jumping-noodles"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19920.png"
                             alt="The Jumping Noodles" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19962-the-jumping-noodles">The Jumping Noodles</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/19920-the-jumping-noodles">The Jumping Noodles</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -252,12 +252,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18923-the-jumping-hot-dog"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18923.png"
+            <td><a href="https://psnprofiles.com/trophies/18806-the-jumping-hot-dog"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18806.png"
                             alt="The Jumping Hot Dog" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18923-the-jumping-hot-dog">The Jumping Hot Dog</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/18806-the-jumping-hot-dog">The Jumping Hot Dog</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -268,12 +268,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18806-the-jumping-hot-dog"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18806.png"
+            <td><a href="https://psnprofiles.com/trophies/18923-the-jumping-hot-dog"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18923.png"
                             alt="The Jumping Hot Dog" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18806-the-jumping-hot-dog">The Jumping Hot Dog</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/18923-the-jumping-hot-dog">The Jumping Hot Dog</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -364,12 +364,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20389-the-jumping-coffee"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20389.png"
+            <td><a href="https://psnprofiles.com/trophies/20418-the-jumping-coffee"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20418.png"
                             alt="The Jumping Coffee" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20389-the-jumping-coffee">The Jumping Coffee</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20418-the-jumping-coffee">The Jumping Coffee</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -380,12 +380,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20418-the-jumping-coffee"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20418.png"
+            <td><a href="https://psnprofiles.com/trophies/20389-the-jumping-coffee"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20389.png"
                             alt="The Jumping Coffee" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20418-the-jumping-coffee">The Jumping Coffee</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20389-the-jumping-coffee">The Jumping Coffee</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -796,12 +796,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20648-the-dog-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20648.png"
+            <td><a href="https://psnprofiles.com/trophies/20622-the-dog-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20622.png"
                             alt="The Dog Quiz" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20648-the-dog-quiz">The Dog Quiz</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20622-the-dog-quiz">The Dog Quiz</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -812,12 +812,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20622-the-dog-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20622.png"
+            <td><a href="https://psnprofiles.com/trophies/20648-the-dog-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20648.png"
                             alt="The Dog Quiz" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20622-the-dog-quiz">The Dog Quiz</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20648-the-dog-quiz">The Dog Quiz</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -860,12 +860,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20439-the-cricket-c"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20439.png"
+            <td><a href="https://psnprofiles.com/trophies/20440-the-cricket-c"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20440.png"
                             alt="The Cricket C" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20439-the-cricket-c">The Cricket C</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20440-the-cricket-c">The Cricket C</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -876,12 +876,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20440-the-cricket-c"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20440.png"
+            <td><a href="https://psnprofiles.com/trophies/20439-the-cricket-c"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20439.png"
                             alt="The Cricket C" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20440-the-cricket-c">The Cricket C</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20439-the-cricket-c">The Cricket C</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>
@@ -924,12 +924,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20304-the-burger-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20304.png"
+            <td><a href="https://psnprofiles.com/trophies/20305-the-burger-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20305.png"
                             alt="The Burger Quiz" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20304-the-burger-quiz">The Burger Quiz</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20305-the-burger-quiz">The Burger Quiz</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -940,12 +940,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20305-the-burger-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20305.png"
+            <td><a href="https://psnprofiles.com/trophies/20304-the-burger-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20304.png"
                             alt="The Burger Quiz" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20305-the-burger-quiz">The Burger Quiz</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20304-the-burger-quiz">The Burger Quiz</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1020,12 +1020,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18825-the-basketball-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18825.png"
+            <td><a href="https://psnprofiles.com/trophies/18835-the-basketball-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18835.png"
                             alt="The Basketball Quiz" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18825-the-basketball-quiz">The Basketball Quiz</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/18835-the-basketball-quiz">The Basketball Quiz</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1036,12 +1036,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18835-the-basketball-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18835.png"
+            <td><a href="https://psnprofiles.com/trophies/18825-the-basketball-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18825.png"
                             alt="The Basketball Quiz" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18835-the-basketball-quiz">The Basketball Quiz</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/18825-the-basketball-quiz">The Basketball Quiz</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1260,22 +1260,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19718-stroke-the-snake"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19718.png"
-                            alt="Stroke The Snake" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19718-stroke-the-snake">Stroke The Snake</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/19717-stroke-the-snake"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19717.png"
                             alt="Stroke The Snake" width="60"></a></td>
@@ -1292,11 +1276,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20082-stroke-the-rabbit"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20082.png"
-                            alt="Stroke The Rabbit" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/19718-stroke-the-snake"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19718.png"
+                            alt="Stroke The Snake" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20082-stroke-the-rabbit">Stroke The Rabbit</a>
+                <a href="https://psnprofiles.com/trophies/19718-stroke-the-snake">Stroke The Snake</a>
                 <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">2 min</td>
@@ -1314,6 +1298,22 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/20081-stroke-the-rabbit">Stroke The Rabbit</a>
                 <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20082-stroke-the-rabbit"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20082.png"
+                            alt="Stroke The Rabbit" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20082-stroke-the-rabbit">Stroke The Rabbit</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$3.99</td>
@@ -1388,12 +1388,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20080-stroke-the-fish"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20080.png"
+            <td><a href="https://psnprofiles.com/trophies/20083-stroke-the-fish"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20083.png"
                             alt="Stroke The Fish" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20080-stroke-the-fish">Stroke The Fish</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20083-stroke-the-fish">Stroke The Fish</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$3.99</td>
@@ -1404,12 +1404,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20083-stroke-the-fish"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20083.png"
+            <td><a href="https://psnprofiles.com/trophies/20080-stroke-the-fish"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20080.png"
                             alt="Stroke The Fish" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20083-stroke-the-fish">Stroke The Fish</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/20080-stroke-the-fish">Stroke The Fish</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$3.99</td>
@@ -1646,5 +1646,5 @@
         </tbody>
 </table>
 <p align="center">
-    <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_JP-SORT_TITLE_DESC.md">1</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_TITLE_DESC.md">2</a></kbd> | <kbd>3</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-4-FILTER_REGION_JP-SORT_TITLE_DESC.md">4</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-5-FILTER_REGION_JP-SORT_TITLE_DESC.md">5</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6-FILTER_REGION_JP-SORT_TITLE_DESC.md">6</a></kbd>
+    <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_JP-SORT_TITLE_DESC.md">1</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_TITLE_DESC.md">2</a></kbd> | <kbd>3</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-4-FILTER_REGION_JP-SORT_TITLE_DESC.md">4</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-5-FILTER_REGION_JP-SORT_TITLE_DESC.md">5</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6-FILTER_REGION_JP-SORT_TITLE_DESC.md">6</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-7-FILTER_REGION_JP-SORT_TITLE_DESC.md">7</a></kbd>
 </p>

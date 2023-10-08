@@ -44,6 +44,134 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13874-bishoujo-battle-cyber-panic"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13874.png"
+                            alt="Bishoujo Battle Cyber Panic!" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13874-bishoujo-battle-cyber-panic">Bishoujo Battle Cyber Panic!</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">33 min</td>
+            <td align="center">$3.59</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13861-glo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13861.png"
+                            alt="GLO" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13861-glo">GLO</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13838-zj-the-ball-level-3"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13838.png"
+                            alt="ZJ the Ball: Level 3" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13838-zj-the-ball-level-3">ZJ the Ball: Level 3</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13832-horror-break"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13832.png"
+                            alt="Horror Break" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13832-horror-break">Horror Break</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">9 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">38</td>
+            <td align="center">4</td>
+            <td align="center">7</td>
+            <td align="center">26</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13830-one-eyed-lee-and-the-dinner-party"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13830.png"
+                            alt="One-Eyed Lee and the Dinner Party" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13830-one-eyed-lee-and-the-dinner-party">One-Eyed Lee and the Dinner Party</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13823-witch-hunter"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13823.png"
+                            alt="Witch Hunter" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13823-witch-hunter">Witch Hunter</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">60 min</td>
+            <td align="center">$8.99</td>
+            <td align="center">14</td>
+            <td align="center">10</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13780-one-eyed-lee-and-the-dinner-party"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13780.png"
+                            alt="One-Eyed Lee and the Dinner Party" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13780-one-eyed-lee-and-the-dinner-party">One-Eyed Lee and the Dinner Party</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">37 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13773-poker-pretty-girls-battle-fantasy-world-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13773.png"
+                            alt="Poker Pretty Girls Battle: Fantasy World Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13773-poker-pretty-girls-battle-fantasy-world-edition">Poker Pretty Girls Battle: Fantasy ...</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">$3.59</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13768-akinofa"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13768.png"
                             alt="Akinofa" width="60"></a></td>
@@ -1514,134 +1642,6 @@
             <td align="center">7</td>
             <td align="center">28</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13149-farm-frenzy-refreshed"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13149.png"
-                            alt="Farm Frenzy: Refreshed" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13149-farm-frenzy-refreshed">Farm Frenzy: Refreshed</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">32 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">19</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">4</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13146-pretty-girls-klondike-solitaire"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13146.png"
-                            alt="Pretty Girls Klondike Solitaire" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13146-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">31 min</td>
-            <td align="center">$3.59</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13136-pretty-girls-klondike-solitaire"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13136.png"
-                            alt="Pretty Girls Klondike Solitaire" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13136-pretty-girls-klondike-solitaire">Pretty Girls Klondike Solitaire</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">31 min</td>
-            <td align="center">$3.59</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13118-maze-pedestal-of-trials"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13118.png"
-                            alt="Maze: Pedestal of Trials" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13118-maze-pedestal-of-trials">Maze: Pedestal of Trials</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">25 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">25</td>
-            <td align="center">8</td>
-            <td align="center">6</td>
-            <td align="center">10</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13106-promesa"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13106.png"
-                            alt="Promesa" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13106-promesa">Promesa</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">31 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">24</td>
-            <td align="center">7</td>
-            <td align="center">6</td>
-            <td align="center">10</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13103-donuts-n-justice"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13103.png"
-                            alt="Donuts &#039;n&#039; Justice" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13103-donuts-n-justice">Donuts &#039;n&#039; Justice</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">15 min</td>
-            <td align="center"></td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13102-track-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13102.png"
-                            alt="Track: Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13102-track-breakthrough-gaming-arcade">Track: Breakthrough Gaming Arcade</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13084-paradox-error"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13084.png"
-                            alt="Paradox Error" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13084-paradox-error">Paradox Error</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">$1.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

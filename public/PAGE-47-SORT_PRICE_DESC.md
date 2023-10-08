@@ -44,6 +44,310 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15927-soccer-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15927.png"
+                            alt="Soccer: Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15927-soccer-breakthrough-gaming-arcade">Soccer: Breakthrough Gaming Arcade</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17778-skateboarding-special-2022-edition-for-north-and-south-america-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17778.png"
+                            alt="Skateboarding (Special 2022 Edition for North and South America): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17778-skateboarding-special-2022-edition-for-north-and-south-america-breakthrough-gaming-arcade">Skateboarding (Special 2022 Edition...</a>
+                <kbd>PS4 • RR</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20359-santa-claus-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20359.png"
+                            alt="Santa Claus - Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20359-santa-claus-breakthrough-gaming-arcade">Santa Claus - Breakthrough Gaming A...</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16667-rock-paper-scissors-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16667.png"
+                            alt="Rock Paper Scissors (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16667-rock-paper-scissors-challenge-mode-edition-breakthrough-gaming-arcade">Rock Paper Scissors (Challenge Mode...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16665-rock-paper-scissors-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16665.png"
+                            alt="Rock Paper Scissors (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16665-rock-paper-scissors-challenge-mode-edition-breakthrough-gaming-arcade">Rock Paper Scissors (Challenge Mode...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14872-racing-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14872.png"
+                            alt="Racing (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14872-racing-challenge-mode-edition-breakthrough-gaming-arcade">Racing (Challenge Mode Edition): Br...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14871-racing-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14871.png"
+                            alt="Racing (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14871-racing-challenge-mode-edition-breakthrough-gaming-arcade">Racing (Challenge Mode Edition): Br...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15356-pinball-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15356.png"
+                            alt="Pinball: Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15356-pinball-breakthrough-gaming-arcade">Pinball: Breakthrough Gaming Arcade</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15354-pinball-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15354.png"
+                            alt="Pinball: Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15354-pinball-breakthrough-gaming-arcade">Pinball: Breakthrough Gaming Arcade</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16998-pinball-machine-1-our-church-and-halloween-rpg"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16998.png"
+                            alt="Pinball (Machine #1): Our Church and Halloween RPG" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16998-pinball-machine-1-our-church-and-halloween-rpg">Pinball (Machine #1): Our Church an...</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16506-pinball-2-player-cooperation-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16506.png"
+                            alt="Pinball (2 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16506-pinball-2-player-cooperation-edition-breakthrough-gaming-arcade">Pinball (2 Player Cooperation Editi...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14926-catch-the-bowling-balls-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14926.png"
+                            alt="Catch the Bowling Balls (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14926-catch-the-bowling-balls-challenge-mode-edition-breakthrough-gaming-arcade">Catch the Bowling Balls (Challenge ...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14925-catch-the-bowling-balls-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14925.png"
+                            alt="Catch the Bowling Balls (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14925-catch-the-bowling-balls-challenge-mode-edition-breakthrough-gaming-arcade">Catch the Bowling Balls (Challenge ...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15483-bowling-story-three-mark-version-project-summer-ice"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15483.png"
+                            alt="Bowling: Story Three (Mark Version) - Project: Summer Ice" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15483-bowling-story-three-mark-version-project-summer-ice">Bowling: Story Three (Mark Version)...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15478-bowling-story-three-mark-version-project-summer-ice"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15478.png"
+                            alt="Bowling: Story Three (Mark Version) - Project: Summer Ice" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15478-bowling-story-three-mark-version-project-summer-ice">Bowling: Story Three (Mark Version)...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13568-bowling-story-three-jane-version-project-summer-ice"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13568.png"
+                            alt="Bowling: Story Three (Jane Version) - Project: Summer Ice" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13568-bowling-story-three-jane-version-project-summer-ice">Bowling: Story Three (Jane Version)...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13567-bowling-story-three-jane-version-project-summer-ice"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13567.png"
+                            alt="Bowling: Story Three (Jane Version) - Project: Summer Ice" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13567-bowling-story-three-jane-version-project-summer-ice">Bowling: Story Three (Jane Version)...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16578-basketball-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16578.png"
+                            alt="Basketball: Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16578-basketball-breakthrough-gaming-arcade">Basketball: Breakthrough Gaming Arc...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13226-baseball-challenge-mode-edition-breakthrough-gaming-arcade"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13226.png"
+                            alt="Baseball (Challenge Mode Edition): Breakthrough Gaming Arcade" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13226-baseball-challenge-mode-edition-breakthrough-gaming-arcade">Baseball (Challenge Mode Edition): ...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/23315-black-death-a-tragic-dirge"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23315.png"
                             alt="Black Death: A Tragic Dirge" width="60"></a></td>
@@ -1338,310 +1642,6 @@
             <td align="center">3</td>
             <td align="center">13</td>
             <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9037-murder-detective-jack-the-ripper"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9037.png"
-                            alt="Murder Detective: Jack the Ripper" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9037-murder-detective-jack-the-ripper">Murder Detective: Jack the Ripper</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center"></td>
-            <td align="center">25</td>
-            <td align="center">7</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20775-ハルキス"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20775.png"
-                            alt="ハルキス" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20775-ハルキス">ハルキス</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">7 min</td>
-            <td align="center"></td>
-            <td align="center">25</td>
-            <td align="center">7</td>
-            <td align="center">5</td>
-            <td align="center">12</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/7775-chaoschild-러브-chuchu"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7775.png"
-                            alt="Chaos;Child 러브 CHU☆CHU!!" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/7775-chaoschild-러브-chuchu">Chaos;Child 러브 CHU☆CHU!!</a>
-                <kbd>PS4 • KR</kbd>
-            </td>
-            <td align="center">58 min</td>
-            <td align="center"></td>
-            <td align="center">24</td>
-            <td align="center">8</td>
-            <td align="center">7</td>
-            <td align="center">8</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13797-神様のような君へ"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13797.png"
-                            alt="神様のような君へ" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13797-神様のような君へ">神様のような君へ</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center"></td>
-            <td align="center">24</td>
-            <td align="center">8</td>
-            <td align="center">7</td>
-            <td align="center">8</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11127-jump-step-step"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11127.png"
-                            alt="Jump Step Step" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11127-jump-step-step">Jump Step Step</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">43 min</td>
-            <td align="center"></td>
-            <td align="center">24</td>
-            <td align="center">7</td>
-            <td align="center">10</td>
-            <td align="center">6</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11192-夜灯す"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11192.png"
-                            alt="夜、灯す" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11192-夜灯す">夜、灯す</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">23 min</td>
-            <td align="center"></td>
-            <td align="center">24</td>
-            <td align="center">5</td>
-            <td align="center">18</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21974-イハナシの魔女"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21974.png"
-                            alt="イハナシの魔女" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21974-イハナシの魔女">イハナシの魔女</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">48 min</td>
-            <td align="center"></td>
-            <td align="center">24</td>
-            <td align="center">5</td>
-            <td align="center">17</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18984-dc4-fortunate-departures"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18984.png"
-                            alt="D.C.4 Fortunate Departures" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18984-dc4-fortunate-departures">D.C.4 Fortunate Departures</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">29 min</td>
-            <td align="center"></td>
-            <td align="center">24</td>
-            <td align="center">7</td>
-            <td align="center">7</td>
-            <td align="center">9</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21993-イハナシの魔女"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21993.png"
-                            alt="イハナシの魔女" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21993-イハナシの魔女">イハナシの魔女</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center"></td>
-            <td align="center">24</td>
-            <td align="center">5</td>
-            <td align="center">17</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21142-紅月ゆれる恋あかり"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21142.png"
-                            alt="紅月ゆれる恋あかり" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21142-紅月ゆれる恋あかり">紅月ゆれる恋あかり</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">19 min</td>
-            <td align="center"></td>
-            <td align="center">23</td>
-            <td align="center">8</td>
-            <td align="center">6</td>
-            <td align="center">8</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10771-タスクフォース-カンパス"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10771.png"
-                            alt="タスクフォース カンパス" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10771-タスクフォース-カンパス">タスクフォース カンパス</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center"></td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">14</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9694-メルキス"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9694.png"
-                            alt="メルキス" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9694-メルキス">メルキス</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">22 min</td>
-            <td align="center"></td>
-            <td align="center">22</td>
-            <td align="center">8</td>
-            <td align="center">6</td>
-            <td align="center">7</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/8926-メモリーズオフ-innocent-fille-for-dearest"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8926.png"
-                            alt="メモリーズオフ -Innocent Fille- for Dearest" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/8926-メモリーズオフ-innocent-fille-for-dearest">メモリーズオフ -Innocent Fille- for Deares...</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">57 min</td>
-            <td align="center"></td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10154-dc4-ダカーポ4"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10154.png"
-                            alt="D.C.4 ～ダ・カーポ4～" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10154-dc4-ダカーポ4">D.C.4 ～ダ・カーポ4～</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">43 min</td>
-            <td align="center"></td>
-            <td align="center">22</td>
-            <td align="center">6</td>
-            <td align="center">14</td>
-            <td align="center">1</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21141-恋する彼女の不器用な舞台-体験版"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21141.png"
-                            alt="恋する彼女の不器用な舞台 体験版" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21141-恋する彼女の不器用な舞台-体験版">恋する彼女の不器用な舞台 体験版</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center"></td>
-            <td align="center">22</td>
-            <td align="center">7</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">1275</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17975-maggie-the-magnet"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17975.png"
-                            alt="Maggie the Magnet" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17975-maggie-the-magnet">Maggie the Magnet</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">45 min</td>
-            <td align="center"></td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13943-love-choice-愛の選択"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13943.png"
-                            alt="Love Choice 愛の選択" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13943-love-choice-愛の選択">Love Choice 愛の選択</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">39 min</td>
-            <td align="center"></td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13944-love-choice-愛の選択"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13944.png"
-                            alt="Love Choice 愛の選択" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13944-love-choice-愛の選択">Love Choice 愛の選択</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center"></td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/8808-ノラと皇女と野良猫ハート2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8808.png"
-                            alt="ノラと皇女と野良猫ハート2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/8808-ノラと皇女と野良猫ハート2">ノラと皇女と野良猫ハート2</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">52 min</td>
-            <td align="center"></td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
-            <td align="center">3</td>
-            <td align="center">1335</td>
         </tr>
         </tbody>
 </table>

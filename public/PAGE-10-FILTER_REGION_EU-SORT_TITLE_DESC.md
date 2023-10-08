@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/22272-hidden-bunny"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22272.png"
+                            alt="Hidden Bunny" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22272-hidden-bunny">Hidden Bunny</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">46</td>
+            <td align="center">1</td>
+            <td align="center">20</td>
+            <td align="center">24</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22134-hidden-bunny"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22134.png"
+                            alt="Hidden Bunny" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22134-hidden-bunny">Hidden Bunny</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€0.99</td>
+            <td align="center">46</td>
+            <td align="center">1</td>
+            <td align="center">20</td>
+            <td align="center">24</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/7571-hex-tunnel-touch"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7571.png"
+                            alt="Hex Tunnel Touch" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/7571-hex-tunnel-touch">Hex Tunnel Touch</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">16</td>
+            <td align="center">9</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/8646-heroes-trials"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8646.png"
+                            alt="Heroes Trials" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/8646-heroes-trials">Heroes Trials</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21669-hermits-tic-tac-toe"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21669.png"
+                            alt="Hermit&#039;s Tic-Tac-Toe" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21669-hermits-tic-tac-toe">Hermit&#039;s Tic-Tac-Toe</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13008-hentai-vs-evil"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13008.png"
                             alt="Hentai vs. Evil" width="60"></a></td>
@@ -1436,12 +1516,12 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20670-flipy"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20670.png"
+            <td><a href="https://psnprofiles.com/trophies/20668-flipy"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20668.png"
                             alt="Flipy" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20670-flipy">Flipy</a>
-                <kbd>PS4 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20668-flipy">Flipy</a>
+                <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€1.99</td>
@@ -1452,12 +1532,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20668-flipy"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20668.png"
+            <td><a href="https://psnprofiles.com/trophies/20670-flipy"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20670.png"
                             alt="Flipy" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20668-flipy">Flipy</a>
-                <kbd>PS5 • EU</kbd>
+                <a href="https://psnprofiles.com/trophies/20670-flipy">Flipy</a>
+                <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">€1.99</td>
@@ -1562,86 +1642,6 @@
             <td align="center">22</td>
             <td align="center">5</td>
             <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20902-fashion-police-squad"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20902.png"
-                            alt="Fashion Police Squad" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20902-fashion-police-squad">Fashion Police Squad</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€19.99</td>
-            <td align="center">24</td>
-            <td align="center">8</td>
-            <td align="center">7</td>
-            <td align="center">8</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13148-farm-frenzy-refreshed"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13148.png"
-                            alt="Farm Frenzy: Refreshed" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13148-farm-frenzy-refreshed">Farm Frenzy: Refreshed</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">33 min</td>
-            <td align="center">€9.99</td>
-            <td align="center">19</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">4</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20969-falling-blocks"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20969.png"
-                            alt="Falling Blocks" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20969-falling-blocks">Falling Blocks</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15864-fall-guys-ultimate-knockout"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15864.png"
-                            alt="Fall Guys: Ultimate Knockout" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15864-fall-guys-ultimate-knockout">Fall Guys: Ultimate Knockout</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€19.98</td>
-            <td align="center">35</td>
-            <td align="center">5</td>
-            <td align="center">8</td>
-            <td align="center">21</td>
-            <td align="center">1305</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15442-explosive-candy-world"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15442.png"
-                            alt="Explosive Candy World" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15442-explosive-candy-world">Explosive Candy World</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

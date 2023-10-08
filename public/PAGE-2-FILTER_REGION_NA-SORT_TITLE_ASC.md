@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/21654-billy-101"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21654.png"
+                            alt="Billy 101" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21654-billy-101">Billy 101</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21655-billy-101"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21655.png"
+                            alt="Billy 101" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21655-billy-101">Billy 101</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/9042-bird-game"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9042.png"
+                            alt="Bird Game +" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/9042-bird-game">Bird Game +</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">40 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/11498-birthday-of-midnight"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11498.png"
                             alt="Birthday of Midnight" width="60"></a></td>
@@ -1308,12 +1356,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19550.png"
+            <td><a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19553.png"
                             alt="Caravan Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro">Caravan Journey: Nitro</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro">Caravan Journey: Nitro</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -1324,12 +1372,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19553.png"
+            <td><a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19550.png"
                             alt="Caravan Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro">Caravan Journey: Nitro</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro">Caravan Journey: Nitro</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -1594,54 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22685-cate-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22685.png"
-                            alt="Cate P" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22685-cate-p">Cate P</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12055-cattch"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12055.png"
-                            alt="Cattch" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12055-cattch">Cattch</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">28 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">19</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14246-catty-batty-the-spirit-guide"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14246.png"
-                            alt="Catty &amp; Batty: The Spirit Guide" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14246-catty-batty-the-spirit-guide">Catty &amp; Batty: The Spirit Guide</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">42 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
-            <td align="center">1335</td>
         </tr>
         </tbody>
 </table>

@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15440-explosive-candy-world"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15440.png"
+                            alt="Explosive Candy World" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15440-explosive-candy-world">Explosive Candy World</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12752-dungeon-escape"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12752.png"
+                            alt="Dungeon Escape" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12752-dungeon-escape">Dungeon Escape</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13218-cross-the-moon"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13218.png"
+                            alt="Cross the Moon" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13218-cross-the-moon">Cross the Moon</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23114-working-hard-collection"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23114.png"
+                            alt="Working Hard Collection" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23114-working-hard-collection">Working Hard Collection</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23148-working-hard-collection"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23148.png"
+                            alt="Working Hard Collection" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23148-working-hard-collection">Working Hard Collection</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13905-glo"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13905.png"
                             alt="GLO" width="60"></a></td>
@@ -1562,86 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21672-hermits-tic-tac-toe"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21672.png"
-                            alt="Hermit&#039;s Tic-Tac-Toe" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21672-hermits-tic-tac-toe">Hermit&#039;s Tic-Tac-Toe</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15796-richys-nightmares"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15796.png"
-                            alt="Richy’s Nightmares" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15796-richys-nightmares">Richy’s Nightmares</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12007-kauils-treasure"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12007.png"
-                            alt="Kauil&#039;s Treasure" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12007-kauils-treasure">Kauil&#039;s Treasure</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">$5.49</td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">8</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16119-catana"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16119.png"
-                            alt="Catana" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16119-catana">Catana</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">$5.59</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16120-neonlore"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16120.png"
-                            alt="NeonLore" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16120-neonlore">NeonLore</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">12 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">45</td>
-            <td align="center">4</td>
-            <td align="center">4</td>
-            <td align="center">36</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

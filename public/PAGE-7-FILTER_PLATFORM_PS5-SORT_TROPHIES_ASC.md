@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13313-super-destronaut-dx-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13313.png"
+                            alt="Super Destronaut DX-2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13313-super-destronaut-dx-2">Super Destronaut DX-2</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14405-reminiscence-in-the-night"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14405.png"
                             alt="Reminiscence in the Night" width="60"></a></td>
@@ -1420,6 +1436,22 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23962-synergia-next-gen-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23962.png"
+                            alt="Synergia: Next-Gen Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23962-synergia-next-gen-edition">Synergia: Next-Gen Edition</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">25 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15532-pretty-girls-breakers"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15532.png"
                             alt="Pretty Girls Breakers!" width="60"></a></td>
@@ -1605,38 +1637,6 @@
             </td>
             <td align="center">20 min</td>
             <td align="center">$7.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15530-pretty-girls-breakers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15530.png"
-                            alt="Pretty Girls Breakers!" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15530-pretty-girls-breakers">Pretty Girls Breakers!</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">20 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12675-one-escape"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12675.png"
-                            alt="One Escape" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12675-one-escape">One Escape</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">20 min</td>
-            <td align="center">$4.99</td>
             <td align="center">16</td>
             <td align="center">10</td>
             <td align="center">5</td>

@@ -732,22 +732,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19623-the-wood-story"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19623.png"
-                            alt="The Wood Story" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19623-the-wood-story">The Wood Story</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/19622-the-wood-story"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19622.png"
                             alt="The Wood Story" width="60"></a></td>
@@ -764,12 +748,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20393-the-spidy-quiz"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20393.png"
-                            alt="The Spidy Quiz" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/19623-the-wood-story"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19623.png"
+                            alt="The Wood Story" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20393-the-spidy-quiz">The Spidy Quiz</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19623-the-wood-story">The Wood Story</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -786,6 +770,22 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/20394-the-spidy-quiz">The Spidy Quiz</a>
                 <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20393-the-spidy-quiz"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20393.png"
+                            alt="The Spidy Quiz" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20393-the-spidy-quiz">The Spidy Quiz</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -988,12 +988,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19285-the-iron-age"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19285.png"
+            <td><a href="https://psnprofiles.com/trophies/19286-the-iron-age"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19286.png"
                             alt="The Iron Age" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19285-the-iron-age">The Iron Age</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19286-the-iron-age">The Iron Age</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
@@ -1004,12 +1004,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19286-the-iron-age"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19286.png"
+            <td><a href="https://psnprofiles.com/trophies/19285-the-iron-age"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19285.png"
                             alt="The Iron Age" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19286-the-iron-age">The Iron Age</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19285-the-iron-age">The Iron Age</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
@@ -1268,6 +1268,38 @@
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23998-alien-returns"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23998.png"
+                            alt="Alien Returns" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23998-alien-returns">Alien Returns</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23997-alien-returns"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23997.png"
+                            alt="Alien Returns" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23997-alien-returns">Alien Returns</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
             <td align="center">$1.49</td>
             <td align="center">34</td>
             <td align="center">1</td>
@@ -1602,38 +1634,6 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/18697-the-pong-p">The Pong P</a>
                 <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16132-the-pigeon-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16132.png"
-                            alt="The Pigeon P" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16132-the-pigeon-p">The Pigeon P</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16129-the-pigeon-p"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16129.png"
-                            alt="The Pigeon P" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16129-the-pigeon-p">The Pigeon P</a>
-                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$1.49</td>

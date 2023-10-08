@@ -44,6 +44,102 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/11983-autumns-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11983.png"
+                            alt="Autumn&#039;s Journey" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/11983-autumns-journey">Autumn&#039;s Journey</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16208-slap-the-rocks"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16208.png"
+                            alt="Slap the Rocks" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16208-slap-the-rocks">Slap the Rocks</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">9 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15016-gardeners-path"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15016.png"
+                            alt="Gardener&#039;s Path" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15016-gardeners-path">Gardener&#039;s Path</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">9 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15015-gardeners-path"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15015.png"
+                            alt="Gardener&#039;s Path" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15015-gardeners-path">Gardener&#039;s Path</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">9 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14334-dungeon-escape"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14334.png"
+                            alt="Dungeon Escape" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14334-dungeon-escape">Dungeon Escape</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">9 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14628-20-bunnies"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14628.png"
+                            alt="20 Bunnies" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14628-20-bunnies">20 Bunnies</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">9 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12989-gutwhale"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12989.png"
                             alt="Gutwhale" width="60"></a></td>
@@ -1546,102 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15794-richys-nightmares"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15794.png"
-                            alt="Richy’s Nightmares" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15794-richys-nightmares">Richy’s Nightmares</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19292-lord-of-the-click-iii"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19292.png"
-                            alt="Lord of the Click III" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19292-lord-of-the-click-iii">Lord of the Click III</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21669-hermits-tic-tac-toe"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21669.png"
-                            alt="Hermit&#039;s Tic-Tac-Toe" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21669-hermits-tic-tac-toe">Hermit&#039;s Tic-Tac-Toe</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16114-catana"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16114.png"
-                            alt="Catana" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16114-catana">Catana</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">€5.59</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16100-neonlore"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16100.png"
-                            alt="NeonLore" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16100-neonlore">NeonLore</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">45</td>
-            <td align="center">4</td>
-            <td align="center">4</td>
-            <td align="center">36</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16201-mr-hibbl"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16201.png"
-                            alt="Mr. Hibbl" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16201-mr-hibbl">Mr. Hibbl</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">35 min</td>
-            <td align="center">€5.99</td>
-            <td align="center">29</td>
-            <td align="center">6</td>
-            <td align="center">12</td>
-            <td align="center">10</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

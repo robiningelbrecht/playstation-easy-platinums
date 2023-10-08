@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/16971-the-enigma-machine"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16971.png"
+                            alt="The Enigma Machine" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16971-the-enigma-machine">The Enigma Machine</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15800-taqoban"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15800.png"
+                            alt="Taqoban" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15800-taqoban">Taqoban</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">9</td>
+            <td align="center">8</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13314-super-destronaut-dx-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13314.png"
+                            alt="Super Destronaut DX-2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13314-super-destronaut-dx-2">Super Destronaut DX-2</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$2.49</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/19503-slimes-journey"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19503.png"
                             alt="Slime&#039;s Journey" width="60"></a></td>
@@ -1594,54 +1642,6 @@
             <td align="center">2</td>
             <td align="center">0</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17748-witch-college-bundle"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17748.png"
-                            alt="Witch College Bundle" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17748-witch-college-bundle">Witch College Bundle</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center">$8.99</td>
-            <td align="center">21</td>
-            <td align="center">10</td>
-            <td align="center">0</td>
-            <td align="center">10</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13176-sun-wukong-vs-robot"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13176.png"
-                            alt="Sun Wukong vs Robot" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13176-sun-wukong-vs-robot">Sun Wukong vs Robot</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21608-runbean-galactic"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21608.png"
-                            alt="RunBean Galactic" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21608-runbean-galactic">RunBean Galactic</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">15</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

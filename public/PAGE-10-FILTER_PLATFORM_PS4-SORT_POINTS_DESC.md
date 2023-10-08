@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/18827-the-jumping-hot-dog"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18827.png"
+                            alt="The Jumping Hot Dog" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18827-the-jumping-hot-dog">The Jumping Hot Dog</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16724-the-jumping-hot-dog"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16724.png"
+                            alt="The Jumping Hot Dog" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16724-the-jumping-hot-dog">The Jumping Hot Dog</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16645-the-jumping-hot-dog"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16645.png"
+                            alt="The Jumping Hot Dog" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16645-the-jumping-hot-dog">The Jumping Hot Dog</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20011-the-jumping-gingerbread"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20011.png"
+                            alt="The Jumping Gingerbread" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20011-the-jumping-gingerbread">The Jumping Gingerbread</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20005-the-jumping-gingerbread"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20005.png"
+                            alt="The Jumping Gingerbread" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20005-the-jumping-gingerbread">The Jumping Gingerbread</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/20012-the-jumping-gingerbread"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20012.png"
                             alt="The Jumping Gingerbread" width="60"></a></td>
@@ -1561,86 +1641,6 @@
             <td align="center">5</td>
             <td align="center">10</td>
             <td align="center">20</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17777-nik-and-kit-arcade-breakthrough-gaming-arcade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17777.png"
-                            alt="Nik and Kit Arcade - Breakthrough Gaming Arcade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17777-nik-and-kit-arcade-breakthrough-gaming-arcade">Nik and Kit Arcade - Breakthrough G...</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">36</td>
-            <td align="center">5</td>
-            <td align="center">10</td>
-            <td align="center">20</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16715-lump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16715.png"
-                            alt="Lump Jump" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16715-lump-jump">Lump Jump</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21101-loopy-ball"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21101.png"
-                            alt="Loopy Ball" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21101-loopy-ball">Loopy Ball</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22153-hidden-bunny"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22153.png"
-                            alt="Hidden Bunny" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22153-hidden-bunny">Hidden Bunny</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">46</td>
-            <td align="center">1</td>
-            <td align="center">20</td>
-            <td align="center">24</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22163-hidden-bunny"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22163.png"
-                            alt="Hidden Bunny" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22163-hidden-bunny">Hidden Bunny</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">46</td>
-            <td align="center">1</td>
-            <td align="center">20</td>
-            <td align="center">24</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

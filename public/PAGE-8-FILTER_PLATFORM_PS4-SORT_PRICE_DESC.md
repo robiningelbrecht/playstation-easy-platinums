@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14825-pretty-girls-mahjong-solitaire-green"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14825.png"
+                            alt="Pretty Girls Mahjong Solitaire [Green]" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14825-pretty-girls-mahjong-solitaire-green">Pretty Girls Mahjong Solitaire [Gre...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">54 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13969-minigolf-tour"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13969.png"
+                            alt="Minigolf Tour" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13969-minigolf-tour">Minigolf Tour</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">51 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14819-pretty-girls-mahjong-solitaire-blue"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14819.png"
+                            alt="Pretty Girls Mahjong Solitaire [Blue]" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14819-pretty-girls-mahjong-solitaire-blue">Pretty Girls Mahjong Solitaire [Blu...</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">50 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15999-pretty-girls-rivers"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15999.png"
+                            alt="Pretty Girls Rivers" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15999-pretty-girls-rivers">Pretty Girls Rivers</a>
+                <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">48 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/15997-pretty-girls-rivers"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15997.png"
                             alt="Pretty Girls Rivers" width="60"></a></td>
@@ -1577,70 +1641,6 @@
             <td align="center">9</td>
             <td align="center">4</td>
             <td align="center">8</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/8117-tetras-escape"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8117.png"
-                            alt="Tetra&#039;s Escape" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/8117-tetras-escape">Tetra&#039;s Escape</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">28 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">22</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13029-crossbow-crusade"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13029.png"
-                            alt="Crossbow Crusade" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13029-crossbow-crusade">Crossbow Crusade</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">28 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">22</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/7868-tetras-escape"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7868.png"
-                            alt="Tetra&#039;s Escape" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/7868-tetras-escape">Tetra&#039;s Escape</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">27 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">22</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/7951-tetras-escape"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/7951.png"
-                            alt="Tetra&#039;s Escape" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/7951-tetras-escape">Tetra&#039;s Escape</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">25 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">22</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
-            <td align="center">4</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

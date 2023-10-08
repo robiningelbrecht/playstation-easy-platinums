@@ -44,6 +44,150 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23168-fluffy-milo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23168.png"
+                            alt="Fluffy Milo" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23168-fluffy-milo">Fluffy Milo</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">37 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13026-a-little-lily-princess"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13026.png"
+                            alt="A Little Lily Princess" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13026-a-little-lily-princess">A Little Lily Princess</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">35 min</td>
+            <td align="center">$14.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16251-chefy-chef"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16251.png"
+                            alt="Chefy-Chef" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16251-chefy-chef">Chefy-Chef</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">34 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23163-fluffy-milo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23163.png"
+                            alt="Fluffy Milo" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23163-fluffy-milo">Fluffy Milo</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">32 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23164-fluffy-milo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23164.png"
+                            alt="Fluffy Milo" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23164-fluffy-milo">Fluffy Milo</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">31 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21569-steel-defier"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21569.png"
+                            alt="Steel Defier" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21569-steel-defier">Steel Defier</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22606-robolt"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22606.png"
+                            alt="Robolt" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22606-robolt">Robolt</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16479-grizzland"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16479.png"
+                            alt="Grizzland" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16479-grizzland">Grizzland</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22695-tricks-magician"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22695.png"
+                            alt="Tricks Magician" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22695-tricks-magician">Tricks Magician</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/19728-reckless-auto-racing"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19728.png"
                             alt="Reckless Auto Racing" width="60"></a></td>
@@ -524,22 +668,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18279-roar-of-revenge"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18279.png"
-                            alt="Roar of Revenge" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18279-roar-of-revenge">Roar of Revenge</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">13 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/18280-roar-of-revenge"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18280.png"
                             alt="Roar of Revenge" width="60"></a></td>
@@ -549,6 +677,22 @@
             </td>
             <td align="center">13 min</td>
             <td align="center">€4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18279-roar-of-revenge"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18279.png"
+                            alt="Roar of Revenge" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18279-roar-of-revenge">Roar of Revenge</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$4.99</td>
             <td align="center">14</td>
             <td align="center">11</td>
             <td align="center">2</td>
@@ -1493,150 +1637,6 @@
             </td>
             <td align="center">54 min</td>
             <td align="center"></td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16912-quintus-and-the-absent-truth"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16912.png"
-                            alt="Quintus and the Absent Truth" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16912-quintus-and-the-absent-truth">Quintus and the Absent Truth</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">53 min</td>
-            <td align="center">€9.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15958-pretty-girls-rivers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15958.png"
-                            alt="Pretty Girls Rivers" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15958-pretty-girls-rivers">Pretty Girls Rivers</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">53 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13472-bishoujo-battle-mahjong-solitaire"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13472.png"
-                            alt="Bishoujo Battle Mahjong Solitaire" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13472-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">53 min</td>
-            <td align="center">$3.59</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20964-pocket-witch"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20964.png"
-                            alt="Pocket Witch" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20964-pocket-witch">Pocket Witch</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">52 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22965-super-box-delivery-beyond-the-horizon"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22965.png"
-                            alt="Super Box Delivery: Beyond the Horizon" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22965-super-box-delivery-beyond-the-horizon">Super Box Delivery: Beyond the Hori...</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">51 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17583-sofiya-and-the-ancient-clan"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17583.png"
-                            alt="Sofiya and the Ancient Clan" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17583-sofiya-and-the-ancient-clan">Sofiya and the Ancient Clan</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">51 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16919-quintus-and-the-absent-truth"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16919.png"
-                            alt="Quintus and the Absent Truth" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16919-quintus-and-the-absent-truth">Quintus and the Absent Truth</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">50 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15957-pretty-girls-rivers"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15957.png"
-                            alt="Pretty Girls Rivers" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15957-pretty-girls-rivers">Pretty Girls Rivers</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">48 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13442-bishoujo-battle-mahjong-solitaire"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13442.png"
-                            alt="Bishoujo Battle Mahjong Solitaire" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13442-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">48 min</td>
-            <td align="center">$3.59</td>
             <td align="center">13</td>
             <td align="center">11</td>
             <td align="center">1</td>

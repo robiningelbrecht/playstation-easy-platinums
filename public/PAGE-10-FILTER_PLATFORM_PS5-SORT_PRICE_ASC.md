@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23666-blind-postman"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23666.png"
+                            alt="Blind Postman" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23666-blind-postman">Blind Postman</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">24 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">59</td>
+            <td align="center">2</td>
+            <td align="center">2</td>
+            <td align="center">54</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23665-blind-postman"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23665.png"
+                            alt="Blind Postman" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23665-blind-postman">Blind Postman</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">24 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">59</td>
+            <td align="center">2</td>
+            <td align="center">2</td>
+            <td align="center">54</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22592-power-the-light"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22592.png"
+                            alt="Power the Light" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22592-power-the-light">Power the Light</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">26 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">52</td>
+            <td align="center">2</td>
+            <td align="center">9</td>
+            <td align="center">40</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/20821-a-matter-of-principle"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20821.png"
                             alt="A Matter of Principle" width="60"></a></td>
@@ -1593,54 +1641,6 @@
             <td align="center">10</td>
             <td align="center">2</td>
             <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14703-void-gore"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14703.png"
-                            alt="Void Gore" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14703-void-gore">Void Gore</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">22 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">19</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12307-ultragoodness-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12307.png"
-                            alt="UltraGoodness 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12307-ultragoodness-2">UltraGoodness 2</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">20 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">19</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12390-ultragoodness-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12390.png"
-                            alt="UltraGoodness 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12390-ultragoodness-2">UltraGoodness 2</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">15 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">19</td>
-            <td align="center">9</td>
-            <td align="center">7</td>
-            <td align="center">2</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

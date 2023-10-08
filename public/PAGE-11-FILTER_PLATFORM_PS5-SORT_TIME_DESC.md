@@ -44,6 +44,134 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17491-spectrewoods"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17491.png"
+                            alt="Spectrewoods" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17491-spectrewoods">Spectrewoods</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$0.49</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16497-space-kabaam-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16497.png"
+                            alt="Space KaBAAM 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16497-space-kabaam-2">Space KaBAAM 2</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16496-space-kabaam-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16496.png"
+                            alt="Space KaBAAM 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16496-space-kabaam-2">Space KaBAAM 2</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16394-space-kabaam-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16394.png"
+                            alt="Space KaBAAM 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16394-space-kabaam-2">Space KaBAAM 2</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">€1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16393-space-kabaam-2"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16393.png"
+                            alt="Space KaBAAM 2" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16393-space-kabaam-2">Space KaBAAM 2</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23337-space-defend"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23337.png"
+                            alt="Space Defend" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23337-space-defend">Space Defend</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">20</td>
+            <td align="center">9</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17382-santas-workshop"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17382.png"
+                            alt="Santa&#039;s Workshop" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17382-santas-workshop">Santa&#039;s Workshop</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">18</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14386-sakura-nova"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14386.png"
+                            alt="Sakura Nova" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14386-sakura-nova">Sakura Nova</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">5 min</td>
+            <td align="center">$11.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14385-sakura-nova"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14385.png"
                             alt="Sakura Nova" width="60"></a></td>
@@ -1513,134 +1641,6 @@
             <td align="center">10</td>
             <td align="center">4</td>
             <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18111-weben-blocks-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18111.png"
-                            alt="Weben Blocks 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18111-weben-blocks-2">Weben Blocks 2</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16749-weben-blocks"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16749.png"
-                            alt="Weben Blocks" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16749-weben-blocks">Weben Blocks</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">18</td>
-            <td align="center">10</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14547-venus-improbable-dream"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14547.png"
-                            alt="Venus: Improbable Dream" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14547-venus-improbable-dream">Venus: Improbable Dream</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">€9.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14546-venus-improbable-dream"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14546.png"
-                            alt="Venus: Improbable Dream" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14546-venus-improbable-dream">Venus: Improbable Dream</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14545-venus-improbable-dream"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14545.png"
-                            alt="Venus: Improbable Dream" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14545-venus-improbable-dream">Venus: Improbable Dream</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$9.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21704-try-to-fit"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21704.png"
-                            alt="Try to Fit" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21704-try-to-fit">Try to Fit</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">20</td>
-            <td align="center">9</td>
-            <td align="center">6</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18566-the-pig-d"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18566.png"
-                            alt="The pig D" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18566-the-pig-d">The pig D</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20718-the-zebra-z"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20718.png"
-                            alt="The Zebra Z" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20718-the-zebra-z">The Zebra Z</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

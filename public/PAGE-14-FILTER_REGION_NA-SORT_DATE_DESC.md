@@ -44,6 +44,134 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/10448-bucket-knight"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10448.png"
+                            alt="Bucket Knight" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10448-bucket-knight">Bucket Knight</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">23 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">35</td>
+            <td align="center">3</td>
+            <td align="center">20</td>
+            <td align="center">11</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10431-vasilis"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10431.png"
+                            alt="Vasilis" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10431-vasilis">Vasilis</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">53 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">21</td>
+            <td align="center">7</td>
+            <td align="center">13</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10399-knightin"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10399.png"
+                            alt="Knightin&#039;+" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10399-knightin">Knightin&#039;+</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">20 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10394-grizzland"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10394.png"
+                            alt="Grizzland" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10394-grizzland">Grizzland</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">19 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10363-reed"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10363.png"
+                            alt="Reed" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10363-reed">Reed</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">14 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10337-zero-zero-zero-zero"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10337.png"
+                            alt="Zero Zero Zero Zero" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10337-zero-zero-zero-zero">Zero Zero Zero Zero</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10330-project-starship"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10330.png"
+                            alt="Project Starship" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10330-project-starship">Project Starship</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">19 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/10303-just-a-phrase-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10303.png"
+                            alt="Just a Phrase by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/10303-just-a-phrase-by-powgi">Just a Phrase by POWGI</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">59 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">40</td>
+            <td align="center">4</td>
+            <td align="center">9</td>
+            <td align="center">26</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/10291-milos-quest"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10291.png"
                             alt="Milo&#039;s Quest" width="60"></a></td>

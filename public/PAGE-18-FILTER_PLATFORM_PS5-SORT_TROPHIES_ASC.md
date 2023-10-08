@@ -44,6 +44,166 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15632-saint-patricks-day-break-2-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15632.png"
+                            alt="Saint Patrick&#039;s Day Break 2 Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15632-saint-patricks-day-break-2-head-to-head">Saint Patrick&#039;s Day Break 2 Head to...</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center"></td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15098-ice-cream-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15098.png"
+                            alt="Ice Cream Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15098-ice-cream-break-head-to-head">Ice Cream Break Head to Head</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">11 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15070-futbol-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15070.png"
+                            alt="Futbol Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15070-futbol-break-head-to-head">Futbol Break Head to Head</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">11 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15097-ice-cream-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15097.png"
+                            alt="Ice Cream Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15097-ice-cream-break-head-to-head">Ice Cream Break Head to Head</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15782-burger-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15782.png"
+                            alt="Burger Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15782-burger-break-head-to-head">Burger Break Head to Head</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">10 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19369-cat-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19369.png"
+                            alt="Cat Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19369-cat-break-head-to-head">Cat Break Head to Head</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15783-burger-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15783.png"
+                            alt="Burger Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15783-burger-break-head-to-head">Burger Break Head to Head</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">7 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16588-ninja-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16588.png"
+                            alt="Ninja Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16588-ninja-break-head-to-head">Ninja Break Head to Head</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20798-wonderland-nights-white-rabbits-diary"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20798.png"
+                            alt="Wonderland Nights: White Rabbit&#039;s Diary" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20798-wonderland-nights-white-rabbits-diary">Wonderland Nights: White Rabbit&#039;s D...</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">57 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">43</td>
+            <td align="center">2</td>
+            <td align="center">16</td>
+            <td align="center">24</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12820-ladders-by-powgi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12820.png"
+                            alt="Ladders by POWGI" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12820-ladders-by-powgi">Ladders by POWGI</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$7.99</td>
+            <td align="center">43</td>
+            <td align="center">3</td>
+            <td align="center">10</td>
+            <td align="center">29</td>
+            <td align="center">1305</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12812-ladders-by-powgi"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12812.png"
                             alt="Ladders by POWGI" width="60"></a></td>
@@ -1477,166 +1637,6 @@
             </td>
             <td align="center">2 min</td>
             <td align="center">$1.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20343-the-snowman-story"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20343.png"
-                            alt="The Snowman Story" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20343-the-snowman-story">The Snowman Story</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20341-the-snowman-story"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20341.png"
-                            alt="The Snowman Story" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20341-the-snowman-story">The Snowman Story</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19754-the-pig-d-deluxe-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19754.png"
-                            alt="The Pig D Deluxe Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19754-the-pig-d-deluxe-edition">The Pig D Deluxe Edition</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19506-the-pig-d-deluxe-editiom"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19506.png"
-                            alt="The Pig D Deluxe Editiom" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19506-the-pig-d-deluxe-editiom">The Pig D Deluxe Editiom</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18367-the-copper-age"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18367.png"
-                            alt="The Copper Age" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18367-the-copper-age">The Copper Age</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20118-stroke-the-tortoise"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20118.png"
-                            alt="Stroke The Tortoise" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20118-stroke-the-tortoise">Stroke The Tortoise</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20119-stroke-the-tortoise"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20119.png"
-                            alt="Stroke The Tortoise" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20119-stroke-the-tortoise">Stroke The Tortoise</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20132-stroke-the-spider"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20132.png"
-                            alt="Stroke The Spider" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20132-stroke-the-spider">Stroke The Spider</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20133-stroke-the-spider"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20133.png"
-                            alt="Stroke The Spider" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20133-stroke-the-spider">Stroke The Spider</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19340-stroke-the-spider"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19340.png"
-                            alt="Stroke The Spider" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19340-stroke-the-spider">Stroke The Spider</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$3.99</td>
             <td align="center">71</td>
             <td align="center">0</td>
             <td align="center">0</td>

@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/21616-pretty-girls-tile-match"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21616.png"
+                            alt="Pretty Girls Tile Match" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21616-pretty-girls-tile-match">Pretty Girls Tile Match</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">48 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22274-cyber-citizen-shockman"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22274.png"
+                            alt="Cyber Citizen Shockman" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22274-cyber-citizen-shockman">Cyber Citizen Shockman</a>
+                <kbd>PS4</kbd>
+            </td>
+            <td align="center">46 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23517-kalinur"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23517.png"
+                            alt="Kalinur" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23517-kalinur">Kalinur</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">45 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23519-kalinur"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23519.png"
+                            alt="Kalinur" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23519-kalinur">Kalinur</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">44 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/21714-pretty-girls-tile-match"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21714.png"
                             alt="Pretty Girls Tile Match" width="60"></a></td>
@@ -1573,70 +1637,6 @@
             </td>
             <td align="center">11 min</td>
             <td align="center">$5.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18360-one-hell-of-a-ride"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18360.png"
-                            alt="One Hell of a Ride" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18360-one-hell-of-a-ride">One Hell of a Ride</a>
-                <kbd>PS4</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12021-a-winters-daydream"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12021.png"
-                            alt="A Winter&#039;s Daydream" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12021-a-winters-daydream">A Winter&#039;s Daydream</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9756-a-winters-daydream"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9756.png"
-                            alt="A Winter&#039;s Daydream" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9756-a-winters-daydream">A Winter&#039;s Daydream</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/9755-a-winters-daydream"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/9755.png"
-                            alt="A Winter&#039;s Daydream" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/9755-a-winters-daydream">A Winter&#039;s Daydream</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">€5.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>

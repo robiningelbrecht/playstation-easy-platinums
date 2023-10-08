@@ -44,6 +44,70 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/22029-stroke-the-beaver"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22029.png"
+                            alt="Stroke The Beaver" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22029-stroke-the-beaver">Stroke The Beaver</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">71</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">70</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21802-the-waiting-game"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21802.png"
+                            alt="The Waiting Game" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21802-the-waiting-game">The Waiting Game</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">61</td>
+            <td align="center">1</td>
+            <td align="center">5</td>
+            <td align="center">54</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23667-blind-postman"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23667.png"
+                            alt="Blind Postman" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23667-blind-postman">Blind Postman</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center">€3.99</td>
+            <td align="center">59</td>
+            <td align="center">2</td>
+            <td align="center">2</td>
+            <td align="center">54</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23664-blind-postman"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23664.png"
+                            alt="Blind Postman" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23664-blind-postman">Blind Postman</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">25 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">59</td>
+            <td align="center">2</td>
+            <td align="center">2</td>
+            <td align="center">54</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/23666-blind-postman"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23666.png"
                             alt="Blind Postman" width="60"></a></td>
@@ -1570,70 +1634,6 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/18575-the-jumping-wrap-turbo">The Jumping Wrap: TURBO</a>
                 <kbd>PS5</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19606-the-jumping-tofu-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19606.png"
-                            alt="The Jumping Tofu: TURBO" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19606-the-jumping-tofu-turbo">The Jumping Tofu: TURBO</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">€2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19605-the-jumping-tofu-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19605.png"
-                            alt="The Jumping Tofu: TURBO" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19605-the-jumping-tofu-turbo">The Jumping Tofu: TURBO</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19603-the-jumping-tofu-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19603.png"
-                            alt="The Jumping Tofu: TURBO" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19603-the-jumping-tofu-turbo">The Jumping Tofu: TURBO</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19604-the-jumping-tofu-turbo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19604.png"
-                            alt="The Jumping Tofu: TURBO" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19604-the-jumping-tofu-turbo">The Jumping Tofu: TURBO</a>
-                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>

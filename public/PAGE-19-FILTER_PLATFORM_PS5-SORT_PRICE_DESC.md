@@ -44,6 +44,118 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13450-ウィズンザブレード"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13450.png"
+                            alt="ウィズン･ザ･ブレード" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13450-ウィズンザブレード">ウィズン･ザ･ブレード</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">48 min</td>
+            <td align="center"></td>
+            <td align="center">32</td>
+            <td align="center">4</td>
+            <td align="center">19</td>
+            <td align="center">8</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15490-モトローダーmc"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15490.png"
+                            alt="モトローダーMC" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15490-モトローダーmc">モトローダーMC</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">8 min</td>
+            <td align="center"></td>
+            <td align="center">26</td>
+            <td align="center">5</td>
+            <td align="center">20</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14361-アーキタイプアーカディア"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14361.png"
+                            alt="アーキタイプ・アーカディア" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14361-アーキタイプアーカディア">アーキタイプ・アーカディア</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center"></td>
+            <td align="center">26</td>
+            <td align="center">6</td>
+            <td align="center">13</td>
+            <td align="center">6</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15583-ワンナイトスタンド"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15583.png"
+                            alt="ワン・ナイト・スタンド" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15583-ワンナイトスタンド">ワン・ナイト・スタンド</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">39 min</td>
+            <td align="center"></td>
+            <td align="center">25</td>
+            <td align="center">6</td>
+            <td align="center">16</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21974-イハナシの魔女"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21974.png"
+                            alt="イハナシの魔女" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21974-イハナシの魔女">イハナシの魔女</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">48 min</td>
+            <td align="center"></td>
+            <td align="center">24</td>
+            <td align="center">5</td>
+            <td align="center">17</td>
+            <td align="center">1</td>
+            <td align="center">1275</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17975-maggie-the-magnet"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17975.png"
+                            alt="Maggie the Magnet" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17975-maggie-the-magnet">Maggie the Magnet</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">45 min</td>
+            <td align="center"></td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13943-love-choice-愛の選択"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13943.png"
+                            alt="Love Choice 愛の選択" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13943-love-choice-愛の選択">Love Choice 愛の選択</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">39 min</td>
+            <td align="center"></td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/18245-新熱血硬派くにおたちの挽歌-with-river-city-girls-extra"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18245.png"
                             alt="新・熱血硬派くにおたちの挽歌 with River City Girls Extra" width="60"></a></td>
@@ -156,6 +268,22 @@
             <td align="center">1350</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23962-synergia-next-gen-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23962.png"
+                            alt="Synergia: Next-Gen Edition" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23962-synergia-next-gen-edition">Synergia: Next-Gen Edition</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">25 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14533-hentai-vs-evil"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14533.png"
                             alt="Hentai vs Evil" width="60"></a></td>
@@ -250,6 +378,22 @@
             <td align="center">4</td>
             <td align="center">1</td>
             <td align="center">1335</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23474-sports-pinball"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23474.png"
+                            alt="Sports Pinball" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23474-sports-pinball">Sports Pinball</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">27 min</td>
+            <td align="center"></td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">1</td>
+            <td align="center">4</td>
+            <td align="center">1290</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/12743-heal"><img
@@ -804,6 +948,22 @@
                 <kbd>PS5</kbd>
             </td>
             <td align="center">17 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23903-blackjack-waifu-tour"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23903.png"
+                            alt="Blackjack: Waifu Tour" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23903-blackjack-waifu-tour">Blackjack: Waifu Tour</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">15 min</td>
             <td align="center"></td>
             <td align="center">12</td>
             <td align="center">11</td>

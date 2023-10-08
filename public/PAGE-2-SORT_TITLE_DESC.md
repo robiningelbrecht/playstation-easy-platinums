@@ -1244,22 +1244,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/22841-zen-pong"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22841.png"
-                            alt="Zen Pong" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22841-zen-pong">Zen Pong</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/22838-zen-pong"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22838.png"
                             alt="Zen Pong" width="60"></a></td>
@@ -1268,6 +1252,22 @@
                 <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">3 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22841-zen-pong"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22841.png"
+                            alt="Zen Pong" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22841-zen-pong">Zen Pong</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">4 min</td>
             <td align="center">$1.49</td>
             <td align="center">34</td>
             <td align="center">1</td>

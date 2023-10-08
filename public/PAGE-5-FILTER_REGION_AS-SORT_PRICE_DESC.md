@@ -44,11 +44,27 @@
     </thead>
     <tbody>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18927-dirt-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18927.png"
-                            alt="Dirt Journey: Nitro" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/18623-italian-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18623.png"
+                            alt="Italian Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18927-dirt-journey-nitro">Dirt Journey: Nitro</a>
+                <a href="https://psnprofiles.com/trophies/18623-italian-journey-nitro">Italian Journey: Nitro</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.99</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18619-italian-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18619.png"
+                            alt="Italian Journey: Nitro" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18619-italian-journey-nitro">Italian Journey: Nitro</a>
                 <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">1 min</td>
@@ -76,12 +92,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19556-caravan-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19556.png"
-                            alt="Caravan Journey: Nitro" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/18927-dirt-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18927.png"
+                            alt="Dirt Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19556-caravan-journey-nitro">Caravan Journey: Nitro</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/18927-dirt-journey-nitro">Dirt Journey: Nitro</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -98,6 +114,22 @@
             <td>
                 <a href="https://psnprofiles.com/trophies/19557-caravan-journey-nitro">Caravan Journey: Nitro</a>
                 <kbd>PS4 • AS</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$2.99</td>
+            <td align="center">21</td>
+            <td align="center">9</td>
+            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/19556-caravan-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19556.png"
+                            alt="Caravan Journey: Nitro" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/19556-caravan-journey-nitro">Caravan Journey: Nitro</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -364,12 +396,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21515-quiz-thiz-germany-bronze-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21515.png"
+            <td><a href="https://psnprofiles.com/trophies/21513-quiz-thiz-germany-bronze-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21513.png"
                             alt="Quiz Thiz Germany: Bronze Edition" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21515-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/21513-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -380,12 +412,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21513-quiz-thiz-germany-bronze-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21513.png"
+            <td><a href="https://psnprofiles.com/trophies/21515-quiz-thiz-germany-bronze-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21515.png"
                             alt="Quiz Thiz Germany: Bronze Edition" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21513-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/21515-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -428,12 +460,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20681-quiz-thiz-spain-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20681.png"
+            <td><a href="https://psnprofiles.com/trophies/21095-quiz-thiz-spain-silver-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21095.png"
                             alt="Quiz Thiz Spain: Silver Edition" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20681-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/21095-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$2.49</td>
@@ -444,12 +476,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21095-quiz-thiz-spain-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21095.png"
+            <td><a href="https://psnprofiles.com/trophies/20681-quiz-thiz-spain-silver-edition"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20681.png"
                             alt="Quiz Thiz Spain: Silver Edition" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21095-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/20681-quiz-thiz-spain-silver-edition">Quiz Thiz Spain: Silver Edition</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">3 min</td>
             <td align="center">$2.49</td>
@@ -572,12 +604,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20102-pretty-bird-4"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20102.png"
+            <td><a href="https://psnprofiles.com/trophies/20103-pretty-bird-4"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20103.png"
                             alt="Pretty Bird 4" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20102-pretty-bird-4">Pretty Bird 4</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/20103-pretty-bird-4">Pretty Bird 4</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$2.49</td>
@@ -588,12 +620,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20103-pretty-bird-4"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20103.png"
+            <td><a href="https://psnprofiles.com/trophies/20102-pretty-bird-4"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20102.png"
                             alt="Pretty Bird 4" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/20103-pretty-bird-4">Pretty Bird 4</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/20102-pretty-bird-4">Pretty Bird 4</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$2.49</td>
@@ -732,12 +764,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21485-quiz-thiz-germany"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21485.png"
+            <td><a href="https://psnprofiles.com/trophies/21484-quiz-thiz-germany"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21484.png"
                             alt="Quiz Thiz Germany" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21485-quiz-thiz-germany">Quiz Thiz Germany</a>
-                <kbd>PS5 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/21484-quiz-thiz-germany">Quiz Thiz Germany</a>
+                <kbd>PS4 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -748,12 +780,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21484-quiz-thiz-germany"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21484.png"
+            <td><a href="https://psnprofiles.com/trophies/21485-quiz-thiz-germany"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21485.png"
                             alt="Quiz Thiz Germany" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21484-quiz-thiz-germany">Quiz Thiz Germany</a>
-                <kbd>PS4 • AS</kbd>
+                <a href="https://psnprofiles.com/trophies/21485-quiz-thiz-germany">Quiz Thiz Germany</a>
+                <kbd>PS5 • AS</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -1610,38 +1642,6 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/10166-miles-kilo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10166.png"
-                            alt="Miles &amp; Kilo" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/10166-miles-kilo">Miles &amp; Kilo</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">44 min</td>
-            <td align="center">$1.59</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/20347-the-snowman-story"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20347.png"
-                            alt="The Snowman Story" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20347-the-snowman-story">The Snowman Story</a>
-                <kbd>PS4 • AS</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
         </tr>
         </tbody>
 </table>

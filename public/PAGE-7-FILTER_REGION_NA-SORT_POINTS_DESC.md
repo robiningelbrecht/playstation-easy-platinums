@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15655-quick-mafs-advanced"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15655.png"
+                            alt="Quick Mafs Advanced" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15655-quick-mafs-advanced">Quick Mafs Advanced</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15638-quick-mafs-advanced"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15638.png"
+                            alt="Quick Mafs Advanced" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15638-quick-mafs-advanced">Quick Mafs Advanced</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14729-quick-mafs"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14729.png"
+                            alt="Quick Mafs" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14729-quick-mafs">Quick Mafs</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/14702-quick-mafs"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14702.png"
                             alt="Quick Mafs" width="60"></a></td>
@@ -76,12 +124,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18918-pretty-bird-7"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18918.png"
+            <td><a href="https://psnprofiles.com/trophies/18920-pretty-bird-7"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18920.png"
                             alt="Pretty Bird 7" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18918-pretty-bird-7">Pretty Bird 7</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/18920-pretty-bird-7">Pretty Bird 7</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -92,12 +140,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18920-pretty-bird-7"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18920.png"
+            <td><a href="https://psnprofiles.com/trophies/18918-pretty-bird-7"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18918.png"
                             alt="Pretty Bird 7" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18920-pretty-bird-7">Pretty Bird 7</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/18918-pretty-bird-7">Pretty Bird 7</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.49</td>
@@ -284,12 +332,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17007-frogo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17007.png"
+            <td><a href="https://psnprofiles.com/trophies/17009-frogo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17009.png"
                             alt="Frogo" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17007-frogo">Frogo</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17009-frogo">Frogo</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$0.99</td>
@@ -300,12 +348,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17009-frogo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17009.png"
+            <td><a href="https://psnprofiles.com/trophies/17007-frogo"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17007.png"
                             alt="Frogo" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17009-frogo">Frogo</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17007-frogo">Frogo</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$0.99</td>
@@ -444,12 +492,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19550.png"
+            <td><a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19553.png"
                             alt="Caravan Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro">Caravan Journey: Nitro</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro">Caravan Journey: Nitro</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -460,12 +508,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19553.png"
+            <td><a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19550.png"
                             alt="Caravan Journey: Nitro" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/19553-caravan-journey-nitro">Caravan Journey: Nitro</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/19550-caravan-journey-nitro">Caravan Journey: Nitro</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$2.99</td>
@@ -489,6 +537,22 @@
             <td align="center">10</td>
             <td align="center">4</td>
             <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23997-alien-returns"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23997.png"
+                            alt="Alien Returns" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23997-alien-returns">Alien Returns</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
             <tr>
@@ -1036,12 +1100,12 @@
             <td align="center">1335</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17258-rainbow-mix"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17258.png"
+            <td><a href="https://psnprofiles.com/trophies/17275-rainbow-mix"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17275.png"
                             alt="Rainbow Mix" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17258-rainbow-mix">Rainbow Mix</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17275-rainbow-mix">Rainbow Mix</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1052,12 +1116,12 @@
             <td align="center">1335</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/17275-rainbow-mix"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17275.png"
+            <td><a href="https://psnprofiles.com/trophies/17258-rainbow-mix"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17258.png"
                             alt="Rainbow Mix" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/17275-rainbow-mix">Rainbow Mix</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/17258-rainbow-mix">Rainbow Mix</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1577,70 +1641,6 @@
             <td align="center">8</td>
             <td align="center">8</td>
             <td align="center">4</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13263-mighty-aphid"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13263.png"
-                            alt="Mighty Aphid" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13263-mighty-aphid">Mighty Aphid</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">36 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15191-kinduo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15191.png"
-                            alt="Kinduo" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15191-kinduo">Kinduo</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">36 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14608-gynoug"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14608.png"
-                            alt="Gynoug" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14608-gynoug">Gynoug</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">36 min</td>
-            <td align="center">$4.88</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14603-gynoug"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14603.png"
-                            alt="Gynoug" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14603-gynoug">Gynoug</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">36 min</td>
-            <td align="center">$4.88</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
             <td align="center">1320</td>
         </tr>
         </tbody>

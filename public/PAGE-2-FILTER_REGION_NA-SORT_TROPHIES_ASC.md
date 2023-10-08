@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/22665-neko-secret-homecoming-light"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22665.png"
+                            alt="Neko Secret Homecoming Light" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22665-neko-secret-homecoming-light">Neko Secret Homecoming Light</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/12640-football-breakthrough-gaming-arcade"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12640.png"
                             alt="Football: Breakthrough Gaming Arcade" width="60"></a></td>
@@ -389,6 +405,22 @@
             </td>
             <td align="center">12 min</td>
             <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23922-age-of-sokoban"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23922.png"
+                            alt="Age of Sokoban" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23922-age-of-sokoban">Age of Sokoban</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$1.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>
@@ -1601,38 +1633,6 @@
                             alt="Space 2 (3 Player Cooperation Edition): Breakthrough Gaming Arcade" width="60"></a></td>
             <td>
                 <a href="https://psnprofiles.com/trophies/16416-space-2-3-player-cooperation-edition-breakthrough-gaming-arcade">Space 2 (3 Player Cooperation Editi...</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14386-sakura-nova"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14386.png"
-                            alt="Sakura Nova" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14386-sakura-nova">Sakura Nova</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">$11.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17001-pinball-machine-1-our-church-and-halloween-rpg"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17001.png"
-                            alt="Pinball (Machine #1): Our Church and Halloween RPG" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17001-pinball-machine-1-our-church-and-halloween-rpg">Pinball (Machine #1): Our Church an...</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">5 min</td>

@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23470-colorful-boi"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23470.png"
+                            alt="Colorful Boi" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23470-colorful-boi">Colorful Boi</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">34</td>
+            <td align="center">6</td>
+            <td align="center">7</td>
+            <td align="center">20</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/19352-classic-journey-nitro"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19352.png"
                             alt="Classic Journey: Nitro" width="60"></a></td>
@@ -249,6 +265,38 @@
             <td align="center">10</td>
             <td align="center">4</td>
             <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23995-alien-returns"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23995.png"
+                            alt="Alien Returns" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23995-alien-returns">Alien Returns</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23997-alien-returns"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23997.png"
+                            alt="Alien Returns" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23997-alien-returns">Alien Returns</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">1 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
             <tr>
@@ -1589,54 +1637,6 @@
             </td>
             <td align="center">44 min</td>
             <td align="center">$3.59</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12999-gutwhale"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12999.png"
-                            alt="Gutwhale" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12999-gutwhale">Gutwhale</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">44 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13530-bishoujo-battle-mahjong-solitaire"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13530.png"
-                            alt="Bishoujo Battle Mahjong Solitaire" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13530-bishoujo-battle-mahjong-solitaire">Bishoujo Battle Mahjong Solitaire</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">44 min</td>
-            <td align="center">$3.59</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22966-super-box-delivery-beyond-the-horizon"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22966.png"
-                            alt="Super Box Delivery: Beyond the Horizon" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22966-super-box-delivery-beyond-the-horizon">Super Box Delivery: Beyond the Hori...</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">43 min</td>
-            <td align="center">€4.99</td>
             <td align="center">13</td>
             <td align="center">11</td>
             <td align="center">1</td>

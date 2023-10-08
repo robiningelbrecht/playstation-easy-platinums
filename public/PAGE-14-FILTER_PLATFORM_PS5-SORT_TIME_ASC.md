@@ -44,6 +44,86 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/15090-ravva-and-the-cyclops-curse"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15090.png"
+                            alt="Ravva and the Cyclops Curse" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15090-ravva-and-the-cyclops-curse">Ravva and the Cyclops Curse</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20034-raptor-boyfriend-a-high-school-romance"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20034.png"
+                            alt="Raptor Boyfriend: A High School Romance" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20034-raptor-boyfriend-a-high-school-romance">Raptor Boyfriend: A High School Rom...</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center"></td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13920-poker-pretty-girls-battle-texas-holdem"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13920.png"
+                            alt="Poker Pretty Girls Battle: Texas Hold&#039;em" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13920-poker-pretty-girls-battle-texas-holdem">Poker Pretty Girls Battle: Texas Ho...</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13918-poker-pretty-girls-battle-texas-holdem"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13918.png"
+                            alt="Poker Pretty Girls Battle: Texas Hold&#039;em" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13918-poker-pretty-girls-battle-texas-holdem">Poker Pretty Girls Battle: Texas Ho...</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/18949-oktoberfest-break-head-to-head"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18949.png"
+                            alt="Oktoberfest Break Head to Head" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/18949-oktoberfest-break-head-to-head">Oktoberfest Break Head to Head</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">41</td>
+            <td align="center">4</td>
+            <td align="center">8</td>
+            <td align="center">28</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/21916-light-of-life"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21916.png"
                             alt="Light of Life" width="60"></a></td>
@@ -394,6 +474,22 @@
             <td align="center">0</td>
             <td align="center">0</td>
             <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23828-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23828.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23828-sokolab">Sokolab</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/13157-sables-grimoire"><img
@@ -1546,102 +1642,6 @@
             <td align="center">14</td>
             <td align="center">0</td>
             <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16752-square-keeper"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16752.png"
-                            alt="Square Keeper" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16752-square-keeper">Square Keeper</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19501-slimes-journey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19501.png"
-                            alt="Slime&#039;s Journey" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19501-slimes-journey">Slime&#039;s Journey</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/22948-shadow-samurai-revenge"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22948.png"
-                            alt="Shadow Samurai Revenge" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22948-shadow-samurai-revenge">Shadow Samurai Revenge</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">$3.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21168-seven-doors"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21168.png"
-                            alt="Seven Doors" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21168-seven-doors">Seven Doors</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">18</td>
-            <td align="center">9</td>
-            <td align="center">8</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13703-rogue-explorer"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13703.png"
-                            alt="Rogue Explorer" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13703-rogue-explorer">Rogue Explorer</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18558-pretty-girls-escape"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18558.png"
-                            alt="Pretty Girls Escape" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18558-pretty-girls-escape">Pretty Girls Escape</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">21 min</td>
-            <td align="center">$5.99</td>
-            <td align="center">25</td>
-            <td align="center">7</td>
-            <td align="center">10</td>
-            <td align="center">7</td>
-            <td align="center">1335</td>
         </tr>
         </tbody>
 </table>

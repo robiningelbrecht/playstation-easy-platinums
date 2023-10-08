@@ -44,6 +44,166 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/22269-hidden-bunny"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22269.png"
+                            alt="Hidden Bunny" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22269-hidden-bunny">Hidden Bunny</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">46</td>
+            <td align="center">1</td>
+            <td align="center">20</td>
+            <td align="center">24</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22271-hidden-bunny"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22271.png"
+                            alt="Hidden Bunny" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22271-hidden-bunny">Hidden Bunny</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">46</td>
+            <td align="center">1</td>
+            <td align="center">20</td>
+            <td align="center">24</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22262-cyber-citizen-shockman"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22262.png"
+                            alt="Cyber Citizen Shockman" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22262-cyber-citizen-shockman">Cyber Citizen Shockman</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">5</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22279-infini"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22279.png"
+                            alt="Infini" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22279-infini">Infini</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">16 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22231-under-the-warehouse"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22231.png"
+                            alt="Under the Warehouse" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22231-under-the-warehouse">Under the Warehouse</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22195-cubic-figures"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22195.png"
+                            alt="Cubic Figures" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22195-cubic-figures">Cubic Figures</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22193-cubic-figures"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22193.png"
+                            alt="Cubic Figures" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22193-cubic-figures">Cubic Figures</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22194-cubic-figures"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22194.png"
+                            alt="Cubic Figures" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22194-cubic-figures">Cubic Figures</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">13 min</td>
+            <td align="center">€3.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22192-cubic-figures"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22192.png"
+                            alt="Cubic Figures" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22192-cubic-figures">Cubic Figures</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">12 min</td>
+            <td align="center">$3.99</td>
+            <td align="center">16</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22216-descending"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22216.png"
+                            alt="Descending" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22216-descending">Descending</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">4 min</td>
+            <td align="center">€1.49</td>
+            <td align="center">36</td>
+            <td align="center">0</td>
+            <td align="center">35</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/22217-descending"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22217.png"
                             alt="Descending" width="60"></a></td>
@@ -76,22 +236,6 @@
             <td align="center">1305</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/22227-little-disaster"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22227.png"
-                            alt="Little Disaster" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/22227-little-disaster">Little Disaster</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">€4.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/22226-little-disaster"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22226.png"
                             alt="Little Disaster" width="60"></a></td>
@@ -101,6 +245,22 @@
             </td>
             <td align="center">3 min</td>
             <td align="center">$4.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22227-little-disaster"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22227.png"
+                            alt="Little Disaster" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22227-little-disaster">Little Disaster</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">3 min</td>
+            <td align="center">€4.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
             <td align="center">0</td>
@@ -1481,166 +1641,6 @@
             <td align="center">11</td>
             <td align="center">2</td>
             <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21497-alpha-warrior"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21497.png"
-                            alt="Alpha Warrior" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21497-alpha-warrior">Alpha Warrior</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21557-quiz-thiz-germany-silver-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21557.png"
-                            alt="Quiz Thiz Germany: Silver Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21557-quiz-thiz-germany-silver-edition">Quiz Thiz Germany: Silver Edition</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">36</td>
-            <td align="center">0</td>
-            <td align="center">35</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21490-alpha-warrior"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21490.png"
-                            alt="Alpha Warrior" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21490-alpha-warrior">Alpha Warrior</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">12</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21434-sister"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21434.png"
-                            alt="Sister" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21434-sister">Sister</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$0.99</td>
-            <td align="center">37</td>
-            <td align="center">1</td>
-            <td align="center">29</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21432-sister"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21432.png"
-                            alt="Sister" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21432-sister">Sister</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€0.99</td>
-            <td align="center">37</td>
-            <td align="center">1</td>
-            <td align="center">29</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21513-quiz-thiz-germany-bronze-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21513.png"
-                            alt="Quiz Thiz Germany: Bronze Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21513-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">1 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21528-learn-the-letters"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21528.png"
-                            alt="Learn the Letters" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21528-learn-the-letters">Learn the Letters</a>
-                <kbd>PS5 • AS</kbd>
-            </td>
-            <td align="center">4 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21498-learn-the-letters"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21498.png"
-                            alt="Learn the Letters" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21498-learn-the-letters">Learn the Letters</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€1.49</td>
-            <td align="center">34</td>
-            <td align="center">1</td>
-            <td align="center">32</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21512-quiz-thiz-germany-bronze-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21512.png"
-                            alt="Quiz Thiz Germany: Bronze Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21512-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">€2.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/21516-quiz-thiz-germany-bronze-edition"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21516.png"
-                            alt="Quiz Thiz Germany: Bronze Edition" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/21516-quiz-thiz-germany-bronze-edition">Quiz Thiz Germany: Bronze Edition</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$2.49</td>
-            <td align="center">71</td>
-            <td align="center">0</td>
-            <td align="center">0</td>
-            <td align="center">70</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

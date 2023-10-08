@@ -44,6 +44,54 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/22685-cate-p"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22685.png"
+                            alt="Cate P" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22685-cate-p">Cate P</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">6 min</td>
+            <td align="center">$0.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/12055-cattch"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12055.png"
+                            alt="Cattch" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/12055-cattch">Cattch</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">28 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">19</td>
+            <td align="center">9</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14246-catty-batty-the-spirit-guide"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14246.png"
+                            alt="Catty &amp; Batty: The Spirit Guide" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14246-catty-batty-the-spirit-guide">Catty &amp; Batty: The Spirit Guide</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">42 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">1335</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13968-catty-batty-the-spirit-guide"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13968.png"
                             alt="Catty &amp; Batty: The Spirit Guide" width="60"></a></td>
@@ -924,6 +972,22 @@
             <td align="center">1320</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23850-cyber-citizen-shockman-2-a-new-menace"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23850.png"
+                            alt="Cyber Citizen Shockman 2: A New Menace" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23850-cyber-citizen-shockman-2-a-new-menace">Cyber Citizen Shockman 2: A New Men...</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">26 min</td>
+            <td align="center"></td>
+            <td align="center">17</td>
+            <td align="center">10</td>
+            <td align="center">4</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/16807-cyber-engine"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16807.png"
                             alt="Cyber Engine" width="60"></a></td>
@@ -1578,70 +1642,6 @@
             <td align="center">7</td>
             <td align="center">26</td>
             <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11447-donut-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11447.png"
-                            alt="Donut Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11447-donut-break">Donut Break</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">37 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">38</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">26</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16264-donut-break-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16264.png"
-                            alt="Donut Break 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16264-donut-break-2">Donut Break 2</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">38</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">26</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14071-donut-break-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14071.png"
-                            alt="Donut Break 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14071-donut-break-2">Donut Break 2</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">38</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">26</td>
-            <td align="center">1260</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14227-donut-break-2-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14227.png"
-                            alt="Donut Break 2 Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14227-donut-break-2-head-to-head">Donut Break 2 Head to Head</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">15 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">41</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">28</td>
-            <td align="center">1320</td>
         </tr>
         </tbody>
 </table>

@@ -12,7 +12,7 @@
 </p>
 
 ------
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 <kbd>Region</kbd> : <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_TROPHIES_DESC.md">All</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_AS-SORT_TROPHIES_DESC.md">AS</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_CN-SORT_TROPHIES_DESC.md">CN</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_EU-SORT_TROPHIES_DESC.md">EU</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_HK-SORT_TROPHIES_DESC.md">HK</a></kbd> | <kbd>JP</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_KR-SORT_TROPHIES_DESC.md">KR</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_NA-SORT_TROPHIES_DESC.md">NA</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_RR-SORT_TROPHIES_DESC.md">RR</a></kbd>
                                                                                                                                                                                             
 <kbd>Platform</kbd> : <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-SORT_TROPHIES_DESC.md">All</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_PLATFORM_PS4-SORT_TROPHIES_DESC.md">PS4</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_PLATFORM_PS5-SORT_TROPHIES_DESC.md">PS5</a></kbd>
@@ -20,7 +20,7 @@
 ------
 
 <p align="center">
-    <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">1</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">2</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-3-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">3</a></kbd> | <kbd>4</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-5-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">5</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">6</a></kbd>
+    <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">1</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">2</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-3-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">3</a></kbd> | <kbd>4</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-5-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">5</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">6</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-7-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">7</a></kbd>
 </p>
 
 <table>
@@ -108,12 +108,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18819-dirt-journey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18819.png"
+            <td><a href="https://psnprofiles.com/trophies/18820-dirt-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18820.png"
                             alt="Dirt Journey" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18819-dirt-journey">Dirt Journey</a>
-                <kbd>PS4 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/18820-dirt-journey">Dirt Journey</a>
+                <kbd>PS5 • JP</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -124,12 +124,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/18820-dirt-journey"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18820.png"
+            <td><a href="https://psnprofiles.com/trophies/18819-dirt-journey"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18819.png"
                             alt="Dirt Journey" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/18820-dirt-journey">Dirt Journey</a>
-                <kbd>PS5 • JP</kbd>
+                <a href="https://psnprofiles.com/trophies/18819-dirt-journey">Dirt Journey</a>
+                <kbd>PS4 • JP</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center">$1.49</td>
@@ -1532,6 +1532,38 @@
             <td align="center">1260</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23828-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23828.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23828-sokolab">Sokolab</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23947-sokolab"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23947.png"
+                            alt="Sokolab" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23947-sokolab">Sokolab</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">17 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">18</td>
+            <td align="center">8</td>
+            <td align="center">7</td>
+            <td align="center">2</td>
+            <td align="center">1260</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/10151-はつゆきさくら"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/10151.png"
                             alt="はつゆきさくら" width="60"></a></td>
@@ -1611,40 +1643,8 @@
             <td align="center">2</td>
             <td align="center">1350</td>
         </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17486-tump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17486.png"
-                            alt="Tump Jump" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17486-tump-jump">Tump Jump</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17485-tump-jump"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17485.png"
-                            alt="Tump Jump" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17485-tump-jump">Tump Jump</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">2 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">17</td>
-            <td align="center">10</td>
-            <td align="center">4</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
         </tbody>
 </table>
 <p align="center">
-    <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">1</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">2</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-3-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">3</a></kbd> | <kbd>4</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-5-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">5</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">6</a></kbd>
+    <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-1-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">1</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-2-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">2</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-3-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">3</a></kbd> | <kbd>4</kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-5-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">5</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-6-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">6</a></kbd> | <kbd><a href="https://github.com/robiningelbrecht/playstation-easy-platinums/blob/master/public/PAGE-7-FILTER_REGION_JP-SORT_TROPHIES_DESC.md">7</a></kbd>
 </p>

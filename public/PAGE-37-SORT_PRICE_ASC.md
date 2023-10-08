@@ -44,6 +44,246 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/17432-pretty-girls-four-kings-solitaire"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17432.png"
+                            alt="Pretty Girls: Four Kings Solitaire" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17432-pretty-girls-four-kings-solitaire">Pretty Girls: Four Kings Solitaire</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">52 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17444-pretty-girls-four-kings-solitaire"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17444.png"
+                            alt="Pretty Girls: Four Kings Solitaire" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17444-pretty-girls-four-kings-solitaire">Pretty Girls: Four Kings Solitaire</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">49 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17545-pretty-girls-four-kings-solitaire"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17545.png"
+                            alt="Pretty Girls: Four Kings Solitaire" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17545-pretty-girls-four-kings-solitaire">Pretty Girls: Four Kings Solitaire</a>
+                <kbd>PS4 • JP</kbd>
+            </td>
+            <td align="center">48 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21467-the-guise"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21467.png"
+                            alt="The Guise" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21467-the-guise">The Guise</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">47 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/17431-pretty-girls-four-kings-solitaire"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17431.png"
+                            alt="Pretty Girls: Four Kings Solitaire" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/17431-pretty-girls-four-kings-solitaire">Pretty Girls: Four Kings Solitaire</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">46 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23271-acceptance"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23271.png"
+                            alt="Acceptance" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23271-acceptance">Acceptance</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">41 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23272-acceptance"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23272.png"
+                            alt="Acceptance" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23272-acceptance">Acceptance</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">38 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/8448-storm-boy"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/8448.png"
+                            alt="Storm Boy" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/8448-storm-boy">Storm Boy</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">37 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/21466-the-guise"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21466.png"
+                            alt="The Guise" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/21466-the-guise">The Guise</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/16632-a-winters-daydream"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16632.png"
+                            alt="A Winter&#039;s Daydream" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/16632-a-winters-daydream">A Winter&#039;s Daydream</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">34 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/20277-headbangers-in-holiday-hell"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20277.png"
+                            alt="Headbangers in Holiday Hell" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/20277-headbangers-in-holiday-hell">Headbangers in Holiday Hell</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">33 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23270-acceptance"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23270.png"
+                            alt="Acceptance" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23270-acceptance">Acceptance</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">30 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13654-whiskey-mafia-franks-story"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13654.png"
+                            alt="Whiskey Mafia: Frank&#039;s Story" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13654-whiskey-mafia-franks-story">Whiskey Mafia: Frank&#039;s Story</a>
+                <kbd>PS4 • EU</kbd>
+            </td>
+            <td align="center">28 min</td>
+            <td align="center">€5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/23273-acceptance"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23273.png"
+                            alt="Acceptance" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23273-acceptance">Acceptance</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">28 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/13660-whiskey-mafia-franks-story"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13660.png"
+                            alt="Whiskey Mafia: Frank&#039;s Story" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13660-whiskey-mafia-franks-story">Whiskey Mafia: Frank&#039;s Story</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">24 min</td>
+            <td align="center">$5.99</td>
+            <td align="center">12</td>
+            <td align="center">11</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">1290</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/20289-headbangers-in-holiday-hell"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20289.png"
                             alt="Headbangers in Holiday Hell" width="60"></a></td>
@@ -1401,246 +1641,6 @@
             <td align="center">4</td>
             <td align="center">7</td>
             <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13607-pizza-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13607.png"
-                            alt="Pizza Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13607-pizza-break-head-to-head">Pizza Break Head to Head</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/12681-easter-candy-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/12681.png"
-                            alt="Easter Candy Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/12681-easter-candy-break-head-to-head">Easter Candy Break Head to Head</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">11 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17185-pizza-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17185.png"
-                            alt="Pizza Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17185-pizza-break-head-to-head">Pizza Break Head to Head</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13152-independence-day-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13152.png"
-                            alt="Independence Day Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13152-independence-day-break-head-to-head">Independence Day Break Head to Head</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/11961-halloween-candy-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/11961.png"
-                            alt="Halloween Candy Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/11961-halloween-candy-break-head-to-head">Halloween Candy Break Head to Head</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13036-dragon-break-classic-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13036.png"
-                            alt="Dragon Break Classic Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13036-dragon-break-classic-head-to-head">Dragon Break Classic Head to Head</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">10 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17186-pizza-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17186.png"
-                            alt="Pizza Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17186-pizza-break-head-to-head">Pizza Break Head to Head</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13611-pizza-break-head-to-head"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13611.png"
-                            alt="Pizza Break Head to Head" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13611-pizza-break-head-to-head">Pizza Break Head to Head</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">9 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">40</td>
-            <td align="center">4</td>
-            <td align="center">7</td>
-            <td align="center">28</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17801-oktoberfest-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17801.png"
-                            alt="Oktoberfest Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17801-oktoberfest-break">Oktoberfest Break</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17800-oktoberfest-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17800.png"
-                            alt="Oktoberfest Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17800-oktoberfest-break">Oktoberfest Break</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">34 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16389-burger-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16389.png"
-                            alt="Burger Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16389-burger-break">Burger Break</a>
-                <kbd>PS4 • JP</kbd>
-            </td>
-            <td align="center">31 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/19245-cat-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/19245.png"
-                            alt="Cat Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/19245-cat-break">Cat Break</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">19 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15291-valentine-candy-break-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15291.png"
-                            alt="Valentine Candy Break 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15291-valentine-candy-break-2">Valentine Candy Break 2</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15765-burger-break"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15765.png"
-                            alt="Burger Break" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15765-burger-break">Burger Break</a>
-                <kbd>PS4 • EU</kbd>
-            </td>
-            <td align="center">16 min</td>
-            <td align="center">€6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
-            <td align="center">1290</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/14179-halloween-candy-break-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14179.png"
-                            alt="Halloween Candy Break 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/14179-halloween-candy-break-2">Halloween Candy Break 2</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">14 min</td>
-            <td align="center">$6.99</td>
-            <td align="center">39</td>
-            <td align="center">4</td>
-            <td align="center">8</td>
-            <td align="center">26</td>
             <td align="center">1290</td>
         </tr>
         </tbody>

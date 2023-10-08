@@ -44,6 +44,118 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/14363-lucid-cycle"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14363.png"
+                            alt="Lucid Cycle" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14363-lucid-cycle">Lucid Cycle</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">47 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14362-lucid-cycle"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14362.png"
+                            alt="Lucid Cycle" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14362-lucid-cycle">Lucid Cycle</a>
+                <kbd>PS5 • AS</kbd>
+            </td>
+            <td align="center">47 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/14360-lucid-cycle"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/14360.png"
+                            alt="Lucid Cycle" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/14360-lucid-cycle">Lucid Cycle</a>
+                <kbd>PS5 • JP</kbd>
+            </td>
+            <td align="center">45 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22316-torinto"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22316.png"
+                            alt="Torinto" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22316-torinto">Torinto</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">36 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15741-royal-frontier"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15741.png"
+                            alt="Royal Frontier" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15741-royal-frontier">Royal Frontier</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/15742-royal-frontier"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15742.png"
+                            alt="Royal Frontier" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/15742-royal-frontier">Royal Frontier</a>
+                <kbd>PS5 • EU</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">€6.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/22914-otoko-cross-pretty-boys-breakup"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/22914.png"
+                            alt="Otoko Cross: Pretty Boys Breakup!" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/22914-otoko-cross-pretty-boys-breakup">Otoko Cross: Pretty Boys Breakup!</a>
+                <kbd>PS5</kbd>
+            </td>
+            <td align="center">15 min</td>
+            <td align="center">$6.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/23444-otoko-cross-pretty-boys-dropout"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23444.png"
                             alt="Otoko Cross: Pretty Boys Dropout!" width="60"></a></td>
@@ -1529,118 +1641,6 @@
             <td align="center">11</td>
             <td align="center">0</td>
             <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/13691-rogue-explorer"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13691.png"
-                            alt="Rogue Explorer" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/13691-rogue-explorer">Rogue Explorer</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">17 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/15195-jack-n-hat"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/15195.png"
-                            alt="Jack &#039;n&#039; Hat" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/15195-jack-n-hat">Jack &#039;n&#039; Hat</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">17 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">16</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18414-sakura-mmo-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18414.png"
-                            alt="Sakura MMO 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18414-sakura-mmo-2">Sakura MMO 2</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">8 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">16</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18410-サクラmmo２-明かされし事実"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18410.png"
-                            alt="サクラ・MMO２ ～明かされし事実～" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18410-サクラmmo２-明かされし事実">サクラ・MMO２ ～明かされし事実～</a>
-                <kbd>PS5 • JP</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">16</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/18416-sakura-mmo-2"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/18416.png"
-                            alt="Sakura MMO 2" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/18416-sakura-mmo-2">Sakura MMO 2</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">16</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/17466-sakura-mmo"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/17466.png"
-                            alt="Sakura MMO" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/17466-sakura-mmo">Sakura MMO</a>
-                <kbd>PS5</kbd>
-            </td>
-            <td align="center">6 min</td>
-            <td align="center">$7.99</td>
-            <td align="center">16</td>
-            <td align="center">11</td>
-            <td align="center">0</td>
-            <td align="center">4</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/23937-sakura-mmo-extra"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23937.png"
-                            alt="Sakura MMO Extra" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/23937-sakura-mmo-extra">Sakura MMO Extra</a>
-                <kbd>PS5 • EU</kbd>
-            </td>
-            <td align="center">5 min</td>
-            <td align="center">€7.99</td>
-            <td align="center">16</td>
-            <td align="center">10</td>
-            <td align="center">5</td>
-            <td align="center">0</td>
             <td align="center">1350</td>
         </tr>
         </tbody>

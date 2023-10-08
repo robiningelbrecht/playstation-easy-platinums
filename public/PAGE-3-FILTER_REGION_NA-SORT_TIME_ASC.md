@@ -44,6 +44,22 @@
     </thead>
     <tbody>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/13709-sakura-succubus-4"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13709.png"
+                            alt="Sakura Succubus 4" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/13709-sakura-succubus-4">Sakura Succubus 4</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$9.99</td>
+            <td align="center">15</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/13254-sakura-succubus-3"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/13254.png"
                             alt="Sakura Succubus 3" width="60"></a></td>
@@ -188,12 +204,12 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21378-quiz-thiz-italy"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21378.png"
+            <td><a href="https://psnprofiles.com/trophies/21377-quiz-thiz-italy"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21377.png"
                             alt="Quiz Thiz Italy" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21378-quiz-thiz-italy">Quiz Thiz Italy</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/21377-quiz-thiz-italy">Quiz Thiz Italy</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$2.49</td>
@@ -204,12 +220,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/21377-quiz-thiz-italy"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21377.png"
+            <td><a href="https://psnprofiles.com/trophies/21378-quiz-thiz-italy"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/21378.png"
                             alt="Quiz Thiz Italy" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/21377-quiz-thiz-italy">Quiz Thiz Italy</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/21378-quiz-thiz-italy">Quiz Thiz Italy</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">2 min</td>
             <td align="center">$2.49</td>
@@ -972,6 +988,22 @@
             <td align="center">1290</td>
         </tr>
             <tr>
+            <td><a href="https://psnprofiles.com/trophies/23998-alien-returns"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/23998.png"
+                            alt="Alien Returns" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/23998-alien-returns">Alien Returns</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">2 min</td>
+            <td align="center">$1.49</td>
+            <td align="center">34</td>
+            <td align="center">1</td>
+            <td align="center">32</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
             <td><a href="https://psnprofiles.com/trophies/20173-aery-path-of-corruption"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20173.png"
                             alt="Aery: Path of Corruption" width="60"></a></td>
@@ -1564,22 +1596,6 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/20327-the-jumping-onigiri"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20327.png"
-                            alt="The Jumping Onigiri" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/20327-the-jumping-onigiri">The Jumping Onigiri</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/20784-the-jumping-onigiri"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20784.png"
                             alt="The Jumping Onigiri" width="60"></a></td>
@@ -1596,27 +1612,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16724-the-jumping-hot-dog"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16724.png"
-                            alt="The Jumping Hot Dog" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/20327-the-jumping-onigiri"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/20327.png"
+                            alt="The Jumping Onigiri" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16724-the-jumping-hot-dog">The Jumping Hot Dog</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">3 min</td>
-            <td align="center">$1.49</td>
-            <td align="center">21</td>
-            <td align="center">9</td>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
-            <td><a href="https://psnprofiles.com/trophies/16622-the-jumping-hot-dog"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16622.png"
-                            alt="The Jumping Hot Dog" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/16622-the-jumping-hot-dog">The Jumping Hot Dog</a>
+                <a href="https://psnprofiles.com/trophies/20327-the-jumping-onigiri">The Jumping Onigiri</a>
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">3 min</td>
@@ -1628,11 +1628,11 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/16590-the-jumping-fries"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16590.png"
-                            alt="The Jumping Fries" width="60"></a></td>
+            <td><a href="https://psnprofiles.com/trophies/16724-the-jumping-hot-dog"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/16724.png"
+                            alt="The Jumping Hot Dog" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/16590-the-jumping-fries">The Jumping Fries</a>
+                <a href="https://psnprofiles.com/trophies/16724-the-jumping-hot-dog">The Jumping Hot Dog</a>
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">3 min</td>
