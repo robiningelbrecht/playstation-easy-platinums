@@ -484,7 +484,7 @@
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">22 min</td>
-            <td align="center"></td>
+            <td align="center">$4.99</td>
             <td align="center">13</td>
             <td align="center">11</td>
             <td align="center">1</td>
@@ -500,7 +500,7 @@
                 <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">18 min</td>
-            <td align="center"></td>
+            <td align="center">$4.99</td>
             <td align="center">13</td>
             <td align="center">11</td>
             <td align="center">1</td>
@@ -516,7 +516,7 @@
                 <kbd>PS4 • EU</kbd>
             </td>
             <td align="center">17 min</td>
-            <td align="center"></td>
+            <td align="center">€4.99</td>
             <td align="center">13</td>
             <td align="center">11</td>
             <td align="center">1</td>
@@ -532,7 +532,7 @@
                 <kbd>PS5 • EU</kbd>
             </td>
             <td align="center">18 min</td>
-            <td align="center"></td>
+            <td align="center">€4.99</td>
             <td align="center">13</td>
             <td align="center">11</td>
             <td align="center">1</td>
