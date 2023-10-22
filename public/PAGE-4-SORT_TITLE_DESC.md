@@ -100,7 +100,7 @@
                 <kbd>PS5</kbd>
             </td>
             <td align="center">9 min</td>
-            <td align="center"></td>
+            <td align="center">$4.19</td>
             <td align="center">16</td>
             <td align="center">10</td>
             <td align="center">1</td>
@@ -116,7 +116,7 @@
                 <kbd>PS4</kbd>
             </td>
             <td align="center">15 min</td>
-            <td align="center"></td>
+            <td align="center">$4.19</td>
             <td align="center">16</td>
             <td align="center">10</td>
             <td align="center">1</td>
