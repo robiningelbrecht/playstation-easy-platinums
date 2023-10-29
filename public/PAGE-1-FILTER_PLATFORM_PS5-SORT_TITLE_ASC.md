@@ -796,14 +796,14 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/24237-alive-paint"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/24237.png"
+            <td><a href="https://psnprofiles.com/trophies/24238-alive-paint"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/24238.png"
                             alt="Alive Paint" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/24237-alive-paint">Alive Paint</a>
+                <a href="https://psnprofiles.com/trophies/24238-alive-paint">Alive Paint</a>
                 <kbd>PS5</kbd>
             </td>
-            <td align="center">7 min</td>
+            <td align="center">8 min</td>
             <td align="center">$4.99</td>
             <td align="center">12</td>
             <td align="center">11</td>
