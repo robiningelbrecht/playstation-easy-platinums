@@ -492,11 +492,11 @@
             <td align="center">1335</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/24439-excessive-trim"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/24439.png"
+            <td><a href="https://psnprofiles.com/trophies/24440-excessive-trim"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/24440.png"
                             alt="Excessive Trim" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/24439-excessive-trim">Excessive Trim</a>
+                <a href="https://psnprofiles.com/trophies/24440-excessive-trim">Excessive Trim</a>
                 <kbd>PS5</kbd>
             </td>
             <td align="center">4 min</td>
