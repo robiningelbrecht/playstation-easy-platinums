@@ -908,22 +908,6 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/25218-santas-world"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25218.png"
-                            alt="Santa&#039;s World" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/25218-santas-world">Santa&#039;s World</a>
-                <kbd>PS4 • NA</kbd>
-            </td>
-            <td align="center">38 min</td>
-            <td align="center">$2.99</td>
-            <td align="center">14</td>
-            <td align="center">11</td>
-            <td align="center">2</td>
-            <td align="center">0</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/25126-cat-pipes"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25126.png"
                             alt="Cat Pipes" width="60"></a></td>
@@ -938,6 +922,22 @@
             <td align="center">11</td>
             <td align="center">2</td>
             <td align="center">1290</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/25218-santas-world"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25218.png"
+                            alt="Santa&#039;s World" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/25218-santas-world">Santa&#039;s World</a>
+                <kbd>PS4 • NA</kbd>
+            </td>
+            <td align="center">38 min</td>
+            <td align="center">$2.99</td>
+            <td align="center">14</td>
+            <td align="center">11</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">1350</td>
         </tr>
             <tr>
             <td><a href="https://psnprofiles.com/trophies/25178-cat-pipes"><img
@@ -1036,22 +1036,6 @@
             <td align="center">1290</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/25112-stickmans-arena"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25112.png"
-                            alt="Stickman&#039;s Arena" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/25112-stickmans-arena">Stickman&#039;s Arena</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">34 min</td>
-            <td align="center">$4.99</td>
-            <td align="center">21</td>
-            <td align="center">8</td>
-            <td align="center">10</td>
-            <td align="center">2</td>
-            <td align="center">1350</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/25116-stickmans-arena"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25116.png"
                             alt="Stickman&#039;s Arena" width="60"></a></td>
@@ -1060,6 +1044,22 @@
                 <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">50 min</td>
+            <td align="center">$4.99</td>
+            <td align="center">21</td>
+            <td align="center">8</td>
+            <td align="center">10</td>
+            <td align="center">2</td>
+            <td align="center">1350</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/25112-stickmans-arena"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25112.png"
+                            alt="Stickman&#039;s Arena" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/25112-stickmans-arena">Stickman&#039;s Arena</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">34 min</td>
             <td align="center">$4.99</td>
             <td align="center">21</td>
             <td align="center">8</td>
@@ -1308,12 +1308,12 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/25643-graveyard-girls"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25643.png"
+            <td><a href="https://psnprofiles.com/trophies/25641-graveyard-girls"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25641.png"
                             alt="Graveyard Girls" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/25643-graveyard-girls">Graveyard Girls</a>
-                <kbd>PS5 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/25641-graveyard-girls">Graveyard Girls</a>
+                <kbd>PS4 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center"></td>
@@ -1324,12 +1324,12 @@
             <td align="center">1350</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/25641-graveyard-girls"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25641.png"
+            <td><a href="https://psnprofiles.com/trophies/25643-graveyard-girls"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25643.png"
                             alt="Graveyard Girls" width="60"></a></td>
             <td>
-                <a href="https://psnprofiles.com/trophies/25641-graveyard-girls">Graveyard Girls</a>
-                <kbd>PS4 • NA</kbd>
+                <a href="https://psnprofiles.com/trophies/25643-graveyard-girls">Graveyard Girls</a>
+                <kbd>PS5 • NA</kbd>
             </td>
             <td align="center">1 min</td>
             <td align="center"></td>
@@ -1484,22 +1484,6 @@
             <td align="center">1320</td>
         </tr>
             <tr>
-            <td><a href="https://psnprofiles.com/trophies/25515-ramp-car-racing"><img
-                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25515.png"
-                            alt="Ramp Car Racing" width="60"></a></td>
-            <td>
-                <a href="https://psnprofiles.com/trophies/25515-ramp-car-racing">Ramp Car Racing</a>
-                <kbd>PS5 • NA</kbd>
-            </td>
-            <td align="center">18 min</td>
-            <td align="center">$1.99</td>
-            <td align="center">13</td>
-            <td align="center">11</td>
-            <td align="center">1</td>
-            <td align="center">0</td>
-            <td align="center">1320</td>
-        </tr>
-            <tr>
             <td><a href="https://psnprofiles.com/trophies/25418-death-motel"><img
                             src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25418.png"
                             alt="Death Motel" width="60"></a></td>
@@ -1513,6 +1497,22 @@
             <td align="center">8</td>
             <td align="center">8</td>
             <td align="center">4</td>
+            <td align="center">1320</td>
+        </tr>
+            <tr>
+            <td><a href="https://psnprofiles.com/trophies/25515-ramp-car-racing"><img
+                            src="https://github.com/robiningelbrecht/playstation-easy-platinums/raw/master/assets/thumbs/25515.png"
+                            alt="Ramp Car Racing" width="60"></a></td>
+            <td>
+                <a href="https://psnprofiles.com/trophies/25515-ramp-car-racing">Ramp Car Racing</a>
+                <kbd>PS5 • NA</kbd>
+            </td>
+            <td align="center">18 min</td>
+            <td align="center">$1.99</td>
+            <td align="center">13</td>
+            <td align="center">11</td>
+            <td align="center">1</td>
+            <td align="center">0</td>
             <td align="center">1320</td>
         </tr>
             <tr>
